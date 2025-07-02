@@ -180,6 +180,15 @@
     "publication_date": "2025-03-08"
   },
   {
+    "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
+    "author_list": "Lukumon Olaitan Lateef, Abdulwaheed Tella, John Rowen Miano, Yusuf A. Aina",
+    "journal_title": "Land Use Policy",
+    "source_title": "Land Use Policy",
+    "doi": "10.1016/j.landusepol.2025.107673",
+    "short_abstract": "Armed conflicts are potent drivers of land use and land cover (LULC) change, yet little is known about how conflict intensity shapes land use, population displacement, and socioeconomic shifts in Nige",
+    "publication_date": "2025-10"
+  },
+  {
     "title": "A Multi-model approach for remote sensing-based actual evapotranspiration mapping using Google Earth Engine (ETMapper-GEE)",
     "author_list": "Abdelrazek Elnashar, Shahab Aldin Shojaeezadeh, Tobias Karl David Weber",
     "journal_title": "Journal of Hydrology",
@@ -306,15 +315,6 @@
     "publication_date": "2023-09-13"
   },
   {
-    "title": "Automating global landslide detection with heterogeneous ensemble deep-learning classification",
-    "author_list": "Alexandra Jarna Ganerød, Gabriele Franch, Erin Lindsay, Martina Calovi",
-    "journal_title": "arXiv",
-    "source_title": "arXiv",
-    "doi": "10.48550/arxiv.2310.05959",
-    "short_abstract": "With changing climatic conditions, we are already seeing an increase in\nextreme weather events and their secondary consequences, including landslides.\nLandslides threaten infrastructure, including roa",
-    "publication_date": "2023-09-12"
-  },
-  {
     "title": "The May 2024 Flood Disaster in Southern Brazil: Causes, Impacts, and SWOT‐Based Volume Estimation",
     "author_list": "Iury T. Simoes‐Sousa, Carolina M. L. Camargo, Juliana Tavora, Agata Piffer‐Braga, J. Thomas Farrar, Tamlin M. Pavelsky",
     "journal_title": "Geophysical Research Letters",
@@ -429,15 +429,6 @@
     "source_title": "Journal of Archaeological Science Reports",
     "doi": "10.1016/j.jasrep.2023.104094",
     "short_abstract": "A wealth of remotely sensed data has accumulated over the past several decades and now constitutes an analytical resource primed for archaeological applications. To date, remotely sensed big data (RSB",
-    "publication_date": "2023-08"
-  },
-  {
-    "title": "Plant canopies exhibit stronger thermoregulation capability at the seasonal than diurnal timescales",
-    "author_list": "Zhengfei Guo, Kun Zhang, Hua Lin, Bartosz M. Majcher, Calvin K.F. Lee, Christopher J. Still, Jin Wu",
-    "journal_title": "Agricultural and Forest Meteorology",
-    "source_title": "Agricultural and Forest Meteorology",
-    "doi": "10.1016/j.agrformet.2023.109582",
-    "short_abstract": "Plant canopy temperature (T c) plays a crucial role in regulating plant growth and metabolism. Although dominant controls on T c are observed to differ across timescales, whether this would cause diff",
     "publication_date": "2023-08"
   },
   {
