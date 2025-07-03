@@ -9,6 +9,177 @@
     "publication_date": "2025-05-28"
   },
   {
+    "title": "Post-fire spectral recovery and driving factors across the boreal and temperate forests",
+    "author_list": "Li Kai Li, Zhihua Liu, Wenru Xu, Wenjuan Wang, Jiajia Su, Qiushuang Lv, Wenhua Guo, Marie Johnson",
+    "journal_title": "Philosophical Transactions of the Royal Society B Biological Sciences",
+    "source_title": "Philosophical Transactions of the Royal Society B Biological Sciences",
+    "doi": "10.1098/rstb.2023.0453",
+    "short_abstract": "Increasingly frequent and severe forest fires, exacerbated by warmer and drier conditions, significantly affect forest ecosystems. Understanding the dynamics of post-fire forest recovery is crucial fo",
+    "publication_date": "2025-04"
+  },
+  {
+    "title": "Inequality in infrastructure access and its association with health disparities",
+    "author_list": "Ying Tu, Bin Chen, Chuan Liao, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, Bin Chen, Hong Wei, Bing Xu",
+    "journal_title": "Nature Human Behaviour",
+    "source_title": "Nature Human Behaviour",
+    "doi": "10.1038/s41562-025-02208-3",
+    "short_abstract": "Economic, social and environmental infrastructure forms a fundamental pillar of societal development. Ensuring equitable access to infrastructure for all residents is crucial for achieving the Sustain",
+    "publication_date": "2025-05-22"
+  },
+  {
+    "title": "Global extent and change in human modification of terrestrial ecosystems from 1990 to 2022",
+    "author_list": "David M. Theobald, James R. Oakleaf, Glenn Moncrieff, Maria Voigt, Joe Kiesecker, Christina M. Kennedy",
+    "journal_title": "Scientific Data",
+    "source_title": "Scientific Data",
+    "doi": "10.1038/s41597-025-04892-2",
+    "short_abstract": "Habitat loss and degradation associated with industrial development is the primary threat and dominant driver of biodiversity loss globally. Spatially-explicit datasets that estimate human pressures a",
+    "publication_date": "2025-04-10"
+  },
+  {
+    "title": "A comparison shopper’s guide to forest datasets",
+    "author_list": "Lucy G. Lee, Valerie J. Pasquarella, Benjamin Glass, Luca L. Morreale, Nina Chung, Xiaojie Gao, Jonathan R. Thompson",
+    "journal_title": "bioRxiv",
+    "source_title": "bioRxiv",
+    "doi": "10.1101/2025.06.02.657445",
+    "short_abstract": "Abstract Recent advances in remote sensing, data availability, and cloud-based computing have led to a rapid expansion of publicly accessible datasets characterizing forest cover and land use. These d",
+    "publication_date": "2025-06-06"
+  },
+  {
+    "title": "Direct and Indirect Impacts of Urbanization on Biodiversity Across the World’s Cities",
+    "author_list": "Naiyi Liu, Zihan Liu, Yunhe Wu",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs17060956",
+    "short_abstract": "Biodiversity has important implications for the sustainable development of cities. Given the paucity of ground-based experiments, the responses of biodiversity to urbanization and its associated contr",
+    "publication_date": "2025-03-08"
+  },
+  {
+    "title": "Critical zone controls on stream chemistry: Lessons from multiple machine learning methods and irregular data across large watersheds",
+    "author_list": "G.M. Goldrich-Middaugh, K. Johnson, L. Ma, M.A. Engle, S.W. Fleming, J.W. Ricketts, P.L. Sullivan",
+    "journal_title": "Journal of Hydrology",
+    "source_title": "Journal of Hydrology",
+    "doi": "10.1016/j.jhydrol.2025.133319",
+    "short_abstract": "Understanding surface water quality and managing river systems that span a variety of climatic, lithology, and land cover types requires regional data analysis approaches. At this scale, spatial and t",
+    "publication_date": "2025-10"
+  },
+  {
+    "title": "Challenges to the Sustainability of Urban Cultural Heritage in the Anthropocene: The Case of Suzhou, Yangtze River Delta, China",
+    "author_list": "Yong Huang, Michael Edward Meadows",
+    "journal_title": "Land",
+    "source_title": "Land",
+    "doi": "10.3390/land14040778",
+    "short_abstract": "Among the diverse challenges to the sustainability of China’s rich tangible cultural heritage, climate change, associated with increased temperatures, altered precipitation regimes, and the augmented",
+    "publication_date": "2025-04-04"
+  },
+  {
+    "title": "High‐Resolution National‐Scale Water Modeling Is Enhanced by Multiscale Differentiable Physics‐Informed Machine Learning",
+    "author_list": "Yalan Song, Tadd Bindas, Chaopeng Shen, Haoyu Ji, Wouter J. M. Knoben, Leo Lonzarich, Martyn P. Clark, Jiangtao Liu, Katie van Werkhoven, Sam Lamont, Matthew Denno, Ming Pan, Yuan Yang, Jeremy Rapp, Mukesh Kumar, Farshid Rahmani, Cyril Thébault, Richard Adkins, James Halgren, Trupesh Patel, Arpita Patel, Kamlesh Arun Sawadekar, Kathryn Lawson",
+    "journal_title": "Water Resources Research",
+    "source_title": "Water Resources Research",
+    "doi": "10.1029/2024wr038928",
+    "short_abstract": "Abstract  The National Water Model (NWM) is a key tool for flood forecasting, planning, and water management. Key challenges facing the NWM include calibration and parameter regionalization when confr",
+    "publication_date": "2025-04"
+  },
+  {
+    "title": "A Phenology-Based Evaluation of the Optimal Proxy for Cropland Suitability Based on Crop Yield Correlations from Sentinel-2 Image Time-Series",
+    "author_list": "Dorijan Radočaj, Mladen Jurišić",
+    "journal_title": "Agriculture",
+    "source_title": "Agriculture",
+    "doi": "10.3390/agriculture15080859",
+    "short_abstract": "Cropland suitability calculations quantify natural suitability according to abiotic conditions, thus making them crucial for sustainable land management. However, since ground-truth yield data are ext",
+    "publication_date": "2025-04-15"
+  },
+  {
+    "title": "Photogrammetry to Assess the Recovery of a Forest: Case Study of Guadalupe Island",
+    "author_list": "Laura Abigail Vera-Ortega, Alejandro Hinojosa, Luciana Luna",
+    "journal_title": "Investigaciones Geográficas",
+    "source_title": "Investigaciones Geográficas",
+    "doi": "10.14350/rig.60914",
+    "short_abstract": "This study employs photogrammetry to evaluate and monitor the recovery of the cypress forest on Guadalupe Island, Mexico, an ecosystem significantly impacted by fires and overgrazing. Two drone survey",
+    "publication_date": "2025-03-12"
+  },
+  {
+    "title": "Global patterns and driving factors of the carbon accumulation rate in coastal wetlands",
+    "author_list": "Shao-Jun Yan, Qian Hao, Zhifeng Yan, Ren-Min Yang",
+    "journal_title": "Earth-Science Reviews",
+    "source_title": "Earth-Science Reviews",
+    "doi": "10.1016/j.earscirev.2025.105199",
+    "short_abstract": "Coastal wetlands play crucial roles in sequestering organic carbon, which is vital for mitigating climate change. However, the global patterns and determinants of the organic carbon accumulation rate",
+    "publication_date": "2025-10"
+  },
+  {
+    "title": "Data-driven assessment of climate change and vegetative cover dynamics in traditional oases",
+    "author_list": "Elisa Baioni, Giulia Fiantanese, Giovanni Michele Porta",
+    "journal_title": "Journal of Hydrology Regional Studies",
+    "source_title": "Journal of Hydrology Regional Studies",
+    "doi": "10.1016/j.ejrh.2025.102266",
+    "short_abstract": "Study region: Abiod Valley, Aurès region, Algeria. Study focus: This work focuses on the relation between climatic forcing and vegetation cover dynamics in traditional oases. This study pursues two ma",
+    "publication_date": "2025-06"
+  },
+  {
+    "title": "A question-answering framework for geospatial data retrieval enhanced by a knowledge graph and large language models",
+    "author_list": "Hao Li, Peng Yue, Haoru Wu, Baoxin Teng, Yongkun Zhao, Changfeng Liu",
+    "journal_title": "International Journal of Digital Earth",
+    "source_title": "International Journal of Digital Earth",
+    "doi": "10.1080/17538947.2025.2510566",
+    "short_abstract": "The rapid advancement of Earth observation technologies has resulted in an explosive growth of geoscientific data. Efficient retrieval of such data is essential but often challenging, especially for n",
+    "publication_date": "2025-05-26"
+  },
+  {
+    "title": "Improving the Accuracy of Tree Species Mapping by Sentinel-2 Images Using Auxiliary Data—A Case Study of Slyudyanskoye Forestry Area near Lake Baikal",
+    "author_list": "Anastasia Popova",
+    "journal_title": "Forests",
+    "source_title": "Forests",
+    "doi": "10.3390/f16030487",
+    "short_abstract": "Timely and accurate information on forest composition is crucial for ecosystem conservation and management tasks. Information regarding the distribution and extent of forested areas can be derived thr",
+    "publication_date": "2025-03-10"
+  },
+  {
+    "title": "Addressing neighborhood effect averaging problem: Distinguishing mobility-based and residence-based heat exposure",
+    "author_list": "Heng Wu, Guangyu Zhang, Yong Liu, Yujia Ming",
+    "journal_title": "Building and Environment",
+    "source_title": "Building and Environment",
+    "doi": "10.1016/j.buildenv.2025.113139",
+    "short_abstract": "Urban heat poses significant risks to city populations, highlighting the need to accurately assess individual heat exposure. Traditional methods, which focus solely on residence-based measurements, fa",
+    "publication_date": "2025-07"
+  },
+  {
+    "title": "Natural Disaster Risk Assessment in Countries Along the Maritime Silk Road",
+    "author_list": "Chen Xu, Juanle Wang, Jingxuan Liu, Huairui Wang",
+    "journal_title": "Sustainability",
+    "source_title": "Sustainability",
+    "doi": "10.3390/su17073219",
+    "short_abstract": "The 21st‑century Maritime Silk Road initiative highlights the importance of oceans as hubs for resources, ecology, and trade, yet a comprehensive understanding of marine natural disaster risks within",
+    "publication_date": "2025-04-04"
+  },
+  {
+    "title": "Assessment of Run-of-River and Hydropower Plants in Peru: Current and Potential Sites, Historical Variability (1981–2020), and Climate Change Projections (2035–2100)",
+    "author_list": "Leonardo Gutierrez, Adrian Huerta, Harold Llauca, Luc Bourrel, Waldo Lavado-Casimiro",
+    "journal_title": "Climate",
+    "source_title": "Climate",
+    "doi": "10.3390/cli13060125",
+    "short_abstract": "Hydropower is the main source of renewable energy and the most feasible for implementation in remote areas without access to conventional energy grids. Therefore, knowledge of actual, potential, and f",
+    "publication_date": "2025-06-12"
+  },
+  {
+    "title": "Spatial Downscaling of Soil Moisture Product to Generate High-Resolution Data: A Multi-Source Approach over Heterogeneous Landscapes in Kenya",
+    "author_list": "Asnake Kassahun Abebe, Xiang Zhou, Tingting Lv, Zui Tao, Abdelrazek Elnashar, Asfaw Kebede, Chunmei Wang, Hongming Zhang",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs17101763",
+    "short_abstract": "Soil moisture (SM) estimates are essential for drought monitoring, hydrological modeling, and climate resilience planning applications. While satellite and model-derived SM products effectively captur",
+    "publication_date": "2025-05-19"
+  },
+  {
+    "title": "WetCH4: a machine-learning-based upscaling of methane fluxes of northern wetlands during 2016–2022",
+    "author_list": "Qing Ying, Benjamin Poulter, Jennifer D. Watts, Kyle A. Arndt, Anna-Maria Virkkala, Lori Bruhwiler, Youmi Oh, Brendan M. Rogers, Susan M. Natali, Hilary Sullivan, Amanda Armstrong, Eric J. Ward, Luke D. Schiferl, Clayton D. Elder, Olli Peltola, Annett Bartsch, Ankur R. Desai, Eugénie Euskirchen, Mathias Göckede, Bernhard Lehner, Mats B. Nilsson, Matthias Peichl, Oliver Sonnentag, Eeva-Stiina Tuittila, Torsten Sachs, Aram Kalhori, Masahito Ueyama, Zhen Zhang",
+    "journal_title": "Earth System Science Data",
+    "source_title": "Earth System Science Data",
+    "doi": "10.5194/essd-17-2507-2025",
+    "short_abstract": "Abstract. Wetlands are the largest natural source of methane (CH4) emissions globally. Northern wetlands (>45° N), accounting for 42 % of global wetland area, are increasingly vulnerable to carbon los",
+    "publication_date": "2025-06-12"
+  },
+  {
     "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
     "author_list": "Luwen Wan, Anthony D Kendall, Jeremy Rapp, David W Hyndman",
     "journal_title": "The Science of The Total Environment",
@@ -16,6 +187,114 @@
     "doi": "10.1016/j.scitotenv.2024.175283",
     "short_abstract": "There has been an increase in tile drained area across the US Midwest and other regions worldwide due to agricultural expansion, intensification, and climate variability. Despite this growth, spatiall",
     "publication_date": "2024-08-05"
+  },
+  {
+    "title": "Permafrost extent sets drainage density in the Arctic",
+    "author_list": "Joanmarie Del Vecchio, Marisa C. Palucis, Colin R. Meyer",
+    "journal_title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "source_title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "doi": "10.1073/pnas.2307072120",
+    "short_abstract": "Amplified warming of high latitudes and rapid thaw of frozen ground threaten permafrost carbon stocks. The presence of permafrost modulates water infiltration and flow, as well as sediment transport,",
+    "publication_date": "2024-02"
+  },
+  {
+    "title": "A state-of-the-art review on the quantitative and qualitative assessment of water resources using google earth engine",
+    "author_list": "Rimsha Hasan, Aditya Kapoor, Rajneesh Singh, Brijesh Kumar Yadav",
+    "journal_title": "Environmental Monitoring and Assessment",
+    "source_title": "Environmental Monitoring and Assessment",
+    "doi": "10.1007/s10661-024-13315-5",
+    "short_abstract": "Water resource management is becoming essential due to many anthropogenic and climatic factors resulting in dwindling water resources. Traditionally, geographic information systems (GIS) and remote se",
+    "publication_date": "2024-11-28"
+  },
+  {
+    "title": "Built Environments",
+    "author_list": "Erin Trochim",
+    "journal_title": null,
+    "source_title": null,
+    "doi": "10.1007/978-3-031-26588-4_34",
+    "short_abstract": "The built environment consists of the human-made physical parts of the environment, including homes, buildings, streets, open spaces, and infrastructure. This chapter will focus on analyzing global in",
+    "publication_date": "2023-10-02"
+  },
+  {
+    "title": "High-resolution land cover classification: cost-effective approach for extraction of reliable training data from existing land cover datasets",
+    "author_list": "Gorica Bratic, Vasil Yordanov, Maria Antonia Brovelli",
+    "journal_title": "International Journal of Digital Earth",
+    "source_title": "International Journal of Digital Earth",
+    "doi": "10.1080/17538947.2023.2253784",
+    "short_abstract": "There has been a significant increase in the availability of global high-resolution land cover (HRLC) datasets due to growing demand and favorable technological advancements. However, this has brought",
+    "publication_date": "2023-09-13"
+  },
+  {
+    "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
+    "author_list": "Lukumon Olaitan Lateef, Abdulwaheed Tella, John Rowen Miano, Yusuf A. Aina",
+    "journal_title": "Land Use Policy",
+    "source_title": "Land Use Policy",
+    "doi": "10.1016/j.landusepol.2025.107673",
+    "short_abstract": "Armed conflicts are potent drivers of land use and land cover (LULC) change, yet little is known about how conflict intensity shapes land use, population displacement, and socioeconomic shifts in Nige",
+    "publication_date": "2025-10"
+  },
+  {
+    "title": "日本におけるパークランの会場特性と参加実態 国際比較と国内会場の分析",
+    "author_list": "東條 秀祐, 衣笠 匠斗, 樋野 公宏",
+    "journal_title": "Reports of the City Planning Institute of Japan",
+    "source_title": "Reports of the City Planning Institute of Japan",
+    "doi": "10.11361/reportscpij.23.2_286",
+    "short_abstract": "This study examines the weekly running event \"parkrun,\" which combines elements of both exercise and social interaction, focusing on a comparison of venue attributes and participation patterns between",
+    "publication_date": "2024-09-10"
+  },
+  {
+    "title": "Incorporating environmental data to refine the classification and understanding of the mechanisms behind encroachment of a woody species in the Southern Great Plains (USA)",
+    "author_list": "Justin Dawsey, Nancy E. McIntyre",
+    "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "source_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "doi": "10.1016/j.jag.2025.104362",
+    "short_abstract": "Curtailing encroachment is dependent on effectively identifying where problematic species occur. However, traditional classification methods struggle to distinguish spectrally similar species. New tec",
+    "publication_date": "2025-02"
+  },
+  {
+    "title": "Automating global landslide detection with heterogeneous ensemble deep-learning classification",
+    "author_list": "Alexandra Jarna Ganerød, Gabriele Franch, Erin Lindsay, Martina Calovi",
+    "journal_title": "Remote Sensing Applications Society and Environment",
+    "source_title": "Remote Sensing Applications Society and Environment",
+    "doi": "10.1016/j.rsase.2024.101384",
+    "short_abstract": "With changing climatic conditions, we are already seeing an increase in extreme weather events and their secondary consequences, including landslides. Landslides threaten infrastructure, including roa",
+    "publication_date": "2024-11"
+  },
+  {
+    "title": "A Multi-model approach for remote sensing-based actual evapotranspiration mapping using Google Earth Engine (ETMapper-GEE)",
+    "author_list": "Abdelrazek Elnashar, Shahab Aldin Shojaeezadeh, Tobias Karl David Weber",
+    "journal_title": "Journal of Hydrology",
+    "source_title": "Journal of Hydrology",
+    "doi": "10.1016/j.jhydrol.2025.133062",
+    "short_abstract": "Accurate estimation of actual evapotranspiration (ETa) through remote sensing (RS) is essential for effective large-scale water management. We developed an EvapoTranspiration Mapper in the Google Eart",
+    "publication_date": "2025-08"
+  },
+  {
+    "title": "High-Resolution Land Use Land Cover Dataset for Meteorological Modelling – Part 1: ECOCLIMAP-SG+ an Agreement-Based Dataset",
+    "author_list": "Geoffrey Bessardon, Thomas Rieutord, Emily Gleeson, Bolli Pálmason, Sandro Oswald",
+    "journal_title": "Preprints.org",
+    "source_title": "Preprints.org",
+    "doi": "10.20944/preprints202409.0953.v1",
+    "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain, and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, t",
+    "publication_date": "2024-09-12"
+  },
+  {
+    "title": "High-Resolution Land Use Land Cover Dataset for Meteorological Modelling—Part 1: ECOCLIMAP-SG+ an Agreement-Based Dataset",
+    "author_list": "Geoffrey Bessardon, Thomas Rieutord, Emily Gleeson, Bolli Pálmason, Sandro Oswald",
+    "journal_title": "Land",
+    "source_title": "Land",
+    "doi": "10.3390/land13111811",
+    "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, th",
+    "publication_date": "2024-11-01"
+  },
+  {
+    "title": "Cloud-Based Remote Sensing with Google Earth Engine, Fundamentals and Applications",
+    "author_list": "Jeffrey A. Cardille, Morgan A. Crowley, David Saah, Nicholas E. Clinton",
+    "journal_title": null,
+    "source_title": null,
+    "doi": "10.1007/978-3-031-26588-4",
+    "short_abstract": "This book guides its audience—which can range from novice users to experts— though a 55-chapter tour of Google Earth Engine. A sequenced and diverse set of lab materials, this is the product of more t",
+    "publication_date": "2024"
   },
   {
     "title": "Assessing size shifts amidst a warming climate in lakes recharged by the Asian Water Tower through satellite imagery",
@@ -27,6 +306,87 @@
     "publication_date": "2023-11-24"
   },
   {
+    "title": "Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction",
+    "author_list": "Geethen Singh, Glenn Moncrieff, Zander Venter, Kerry Cawse-Nicholson, Jasper Slingsby, Tamara B. Robinson",
+    "journal_title": "Scientific Reports",
+    "source_title": "Scientific Reports",
+    "doi": "10.1038/s41598-024-65954-w",
+    "short_abstract": "Machine learning is increasingly applied to Earth Observation (EO) data to obtain datasets that contribute towards international accords. However, these datasets contain inherent uncertainty that need",
+    "publication_date": "2024-07-13"
+  },
+  {
+    "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
+    "author_list": "Kelsey E. Herndon, Robert Griffin, Whittaker Schroder, Timothy Murtha, Charles Golden, Daniel A. Contreras, Emil Cherrington, Luwei Wang, Alexandra Bazarsky, G. Van Kollias, Omar Alcover Firpi",
+    "journal_title": "Journal of Archaeological Science Reports",
+    "source_title": "Journal of Archaeological Science Reports",
+    "doi": "10.1016/j.jasrep.2023.104094",
+    "short_abstract": "A wealth of remotely sensed data has accumulated over the past several decades and now constitutes an analytical resource primed for archaeological applications. To date, remotely sensed big data (RSB",
+    "publication_date": "2023-08"
+  },
+  {
+    "title": "Delta sustainability from the Holocene to the Anthropocene and envisioning the future",
+    "author_list": "Edward Anthony, Jaia Syvitski, Florin Zăinescu, Robert J. Nicholls, Kim M. Cohen, Nick Marriner, Yoshiki Saito, John Day, Philip S. J. Minderhoud, Alessandro Amorosi, Zhongyuan Chen, Christophe Morhange, Toru Tamura, Alfred Vespremeanu-Stroe, Manon Besset, François Sabatier, David Kaniewski, Vittorio Maselli",
+    "journal_title": "Nature Sustainability",
+    "source_title": "Nature Sustainability",
+    "doi": "10.1038/s41893-024-01426-3",
+    "short_abstract": "River deltas offer numerous ecosystem services and host an estimated global population of 350 million to more than 500 million inhabitants in over 100 countries. To maintain their sustainability into",
+    "publication_date": "2024-10-01"
+  },
+  {
+    "title": "Expansion of Urban Impervious Surfaces in Lahore (1993–2022) Based on Gee and Remote Sensing Data",
+    "author_list": "Zhenfeng Shao, Muhammad Nasar Ahmad, Akib Javed, Fakhrul Islam, Zahid Jahangir, Israr Ahmad",
+    "journal_title": "Photogrammetric Engineering & Remote Sensing",
+    "source_title": "Photogrammetric Engineering & Remote Sensing",
+    "doi": "10.14358/pers.23-00001r2",
+    "short_abstract": "Impervious surfaces are an essential component of our environment and are mainly triggered by human developments. Rapid urbanization and population expansion have increased Lahore's urban impervious",
+    "publication_date": "2023-08-01"
+  },
+  {
+    "title": "The May 2024 Flood Disaster in Southern Brazil: Causes, Impacts, and SWOT‐Based Volume Estimation",
+    "author_list": "Iury T. Simoes‐Sousa, Carolina M. L. Camargo, Juliana Tavora, Agata Piffer‐Braga, J. Thomas Farrar, Tamlin M. Pavelsky",
+    "journal_title": "Geophysical Research Letters",
+    "source_title": "Geophysical Research Letters",
+    "doi": "10.1029/2024gl112442",
+    "short_abstract": "Abstract In May 2024, southern Brazil experienced a severe flood that caused widespread devastation, particularly in the metropolitan area of Porto Alegre. This disaster resulted from a rare combinati",
+    "publication_date": "2025-02-21"
+  },
+  {
+    "title": "Granular satellite data to assess the potential for nature based solutions at a national scale: a proof of concept with data from Rwanda and Lesotho",
+    "author_list": "Bas Heerma van Voss, William Ouellette",
+    "journal_title": "Climate Policy",
+    "source_title": "Climate Policy",
+    "doi": "10.1080/14693062.2024.2330373",
+    "short_abstract": "Nature-based Solutions (NbS) form a substantial part of cost-efficient climate change mitigation options. However, public financial flows towards NbS have been limited. Among the factors impeding inve",
+    "publication_date": "2024-05-19"
+  },
+  {
+    "title": "Mapping sugarcane globally at 10 m resolution using GEDI and Sentinel-2",
+    "author_list": "Stefania Di Tommaso, Sherrie Wang, Rob Strey, David B. Lobell",
+    "journal_title": "EGUsphere",
+    "source_title": "EGUsphere",
+    "doi": "10.5194/essd-2024-121",
+    "short_abstract": "Sugarcane is an important source of food, biofuel, and farmer income in many countries. At the same time, sugarcane is implicated in many social and environmental challenges, including water scarcity",
+    "publication_date": "2024-04-15"
+  },
+  {
+    "title": "Framework to Create Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
+    "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
+    "journal_title": "Preprints.org",
+    "source_title": "Preprints.org",
+    "doi": "10.20944/preprints202404.0027.v1",
+    "short_abstract": "This research presents a comprehensive framework for efficiently generating forest fire datasets from Google Earth Engine data sources. The primary contribution of this work lies in providing a method",
+    "publication_date": "2024-04-01"
+  },
+  {
+    "title": "Annual Field-Scale Maps of Tall and Short Crops at the Global Scale Using GEDI and Sentinel-2",
+    "author_list": "Stefania Di Tommaso, Sherrie Wang, Vivek Vajipey, Noel Gorelick, Rob Strey, David B. Lobell",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs15174123",
+    "short_abstract": "Crop type maps are critical for tracking agricultural land use and estimating crop production. Remote sensing has proven an efficient and reliable tool for creating these maps in regions with abundant",
+    "publication_date": "2023-08-22"
+  },
+  {
     "title": "On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards",
     "author_list": "Zhimin Zhao, Abdul Ali Bangash, Filipe Roseiro Côgo, Bram Adams, Ahmed E. Hassan",
     "journal_title": "arXiv",
@@ -34,6 +394,24 @@
     "doi": "10.48550/arxiv.2407.04065",
     "short_abstract": "Foundation models (FM), such as large language models (LLMs), which are\nlarge-scale machine learning (ML) models, have demonstrated remarkable\nadaptability in various downstream software engineering (",
     "publication_date": "2024-07-04"
+  },
+  {
+    "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
+    "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
+    "journal_title": "Forests",
+    "source_title": "Forests",
+    "doi": "10.3390/f15060923",
+    "short_abstract": "This study developed a comprehensive framework using Google Earth Engine to efficiently generate a forest fire inventory dataset, which enhanced data accessibility without specialized knowledge or acc",
+    "publication_date": "2024-05-26"
+  },
+  {
+    "title": "Level of fire danger of the local territory",
+    "author_list": "Maksym Kustov, Oleg Fedoryaka, Viacheslav Kononovych, Batyr Khalmuradov, Pavlo Borodych, Tymur Kurtseitov, Anatolii Nikitin, Valentyn Romaniuk, Ivan Meshcheriakov, Julia Veretennikova",
+    "journal_title": "Eastern-European Journal of Enterprise Technologies",
+    "source_title": "Eastern-European Journal of Enterprise Technologies",
+    "doi": "10.15587/1729-4061.2023.276653",
+    "short_abstract": "The object of the study is the fire risk of the local area. The problem to be solved is to take into account most of the significant parameters in the territorial placement of fire-rescue units of dif",
+    "publication_date": "2023-04-29"
   },
   {
     "title": "Divergent radiative forcing of fine-mode aerosols across tree genera during wildfires in North America and Europe",
@@ -45,6 +423,15 @@
     "publication_date": "2025-06-11"
   },
   {
+    "title": "Forest fuel structure and loading along a gradient of gray-phase mountain pine beetle severity in Jasper National Park, Alberta, Canada",
+    "author_list": "Tristan Skretting, Laura Chasmer, Christopher J. Watson, Patrick M.A. James, Ivan Townshend, Daniel D.B. Perrakis",
+    "journal_title": "Canadian Journal of Forest Research",
+    "source_title": "Canadian Journal of Forest Research",
+    "doi": "10.1139/cjfr-2024-0319",
+    "short_abstract": "Wildland fire fuels within the gray-phase of mountain pine beetle ( Dendroctonus ponderosae Hopkins) outbreak (4–10 years post mortality) are treated as homogenous despite potential variability. To a",
+    "publication_date": "2025-01-01"
+  },
+  {
     "title": "How accurate are existing land cover maps for agriculture in Sub-Saharan Africa?",
     "author_list": "Hannah Kerner, Catherine Nakalembe, Adam Yang, Ivan Zvonkov, Ryan McWeeny, Gabriel Tseng, Inbal Becker-Reshef",
     "journal_title": "Scientific Data",
@@ -52,6 +439,159 @@
     "doi": "10.1038/s41597-024-03306-z",
     "short_abstract": "Satellite Earth observations (EO) can provide affordable and timely information for assessing crop conditions and food production. Such monitoring systems are essential in Africa, where food insecurit",
     "publication_date": "2024-05-10"
+  },
+  {
+    "title": "Declining urban density attenuates rising population exposure to surface heat extremes",
+    "author_list": "Kangning Huang, Brian Stone, ChengHe Guan, Jiayong Liang",
+    "journal_title": "Scientific Reports",
+    "source_title": "Scientific Reports",
+    "doi": "10.1038/s41598-025-96045-z",
+    "short_abstract": "In the past two decades, global cities have experienced a decline in urban population density, marked by urban land expansion outpacing population growth. The impact of this trend on urban population",
+    "publication_date": "2025-04-22"
+  },
+  {
+    "title": "Spatiotemporal dynamics of coastal dead zones in the Gulf of Mexico over 20 years using remote sensing",
+    "author_list": "Yingjie Li, Zilong Xia, Lan Nguyen, Ho Yi Wan, Luwen Wan, Mengqiu Wang, Nan Jia, Venkata Rohith Reddy Matli, Yi Li, Megan Seeley, Emilio F Moran, Jianguo Liu",
+    "journal_title": "The Science of The Total Environment",
+    "source_title": "The Science of The Total Environment",
+    "doi": "10.1016/j.scitotenv.2025.179461",
+    "short_abstract": "Spreading marine dead zones (or hypoxia) are threatening coastal ecosystems and affecting billions of people's livelihoods globally. However, the lack of field observations makes it challenging to est",
+    "publication_date": "2025-04-24"
+  },
+  {
+    "title": "Assessing forest area fragmentation potential in Bali, Nusa Tenggara and Maluku islands, Indonesia",
+    "author_list": "L Abdulah, N S Lestari, A S Yunianto, M Iqbal, P H P Pasaribu",
+    "journal_title": "IOP Conference Series Earth and Environmental Science",
+    "source_title": "IOP Conference Series Earth and Environmental Science",
+    "doi": "10.1088/1755-1315/1315/1/012030",
+    "short_abstract": "Forest fragmentation has emerged as an important driver of habitat loss and biodiversity degradation, but research on this topic has been limited, particularly in island areas. The aim of this study i",
+    "publication_date": "2024-03-01"
+  },
+  {
+    "title": "Assessment of Potential Aquifer Recharge Zones in the Locumba Basin, Arid Region of the Atacama Desert Using Integration of Two MCDM Methods: Fuzzy AHP and TOPSIS",
+    "author_list": "Víctor Pocco, Arleth Mendoza, Samuel Chucuya, Pablo Franco-León, Germán Huayna, Eusebio Ingol-Blanco, Edwin Pino-Vargas",
+    "journal_title": "Water",
+    "source_title": "Water",
+    "doi": "10.3390/w16182643",
+    "short_abstract": "Natural aquifers used for human consumption are among the most important resources in the world. The Locumba basin faces significant challenges due to its limited water availability for the local popu",
+    "publication_date": "2024-09-18"
+  },
+  {
+    "title": "Generation of Monthly Flows in the Ica River Basin up to the La Achirana Hydrometric Station Using the GR2M Precipitation-Runoff Model",
+    "author_list": "Angel Gabriel Ochante Sanchez, Diego Fermin Jonislla Rojas, Abel Carmona Arteaga",
+    "journal_title": "Environmental Science and Engineering",
+    "source_title": "Environmental Science and Engineering",
+    "doi": "10.1007/978-3-031-88683-6_5",
+    "short_abstract": "Due to historical problems, such as river overflows in the Pacific slope basins, this study focuses on the Ica basin, which has recently experienced climatological disasters. The main objective is to",
+    "publication_date": "2025"
+  },
+  {
+    "title": "Spatial Heterogeneity of Mountain Greenness and Greening in the Tibetan Plateau: From a Remote Sensing Perspective",
+    "author_list": "Zhao Liu, Xingjian Zhang, Shuang Zhao, Panpan Liu, Jinxiu Liu",
+    "journal_title": "Forests",
+    "source_title": "Forests",
+    "doi": "10.3390/f16040576",
+    "short_abstract": "As an important component of terrestrial ecosystems, mountain vegetation serves as an indicator of climate change. Due to the sensitivity of the Tibetan Plateau Mountains (TPM) to climate change and t",
+    "publication_date": "2025-03-26"
+  },
+  {
+    "title": "Patterns of surface water dynamics and storage changes in a basin of Bundelkhand Region, India: Implications for water management",
+    "author_list": "Dhyey Bhatpuria, Nitin Sharma, Giriraj Amarnath, Alok Sikka",
+    "journal_title": "Irrigation and Drainage",
+    "source_title": "Irrigation and Drainage",
+    "doi": "10.1002/ird.3055",
+    "short_abstract": "Abstract Surface water is essential for agricultural, domestic and industrial production worldwide. Monitoring surface dynamics is crucial for sustainable ecosystems and global water resources. Import",
+    "publication_date": "2024-11"
+  },
+  {
+    "title": "Sensor-independent LAI/FPAR CDR: reconstructing a global sensor-independent climate data record of MODIS and VIIRS LAI/FPAR from 2000 to 2022",
+    "author_list": "Jiabin Pu, Kai Yan, Samapriya Roy, Zaichun Zhu, Miina Rautiainen, Yuri Knyazikhin, Ranga B. Myneni",
+    "journal_title": "Earth System Science Data",
+    "source_title": "Earth System Science Data",
+    "doi": "10.5194/essd-16-15-2024",
+    "short_abstract": "Abstract. Leaf area index (LAI) and fraction of photosynthetically active radiation (FPAR) are critical biophysical parameters for the characterization of terrestrial ecosystems. Long-term global LAI/",
+    "publication_date": "2024-01-04"
+  },
+  {
+    "title": "A multi-source data fusion method for land cover production: a case study of the East European Plain",
+    "author_list": "Kai Li, Juanle Wang",
+    "journal_title": "International Journal of Digital Earth",
+    "source_title": "International Journal of Digital Earth",
+    "doi": "10.1080/17538947.2024.2339360",
+    "short_abstract": "Large-area high-precision land cover mapping faces challenges such as a lack of uniform classification systems and the inability to compare different products. The current use of deep learning methods",
+    "publication_date": "2024-04-05"
+  },
+  {
+    "title": "Multi-Sensor Fusion and Machine Learning for Forest Age Mapping in Southeastern Tibet",
+    "author_list": "Zelong Chi, Kaipeng Xu",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs17111926",
+    "short_abstract": "Forest age is a key factor in determining the carbon sequestration capacity and trends of forests. Based on the Google Earth Engine platform and using the topographically complex and climatically dive",
+    "publication_date": "2025-06-01"
+  },
+  {
+    "title": "Remote Sensing Extraction of Lakes on the Tibetan Plateau Based on the Google Earth Engine and Deep Learning",
+    "author_list": "Yunxuan Pang, Junchuan Yu, Laidian Xi, Daqing Ge, Ping Zhou, Changhong Hou, Peng He, Liu Zhao",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs16030583",
+    "short_abstract": "Lakes are an important component of global water resources. In order to achieve accurate lake extractions on a large scale, this study takes the Tibetan Plateau as the study area and proposes an Autom",
+    "publication_date": "2024-02-03"
+  },
+  {
+    "title": "Spatiotemporal evolution of ecological environmental quality and its dynamic relationships with landscape pattern in the Zhengzhou Metropolitan Area: A perspective based on nonlinear effects and spatiotemporal heterogeneity",
+    "author_list": "Qi Liu, Jiajun Qiao, Mengjuan Li, Yingjie Dun, Xiaoyong Zhu, Xiaoya Ji",
+    "journal_title": "Journal of Cleaner Production",
+    "source_title": "Journal of Cleaner Production",
+    "doi": "10.1016/j.jclepro.2024.144102",
+    "short_abstract": "Understanding the spatiotemporal dynamics between landscape pattern changes and ecological environmental quality is essential for optimizing regional landscapes and improving the ecological environmen",
+    "publication_date": "2024-11"
+  },
+  {
+    "title": "Optimal locating satellite observation reaches for manning’s equation: From surface water and ocean topography mission river Database",
+    "author_list": "Qihang Liu, Yun Chen, Qianqian Chen, Duomandi Jiang, Hongtao Duan, Shiqiang Zhang, Ninglian Wang, Chang Huang",
+    "journal_title": "Journal of Hydrology",
+    "source_title": "Journal of Hydrology",
+    "doi": "10.1016/j.jhydrol.2025.132849",
+    "short_abstract": "Timely accurate measurement of river discharge is critical for water resource management. Construction and operation of a gauging network is expensive and time-consuming. With the advance of earth obs",
+    "publication_date": "2025-06"
+  },
+  {
+    "title": "Surface energy balance-based surface urban heat island decomposition at high resolution",
+    "author_list": "Fengxiang Guo, Jiayue Sun, Die Hu",
+    "journal_title": "Remote Sensing of Environment",
+    "source_title": "Remote Sensing of Environment",
+    "doi": "10.1016/j.rse.2024.114447",
+    "short_abstract": "Urban heat island (UHI) is among the most pronounced human impacts on Earth. To formulate locally adapted mitigation strategies, a comprehensive understanding of the influencing mechanisms of UHI at h",
+    "publication_date": "2024-12"
+  },
+  {
+    "title": "Unveiling and modelling: Land degradation, poverty nexus in Nigeria&#x27;s semi-arid (jigawa state) using cloud-based geospatial data",
+    "author_list": "Jibrin Gambo, Siti Nur Aliaa Binti Roslan, Helmi Zulhaidi Mohd Shafri, Nik Norasma Che Ya, Yusuf Ahmed Yusuf",
+    "journal_title": "Journal of Arid Environments",
+    "source_title": "Journal of Arid Environments",
+    "doi": "10.1016/j.jaridenv.2024.105151",
+    "short_abstract": "Land degradation and multidimensional poverty represent global challenges whose interconnected dynamics are poorly understood and hinder effective interventions. The aim of this study was to address t",
+    "publication_date": "2024-06"
+  },
+  {
+    "title": "Automatic training sample collection utilizing multi-source land cover products and time-series Sentinel-2 images",
+    "author_list": "Yanzhao Wang, Yonghua Sun, Xuyue Cao, Yihan Wang, Wangkuan Zhang, Xinglu Cheng, Ruozeng Wang, Jinkun Zong",
+    "journal_title": "GIScience & Remote Sensing",
+    "source_title": "GIScience & Remote Sensing",
+    "doi": "10.1080/15481603.2024.2352957",
+    "short_abstract": "Collecting reliable training samples plays a crucial role in improving the accuracy of land cover (LC) mapping products, which are essential foundational data for global environmental and climate chan",
+    "publication_date": "2024-05-14"
+  },
+  {
+    "title": "15th International Conference on Environmental Science and Development (ICESD2024)",
+    "author_list": "Gordon Huang, Ed McBean, Yongping Li, Wendy Huang, Peng Zhang",
+    "journal_title": "Environmental Science and Engineering",
+    "source_title": "Environmental Science and Engineering",
+    "doi": "10.1007/978-3-031-88683-6",
+    "short_abstract": "This book is proposed to be a collection of excellently peer-reviewed research from the 2024 15th International Conference on Environmental Science and Development (ICESD 2024), which will be held dur",
+    "publication_date": "2025"
   },
   {
     "title": "Threat of low-frequency high-intensity floods to global cropland and crop yields",
@@ -153,15 +693,6 @@
     "publication_date": "2024-05"
   },
   {
-    "title": "Data-driven assessment of climate change and vegetative cover dynamics in traditional oases",
-    "author_list": "Elisa Baioni, Giulia Fiantanese, Giovanni Michele Porta",
-    "journal_title": "Journal of Hydrology Regional Studies",
-    "source_title": "Journal of Hydrology Regional Studies",
-    "doi": "10.1016/j.ejrh.2025.102266",
-    "short_abstract": "Study region: Abiod Valley, Aurès region, Algeria. Study focus: This work focuses on the relation between climatic forcing and vegetation cover dynamics in traditional oases. This study pursues two ma",
-    "publication_date": "2025-06"
-  },
-  {
     "title": "Rainwater Harvesting Site Selection for Drought-Prone Areas in Somali and Borena Zones, Oromia Regional State, Ethiopia: A Geospatial and Multi-Criteria Decision Analysis",
     "author_list": "Amanuel Kumsa Bojer, Desta Jula Bekalo, Taye Girma Debelee, Saralees Nadarajah, Ayad M. Fadhil Al-Quraishi",
     "journal_title": "Water",
@@ -178,15 +709,6 @@
     "doi": "10.1029/2024jg008103",
     "short_abstract": "Abstract Elucidating the climate feedback due to forest cover loss is critical for a comprehensive understanding of the role of forests in mitigating climate change. Current research studies predomina",
     "publication_date": "2024-11"
-  },
-  {
-    "title": "High‐Resolution National‐Scale Water Modeling Is Enhanced by Multiscale Differentiable Physics‐Informed Machine Learning",
-    "author_list": "Yalan Song, Tadd Bindas, Chaopeng Shen, Haoyu Ji, Wouter J. M. Knoben, Leo Lonzarich, Martyn P. Clark, Jiangtao Liu, Katie van Werkhoven, Sam Lamont, Matthew Denno, Ming Pan, Yuan Yang, Jeremy Rapp, Mukesh Kumar, Farshid Rahmani, Cyril Thébault, Richard Adkins, James Halgren, Trupesh Patel, Arpita Patel, Kamlesh Arun Sawadekar, Kathryn Lawson",
-    "journal_title": "Water Resources Research",
-    "source_title": "Water Resources Research",
-    "doi": "10.1029/2024wr038928",
-    "short_abstract": "Abstract  The National Water Model (NWM) is a key tool for flood forecasting, planning, and water management. Key challenges facing the NWM include calibration and parameter regionalization when confr",
-    "publication_date": "2025-04"
   },
   {
     "title": "Utilize imagery and crowdsourced data on spatial employment modelling",
@@ -511,15 +1033,6 @@
     "doi": "10.1016/j.jag.2024.103944",
     "short_abstract": "In the last decade, several methods have been developed for Local Climate Zone (LCZ) mapping, encompassing Remote Sensing and Geographic Information Systems (GIS) −based procedures. Combined approache",
     "publication_date": "2024-07"
-  },
-  {
-    "title": "Natural Disaster Risk Assessment in Countries Along the Maritime Silk Road",
-    "author_list": "Chen Xu, Juanle Wang, Jingxuan Liu, Huairui Wang",
-    "journal_title": "Sustainability",
-    "source_title": "Sustainability",
-    "doi": "10.3390/su17073219",
-    "short_abstract": "The 21st‑century Maritime Silk Road initiative highlights the importance of oceans as hubs for resources, ecology, and trade, yet a comprehensive understanding of marine natural disaster risks within",
-    "publication_date": "2025-04-04"
   },
   {
     "title": "Geomorphometric Analysis of the Kshetrapal Landslide in Chamoli, Uttarakhand, India Using the White Box Tool (WBT) and QGIS by Comparing various DEMs Obtained from UAV and TLS",
