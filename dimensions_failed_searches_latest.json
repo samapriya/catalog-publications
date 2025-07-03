@@ -1,0 +1,120 @@
+{
+  "failed_search_metadata": {
+    "total_failed_searches": 14,
+    "export_timestamp": "2025-07-03T18:19:10.658437"
+  },
+  "failed_searches": {
+    "\"GEE Community Assets\"": {
+      "description": "Community assets reference",
+      "search_field": "full_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Assessing multi-hazard risk in Gulmidarbar Rural Municipality, Gulmi, Nepal": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "An Independent Validation of SoilGrids Accuracy for Soil Texture Components in Croatia. Land 2023, 12, 1034": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Análise espacial da disponibilidade hídrica da bacia hidrográfica do Rio Pirapora (SP)": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Predictive Drivers and Spatiotemporal Transferability of Machine Learning Based Crop Yield Prediction Under Drought Conditions": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "The value of terrain pattern, high-resolution data and ensemble modeling for landslide susceptibility prediction": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "FLOOD RISK AND SPATIAL INEQUITY: EXPLORING THE RELATIONSHIP BETWEEN MARGINALIZED COMMUNITIES'SPATIAL DISTRIBUTION AND SUSCEPTIBILITY TO FLOODING IN BLANTYRE, MALAWI": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Assessing the Impacts of Salinity and Nitrate Leaching on Sustainability of Groundwater and Irrigated Agriculture in the Central Valley": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "A Novel Fusion of Optical and Radar Satellite Data for Crop Phenology Estimation using Machine Learning and Cloud Computing": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Jemez Pueblo Agriculture: Monitoring Rangeland Conditions to Inform Drought and Land Management in New Mexico": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "The Relationship Between Weather Variability and Agricultural Land Cover Change in North Dakota (1997-2023) and Its Implication for Future Change": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Calculating Indicators from Global Geospatia l Data Sets for Benchmarking and Tracking Change in the Urban Environment": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Quantifying the Average Cooling Effects of Tree, Artificial, and Hybrid Shade Using City-Wide Iot Sensor Measurements: A Case Study of Seoul": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001-2021)": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    }
+  }
+}
