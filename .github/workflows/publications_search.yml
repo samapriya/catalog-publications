@@ -553,55 +553,47 @@ jobs:
                 ]
 
                 try:
-                    # Initialize searcher
                     base_url = "https://app.dimensions.ai/discover/publication/results.json"
                     searcher = DimensionsSearcher(headers, cookies, base_url)
 
-                    # Send start notification
                     searcher.send_gotify_notification(
                         "🔍 Dimensions Search Started",
                         f"Starting search for {len(search_terms)} keyword terms + scholar diff titles",
                         priority=3
                     )
 
-                    # Perform keyword searches
                     searcher.search_multiple_terms(search_terms, sleep_duration=3.0)
 
-                    # Sleep before scholar diff searches
                     logger.info("Sleeping for 3 seconds before starting scholar diff searches...")
                     time.sleep(3.0)
 
-                    # Fetch and search scholar diff titles
                     scholar_diff_url = "https://raw.githubusercontent.com/samapriya/catalog-publications/refs/heads/main/scholar_diff.json"
                     searcher.fetch_and_search_scholar_diff(scholar_diff_url, sleep_duration=3.0)
 
-                    # Save results
                     filtered_output_file = searcher.save_results()
                     detailed_output_file = searcher.save_detailed_results()
                     failed_searches_file = searcher.save_failed_searches()
 
-                    # Calculate statistics for notification
                     unique_results = searcher.remove_duplicates()
                     total_searches = len(searcher.search_stats)
                     successful_searches = len([s for s in searcher.search_stats.values() if s.get('filtered', 0) > 0])
                     failed_searches = len([s for s in searcher.search_stats.values() if 'error' in s or s.get('count', 0) == 0])
 
-                    # Send success notification with detailed stats
                     success_message = f"""✅ Search completed successfully!
 
-📊 **Results Summary:**
-• Total publications found: {len(unique_results)}
-• Results before deduplication: {len(searcher.all_results)}
-• Total searches performed: {total_searches}
-• Successful searches: {successful_searches}
-• Failed searches: {failed_searches}
+            📊 **Results Summary:**
+            • Total publications found: {len(unique_results)}
+            • Results before deduplication: {len(searcher.all_results)}
+            • Total searches performed: {total_searches}
+            • Successful searches: {successful_searches}
+            • Failed searches: {failed_searches}
 
-📁 **Files generated:**
-• Filtered results: {filtered_output_file}
-• Detailed results: {detailed_output_file}
-• Failed searches: {failed_searches_file if failed_searches_file else 'None'}
+            📁 **Files generated:**
+            • Filtered results: {filtered_output_file}
+            • Detailed results: {detailed_output_file}
+            • Failed searches: {failed_searches_file if failed_searches_file else 'None'}
 
-🕒 Completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC"""
+            🕒 Completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC"""
 
                     searcher.send_gotify_notification(
                         "✅ Dimensions Search Completed",
@@ -609,7 +601,6 @@ jobs:
                         priority=7
                     )
 
-                    # Print summary
                     print("\n" + "="*50)
                     print("SEARCH SUMMARY")
                     print("="*50)
@@ -623,7 +614,6 @@ jobs:
                     else:
                         print("No failed searches to save")
 
-                    # Print search statistics
                     print("\nDETAILED SEARCH STATISTICS:")
                     print("-" * 80)
                     for search_text, stats in searcher.search_stats.items():
@@ -634,7 +624,6 @@ jobs:
                         filtered = stats.get('filtered', 0)
                         print(f"{status} {search_text[:35]:<35} {field_info:<15} | {total:>3} total → {retrieved:>3} retrieved → {filtered:>3} filtered | {stats.get('description', '')}")
 
-                    # Show sample publication
                     if unique_results:
                         print(f"\nSAMPLE FILTERED PUBLICATION:")
                         print("-" * 50)
@@ -645,7 +634,6 @@ jobs:
                     return filtered_output_file, detailed_output_file, failed_searches_file
 
                 except Exception as e:
-                    # Send failure notification
                     error_message = f"""❌ Dimensions search failed!
 
 🚨 **Error Details:**
@@ -656,7 +644,6 @@ jobs:
 Check GitHub Actions logs for more details."""
 
                     try:
-                        # Create minimal searcher for notification if main one failed
                         if 'searcher' not in locals():
                             searcher = DimensionsSearcher(headers, cookies, base_url)
                         
@@ -668,7 +655,7 @@ Check GitHub Actions logs for more details."""
                     except:
                         logger.error("Failed to send error notification to Gotify")
                     
-                    raise  # Re-raise the original exception
+                    raise
 
             if __name__ == "__main__":
                 try:
