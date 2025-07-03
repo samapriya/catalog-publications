@@ -89,7 +89,35 @@ jobs:
                         response = requests.get(self.base_url, params=params, headers=self.headers, cookies=self.cookies)
                         response.raise_for_status()
 
-                        data = response.json()
+                        # Check if response is empty or not JSON
+                        if not response.text.strip():
+                            logger.error(f"Empty response for '{search_text}'")
+                            self.search_stats[search_text] = {
+                                'description': search_description,
+                                'search_field': search_field,
+                                'count': 0,
+                                'retrieved': 0,
+                                'filtered': 0,
+                                'error': 'Empty response from API'
+                            }
+                            return {'count': 0, 'docs': []}
+
+                        # Try to parse JSON
+                        try:
+                            data = response.json()
+                        except json.JSONDecodeError as json_err:
+                            logger.error(f"JSON decode error for '{search_text}': {json_err}")
+                            logger.error(f"Response content: {response.text[:200]}...")  # Log first 200 chars
+                            self.search_stats[search_text] = {
+                                'description': search_description,
+                                'search_field': search_field,
+                                'count': 0,
+                                'retrieved': 0,
+                                'filtered': 0,
+                                'error': f'JSON decode error: {str(json_err)}'
+                            }
+                            return {'count': 0, 'docs': []}
+
                         count = data.get('count', 0)
                         docs = data.get('docs', [])
 
@@ -331,6 +359,49 @@ jobs:
 
                     except Exception as e:
                         logger.error(f"Error saving results: {e}")
+                        raise
+
+                def save_detailed_results(self, filename: str = None) -> str:
+                    """Save results with metadata (original format) to a separate file."""
+                    if filename is None:
+                        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                        filename = f"dimensions_detailed_results.json"
+
+                    unique_results_full = []
+                    seen_ids = set()
+                    
+                    for doc in self.all_results:
+                        doc_id = doc.get('id')
+                        if doc_id and doc_id not in seen_ids:
+                            seen_ids.add(doc_id)
+                            unique_results_full.append(doc)
+
+                    final_output = {
+                        'search_metadata': {
+                            'total_searches': len(self.search_stats),
+                            'total_results_before_dedup': len(self.all_results),
+                            'total_unique_results': len(unique_results_full),
+                            'search_timestamp': datetime.now().isoformat(),
+                            'search_statistics': self.search_stats
+                        },
+                        'unique_publications': unique_results_full
+                    }
+
+                    try:
+                        with open(filename, 'w', encoding='utf-8') as f:
+                            json.dump(final_output, f, indent=2, ensure_ascii=False)
+
+                        logger.info(f"Detailed results saved to {filename}")
+                        
+                        # Also create a latest version
+                        latest_filename = "dimensions_detailed_results_latest.json"
+                        with open(latest_filename, 'w', encoding='utf-8') as f:
+                            json.dump(final_output, f, indent=2, ensure_ascii=False)
+                        
+                        return filename
+
+                    except Exception as e:
+                        logger.error(f"Error saving detailed results: {e}")
                         raise
 
                 def save_failed_searches(self, filename: str = None) -> str:
