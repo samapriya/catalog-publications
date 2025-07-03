@@ -3,9 +3,6 @@ on:
   workflow_dispatch:  # Allow manual trigger
   schedule:
     # Run daily at 11:15 AM CDT (4:15 PM UTC during CDT, 5:15 PM UTC during CST)
-    # Note: GitHub Actions uses UTC, so adjust for your timezone
-    # CDT (UTC-5): 11:15 AM CDT = 4:15 PM UTC
-    # CST (UTC-6): 11:15 AM CST = 5:15 PM UTC
     - cron: '15 16 * * *'  # 4:15 PM UTC = 11:15 AM CDT
 
 jobs:
@@ -29,11 +26,13 @@ jobs:
       - name: Run Dimensions search script
         uses: jannekem/run-python-script-action@v1
         env:
-          # Add your Dimensions.ai authentication as GitHub secrets
-          # Go to Settings > Secrets and variables > Actions > New repository secret
+          # Dimensions.ai authentication
           DIMENSIONS_CSRF_TOKEN: ${{ secrets.DIMENSIONS_CSRF_TOKEN }}
           DIMENSIONS_AUTH_TICKET: ${{ secrets.DIMENSIONS_AUTH_TICKET }}
           DIMENSIONS_SESSION: ${{ secrets.DIMENSIONS_SESSION }}
+          # Gotify notifications
+          GOTIFY_URL: ${{ secrets.GOTIFY_URL }}
+          GOTIFY_TOKEN: ${{ secrets.GOTIFY_TOKEN }}
         with:
           script: |
             import json
@@ -59,6 +58,33 @@ jobs:
                     self.all_results = []
                     self.search_stats = {}
 
+                def send_gotify_notification(self, title: str, message: str, priority: int = 5):
+                    """Send notification to Gotify server."""
+                    gotify_url = os.getenv('GOTIFY_URL')
+                    gotify_token = os.getenv('GOTIFY_TOKEN')
+                    
+                    if not gotify_url or not gotify_token:
+                        logger.warning("Gotify URL or token not configured, skipping notification")
+                        return
+                    
+                    # Ensure URL ends with /message
+                    if not gotify_url.endswith('/'):
+                        gotify_url += '/'
+                    notification_url = f"{gotify_url}message?token={gotify_token}"
+                    
+                    payload = {
+                        "title": title,
+                        "message": message,
+                        "priority": priority
+                    }
+                    
+                    try:
+                        response = requests.post(notification_url, json=payload, timeout=10)
+                        response.raise_for_status()
+                        logger.info(f"Gotify notification sent successfully: {title}")
+                    except requests.exceptions.RequestException as e:
+                        logger.error(f"Failed to send Gotify notification: {e}")
+
                 @staticmethod
                 def clean_html_markup(text: str) -> str:
                     """Remove HTML markup from text, specifically search keyword highlighting."""
@@ -73,6 +99,75 @@ jobs:
                     cleaned = re.sub(r'<[^>]+>', '', cleaned)
                     
                     return cleaned.strip()
+
+                def calculate_token_relevance_score(self, doc: Dict[str, Any], search_text: str) -> Dict[str, float]:
+                    """Calculate relevance using token overlap method with detailed scoring."""
+                    title = self.clean_html_markup(doc.get('title', '')).lower()
+                    search_cleaned = search_text.replace('"', '').strip().lower()
+                    
+                    # Define stop words to filter out
+                    stop_words = {'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from'}
+                    
+                    # Tokenize and filter
+                    search_tokens = [w for w in search_cleaned.split() if w not in stop_words and len(w) > 2]
+                    title_tokens = [w for w in title.split() if w not in stop_words and len(w) > 2]
+                    
+                    scores = {
+                        'exact_matches': 0,
+                        'match_ratio': 0.0,
+                        'consecutive_bonus': 0.0,
+                        'position_bonus': 0.0,
+                        'highlighting_bonus': 0.0,
+                        'combined_score': 0.0
+                    }
+                    
+                    if not search_tokens:
+                        return scores
+                    
+                    # 1. Calculate exact token matches
+                    search_set = set(search_tokens)
+                    title_set = set(title_tokens)
+                    exact_matches = len(search_set & title_set)
+                    match_ratio = exact_matches / len(search_tokens)
+                    
+                    scores['exact_matches'] = exact_matches
+                    scores['match_ratio'] = match_ratio
+                    
+                    # 2. Bonus for consecutive word matches (bigrams)
+                    consecutive_bonus = 0
+                    for i in range(len(search_tokens) - 1):
+                        search_bigram = f"{search_tokens[i]} {search_tokens[i+1]}"
+                        if search_bigram in title:
+                            consecutive_bonus += 0.2
+                    scores['consecutive_bonus'] = consecutive_bonus
+                    
+                    # 3. Position bonus (earlier matches are better)
+                    position_bonus = 0
+                    if search_tokens and title_tokens:
+                        first_match_pos = float('inf')
+                        for token in search_tokens:
+                            if token in title_tokens:
+                                pos = title_tokens.index(token)
+                                first_match_pos = min(first_match_pos, pos)
+                        
+                        if first_match_pos != float('inf'):
+                            # Earlier positions get higher bonus (max 1.0)
+                            position_bonus = max(0, 1.0 - (first_match_pos / len(title_tokens)))
+                    scores['position_bonus'] = position_bonus
+                    
+                    # 4. HTML highlighting bonus (indicates API found relevant terms)
+                    if '<mark class="search-keyword">' in doc.get('title', ''):
+                        scores['highlighting_bonus'] = 2.0
+                    
+                    # 5. Combined score with weights
+                    scores['combined_score'] = (
+                        match_ratio * 10 +           # Base score from token overlap
+                        consecutive_bonus +          # Bonus for consecutive matches
+                        scores['highlighting_bonus'] + # Bonus for API highlighting
+                        position_bonus               # Bonus for early matches
+                    )
+                    
+                    return scores
 
                 def make_search_request(self, search_text: str, search_description: str = "", search_field: str = "full_search") -> Dict[str, Any]:
                     """Make a single search request to Dimensions.ai API."""
@@ -89,7 +184,6 @@ jobs:
                         response = requests.get(self.base_url, params=params, headers=self.headers, cookies=self.cookies)
                         response.raise_for_status()
 
-                        # Check if response is empty or not JSON
                         if not response.text.strip():
                             logger.error(f"Empty response for '{search_text}'")
                             self.search_stats[search_text] = {
@@ -102,12 +196,10 @@ jobs:
                             }
                             return {'count': 0, 'docs': []}
 
-                        # Try to parse JSON
                         try:
                             data = response.json()
                         except json.JSONDecodeError as json_err:
                             logger.error(f"JSON decode error for '{search_text}': {json_err}")
-                            logger.error(f"Response content: {response.text[:200]}...")  # Log first 200 chars
                             self.search_stats[search_text] = {
                                 'description': search_description,
                                 'search_field': search_field,
@@ -121,9 +213,7 @@ jobs:
                         count = data.get('count', 0)
                         docs = data.get('docs', [])
 
-                        # Filter docs by publication type and select best matches
-                        # IMPORTANT: Pass search_field to the filtering method
-                        filtered_docs = self.filter_and_select_best_docs(docs, search_field)
+                        filtered_docs = self.filter_and_select_best_docs(docs, search_field, search_text)
 
                         logger.info(f"Found {count} total results, {len(filtered_docs)} after filtering for '{search_text}'")
                         self.search_stats[search_text] = {
@@ -134,7 +224,6 @@ jobs:
                             'filtered': len(filtered_docs)
                         }
 
-                        # Return modified data with filtered docs
                         data['docs'] = filtered_docs
                         return data
 
@@ -150,12 +239,11 @@ jobs:
                         }
                         return {'count': 0, 'docs': []}
 
-                def filter_and_select_best_docs(self, docs: List[Dict[str, Any]], search_field: str = "full_search") -> List[Dict[str, Any]]:
-                    """Filter docs by publication type and select best matches based on score and type priority."""
+                def filter_and_select_best_docs(self, docs: List[Dict[str, Any]], search_field: str = "full_search", search_text: str = "") -> List[Dict[str, Any]]:
+                    """Filter docs by publication type and select best matches using token overlap for text searches."""
                     if not docs:
                         return []
 
-                    # Filter by allowed publication types (no abstracts)
                     allowed_types = {"article", "preprint", "book", "chapter"}
                     filtered_docs = []
                     
@@ -167,7 +255,6 @@ jobs:
                     if not filtered_docs:
                         return []
 
-                    # Group by cleaned title to handle duplicates
                     title_groups = {}
                     for doc in filtered_docs:
                         cleaned_title = self.clean_html_markup(doc.get('title', '')).lower().strip()
@@ -176,43 +263,48 @@ jobs:
                                 title_groups[cleaned_title] = []
                             title_groups[cleaned_title].append(doc)
 
-                    # Select best document for each title
                     selected_docs = []
                     for title, doc_group in title_groups.items():
                         if len(doc_group) == 1:
                             selected_docs.append(doc_group[0])
                         else:
-                            # Multiple docs with same title - prioritize article over preprint, then by score
                             best_doc = self.select_best_document(doc_group)
                             selected_docs.append(best_doc)
 
-                    # Sort by score descending
-                    selected_docs.sort(key=lambda x: x.get('score', 0), reverse=True)
-                    
-                    # Return behavior depends on search field type
-                    if search_field == "text_search":
-                        # For title searches, return only the single best document
+                    if search_field == "text_search" and search_text:
+                        for doc in selected_docs:
+                            relevance_scores = self.calculate_token_relevance_score(doc, search_text)
+                            doc['_relevance_scores'] = relevance_scores
+                            doc['_combined_relevance'] = relevance_scores['combined_score']
+                        
+                        selected_docs.sort(key=lambda x: (x.get('_combined_relevance', 0), x.get('score', 0)), reverse=True)
+                        
+                        if selected_docs:
+                            top_doc = selected_docs[0]
+                            relevance_scores = top_doc.get('_relevance_scores', {})
+                            logger.info(f"Best match for '{search_text}':")
+                            logger.info(f"  Title: {self.clean_html_markup(top_doc.get('title', ''))}")
+                            logger.info(f"  Score: {top_doc.get('score', 0):.1f}")
+                            logger.info(f"  Token match ratio: {relevance_scores.get('match_ratio', 0):.2f} ({relevance_scores.get('exact_matches', 0)} matches)")
+                            logger.info(f"  Combined relevance: {relevance_scores.get('combined_score', 0):.2f}")
+                        
                         return selected_docs[:1] if selected_docs else []
                     else:
-                        # For keyword searches (full_search), return all filtered documents
+                        selected_docs.sort(key=lambda x: x.get('score', 0), reverse=True)
                         return selected_docs
 
                 def select_best_document(self, doc_group: List[Dict[str, Any]]) -> Dict[str, Any]:
                     """Select the best document from a group with the same title."""
-                    # Separate by publication type
                     articles = [doc for doc in doc_group if doc.get('pub_class_id') == 'article']
                     preprints = [doc for doc in doc_group if doc.get('pub_class_id') == 'preprint']
                     books = [doc for doc in doc_group if doc.get('pub_class_id') == 'book']
                     chapters = [doc for doc in doc_group if doc.get('pub_class_id') == 'chapter']
 
-                    # Priority: article > book > chapter > preprint
                     for doc_list in [articles, books, chapters, preprints]:
                         if doc_list:
-                            # Within same type, select highest score
                             best_in_type = max(doc_list, key=lambda x: x.get('score', 0))
                             return best_in_type
 
-                    # Fallback: return highest score overall
                     return max(doc_group, key=lambda x: x.get('score', 0))
 
                 def search_multiple_terms(self, search_terms: List[Dict[str, str]], sleep_duration: float = 2.0):
@@ -223,14 +315,11 @@ jobs:
                         search_text = term_info['term']
                         description = term_info.get('description', term_info.get('category', ''))
 
-                        # Keyword searches always use full_search
                         result = self.make_search_request(search_text, description, "full_search")
 
-                        # Add results to our collection
                         if result.get('docs'):
                             self.all_results.extend(result['docs'])
 
-                        # Sleep between requests (except for the last one)
                         if i < len(search_terms) - 1:
                             logger.info(f"Sleeping for {sleep_duration} seconds...")
                             time.sleep(sleep_duration)
@@ -245,16 +334,12 @@ jobs:
                         scholar_titles = response.json()
                         logger.info(f"Found {len(scholar_titles)} scholar titles to search")
                         
-                        # Search for each title using text_search field (fixed for title searches)
                         for i, title in enumerate(scholar_titles):
-                            # Title searches always use text_search
                             result = self.make_search_request(title, "Scholar Diff Title", "text_search")
                             
-                            # Add results to our collection
                             if result.get('docs'):
                                 self.all_results.extend(result['docs'])
                             
-                            # Sleep between requests (except for the last one)
                             if i < len(scholar_titles) - 1:
                                 logger.info(f"Sleeping for {sleep_duration} seconds...")
                                 time.sleep(sleep_duration)
@@ -270,49 +355,39 @@ jobs:
                     """Filter publication to keep only the desired fields and clean HTML markup."""
                     filtered_pub = {}
                     
-                    # Handle title - clean HTML markup
                     title = publication.get('title')
                     filtered_pub['title'] = self.clean_html_markup(title)
                     
-                    # Handle authors - check author_list first, then editor_list if author_list is null
                     author_list = publication.get('author_list')
-                    if not author_list:  # if None or empty string
+                    if not author_list:
                         author_list = publication.get('editor_list')
                     filtered_pub['author_list'] = self.clean_html_markup(author_list)
                     
-                    # Handle journal and source titles - clean HTML markup
                     journal_title = publication.get('journal_title')
                     filtered_pub['journal_title'] = self.clean_html_markup(journal_title)
                     
                     source_title = publication.get('source_title')
                     filtered_pub['source_title'] = self.clean_html_markup(source_title)
                     
-                    # Handle DOI - clean HTML markup
                     doi = publication.get('doi')
                     filtered_pub['doi'] = self.clean_html_markup(doi)
                     
-                    # Handle short abstract - clean HTML markup
                     short_abstract = publication.get('short_abstract')
                     filtered_pub['short_abstract'] = self.clean_html_markup(short_abstract)
                     
-                    # Handle publication date - choose the oldest among print_pub_date, pub_date, online_pub_date
                     date_fields = ['print_pub_date', 'pub_date', 'online_pub_date']
                     available_dates = []
                     
                     for date_field in date_fields:
                         date_value = publication.get(date_field)
-                        if date_value:  # if not None and not empty
+                        if date_value:
                             available_dates.append(date_value)
                     
-                    # Choose the oldest (earliest) date if any are available
                     if available_dates:
-                        # Sort dates and take the first (oldest)
                         try:
-                            # Handle different date formats by converting to string and sorting
                             oldest_date = min(available_dates, key=lambda x: str(x))
                             filtered_pub['publication_date'] = oldest_date
                         except:
-                            # If sorting fails, just take the first available date
                             filtered_pub['publication_date'] = available_dates[0]
                     else:
                         filtered_pub['publication_date'] = None
@@ -330,7 +405,6 @@ jobs:
                         doc_id = doc.get('id')
                         if doc_id and doc_id not in seen_ids:
                             seen_ids.add(doc_id)
-                            # Filter the publication to keep only desired fields
                             filtered_pub = self.filter_publication_fields(doc)
                             unique_results.append(filtered_pub)
 
@@ -340,37 +414,28 @@ jobs:
                 def save_results(self, filename: str = None) -> str:
                     """Save the filtered unique publications to a JSON file."""
                     if filename is None:
-                        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
                         filename = f"dimensions_filtered_results.json"
 
                     unique_results = self.remove_duplicates()
 
-                    # Save only the unique publications array (no metadata)
-                    final_output = unique_results
-
                     try:
                         with open(filename, 'w', encoding='utf-8') as f:
-                            json.dump(final_output, f, indent=2, ensure_ascii=False)
+                            json.dump(unique_results, f, indent=2, ensure_ascii=False)
 
                         logger.info(f"Filtered results saved to {filename}")
-                        logger.info(f"Total publications saved: {len(unique_results)}")
                         
-                        # Also create a latest version for easy access
                         latest_filename = "dimensions_filtered_results_latest.json"
                         with open(latest_filename, 'w', encoding='utf-8') as f:
-                            json.dump(final_output, f, indent=2, ensure_ascii=False)
-                        logger.info(f"Latest version saved to {latest_filename}")
+                            json.dump(unique_results, f, indent=2, ensure_ascii=False)
                         
                         return filename
-
                     except Exception as e:
                         logger.error(f"Error saving results: {e}")
                         raise
 
                 def save_detailed_results(self, filename: str = None) -> str:
-                    """Save results with metadata (original format) to a separate file."""
+                    """Save results with metadata to a separate file."""
                     if filename is None:
-                        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
                         filename = f"dimensions_detailed_results.json"
 
                     unique_results_full = []
@@ -396,16 +461,12 @@ jobs:
                     try:
                         with open(filename, 'w', encoding='utf-8') as f:
                             json.dump(final_output, f, indent=2, ensure_ascii=False)
-
-                        logger.info(f"Detailed results saved to {filename}")
                         
-                        # Also create a latest version
                         latest_filename = "dimensions_detailed_results_latest.json"
                         with open(latest_filename, 'w', encoding='utf-8') as f:
                             json.dump(final_output, f, indent=2, ensure_ascii=False)
                         
                         return filename
-
                     except Exception as e:
                         logger.error(f"Error saving detailed results: {e}")
                         raise
@@ -413,10 +474,8 @@ jobs:
                 def save_failed_searches(self, filename: str = None) -> str:
                     """Save failed searches to a separate JSON file."""
                     if filename is None:
-                        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
                         filename = f"dimensions_failed_searches.json"
 
-                    # Filter out only the failed searches
                     failed_searches = {}
                     for search_text, stats in self.search_stats.items():
                         if 'error' in stats or stats.get('count', 0) == 0:
@@ -437,25 +496,17 @@ jobs:
                     try:
                         with open(filename, 'w', encoding='utf-8') as f:
                             json.dump(failed_output, f, indent=2, ensure_ascii=False)
-
-                        logger.info(f"Failed searches saved to {filename}")
-                        logger.info(f"Total failed searches: {len(failed_searches)}")
                         
-                        # Also create a latest version
                         latest_filename = "dimensions_failed_searches_latest.json"
                         with open(latest_filename, 'w', encoding='utf-8') as f:
                             json.dump(failed_output, f, indent=2, ensure_ascii=False)
-                        logger.info(f"Latest failed searches saved to {latest_filename}")
                         
                         return filename
-
                     except Exception as e:
                         logger.error(f"Error saving failed searches: {e}")
                         raise
 
             def main():
-                # Get authentication details from environment variables (for GitHub Actions)
-                # or use default values (for local testing)
                 csrf_token = os.getenv('DIMENSIONS_CSRF_TOKEN')
                 auth_ticket = os.getenv('DIMENSIONS_AUTH_TICKET')
                 session_cookie = os.getenv('DIMENSIONS_SESSION')
@@ -487,9 +538,7 @@ jobs:
                     "session": session_cookie,
                 }
 
-                # Define all search terms
                 search_terms = [
-                    # High-precision terms (URLs and exact names)
                     {'term': '"gee-community-catalog.org"', 'category': 'Official URL', 'description': 'Main website URL'},
                     {'term': '"Awesome GEE Community Catalog"', 'category': 'Official Name', 'description': 'Full official name'},
                     {'term': '"awesome-gee-community-datasets"', 'category': 'Repository Name', 'description': 'GitHub repository name'},
@@ -503,81 +552,136 @@ jobs:
                     {'term': '"projects/sat-io"', 'category': 'Project Path', 'description': 'Satellite IO project path'},
                 ]
 
-                # Initialize searcher
-                base_url = "https://app.dimensions.ai/discover/publication/results.json"
-                searcher = DimensionsSearcher(headers, cookies, base_url)
+                try:
+                    # Initialize searcher
+                    base_url = "https://app.dimensions.ai/discover/publication/results.json"
+                    searcher = DimensionsSearcher(headers, cookies, base_url)
 
-                # Perform keyword searches with 3-second delay between requests
-                searcher.search_multiple_terms(search_terms, sleep_duration=3.0)
+                    # Send start notification
+                    searcher.send_gotify_notification(
+                        "🔍 Dimensions Search Started",
+                        f"Starting search for {len(search_terms)} keyword terms + scholar diff titles",
+                        priority=3
+                    )
 
-                # Sleep before starting scholar diff searches
-                logger.info("Sleeping for 3 seconds before starting scholar diff searches...")
-                time.sleep(3.0)
+                    # Perform keyword searches
+                    searcher.search_multiple_terms(search_terms, sleep_duration=3.0)
 
-                # Fetch and search scholar diff titles
-                scholar_diff_url = "https://raw.githubusercontent.com/samapriya/catalog-publications/refs/heads/main/scholar_diff.json"
-                searcher.fetch_and_search_scholar_diff(scholar_diff_url, sleep_duration=3.0)
+                    # Sleep before scholar diff searches
+                    logger.info("Sleeping for 3 seconds before starting scholar diff searches...")
+                    time.sleep(3.0)
 
-                # Save filtered results (only essential fields)
-                filtered_output_file = searcher.save_results()
-                
-                # Save detailed results with metadata
-                detailed_output_file = searcher.save_detailed_results()
+                    # Fetch and search scholar diff titles
+                    scholar_diff_url = "https://raw.githubusercontent.com/samapriya/catalog-publications/refs/heads/main/scholar_diff.json"
+                    searcher.fetch_and_search_scholar_diff(scholar_diff_url, sleep_duration=3.0)
 
-                # Save failed searches
-                failed_searches_file = searcher.save_failed_searches()
+                    # Save results
+                    filtered_output_file = searcher.save_results()
+                    detailed_output_file = searcher.save_detailed_results()
+                    failed_searches_file = searcher.save_failed_searches()
 
-                # Print summary
-                print("\n" + "="*50)
-                print("SEARCH SUMMARY")
-                print("="*50)
-                print(f"Total search terms: {len(search_terms)}")
-                print(f"Total results before deduplication: {len(searcher.all_results)}")
-                unique_results = searcher.remove_duplicates()
-                print(f"Unique publications after deduplication: {len(unique_results)}")
-                print(f"Filtered results saved to: {filtered_output_file}")
-                print(f"Detailed results saved to: {detailed_output_file}")
-                if failed_searches_file:
-                    print(f"Failed searches saved to: {failed_searches_file}")
-                else:
-                    print("No failed searches to save")
+                    # Calculate statistics for notification
+                    unique_results = searcher.remove_duplicates()
+                    total_searches = len(searcher.search_stats)
+                    successful_searches = len([s for s in searcher.search_stats.values() if s.get('filtered', 0) > 0])
+                    failed_searches = len([s for s in searcher.search_stats.values() if 'error' in s or s.get('count', 0) == 0])
 
-                # Print search statistics
-                print("\nDETAILED SEARCH STATISTICS:")
-                print("-" * 80)
-                for search_text, stats in searcher.search_stats.items():
-                    status = "✓" if stats.get('filtered', 0) > 0 else "✗" if 'error' not in stats else "ERROR"
-                    field_info = f"[{stats.get('search_field', 'full_search')}]"
-                    total = stats.get('count', 0)
-                    retrieved = stats.get('retrieved', 0)
-                    filtered = stats.get('filtered', 0)
-                    print(f"{status} {search_text[:35]:<35} {field_info:<15} | {total:>3} total → {retrieved:>3} retrieved → {filtered:>3} filtered | {stats.get('description', '')}")
+                    # Send success notification with detailed stats
+                    success_message = f"""✅ Search completed successfully!
 
-                # Show sample of filtered data
-                if unique_results:
-                    print(f"\nSAMPLE FILTERED PUBLICATION:")
-                    print("-" * 50)
-                    sample_pub = unique_results[0]
-                    for field, value in sample_pub.items():
-                        print(f"{field}: {value}")
+📊 **Results Summary:**
+• Total publications found: {len(unique_results)}
+• Results before deduplication: {len(searcher.all_results)}
+• Total searches performed: {total_searches}
+• Successful searches: {successful_searches}
+• Failed searches: {failed_searches}
 
-                return filtered_output_file, detailed_output_file, failed_searches_file
+📁 **Files generated:**
+• Filtered results: {filtered_output_file}
+• Detailed results: {detailed_output_file}
+• Failed searches: {failed_searches_file if failed_searches_file else 'None'}
+
+🕒 Completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC"""
+
+                    searcher.send_gotify_notification(
+                        "✅ Dimensions Search Completed",
+                        success_message,
+                        priority=7
+                    )
+
+                    # Print summary
+                    print("\n" + "="*50)
+                    print("SEARCH SUMMARY")
+                    print("="*50)
+                    print(f"Total search terms: {len(search_terms)}")
+                    print(f"Total results before deduplication: {len(searcher.all_results)}")
+                    print(f"Unique publications after deduplication: {len(unique_results)}")
+                    print(f"Filtered results saved to: {filtered_output_file}")
+                    print(f"Detailed results saved to: {detailed_output_file}")
+                    if failed_searches_file:
+                        print(f"Failed searches saved to: {failed_searches_file}")
+                    else:
+                        print("No failed searches to save")
+
+                    # Print search statistics
+                    print("\nDETAILED SEARCH STATISTICS:")
+                    print("-" * 80)
+                    for search_text, stats in searcher.search_stats.items():
+                        status = "✓" if stats.get('filtered', 0) > 0 else "✗" if 'error' not in stats else "ERROR"
+                        field_info = f"[{stats.get('search_field', 'full_search')}]"
+                        total = stats.get('count', 0)
+                        retrieved = stats.get('retrieved', 0)
+                        filtered = stats.get('filtered', 0)
+                        print(f"{status} {search_text[:35]:<35} {field_info:<15} | {total:>3} total → {retrieved:>3} retrieved → {filtered:>3} filtered | {stats.get('description', '')}")
+
+                    # Show sample publication
+                    if unique_results:
+                        print(f"\nSAMPLE FILTERED PUBLICATION:")
+                        print("-" * 50)
+                        sample_pub = unique_results[0]
+                        for field, value in sample_pub.items():
+                            print(f"{field}: {value}")
+
+                    return filtered_output_file, detailed_output_file, failed_searches_file
+
+                except Exception as e:
+                    # Send failure notification
+                    error_message = f"""❌ Dimensions search failed!
+
+🚨 **Error Details:**
+{str(e)}
+
+🕒 Failed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC
+
+Check GitHub Actions logs for more details."""
+
+                    try:
+                        # Create minimal searcher for notification if main one failed
+                        if 'searcher' not in locals():
+                            searcher = DimensionsSearcher(headers, cookies, base_url)
+                        
+                        searcher.send_gotify_notification(
+                            "❌ Dimensions Search Failed",
+                            error_message,
+                            priority=9
+                        )
+                    except:
+                        logger.error("Failed to send error notification to Gotify")
+                    
+                    raise  # Re-raise the original exception
 
             if __name__ == "__main__":
                 try:
-                    # Check if we're running in GitHub Actions
                     is_github_actions = os.getenv('GITHUB_ACTIONS') == 'true'
                     
                     if is_github_actions:
                         logger.info("Running in GitHub Actions environment")
                         
-                        # Check if required environment variables are set
                         required_vars = ['DIMENSIONS_CSRF_TOKEN', 'DIMENSIONS_AUTH_TICKET', 'DIMENSIONS_SESSION']
                         missing_vars = [var for var in required_vars if not os.getenv(var)]
                         
                         if missing_vars:
                             logger.warning(f"Missing environment variables: {missing_vars}")
-                            logger.warning("The script will use default values, which may not work")
                     
                     filtered_file, detailed_file, failed_file = main()
                     print(f"\n🎉 Search completed successfully!")
@@ -614,16 +718,23 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Add only the JSON result files
           git add dimensions_filtered_results_*.json dimensions_detailed_results_*.json dimensions_failed_searches_*.json 2>/dev/null || echo "No result files to add"
           
-          # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update Dimensions GEE search results ${today} UTC"
-            
-            # Pull latest changes and push
             git pull origin main --rebase || git pull origin master --rebase
             git push origin HEAD || echo "Failed to push changes"
           fi
+
+      - name: Send final notification on failure
+        if: failure()
+        run: |
+          curl -X POST "${{ secrets.GOTIFY_URL }}message?token=${{ secrets.GOTIFY_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "title": "❌ GitHub Action Failed",
+              "message": "Dimensions search GitHub Action failed unexpectedly. Check the action logs for details.\n\nFailed at: '"$(date -u)"'",
+              "priority": 10
+            }' || echo "Failed to send failure notification"
