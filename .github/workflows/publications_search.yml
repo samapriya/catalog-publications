@@ -122,7 +122,8 @@ jobs:
                         docs = data.get('docs', [])
 
                         # Filter docs by publication type and select best matches
-                        filtered_docs = self.filter_and_select_best_docs(docs)
+                        # IMPORTANT: Pass search_field to the filtering method
+                        filtered_docs = self.filter_and_select_best_docs(docs, search_field)
 
                         logger.info(f"Found {count} total results, {len(filtered_docs)} after filtering for '{search_text}'")
                         self.search_stats[search_text] = {
@@ -149,7 +150,7 @@ jobs:
                         }
                         return {'count': 0, 'docs': []}
 
-                def filter_and_select_best_docs(self, docs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+                def filter_and_select_best_docs(self, docs: List[Dict[str, Any]], search_field: str = "full_search") -> List[Dict[str, Any]]:
                     """Filter docs by publication type and select best matches based on score and type priority."""
                     if not docs:
                         return []
@@ -185,11 +186,16 @@ jobs:
                             best_doc = self.select_best_document(doc_group)
                             selected_docs.append(best_doc)
 
-                    # Sort by score descending and return only the highest scoring document
+                    # Sort by score descending
                     selected_docs.sort(key=lambda x: x.get('score', 0), reverse=True)
                     
-                    # Return only the single best document per search
-                    return selected_docs[:1] if selected_docs else []
+                    # Return behavior depends on search field type
+                    if search_field == "text_search":
+                        # For title searches, return only the single best document
+                        return selected_docs[:1] if selected_docs else []
+                    else:
+                        # For keyword searches (full_search), return all filtered documents
+                        return selected_docs
 
                 def select_best_document(self, doc_group: List[Dict[str, Any]]) -> Dict[str, Any]:
                     """Select the best document from a group with the same title."""
@@ -445,47 +451,6 @@ jobs:
 
                     except Exception as e:
                         logger.error(f"Error saving failed searches: {e}")
-                        raise
-                    """Save results with metadata (original format) to a separate file."""
-                    if filename is None:
-                        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-                        filename = f"dimensions_detailed_results.json"
-
-                    unique_results_full = []
-                    seen_ids = set()
-                    
-                    for doc in self.all_results:
-                        doc_id = doc.get('id')
-                        if doc_id and doc_id not in seen_ids:
-                            seen_ids.add(doc_id)
-                            unique_results_full.append(doc)
-
-                    final_output = {
-                        'search_metadata': {
-                            'total_searches': len(self.search_stats),
-                            'total_results_before_dedup': len(self.all_results),
-                            'total_unique_results': len(unique_results_full),
-                            'search_timestamp': datetime.now().isoformat(),
-                            'search_statistics': self.search_stats
-                        },
-                        'unique_publications': unique_results_full
-                    }
-
-                    try:
-                        with open(filename, 'w', encoding='utf-8') as f:
-                            json.dump(final_output, f, indent=2, ensure_ascii=False)
-
-                        logger.info(f"Detailed results saved to {filename}")
-                        
-                        # Also create a latest version
-                        latest_filename = "dimensions_detailed_results_latest.json"
-                        with open(latest_filename, 'w', encoding='utf-8') as f:
-                            json.dump(final_output, f, indent=2, ensure_ascii=False)
-                        
-                        return filename
-
-                    except Exception as e:
-                        logger.error(f"Error saving detailed results: {e}")
                         raise
 
             def main():
