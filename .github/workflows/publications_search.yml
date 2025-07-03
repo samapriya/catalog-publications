@@ -579,21 +579,7 @@ jobs:
                     successful_searches = len([s for s in searcher.search_stats.values() if s.get('filtered', 0) > 0])
                     failed_searches = len([s for s in searcher.search_stats.values() if 'error' in s or s.get('count', 0) == 0])
 
-                    success_message = f"""✅ Search completed successfully!
-
-            📊 **Results Summary:**
-            • Total publications found: {len(unique_results)}
-            • Results before deduplication: {len(searcher.all_results)}
-            • Total searches performed: {total_searches}
-            • Successful searches: {successful_searches}
-            • Failed searches: {failed_searches}
-
-            📁 **Files generated:**
-            • Filtered results: {filtered_output_file}
-            • Detailed results: {detailed_output_file}
-            • Failed searches: {failed_searches_file if failed_searches_file else 'None'}
-
-            🕒 Completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC"""
+                    success_message = f"✅ Search completed successfully!\n\n📊 Results Summary:\n• Total publications found: {len(unique_results)}\n• Results before deduplication: {len(searcher.all_results)}\n• Total searches performed: {total_searches}\n• Successful searches: {successful_searches}\n• Failed searches: {failed_searches}\n\n📁 Files generated:\n• Filtered results: {filtered_output_file}\n• Detailed results: {detailed_output_file}\n• Failed searches: {failed_searches_file if failed_searches_file else 'None'}\n\n🕒 Completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC"
 
                     searcher.send_gotify_notification(
                         "✅ Dimensions Search Completed",
@@ -634,14 +620,7 @@ jobs:
                     return filtered_output_file, detailed_output_file, failed_searches_file
 
                 except Exception as e:
-                    error_message = f"""❌ Dimensions search failed!
-
-🚨 **Error Details:**
-{str(e)}
-
-🕒 Failed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC
-
-Check GitHub Actions logs for more details."""
+                    error_message = f"❌ Dimensions search failed!\n\n🚨 Error Details:\n{str(e)}\n\n🕒 Failed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\nCheck GitHub Actions logs for more details."
 
                     try:
                         if 'searcher' not in locals():
