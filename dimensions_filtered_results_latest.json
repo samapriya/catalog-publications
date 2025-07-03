@@ -639,13 +639,13 @@
     "publication_date": "2025-05-07"
   },
   {
-    "title": "Improved streamflow simulations in hydrologically diverse basins using physically-informed deep learning models",
+    "title": "Improved Streamflow Simulations in Hydrologically Diverse Basins using Physically Informed Deep Learning Models",
     "author_list": "Bhanu Magotra, Manabendra Saharia, C. T. Dhanya",
-    "journal_title": "Hydrological Sciences Journal",
-    "source_title": "Hydrological Sciences Journal",
-    "doi": "10.1080/02626667.2025.2458545",
-    "short_abstract": "Physically-informed deep learning models, especially long short-term memory (LSTM) networks, have shown promise in large-scale streamflow simulations. However, an in-depth understanding of the relativ",
-    "publication_date": "2025-02-24"
+    "journal_title": "EarthArXiv",
+    "source_title": "EarthArXiv",
+    "doi": "10.31223/x5r72d",
+    "short_abstract": "Physically informed deep learning models, especially Long Short-Term Memory (LSTM) networks, have shown promise in large-scale streamflow simulations. However, an in-depth understanding of the relativ",
+    "publication_date": "2024-12-24"
   },
   {
     "title": "Pillars of Cloud‐Based Earth Observation Science Education",
@@ -801,13 +801,13 @@
     "publication_date": "2024-11"
   },
   {
-    "title": "Detecting Coseismic Landslides in GEE Using Machine-Learning Algorithms on Combined Optical and Radar Imagery",
+    "title": "Detecting Coseismic Landslides in GEE Using Machine Learning Algorithms on Combined Optical and Radar Imagery",
     "author_list": "Stefan Peters, Jixue Liu, Gunnar Keppel, Anna Wendleder, Peiliang Xu",
-    "journal_title": "Preprints.org",
-    "source_title": "Preprints.org",
-    "doi": "10.20944/preprints202404.0724.v1",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs16101722",
     "short_abstract": "Landslides, resulting from disturbances in slope equilibrium, pose a significant threat to landscapes, infrastructure, and human life. Triggered by factors such as intense precipitation, seismic activ",
-    "publication_date": "2024-04-11"
+    "publication_date": "2024-05-13"
   },
   {
     "title": "An Integrated Conceptual Framework for ICT-based Market Information Source Adoption among Smallholder Farmers",
@@ -846,13 +846,13 @@
     "publication_date": "2024-11"
   },
   {
-    "title": "Exploring the Impact of Improved Maize Seeds on Tanzanian Family Farms: A Maize Seed Stochastic Simulation (MaizeSim) Approach",
-    "author_list": "Ibrahim L Kadigi, Eliaza J. Mkuna, Stefan Sieber",
-    "journal_title": "Preprints.org",
-    "source_title": "Preprints.org",
-    "doi": "10.20944/preprints202504.0316.v1",
-    "short_abstract": "Investment in modern agricultural practices (MAP) is crucial for improving crop productivity and household food security in developing countries like Tanzania, where agriculture forms the backbone of",
-    "publication_date": "2025-04-03"
+    "title": "The theoretical potential for tailored fertilizer application. The case of maize in Sub-Saharan Africa",
+    "author_list": "Joost van Heerwaarden",
+    "journal_title": "Field Crops Research",
+    "source_title": "Field Crops Research",
+    "doi": "10.1016/j.fcr.2022.108677",
+    "short_abstract": "Adjusting crop nutrient rates to local differences in soil fertility and yield potential is considered a promising way of improving fertilizer use efficiency in smallholder agriculture. Despite its ob",
+    "publication_date": "2022-11"
   },
   {
     "title": "Remote Sensing Insights into Urban–Rural Imbalance and Sustainable Development: A Case Study in Guangdong, China",

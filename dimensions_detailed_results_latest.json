@@ -3,7 +3,7 @@
     "total_searches": 80,
     "total_results_before_dedup": 177,
     "total_unique_results": 119,
-    "search_timestamp": "2025-07-03T20:20:09.868872",
+    "search_timestamp": "2025-07-03T21:18:33.749944",
     "search_statistics": {
       "\"gee-community-catalog.org\"": {
         "description": "Main website URL",
@@ -8935,7 +8935,16 @@
       "navigation": {
         "path": "/details/publication/pub.1173152545",
         "abstract_json": "/details/sources/publication/pub.1173152545/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 8,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 0.8,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.8
+      },
+      "_combined_relevance": 13.8
     },
     {
       "title": "<mark class=\"search-keyword\">Genomic</mark>, <mark class=\"search-keyword\">Phenotypic</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Environmental</mark> <mark class=\"search-keyword\">Correlates</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Speciation</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Midwife</mark> <mark class=\"search-keyword\">Toads</mark> (<mark class=\"search-keyword\">Alytes</mark>)",
@@ -9121,7 +9130,16 @@
       "navigation": {
         "path": "/details/publication/pub.1186937210",
         "abstract_json": "/details/sources/publication/pub.1186937210/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 8,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 0.8,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.8
+      },
+      "_combined_relevance": 13.8
     },
     {
       "title": "Siberia Integrated Regional Study: multidisciplinary <mark class=\"search-keyword\">investigations</mark> <mark class=\"search-keyword\">of</mark> the dynamic relationship between the Siberian environment <mark class=\"search-keyword\">and</mark> global climate change",
@@ -9195,7 +9213,16 @@
       "navigation": {
         "path": "/details/publication/pub.1042065782",
         "abstract_json": "/details/sources/publication/pub.1042065782/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 0,
+        "match_ratio": 0.0,
+        "consecutive_bonus": 0,
+        "position_bonus": 0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 2.0
+      },
+      "_combined_relevance": 2.0
     },
     {
       "title": "Oral abstracts of the 21st International AIDS Conference 18–22 July 2016, Durban, South Africa",
@@ -9280,7 +9307,16 @@
       "navigation": {
         "path": "/details/publication/pub.1021378681",
         "abstract_json": "/details/sources/publication/pub.1021378681/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 0,
+        "match_ratio": 0.0,
+        "consecutive_bonus": 0,
+        "position_bonus": 0,
+        "highlighting_bonus": 0.0,
+        "combined_score": 0.0
+      },
+      "_combined_relevance": 0.0
     },
     {
       "title": "<mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">Review</mark> <mark class=\"search-keyword\">Study</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Intelligent</mark> <mark class=\"search-keyword\">Road</mark> <mark class=\"search-keyword\">Crack</mark> <mark class=\"search-keyword\">Detection</mark>: <mark class=\"search-keyword\">Algorithms</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Systems</mark>",
@@ -9464,113 +9500,59 @@
       "navigation": {
         "path": "/details/publication/pub.1188450681",
         "abstract_json": "/details/sources/publication/pub.1188450681/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 8,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
-      "title": "<mark class=\"search-keyword\">Improved</mark> <mark class=\"search-keyword\">streamflow</mark> <mark class=\"search-keyword\">simulations</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">hydrologically</mark> <mark class=\"search-keyword\">diverse</mark> <mark class=\"search-keyword\">basins</mark> <mark class=\"search-keyword\">using</mark> <mark class=\"search-keyword\">physically</mark>-<mark class=\"search-keyword\">informed</mark> <mark class=\"search-keyword\">deep</mark> <mark class=\"search-keyword\">learning</mark> <mark class=\"search-keyword\">models</mark>",
+      "title": "<mark class=\"search-keyword\">Improved</mark> <mark class=\"search-keyword\">Streamflow</mark> <mark class=\"search-keyword\">Simulations</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Hydrologically</mark> <mark class=\"search-keyword\">Diverse</mark> <mark class=\"search-keyword\">Basins</mark> <mark class=\"search-keyword\">using</mark> <mark class=\"search-keyword\">Physically</mark> <mark class=\"search-keyword\">Informed</mark> <mark class=\"search-keyword\">Deep</mark> <mark class=\"search-keyword\">Learning</mark> <mark class=\"search-keyword\">Models</mark>",
       "author_list": "Bhanu Magotra, Manabendra Saharia, C. T. Dhanya",
-      "issn": [
-        "0262-6667",
-        "2150-3435"
-      ],
-      "source_title_id": "jour.1137340",
-      "journal_title": "Hydrological Sciences Journal",
+      "source_title_id": "jour.1381027",
+      "journal_title": "EarthArXiv",
       "abstract_language": "en",
-      "acknowledgements": "This research was conducted in the HydroSense lab (https://hydrosense.iitd.ac.in/) of IIT Delhi, and the authors acknowledge the IIT Delhi High-Performance Computing facility for providing computational and storage resources. Dr Manabendra Saharia gratefully acknowledges financial support for this work through grants from Ministry of Earth Sciences/IITM Pune Monsoon Mission III (RP04574) and Ministry of Earth Sciences (RP04741). The authors gratefully acknowledge the Central Water Commission (CWC), the National Water Informatics Centre (NWIC), and the Ministry of Jal Shakti (MoJS) for providing the streamflow datasets used in this study. The authors also acknowledge ISRO NRSC for providing access to the 1:50 000 LU/LC dataset.",
-      "funding_section": "This work was supported by the Ministry of Earth Sciences [RP04741]; Ministry of Earth Sciences, India – Monsoon Mission III [RP04574].",
       "linkout_oa": "https://doi.org/10.31223/x5r72d",
-      "pub_class": "Article",
-      "cited_dimensions_ids": [
-        "pub.1057634516",
-        "pub.1083844316",
-        "pub.1118250965",
-        "pub.1037476279",
-        "pub.1107274642",
-        "pub.1047938980",
-        "pub.1110128153",
-        "pub.1143255563",
-        "pub.1085728160",
-        "pub.1035648289",
-        "pub.1026275146",
-        "pub.1091422733",
-        "pub.1123936212",
-        "pub.1132628221",
-        "pub.1144081668",
-        "pub.1069134682",
-        "pub.1160571309",
-        "pub.1121926811",
-        "pub.1061218416",
-        "pub.1038420220",
-        "pub.1173148729",
-        "pub.1033005930",
-        "pub.1122850616",
-        "pub.1168052202",
-        "pub.1018367015",
-        "pub.1122254905",
-        "pub.1020771331",
-        "pub.1142057836",
-        "pub.1031769688",
-        "pub.1123785069",
-        "pub.1092313641",
-        "pub.1012257839",
-        "pub.1035412017",
-        "pub.1118139057",
-        "pub.1032641497",
-        "pub.1170527701",
-        "pub.1013038841",
-        "pub.1136825281",
-        "pub.1111868149",
-        "pub.1124359023",
-        "pub.1127686014",
-        "pub.1024097962",
-        "pub.1046796992",
-        "pub.1121969807",
-        "pub.1127652769",
-        "pub.1165124701",
-        "pub.1154916053",
-        "pub.1049643242",
-        "pub.1057615917",
-        "pub.1038140272",
-        "pub.1049708496"
-      ],
-      "doi": "10.1080/02626667.2025.2458545",
-      "id": "pub.1184963322",
-      "issue": "5",
-      "online_pub_date": "2025-02-24",
-      "pages": "775-788",
-      "print_pub_date": "2025-04-04",
-      "pub_date": "2025-02-24",
-      "pub_year": 2025,
-      "volume": "70",
+      "pub_class": "Preprint",
+      "doi": "10.31223/x5r72d",
+      "id": "pub.1183800805",
+      "online_pub_date": "2024-12-24",
+      "pub_date": "2024-12-24",
+      "pub_year": 2024,
       "times_cited": 0,
       "full_text": "(This result is restricted)",
       "score": 36.57621,
       "affiliations_details": [],
       "authors_full": [],
-      "source_title": "Hydrological Sciences Journal",
-      "pub_class_id": "article",
-      "short_abstract": "<mark class=\"search-keyword\">Physically</mark>-<mark class=\"search-keyword\">informed</mark> <mark class=\"search-keyword\">deep</mark> <mark class=\"search-keyword\">learning</mark> <mark class=\"search-keyword\">models</mark>, especially long short-term memory (LSTM) networks, have shown promise <mark class=\"search-keyword\">in</mark> large-scale <mark class=\"search-keyword\">streamflow</mark> <mark class=\"search-keyword\">simulations</mark>. However, an <mark class=\"search-keyword\">in</mark>-depth understanding of the relativ",
+      "source_title": "EarthArXiv",
+      "pub_class_id": "preprint",
+      "short_abstract": "<mark class=\"search-keyword\">Physically</mark> <mark class=\"search-keyword\">informed</mark> <mark class=\"search-keyword\">deep</mark> <mark class=\"search-keyword\">learning</mark> <mark class=\"search-keyword\">models</mark>, especially Long Short-Term Memory (LSTM) networks, have shown promise <mark class=\"search-keyword\">in</mark> large-scale <mark class=\"search-keyword\">streamflow</mark> <mark class=\"search-keyword\">simulations</mark>. However, an <mark class=\"search-keyword\">in</mark>-depth understanding of the relativ",
       "abstract_is_shortened": true,
-      "abstract_original_length": 1059,
+      "abstract_original_length": 1058,
       "ai_summary": {
-        "tldr_json": "/ai-summary/publication/pub.1184963322/tldr.json",
-        "keypoints_json": "/ai-summary/publication/pub.1184963322/keypoints.json",
-        "keywords_json": "/ai-summary/publication/pub.1184963322/keywords.json"
+        "tldr_json": "/ai-summary/publication/pub.1183800805/tldr.json",
+        "keypoints_json": "/ai-summary/publication/pub.1183800805/keypoints.json",
+        "keywords_json": "/ai-summary/publication/pub.1183800805/keywords.json"
       },
       "openurl": null,
       "orcid": {
         "api_add_path": {
-          "path": "/orcid/api/publication/add.json?id=pub.1184963322"
+          "path": "/orcid/api/publication/add.json?id=pub.1183800805"
         }
       },
-      "chat_with_pdf": "https://www.readcube.com/dimensions_ask_ai/10.1080/02626667.2025.2458545",
+      "chat_with_pdf": "https://www.readcube.com/dimensions_ask_ai/10.31223/x5r72d",
       "altmetric_badge": {
-        "value": "10.1080/02626667.2025.2458545",
+        "value": "10.31223/x5r72d",
         "id_type": "doi",
         "template": "dimensions"
       },
       "readcube": {
-        "doi": "10.1080/02626667.2025.2458545",
+        "doi": "10.31223/x5r72d",
         "pmid": null,
         "pmc_id": null,
         "arxiv": null,
@@ -9579,9 +9561,18 @@
         "entityid": null
       },
       "navigation": {
-        "path": "/details/publication/pub.1184963322",
-        "abstract_json": "/details/sources/publication/pub.1184963322/abstract.json"
-      }
+        "path": "/details/publication/pub.1183800805",
+        "abstract_json": "/details/sources/publication/pub.1183800805/abstract.json"
+      },
+      "_relevance_scores": {
+        "exact_matches": 12,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.9999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 15.0
+      },
+      "_combined_relevance": 15.0
     },
     {
       "title": "<mark class=\"search-keyword\">Pillars</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Cloud</mark>‐<mark class=\"search-keyword\">Based</mark> <mark class=\"search-keyword\">Earth</mark> <mark class=\"search-keyword\">Observation</mark> <mark class=\"search-keyword\">Science</mark> <mark class=\"search-keyword\">Education</mark>",
@@ -9730,7 +9721,16 @@
       "navigation": {
         "path": "/details/publication/pub.1162787053",
         "abstract_json": "/details/sources/publication/pub.1162787053/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 5,
+        "match_ratio": 0.7142857142857143,
+        "consecutive_bonus": 0.8,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 10.942857142857143
+      },
+      "_combined_relevance": 10.942857142857143
     },
     {
       "title": "<mark class=\"search-keyword\">Relationships</mark> <mark class=\"search-keyword\">among</mark> <mark class=\"search-keyword\">soil</mark> <mark class=\"search-keyword\">moisture</mark> <mark class=\"search-keyword\">at</mark> <mark class=\"search-keyword\">various</mark> <mark class=\"search-keyword\">depths</mark> <mark class=\"search-keyword\">under</mark> <mark class=\"search-keyword\">diverse</mark> <mark class=\"search-keyword\">climate</mark>, <mark class=\"search-keyword\">land</mark> <mark class=\"search-keyword\">cover</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">soil</mark> <mark class=\"search-keyword\">texture</mark>",
@@ -9830,7 +9830,16 @@
       "navigation": {
         "path": "/details/publication/pub.1173617413",
         "abstract_json": "/details/sources/publication/pub.1173617413/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 12,
+        "match_ratio": 0.9230769230769231,
+        "consecutive_bonus": 1.9999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.230769230769232
+      },
+      "_combined_relevance": 14.230769230769232
     },
     {
       "title": "<mark class=\"search-keyword\">The</mark> <mark class=\"search-keyword\">interplay</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">cloud</mark> <mark class=\"search-keyword\">cover</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">3D</mark> <mark class=\"search-keyword\">urban</mark> <mark class=\"search-keyword\">structures</mark> <mark class=\"search-keyword\">reduces</mark> <mark class=\"search-keyword\">human</mark> <mark class=\"search-keyword\">access</mark> <mark class=\"search-keyword\">to</mark> <mark class=\"search-keyword\">sunlight</mark>",
@@ -9943,7 +9952,16 @@
       "navigation": {
         "path": "/details/publication/pub.1175322295",
         "abstract_json": "/details/sources/publication/pub.1175322295/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 9,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
       "title": "<mark class=\"search-keyword\">Exacerbated</mark> <mark class=\"search-keyword\">heat</mark> <mark class=\"search-keyword\">stress</mark> <mark class=\"search-keyword\">induced</mark> <mark class=\"search-keyword\">by</mark> <mark class=\"search-keyword\">urban</mark> <mark class=\"search-keyword\">browning</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Global</mark> <mark class=\"search-keyword\">South</mark>",
@@ -10084,7 +10102,16 @@
       "navigation": {
         "path": "/details/publication/pub.1184155648",
         "abstract_json": "/details/sources/publication/pub.1184155648/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 8,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
       "title": "<mark class=\"search-keyword\">Ecosystem</mark> <mark class=\"search-keyword\">services</mark> <mark class=\"search-keyword\">to</mark> <mark class=\"search-keyword\">support</mark> <mark class=\"search-keyword\">sustainable</mark> <mark class=\"search-keyword\">development</mark>: <mark class=\"search-keyword\">The</mark> <mark class=\"search-keyword\">modifiable</mark> <mark class=\"search-keyword\">areal</mark> <mark class=\"search-keyword\">unit</mark> <mark class=\"search-keyword\">problem</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">transition</mark> <mark class=\"search-keyword\">between</mark> <mark class=\"search-keyword\">evaluation</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">management</mark> <mark class=\"search-keyword\">units</mark>",
@@ -10234,7 +10261,16 @@
       "navigation": {
         "path": "/details/publication/pub.1171281133",
         "abstract_json": "/details/sources/publication/pub.1171281133/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 14,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.7999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.8
+      },
+      "_combined_relevance": 14.8
     },
     {
       "title": "<mark class=\"search-keyword\">Rainwater</mark> <mark class=\"search-keyword\">Harvesting</mark> <mark class=\"search-keyword\">Site</mark> <mark class=\"search-keyword\">Selection</mark> <mark class=\"search-keyword\">for</mark> <mark class=\"search-keyword\">Drought</mark>-<mark class=\"search-keyword\">Prone</mark> <mark class=\"search-keyword\">Areas</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Somali</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Borena</mark> <mark class=\"search-keyword\">Zones</mark>, <mark class=\"search-keyword\">Oromia</mark> <mark class=\"search-keyword\">Regional</mark> <mark class=\"search-keyword\">State</mark>, <mark class=\"search-keyword\">Ethiopia</mark>: <mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">Geospatial</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Multi</mark>-<mark class=\"search-keyword\">Criteria</mark> <mark class=\"search-keyword\">Decision</mark> <mark class=\"search-keyword\">Analysis</mark>",
@@ -10402,7 +10438,16 @@
       "navigation": {
         "path": "/details/publication/pub.1173368003",
         "abstract_json": "/details/sources/publication/pub.1173368003/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 17,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 2.1999999999999997,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 15.2
+      },
+      "_combined_relevance": 15.2
     },
     {
       "title": "<mark class=\"search-keyword\">Influence</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Forest</mark> <mark class=\"search-keyword\">Cover</mark> <mark class=\"search-keyword\">Loss</mark> <mark class=\"search-keyword\">on</mark> <mark class=\"search-keyword\">Land</mark> <mark class=\"search-keyword\">Surface</mark> <mark class=\"search-keyword\">Temperature</mark> <mark class=\"search-keyword\">Differs</mark> <mark class=\"search-keyword\">by</mark> <mark class=\"search-keyword\">Drivers</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">China</mark>",
@@ -10511,7 +10556,16 @@
       "navigation": {
         "path": "/details/publication/pub.1182015925",
         "abstract_json": "/details/sources/publication/pub.1182015925/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 10,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
       "title": "<mark class=\"search-keyword\">Utilize</mark> <mark class=\"search-keyword\">imagery</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">crowdsourced</mark> <mark class=\"search-keyword\">data</mark> <mark class=\"search-keyword\">on</mark> <mark class=\"search-keyword\">spatial</mark> <mark class=\"search-keyword\">employment</mark> <mark class=\"search-keyword\">modelling</mark>",
@@ -10573,7 +10627,16 @@
       "navigation": {
         "path": "/details/publication/pub.1184444315",
         "abstract_json": "/details/sources/publication/pub.1184444315/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 7,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 0.8,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.8
+      },
+      "_combined_relevance": 13.8
     },
     {
       "title": "<mark class=\"search-keyword\">Mapping</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">global</mark> <mark class=\"search-keyword\">distribution</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">conservation</mark> <mark class=\"search-keyword\">status</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">oases</mark>—<mark class=\"search-keyword\">ecosystems</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">pivotal</mark> <mark class=\"search-keyword\">biocultural</mark> <mark class=\"search-keyword\">relevance</mark>",
@@ -10739,7 +10802,16 @@
       "navigation": {
         "path": "/details/publication/pub.1186103599",
         "abstract_json": "/details/sources/publication/pub.1186103599/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 8,
+        "match_ratio": 0.8,
+        "consecutive_bonus": 0.8,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 11.8
+      },
+      "_combined_relevance": 11.8
     },
     {
       "title": "<mark class=\"search-keyword\">Explainable</mark> <mark class=\"search-keyword\">artificial</mark> <mark class=\"search-keyword\">intelligence</mark> (<mark class=\"search-keyword\">XAI</mark>) <mark class=\"search-keyword\">for</mark> <mark class=\"search-keyword\">interpreting</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">contributing</mark> <mark class=\"search-keyword\">factors</mark> <mark class=\"search-keyword\">feed</mark> <mark class=\"search-keyword\">into</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">wildfire</mark> <mark class=\"search-keyword\">susceptibility</mark> <mark class=\"search-keyword\">prediction</mark> <mark class=\"search-keyword\">model</mark>",
@@ -10854,7 +10926,16 @@
       "navigation": {
         "path": "/details/publication/pub.1156454175",
         "abstract_json": "/details/sources/publication/pub.1156454175/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 13,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.7999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.8
+      },
+      "_combined_relevance": 14.8
     },
     {
       "title": "<mark class=\"search-keyword\">Support</mark> <mark class=\"search-keyword\">Vector</mark> <mark class=\"search-keyword\">Machine</mark> <mark class=\"search-keyword\">Algorithm</mark> <mark class=\"search-keyword\">for</mark> <mark class=\"search-keyword\">Mapping</mark> <mark class=\"search-keyword\">Land</mark> <mark class=\"search-keyword\">Cover</mark> <mark class=\"search-keyword\">Dynamics</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Senegal</mark>, <mark class=\"search-keyword\">West</mark> <mark class=\"search-keyword\">Africa</mark>, <mark class=\"search-keyword\">Using</mark> <mark class=\"search-keyword\">Earth</mark> <mark class=\"search-keyword\">Observation</mark> <mark class=\"search-keyword\">Data</mark>",
@@ -11017,7 +11098,16 @@
       "navigation": {
         "path": "/details/publication/pub.1175591614",
         "abstract_json": "/details/sources/publication/pub.1175591614/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 15,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 2.4,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 15.4
+      },
+      "_combined_relevance": 15.4
     },
     {
       "title": "<mark class=\"search-keyword\">Monitoring</mark> <mark class=\"search-keyword\">rural</mark>-<mark class=\"search-keyword\">urban</mark> <mark class=\"search-keyword\">transformation</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">coastal</mark> <mark class=\"search-keyword\">region</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Rabat</mark>-<mark class=\"search-keyword\">Sale</mark>-<mark class=\"search-keyword\">Kenitra</mark>, <mark class=\"search-keyword\">Morocco</mark>",
@@ -11166,7 +11256,16 @@
       "navigation": {
         "path": "/details/publication/pub.1163709030",
         "abstract_json": "/details/sources/publication/pub.1163709030/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 7,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 0.8,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.8
+      },
+      "_combined_relevance": 13.8
     },
     {
       "title": "<mark class=\"search-keyword\">Toward</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Exploitation</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">HydroGNSS</mark> <mark class=\"search-keyword\">Coherent</mark> <mark class=\"search-keyword\">Channel</mark>: <mark class=\"search-keyword\">High</mark> <mark class=\"search-keyword\">Sampling</mark> <mark class=\"search-keyword\">Rate</mark> <mark class=\"search-keyword\">Products</mark>",
@@ -11297,7 +11396,16 @@
       "navigation": {
         "path": "/details/publication/pub.1187013801",
         "abstract_json": "/details/sources/publication/pub.1187013801/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 8,
+        "match_ratio": 0.8888888888888888,
+        "consecutive_bonus": 1.2,
+        "position_bonus": 0.8888888888888888,
+        "highlighting_bonus": 2.0,
+        "combined_score": 12.977777777777778
+      },
+      "_combined_relevance": 12.977777777777778
     },
     {
       "title": "<mark class=\"search-keyword\">Monitoring</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Cropland</mark> <mark class=\"search-keyword\">Non</mark>-<mark class=\"search-keyword\">Agriculturalization</mark> <mark class=\"search-keyword\">Based</mark> <mark class=\"search-keyword\">on</mark> <mark class=\"search-keyword\">Google</mark> <mark class=\"search-keyword\">Earth</mark> <mark class=\"search-keyword\">Engine</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Multi</mark>-<mark class=\"search-keyword\">Source</mark> <mark class=\"search-keyword\">Data</mark>",
@@ -11398,7 +11506,16 @@
       "navigation": {
         "path": "/details/publication/pub.1185141285",
         "abstract_json": "/details/sources/publication/pub.1185141285/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 9,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
       "title": "<mark class=\"search-keyword\">Disease</mark> <mark class=\"search-keyword\">specific</mark> <mark class=\"search-keyword\">air</mark> <mark class=\"search-keyword\">quality</mark> <mark class=\"search-keyword\">health</mark> <mark class=\"search-keyword\">index</mark> (<mark class=\"search-keyword\">AQHI</mark>) <mark class=\"search-keyword\">for</mark> <mark class=\"search-keyword\">spatiotemporal</mark> <mark class=\"search-keyword\">health</mark> <mark class=\"search-keyword\">risk</mark> <mark class=\"search-keyword\">assessment</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">multi</mark>-<mark class=\"search-keyword\">air</mark> <mark class=\"search-keyword\">pollutants</mark>",
@@ -11534,7 +11651,16 @@
       "navigation": {
         "path": "/details/publication/pub.1157392045",
         "abstract_json": "/details/sources/publication/pub.1157392045/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 12,
+        "match_ratio": 0.9230769230769231,
+        "consecutive_bonus": 1.9999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.230769230769232
+      },
+      "_combined_relevance": 14.230769230769232
     },
     {
       "title": "<mark class=\"search-keyword\">Assessing</mark> <mark class=\"search-keyword\">salinity</mark> <mark class=\"search-keyword\">impacts</mark> <mark class=\"search-keyword\">on</mark> <mark class=\"search-keyword\">crop</mark> <mark class=\"search-keyword\">yield</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">economic</mark> <mark class=\"search-keyword\">returns</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Central</mark> <mark class=\"search-keyword\">Valley</mark>",
@@ -11684,7 +11810,16 @@
       "navigation": {
         "path": "/details/publication/pub.1162859977",
         "abstract_json": "/details/sources/publication/pub.1162859977/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 9,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
       "title": "<mark class=\"search-keyword\">Simulating</mark> <mark class=\"search-keyword\">SAR</mark> <mark class=\"search-keyword\">constellations</mark> <mark class=\"search-keyword\">systems</mark> <mark class=\"search-keyword\">for</mark> <mark class=\"search-keyword\">rapid</mark> <mark class=\"search-keyword\">damage</mark> <mark class=\"search-keyword\">mapping</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">urban</mark> <mark class=\"search-keyword\">areas</mark>: <mark class=\"search-keyword\">Case</mark> <mark class=\"search-keyword\">study</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">2023</mark> <mark class=\"search-keyword\">Turkey</mark>-<mark class=\"search-keyword\">Syria</mark> <mark class=\"search-keyword\">earthquake</mark>",
@@ -11809,67 +11944,162 @@
       "navigation": {
         "path": "/details/publication/pub.1181452225",
         "abstract_json": "/details/sources/publication/pub.1181452225/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 14,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.9999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 15.0
+      },
+      "_combined_relevance": 15.0
     },
     {
-      "title": "<mark class=\"search-keyword\">Detecting</mark> <mark class=\"search-keyword\">Coseismic</mark> <mark class=\"search-keyword\">Landslides</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">GEE</mark> <mark class=\"search-keyword\">Using</mark> <mark class=\"search-keyword\">Machine</mark>-<mark class=\"search-keyword\">Learning</mark> <mark class=\"search-keyword\">Algorithms</mark> <mark class=\"search-keyword\">on</mark> <mark class=\"search-keyword\">Combined</mark> <mark class=\"search-keyword\">Optical</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Radar</mark> <mark class=\"search-keyword\">Imagery</mark>",
+      "title": "<mark class=\"search-keyword\">Detecting</mark> <mark class=\"search-keyword\">Coseismic</mark> <mark class=\"search-keyword\">Landslides</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">GEE</mark> <mark class=\"search-keyword\">Using</mark> <mark class=\"search-keyword\">Machine</mark> <mark class=\"search-keyword\">Learning</mark> <mark class=\"search-keyword\">Algorithms</mark> <mark class=\"search-keyword\">on</mark> <mark class=\"search-keyword\">Combined</mark> <mark class=\"search-keyword\">Optical</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Radar</mark> <mark class=\"search-keyword\">Imagery</mark>",
       "author_list": "Stefan Peters, Jixue Liu, Gunnar Keppel, Anna Wendleder, Peiliang Xu",
-      "source_title_id": "jour.1381055",
-      "journal_title": "Preprints.org",
+      "issn": [
+        "2072-4292"
+      ],
+      "source_title_id": "jour.1430766",
+      "journal_title": "Remote Sensing",
       "abstract_language": "en",
-      "linkout_oa": "https://www.preprints.org/manuscript/202404.0724/v1/download",
-      "pub_class": "Preprint",
-      "doi": "10.20944/preprints202404.0724.v1",
-      "id": "pub.1170656216",
-      "online_pub_date": "2024-04-11",
-      "pages": "202404.0724.v1",
-      "pub_date": "2024-04-11",
+      "acknowledgements": "We would like to thank the ESA Copernicus program, NASA, and GEE for providing freely available satellite imagery data and cloud-based processing tools. We also acknowledge Zhang, Li, Wang and Iio [35] for providing the Hokkaido landslide inventory. Part of this research was carried out at Kyoto University, Disaster Prevention Research Institute (DPRI), which we thank for cooperation in the form of hosting the first author as a Visiting Research Fellow.",
+      "funding_section": "The University of South Australia, Unit of Science, Technology, Engineering and Mathematics (STEM) supported this project financially through the Professional Experience Program 2023, Ref 230314-001821, granted to the first author.",
+      "linkout_oa": "https://www.mdpi.com/2072-4292/16/10/1722/pdf?version=1715598221",
+      "pub_class": "Article",
+      "cited_dimensions_ids": [
+        "pub.1134186273",
+        "pub.1121007389",
+        "pub.1116525399",
+        "pub.1138362560",
+        "pub.1141853705",
+        "pub.1050551621",
+        "pub.1062731461",
+        "pub.1121710513",
+        "pub.1139246632",
+        "pub.1147410747",
+        "pub.1138764130",
+        "pub.1131565301",
+        "pub.1151053586",
+        "pub.1101305037",
+        "pub.1139292848",
+        "pub.1154093346",
+        "pub.1141519414",
+        "pub.1144820524",
+        "pub.1141936528",
+        "pub.1149678303",
+        "pub.1148455241",
+        "pub.1152854352",
+        "pub.1150429906",
+        "pub.1115176810",
+        "pub.1166429957",
+        "pub.1154289331",
+        "pub.1086343126",
+        "pub.1148992014",
+        "pub.1168635631",
+        "pub.1115172576",
+        "pub.1145883232",
+        "pub.1107772377",
+        "pub.1125303134",
+        "pub.1138636536",
+        "pub.1135314810",
+        "pub.1155557918",
+        "pub.1112729043",
+        "pub.1137168298",
+        "pub.1107500082",
+        "pub.1147791915",
+        "pub.1107295909",
+        "pub.1143966845",
+        "pub.1157058256",
+        "pub.1117044832",
+        "pub.1123305538",
+        "pub.1103764289",
+        "pub.1160068917",
+        "pub.1133591533",
+        "pub.1061297652",
+        "pub.1131474593",
+        "pub.1148266213",
+        "pub.1149883681",
+        "pub.1148992032",
+        "pub.1162706748",
+        "pub.1117472854",
+        "pub.1107949511",
+        "pub.1143401273",
+        "pub.1125884677",
+        "pub.1126738921",
+        "pub.1140081671",
+        "pub.1137962858",
+        "pub.1152538865",
+        "pub.1153674959",
+        "pub.1146173582",
+        "pub.1151177626",
+        "pub.1154562955",
+        "pub.1149806710",
+        "pub.1146836229",
+        "pub.1131416057"
+      ],
+      "doi": "10.3390/rs16101722",
+      "id": "pub.1171626910",
+      "issue": "10",
+      "online_pub_date": "2024-05-13",
+      "pages": "1722",
+      "pub_date": "2024-05-13",
       "pub_year": 2024,
-      "resulting_publication_doi": "https://doi.org/10.3390/rs16101722",
-      "times_cited": 2,
+      "volume": "16",
+      "times_cited": 8,
       "full_text": "(This result is restricted)",
-      "score": 41.905735,
+      "score": 41.085575,
       "affiliations_details": [],
       "authors_full": [],
-      "source_title": "Preprints.org",
-      "pub_class_id": "preprint",
+      "source_title": "Remote Sensing",
+      "pub_class_id": "article",
       "short_abstract": "<mark class=\"search-keyword\">Landslides</mark>, resulting from disturbances <mark class=\"search-keyword\">in</mark> slope equilibrium, pose a significant threat to landscapes, infrastructure, <mark class=\"search-keyword\">and</mark> human life. Triggered by factors such as intense precipitation, seismic activ",
       "abstract_is_shortened": true,
-      "abstract_original_length": 1861,
+      "abstract_original_length": 1963,
       "ai_summary": {
-        "tldr_json": "/ai-summary/publication/pub.1170656216/tldr.json",
-        "keypoints_json": "/ai-summary/publication/pub.1170656216/keypoints.json",
-        "keywords_json": "/ai-summary/publication/pub.1170656216/keywords.json"
+        "tldr_json": "/ai-summary/publication/pub.1171626910/tldr.json",
+        "keypoints_json": "/ai-summary/publication/pub.1171626910/keypoints.json",
+        "keywords_json": "/ai-summary/publication/pub.1171626910/keywords.json"
       },
       "openurl": null,
       "orcid": {
         "api_add_path": {
-          "path": "/orcid/api/publication/add.json?id=pub.1170656216"
+          "path": "/orcid/api/publication/add.json?id=pub.1171626910"
         }
       },
-      "chat_with_pdf": "https://www.readcube.com/dimensions_ask_ai/10.20944/preprints202404.0724.v1",
+      "chat_with_pdf": "https://www.readcube.com/dimensions_ask_ai/10.3390/rs16101722",
       "altmetric_badge": {
-        "value": "10.20944/preprints202404.0724.v1",
+        "value": "10.3390/rs16101722",
         "id_type": "doi",
         "template": "dimensions"
       },
       "readcube": {
-        "doi": "10.20944/preprints202404.0724.v1",
+        "doi": "10.3390/rs16101722",
         "pmid": null,
         "pmc_id": null,
         "arxiv": null,
-        "oa-url": "https://www.preprints.org/manuscript/202404.0724/v1/download",
+        "oa-url": "https://www.mdpi.com/2072-4292/16/10/1722/pdf?version=1715598221",
         "libkey": null,
         "entityid": null
       },
       "dimensions_badge": {
-        "value": "pub.1170656216",
+        "value": "pub.1171626910",
         "id_type": "id"
       },
       "navigation": {
-        "path": "/details/publication/pub.1170656216",
-        "abstract_json": "/details/sources/publication/pub.1170656216/abstract.json"
-      }
+        "path": "/details/publication/pub.1171626910",
+        "abstract_json": "/details/sources/publication/pub.1171626910/abstract.json"
+      },
+      "_relevance_scores": {
+        "exact_matches": 12,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.5999999999999999,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.6
+      },
+      "_combined_relevance": 14.6
     },
     {
       "title": "<mark class=\"search-keyword\">An</mark> <mark class=\"search-keyword\">Integrated</mark> Conceptual Framework <mark class=\"search-keyword\">for</mark> ICT-based Market <mark class=\"search-keyword\">Information</mark> Source Adoption among <mark class=\"search-keyword\">Smallholder</mark> <mark class=\"search-keyword\">Farmers</mark>",
@@ -11958,7 +12188,16 @@
       "navigation": {
         "path": "/details/publication/pub.1125600047",
         "abstract_json": "/details/sources/publication/pub.1125600047/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 4,
+        "match_ratio": 0.5,
+        "consecutive_bonus": 0.2,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 8.2
+      },
+      "_combined_relevance": 8.2
     },
     {
       "title": "<mark class=\"search-keyword\">Application</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Challenges</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Machine</mark> <mark class=\"search-keyword\">Learning</mark> <mark class=\"search-keyword\">Techniques</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Mining</mark> <mark class=\"search-keyword\">Engineering</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Material</mark> <mark class=\"search-keyword\">Science</mark>",
@@ -12073,7 +12312,16 @@
       "navigation": {
         "path": "/details/publication/pub.1169573309",
         "abstract_json": "/details/sources/publication/pub.1169573309/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 9,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 0.8,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.8
+      },
+      "_combined_relevance": 13.8
     },
     {
       "title": "<mark class=\"search-keyword\">Predicting</mark> <mark class=\"search-keyword\">Internet</mark> <mark class=\"search-keyword\">Connectivity</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Schools</mark>: <mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">Feasibility</mark> <mark class=\"search-keyword\">Study</mark> <mark class=\"search-keyword\">Leveraging</mark> <mark class=\"search-keyword\">Multi</mark>-<mark class=\"search-keyword\">modal</mark> <mark class=\"search-keyword\">Data</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Location</mark> <mark class=\"search-keyword\">Encoders</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Low</mark>-<mark class=\"search-keyword\">Resource</mark> <mark class=\"search-keyword\">Settings</mark>",
@@ -12130,7 +12378,16 @@
       "navigation": {
         "path": "/details/publication/pub.1183551704",
         "abstract_json": "/details/sources/publication/pub.1183551704/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 13,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.5999999999999999,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.6
+      },
+      "_combined_relevance": 14.6
     },
     {
       "title": "<mark class=\"search-keyword\">The</mark> <mark class=\"search-keyword\">Carbon</mark> <mark class=\"search-keyword\">Security</mark> <mark class=\"search-keyword\">Index</mark>: <mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">Novel</mark> <mark class=\"search-keyword\">Approach</mark> <mark class=\"search-keyword\">to</mark> <mark class=\"search-keyword\">Assessing</mark> <mark class=\"search-keyword\">How</mark> <mark class=\"search-keyword\">Secure</mark> <mark class=\"search-keyword\">Carbon</mark> <mark class=\"search-keyword\">Is</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Sagebrush</mark> <mark class=\"search-keyword\">Ecosystems</mark> <mark class=\"search-keyword\">Within</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Great</mark> <mark class=\"search-keyword\">Basin</mark>",
@@ -12272,62 +12529,160 @@
       "navigation": {
         "path": "/details/publication/pub.1181360468",
         "abstract_json": "/details/sources/publication/pub.1181360468/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 13,
+        "match_ratio": 0.9285714285714286,
+        "consecutive_bonus": 1.7999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.085714285714285
+      },
+      "_combined_relevance": 14.085714285714285
     },
     {
-      "title": "Exploring the Impact of Improved Maize Seeds on Tanzanian Family Farms: A Maize Seed Stochastic Simulation (MaizeSim) Approach",
-      "author_list": "Ibrahim L Kadigi, Eliaza J. Mkuna, Stefan Sieber",
-      "source_title_id": "jour.1381055",
-      "journal_title": "Preprints.org",
+      "title": "The theoretical potential for tailored fertilizer application. The case of maize <mark class=\"search-keyword\">in</mark> Sub-Saharan Africa",
+      "author_list": "Joost van Heerwaarden",
+      "issn": [
+        "0378-4290",
+        "1872-6852"
+      ],
+      "source_title_id": "jour.1031000",
+      "journal_title": "Field Crops Research",
       "abstract_language": "en",
-      "linkout_oa": "https://doi.org/10.20944/preprints202504.0316.v1",
-      "pub_class": "Preprint",
-      "doi": "10.20944/preprints202504.0316.v1",
-      "id": "pub.1187383192",
-      "online_pub_date": "2025-04-03",
-      "pub_date": "2025-04-03",
-      "pub_year": 2025,
-      "resulting_publication_doi": "https://doi.org/10.3390/agronomy15051167",
-      "times_cited": 0,
+      "acknowledgements": "The current work benefitted greatly from ideas and concepts developed within the projects N2Africa, funded by the Bill and Melinda Gates Foundation, and CocoaSoils, funded by NORAD. I wish to acknowledge the reviewers for their valuable inputs and Renske Hijbeek and Tom Schut for useful discussions. I would also like to thank Ton van Heerwaarden for his comment, patience and support.",
+      "linkout_oa": "https://doi.org/10.1016/j.fcr.2022.108677",
+      "pub_class": "Article",
+      "cited_dimensions_ids": [
+        "pub.1013717763",
+        "pub.1040400013",
+        "pub.1092241982",
+        "pub.1085984199",
+        "pub.1007764426",
+        "pub.1017832135",
+        "pub.1052440497",
+        "pub.1048481009",
+        "pub.1031090872",
+        "pub.1069409026",
+        "pub.1003861222",
+        "pub.1101559412",
+        "pub.1111320350",
+        "pub.1113043277",
+        "pub.1141691361",
+        "pub.1124460280",
+        "pub.1138325169",
+        "pub.1037050729",
+        "pub.1083600786",
+        "pub.1004362948",
+        "pub.1007470300",
+        "pub.1123319853",
+        "pub.1103149888",
+        "pub.1120135820",
+        "pub.1033542678",
+        "pub.1042502516",
+        "pub.1037313347",
+        "pub.1045386302",
+        "pub.1040415676",
+        "pub.1051611541",
+        "pub.1069410288",
+        "pub.1115217430",
+        "pub.1032964124",
+        "pub.1124084864",
+        "pub.1002273042",
+        "pub.1068996913",
+        "pub.1069052835",
+        "pub.1028337175",
+        "pub.1142056059",
+        "pub.1130965589",
+        "pub.1130510122",
+        "pub.1034540320",
+        "pub.1136447899",
+        "pub.1049272423",
+        "pub.1090944769",
+        "pub.1004489058",
+        "pub.1007758202",
+        "pub.1037214517",
+        "pub.1044153899",
+        "pub.1042269003",
+        "pub.1028433430",
+        "pub.1030215008",
+        "pub.1037620768",
+        "pub.1026358204",
+        "pub.1109028349",
+        "pub.1069049815",
+        "pub.1110238293",
+        "pub.1012805592",
+        "pub.1041842768",
+        "pub.1032288139",
+        "pub.1039663827",
+        "pub.1112227607",
+        "pub.1120140212",
+        "pub.1052943071",
+        "pub.1011274145",
+        "pub.1115421245",
+        "pub.1106446105",
+        "pub.1030343197"
+      ],
+      "doi": "10.1016/j.fcr.2022.108677",
+      "id": "pub.1151110658",
+      "pages": "108677",
+      "print_pub_date": "2022-11",
+      "pub_date": "2022-11",
+      "pub_year": 2022,
+      "volume": "288",
+      "times_cited": 4,
       "full_text": "(This result is restricted)",
-      "score": 9.887624,
+      "score": 8.17429,
       "affiliations_details": [],
       "authors_full": [],
-      "source_title": "Preprints.org",
-      "pub_class_id": "preprint",
-      "short_abstract": "Investment <mark class=\"search-keyword\">in</mark> modern agricultural practices (<mark class=\"search-keyword\">MAP</mark>) is crucial for <mark class=\"search-keyword\">improving</mark> <mark class=\"search-keyword\">crop</mark> productivity and household food security <mark class=\"search-keyword\">in</mark> developing countries like Tanzania, where agriculture forms the backbone of ",
+      "source_title": "Field Crops Research",
+      "pub_class_id": "article",
+      "short_abstract": "Adjusting <mark class=\"search-keyword\">crop</mark> nutrient rates to local differences <mark class=\"search-keyword\">in</mark> soil fertility and yield potential is considered a promising way of <mark class=\"search-keyword\">improving</mark> fertilizer use efficiency <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">smallholder</mark> agriculture. Despite its ob",
       "abstract_is_shortened": true,
-      "abstract_original_length": 2014,
+      "abstract_original_length": 2348,
       "ai_summary": {
-        "tldr_json": "/ai-summary/publication/pub.1187383192/tldr.json",
-        "keypoints_json": "/ai-summary/publication/pub.1187383192/keypoints.json",
-        "keywords_json": "/ai-summary/publication/pub.1187383192/keywords.json"
+        "tldr_json": "/ai-summary/publication/pub.1151110658/tldr.json",
+        "keypoints_json": "/ai-summary/publication/pub.1151110658/keypoints.json",
+        "keywords_json": "/ai-summary/publication/pub.1151110658/keywords.json"
       },
       "openurl": null,
       "orcid": {
         "api_add_path": {
-          "path": "/orcid/api/publication/add.json?id=pub.1187383192"
+          "path": "/orcid/api/publication/add.json?id=pub.1151110658"
         }
       },
-      "chat_with_pdf": "https://www.readcube.com/dimensions_ask_ai/10.20944/preprints202504.0316.v1",
+      "chat_with_pdf": "https://www.readcube.com/dimensions_ask_ai/10.1016/j.fcr.2022.108677",
       "altmetric_badge": {
-        "value": "10.20944/preprints202504.0316.v1",
+        "value": "10.1016/j.fcr.2022.108677",
         "id_type": "doi",
         "template": "dimensions"
       },
       "readcube": {
-        "doi": "10.20944/preprints202504.0316.v1",
+        "doi": "10.1016/j.fcr.2022.108677",
         "pmid": null,
         "pmc_id": null,
         "arxiv": null,
-        "oa-url": "https://doi.org/10.20944/preprints202504.0316.v1",
+        "oa-url": "https://doi.org/10.1016/j.fcr.2022.108677",
         "libkey": null,
         "entityid": null
       },
+      "dimensions_badge": {
+        "value": "pub.1151110658",
+        "id_type": "id"
+      },
       "navigation": {
-        "path": "/details/publication/pub.1187383192",
-        "abstract_json": "/details/sources/publication/pub.1187383192/abstract.json"
-      }
+        "path": "/details/publication/pub.1151110658",
+        "abstract_json": "/details/sources/publication/pub.1151110658/abstract.json"
+      },
+      "_relevance_scores": {
+        "exact_matches": 0,
+        "match_ratio": 0.0,
+        "consecutive_bonus": 0,
+        "position_bonus": 0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 2.0
+      },
+      "_combined_relevance": 2.0
     },
     {
       "title": "<mark class=\"search-keyword\">Remote</mark> <mark class=\"search-keyword\">Sensing</mark> <mark class=\"search-keyword\">Insights</mark> <mark class=\"search-keyword\">into</mark> <mark class=\"search-keyword\">Urban</mark>–<mark class=\"search-keyword\">Rural</mark> <mark class=\"search-keyword\">Imbalance</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Sustainable</mark> <mark class=\"search-keyword\">Development</mark>: <mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">Case</mark> <mark class=\"search-keyword\">Study</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Guangdong</mark>, <mark class=\"search-keyword\">China</mark>",
@@ -12447,7 +12802,16 @@
       "navigation": {
         "path": "/details/publication/pub.1186250722",
         "abstract_json": "/details/sources/publication/pub.1186250722/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 11,
+        "match_ratio": 0.8461538461538461,
+        "consecutive_bonus": 1.5999999999999999,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.061538461538461
+      },
+      "_combined_relevance": 13.061538461538461
     },
     {
       "title": "<mark class=\"search-keyword\">Monitoring</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">temporal</mark>-<mark class=\"search-keyword\">spatial</mark> <mark class=\"search-keyword\">changes</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">vegetation</mark> <mark class=\"search-keyword\">cover</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">drivers</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Tian</mark> <mark class=\"search-keyword\">Shan</mark> <mark class=\"search-keyword\">ecoregions</mark>, <mark class=\"search-keyword\">China</mark>",
@@ -12550,7 +12914,16 @@
       "navigation": {
         "path": "/details/publication/pub.1175777605",
         "abstract_json": "/details/sources/publication/pub.1175777605/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 10,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
       "title": "<mark class=\"search-keyword\">Mapping</mark> <mark class=\"search-keyword\">sugarcane</mark> <mark class=\"search-keyword\">globally</mark> <mark class=\"search-keyword\">at</mark> <mark class=\"search-keyword\">10</mark> <mark class=\"search-keyword\">m</mark> <mark class=\"search-keyword\">resolution</mark> <mark class=\"search-keyword\">using</mark> <mark class=\"search-keyword\">Global</mark> <mark class=\"search-keyword\">Ecosystem</mark> <mark class=\"search-keyword\">Dynamics</mark> <mark class=\"search-keyword\">Investigation</mark> (<mark class=\"search-keyword\">GEDI</mark>) <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Sentinel</mark>-<mark class=\"search-keyword\">2</mark>",
@@ -12643,7 +13016,16 @@
       "navigation": {
         "path": "/details/publication/pub.1181826015",
         "abstract_json": "/details/sources/publication/pub.1181826015/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 11,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.5999999999999999,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.6
+      },
+      "_combined_relevance": 14.6
     },
     {
       "title": "<mark class=\"search-keyword\">Promoting</mark> <mark class=\"search-keyword\">sustainable</mark> <mark class=\"search-keyword\">development</mark> <mark class=\"search-keyword\">by</mark> <mark class=\"search-keyword\">mitigation</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">natural</mark> <mark class=\"search-keyword\">habitat</mark> <mark class=\"search-keyword\">quality</mark> <mark class=\"search-keyword\">decline</mark> <mark class=\"search-keyword\">through</mark> <mark class=\"search-keyword\">multifunctional</mark> <mark class=\"search-keyword\">urban</mark> <mark class=\"search-keyword\">land</mark> <mark class=\"search-keyword\">use</mark>: <mark class=\"search-keyword\">Insights</mark> <mark class=\"search-keyword\">from</mark> <mark class=\"search-keyword\">a</mark> <mark class=\"search-keyword\">multi</mark>-<mark class=\"search-keyword\">scenario</mark> <mark class=\"search-keyword\">simulation</mark>",
@@ -12791,7 +13173,16 @@
       "navigation": {
         "path": "/details/publication/pub.1172259314",
         "abstract_json": "/details/sources/publication/pub.1172259314/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 16,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 2.4,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 15.4
+      },
+      "_combined_relevance": 15.4
     },
     {
       "title": "<mark class=\"search-keyword\">Anthropogenic</mark> <mark class=\"search-keyword\">disturbance</mark> <mark class=\"search-keyword\">exacerbates</mark> <mark class=\"search-keyword\">resilience</mark> <mark class=\"search-keyword\">loss</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Amazon</mark> <mark class=\"search-keyword\">rainforests</mark>",
@@ -12939,7 +13330,16 @@
       "navigation": {
         "path": "/details/publication/pub.1165396637",
         "abstract_json": "/details/sources/publication/pub.1165396637/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 7,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
       "title": "<mark class=\"search-keyword\">Quantifying</mark> <mark class=\"search-keyword\">geomorphically</mark> <mark class=\"search-keyword\">effective</mark> <mark class=\"search-keyword\">floods</mark> <mark class=\"search-keyword\">using</mark> <mark class=\"search-keyword\">satellite</mark> <mark class=\"search-keyword\">observations</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">river</mark> <mark class=\"search-keyword\">mobility</mark>",
@@ -12996,7 +13396,16 @@
       "navigation": {
         "path": "/details/publication/pub.1157414590",
         "abstract_json": "/details/sources/publication/pub.1157414590/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 9,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.4,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.4
+      },
+      "_combined_relevance": 14.4
     },
     {
       "title": "<mark class=\"search-keyword\">Large</mark> <mark class=\"search-keyword\">disagreements</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">estimates</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">urban</mark> <mark class=\"search-keyword\">land</mark> <mark class=\"search-keyword\">across</mark> <mark class=\"search-keyword\">scales</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">their</mark> <mark class=\"search-keyword\">implications</mark>",
@@ -13158,7 +13567,16 @@
       "navigation": {
         "path": "/details/publication/pub.1181621376",
         "abstract_json": "/details/sources/publication/pub.1181621376/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 9,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
       "title": "<mark class=\"search-keyword\">Zonasi</mark> <mark class=\"search-keyword\">Taman</mark> <mark class=\"search-keyword\">Wisata</mark> <mark class=\"search-keyword\">Alam</mark> <mark class=\"search-keyword\">Berbasis</mark> <mark class=\"search-keyword\">Sensivitas</mark> <mark class=\"search-keyword\">Ekologi</mark>: <mark class=\"search-keyword\">Studi</mark> <mark class=\"search-keyword\">Kasus</mark> <mark class=\"search-keyword\">Taman</mark> <mark class=\"search-keyword\">Wisata</mark> <mark class=\"search-keyword\">Alam</mark> <mark class=\"search-keyword\">Gunung</mark> <mark class=\"search-keyword\">Pancar</mark>",
@@ -13219,7 +13637,16 @@
       "navigation": {
         "path": "/details/publication/pub.1176323221",
         "abstract_json": "/details/sources/publication/pub.1176323221/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 11,
+        "match_ratio": 0.4074074074074074,
+        "consecutive_bonus": 2.6,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 9.674074074074074
+      },
+      "_combined_relevance": 9.674074074074074
     },
     {
       "title": "<mark class=\"search-keyword\">Risk</mark> <mark class=\"search-keyword\">mapping</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">socio</mark>-<mark class=\"search-keyword\">ecological</mark> <mark class=\"search-keyword\">drivers</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">soil</mark>-<mark class=\"search-keyword\">transmitted</mark> <mark class=\"search-keyword\">helminth</mark> <mark class=\"search-keyword\">infections</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Philippines</mark>: <mark class=\"search-keyword\">a</mark> <mark class=\"search-keyword\">spatial</mark> <mark class=\"search-keyword\">modelling</mark> <mark class=\"search-keyword\">study</mark>",
@@ -13359,7 +13786,16 @@
       "navigation": {
         "path": "/details/publication/pub.1166264535",
         "abstract_json": "/details/sources/publication/pub.1166264535/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 11,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.2,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.2
+      },
+      "_combined_relevance": 14.2
     },
     {
       "title": "<mark class=\"search-keyword\">Disentangling</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Effects</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Atmospheric</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Soil</mark> <mark class=\"search-keyword\">Dryness</mark> <mark class=\"search-keyword\">on</mark> <mark class=\"search-keyword\">Autumn</mark> <mark class=\"search-keyword\">Phenology</mark> <mark class=\"search-keyword\">across</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Northern</mark> <mark class=\"search-keyword\">Hemisphere</mark>",
@@ -13488,7 +13924,16 @@
       "navigation": {
         "path": "/details/publication/pub.1175977665",
         "abstract_json": "/details/sources/publication/pub.1175977665/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 10,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 0.8,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.8
+      },
+      "_combined_relevance": 13.8
     },
     {
       "title": "<mark class=\"search-keyword\">An</mark> <mark class=\"search-keyword\">Independent</mark> <mark class=\"search-keyword\">Validation</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">SoilGrids</mark> <mark class=\"search-keyword\">Accuracy</mark> <mark class=\"search-keyword\">for</mark> <mark class=\"search-keyword\">Soil</mark> <mark class=\"search-keyword\">Texture</mark> <mark class=\"search-keyword\">Components</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Croatia</mark>",
@@ -13604,7 +14049,16 @@
       "navigation": {
         "path": "/details/publication/pub.1157931714",
         "abstract_json": "/details/sources/publication/pub.1157931714/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 8,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 0.8,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.8
+      },
+      "_combined_relevance": 13.8
     },
     {
       "title": "<mark class=\"search-keyword\">Understanding</mark> <mark class=\"search-keyword\">Landslide</mark> <mark class=\"search-keyword\">Expression</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">SAR</mark> <mark class=\"search-keyword\">Backscatter</mark> <mark class=\"search-keyword\">Data</mark>: <mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">Global</mark> <mark class=\"search-keyword\">Study</mark>",
@@ -13692,7 +14146,16 @@
       "navigation": {
         "path": "/details/publication/pub.1155655127",
         "abstract_json": "/details/sources/publication/pub.1155655127/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 8,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.0,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.0
+      },
+      "_combined_relevance": 14.0
     },
     {
       "title": "<mark class=\"search-keyword\">Current</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Future</mark> <mark class=\"search-keyword\">Distribution</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Shihuahuaco</mark> (<mark class=\"search-keyword\">Dipteryx</mark> <mark class=\"search-keyword\">spp</mark>.) <mark class=\"search-keyword\">under</mark> <mark class=\"search-keyword\">Climate</mark> <mark class=\"search-keyword\">Change</mark> <mark class=\"search-keyword\">Scenarios</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Central</mark>-<mark class=\"search-keyword\">Eastern</mark> <mark class=\"search-keyword\">Amazon</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Peru</mark>",
@@ -13808,7 +14271,16 @@
       "navigation": {
         "path": "/details/publication/pub.1157932071",
         "abstract_json": "/details/sources/publication/pub.1157932071/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 13,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.5999999999999999,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.6
+      },
+      "_combined_relevance": 14.6
     },
     {
       "title": "<mark class=\"search-keyword\">Analysis</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Dynamics</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Vegetation</mark> <mark class=\"search-keyword\">Cover</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Land</mark> <mark class=\"search-keyword\">Use</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Forest</mark> <mark class=\"search-keyword\">Management</mark> <mark class=\"search-keyword\">Unit</mark> <mark class=\"search-keyword\">00</mark>-<mark class=\"search-keyword\">004</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">its</mark> <mark class=\"search-keyword\">Surroundings</mark> <mark class=\"search-keyword\">on</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Coast</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Cameroon</mark>",
@@ -13871,7 +14343,16 @@
       "navigation": {
         "path": "/details/publication/pub.1165986564",
         "abstract_json": "/details/sources/publication/pub.1165986564/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 13,
+        "match_ratio": 0.9285714285714286,
+        "consecutive_bonus": 1.2,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.485714285714286
+      },
+      "_combined_relevance": 13.485714285714286
     },
     {
       "title": "<mark class=\"search-keyword\">Toward</mark> <mark class=\"search-keyword\">field</mark>-<mark class=\"search-keyword\">scale</mark> <mark class=\"search-keyword\">groundwater</mark> <mark class=\"search-keyword\">pumping</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">improved</mark> <mark class=\"search-keyword\">groundwater</mark> <mark class=\"search-keyword\">management</mark> <mark class=\"search-keyword\">using</mark> <mark class=\"search-keyword\">remote</mark> <mark class=\"search-keyword\">sensing</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">climate</mark> <mark class=\"search-keyword\">data</mark>",
@@ -14012,7 +14493,16 @@
       "navigation": {
         "path": "/details/publication/pub.1174611226",
         "abstract_json": "/details/sources/publication/pub.1174611226/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 11,
+        "match_ratio": 0.9166666666666666,
+        "consecutive_bonus": 1.7999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.966666666666665
+      },
+      "_combined_relevance": 13.966666666666665
     },
     {
       "title": "<mark class=\"search-keyword\">Urbanization</mark>-<mark class=\"search-keyword\">induced</mark> <mark class=\"search-keyword\">warming</mark> <mark class=\"search-keyword\">amplifies</mark> <mark class=\"search-keyword\">population</mark> <mark class=\"search-keyword\">exposure</mark> <mark class=\"search-keyword\">to</mark> <mark class=\"search-keyword\">compound</mark> <mark class=\"search-keyword\">heatwaves</mark> <mark class=\"search-keyword\">but</mark> <mark class=\"search-keyword\">narrows</mark> <mark class=\"search-keyword\">exposure</mark> <mark class=\"search-keyword\">inequality</mark> <mark class=\"search-keyword\">between</mark> <mark class=\"search-keyword\">global</mark> <mark class=\"search-keyword\">North</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">South</mark> <mark class=\"search-keyword\">cities</mark>",
@@ -14136,7 +14626,16 @@
       "navigation": {
         "path": "/details/publication/pub.1173392951",
         "abstract_json": "/details/sources/publication/pub.1173392951/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 14,
+        "match_ratio": 0.9333333333333333,
+        "consecutive_bonus": 2.1999999999999997,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.533333333333333
+      },
+      "_combined_relevance": 14.533333333333333
     },
     {
       "title": "<mark class=\"search-keyword\">The</mark> <mark class=\"search-keyword\">biophysical</mark> <mark class=\"search-keyword\">effects</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">phenological</mark> <mark class=\"search-keyword\">shifts</mark> <mark class=\"search-keyword\">impact</mark> <mark class=\"search-keyword\">land</mark> <mark class=\"search-keyword\">surface</mark> <mark class=\"search-keyword\">temperature</mark> <mark class=\"search-keyword\">for</mark> <mark class=\"search-keyword\">corn</mark> <mark class=\"search-keyword\">expansion</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Northeastern</mark> <mark class=\"search-keyword\">China</mark>",
@@ -14252,7 +14751,16 @@
       "navigation": {
         "path": "/details/publication/pub.1183876380",
         "abstract_json": "/details/sources/publication/pub.1183876380/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 12,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.5999999999999999,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.6
+      },
+      "_combined_relevance": 14.6
     },
     {
       "title": "<mark class=\"search-keyword\">Unlocking</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">full</mark> <mark class=\"search-keyword\">potential</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">Sentinel</mark>-<mark class=\"search-keyword\">1</mark> <mark class=\"search-keyword\">for</mark> <mark class=\"search-keyword\">flood</mark> <mark class=\"search-keyword\">detection</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">arid</mark> <mark class=\"search-keyword\">regions</mark>",
@@ -14433,7 +14941,16 @@
       "navigation": {
         "path": "/details/publication/pub.1181115344",
         "abstract_json": "/details/sources/publication/pub.1181115344/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 8,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 0.6000000000000001,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 13.6
+      },
+      "_combined_relevance": 13.6
     },
     {
       "title": "<mark class=\"search-keyword\">Empowering</mark> <mark class=\"search-keyword\">Research</mark>: <mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">Guide</mark> <mark class=\"search-keyword\">to</mark> <mark class=\"search-keyword\">Useful</mark> <mark class=\"search-keyword\">Open</mark>‐<mark class=\"search-keyword\">Source</mark> <mark class=\"search-keyword\">Data</mark>",
@@ -14492,7 +15009,16 @@
       "navigation": {
         "path": "/details/publication/pub.1175082561",
         "abstract_json": "/details/sources/publication/pub.1175082561/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 5,
+        "match_ratio": 0.7142857142857143,
+        "consecutive_bonus": 0.6000000000000001,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 10.742857142857144
+      },
+      "_combined_relevance": 10.742857142857144
     },
     {
       "title": "<mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">combined</mark> <mark class=\"search-keyword\">Remote</mark> <mark class=\"search-keyword\">Sensing</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">GIS</mark>-<mark class=\"search-keyword\">based</mark> <mark class=\"search-keyword\">method</mark> <mark class=\"search-keyword\">for</mark> <mark class=\"search-keyword\">Local</mark> <mark class=\"search-keyword\">Climate</mark> <mark class=\"search-keyword\">Zone</mark> <mark class=\"search-keyword\">mapping</mark> <mark class=\"search-keyword\">using</mark> <mark class=\"search-keyword\">PRISMA</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Sentinel</mark>-<mark class=\"search-keyword\">2</mark> <mark class=\"search-keyword\">imagery</mark>",
@@ -14604,7 +15130,16 @@
       "navigation": {
         "path": "/details/publication/pub.1172385780",
         "abstract_json": "/details/sources/publication/pub.1172385780/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 13,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.7999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.8
+      },
+      "_combined_relevance": 14.8
     },
     {
       "title": "<mark class=\"search-keyword\">Geomorphometric</mark> <mark class=\"search-keyword\">Analysis</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Kshetrapal</mark> <mark class=\"search-keyword\">Landslide</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">Chamoli</mark>, <mark class=\"search-keyword\">Uttarakhand</mark>, <mark class=\"search-keyword\">India</mark> <mark class=\"search-keyword\">Using</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">White</mark> <mark class=\"search-keyword\">Box</mark> <mark class=\"search-keyword\">Tool</mark> (<mark class=\"search-keyword\">WBT</mark>) <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">QGIS</mark> <mark class=\"search-keyword\">by</mark> <mark class=\"search-keyword\">Comparing</mark> <mark class=\"search-keyword\">various</mark> <mark class=\"search-keyword\">DEMs</mark> <mark class=\"search-keyword\">Obtained</mark> <mark class=\"search-keyword\">from</mark> <mark class=\"search-keyword\">UAV</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">TLS</mark>",
@@ -14681,7 +15216,16 @@
       "navigation": {
         "path": "/details/publication/pub.1184904014",
         "abstract_json": "/details/sources/publication/pub.1184904014/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 19,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 2.1999999999999997,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 15.2
+      },
+      "_combined_relevance": 15.2
     },
     {
       "title": "<mark class=\"search-keyword\">Global</mark> <mark class=\"search-keyword\">inequities</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">population</mark> <mark class=\"search-keyword\">exposure</mark> <mark class=\"search-keyword\">to</mark> <mark class=\"search-keyword\">urban</mark> <mark class=\"search-keyword\">greenspaces</mark> <mark class=\"search-keyword\">increased</mark> <mark class=\"search-keyword\">amidst</mark> <mark class=\"search-keyword\">tree</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">nontree</mark> <mark class=\"search-keyword\">vegetation</mark> <mark class=\"search-keyword\">cover</mark> <mark class=\"search-keyword\">expansion</mark>",
@@ -14804,7 +15348,16 @@
       "navigation": {
         "path": "/details/publication/pub.1166779167",
         "abstract_json": "/details/sources/publication/pub.1166779167/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 13,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.7999999999999998,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.8
+      },
+      "_combined_relevance": 14.8
     },
     {
       "title": "<mark class=\"search-keyword\">M3LEO</mark>: <mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">Multi</mark>-<mark class=\"search-keyword\">Modal</mark>, <mark class=\"search-keyword\">Multi</mark>-<mark class=\"search-keyword\">Label</mark> <mark class=\"search-keyword\">Earth</mark> <mark class=\"search-keyword\">Observation</mark> <mark class=\"search-keyword\">Dataset</mark> <mark class=\"search-keyword\">Integrating</mark> <mark class=\"search-keyword\">Interferometric</mark> <mark class=\"search-keyword\">SAR</mark> <mark class=\"search-keyword\">and</mark> <mark class=\"search-keyword\">Multispectral</mark> <mark class=\"search-keyword\">Data</mark>",
@@ -14880,7 +15433,16 @@
       "navigation": {
         "path": "/details/publication/pub.1172595997",
         "abstract_json": "/details/sources/publication/pub.1172595997/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 11,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 1.5999999999999999,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 14.6
+      },
+      "_combined_relevance": 14.6
     },
     {
       "title": "<mark class=\"search-keyword\">Multilevel</mark> <mark class=\"search-keyword\">ecological</mark> <mark class=\"search-keyword\">compensation</mark> <mark class=\"search-keyword\">policy</mark> <mark class=\"search-keyword\">design</mark> <mark class=\"search-keyword\">based</mark> <mark class=\"search-keyword\">on</mark> <mark class=\"search-keyword\">ecosystem</mark> <mark class=\"search-keyword\">service</mark> <mark class=\"search-keyword\">flow</mark>: <mark class=\"search-keyword\">A</mark> <mark class=\"search-keyword\">case</mark> <mark class=\"search-keyword\">study</mark> <mark class=\"search-keyword\">of</mark> <mark class=\"search-keyword\">carbon</mark> <mark class=\"search-keyword\">sequestration</mark> <mark class=\"search-keyword\">services</mark> <mark class=\"search-keyword\">in</mark> <mark class=\"search-keyword\">the</mark> <mark class=\"search-keyword\">Qinghai</mark>-<mark class=\"search-keyword\">Tibet</mark> <mark class=\"search-keyword\">Plateau</mark>",
@@ -15022,7 +15584,16 @@
       "navigation": {
         "path": "/details/publication/pub.1169064608",
         "abstract_json": "/details/sources/publication/pub.1169064608/abstract.json"
-      }
+      },
+      "_relevance_scores": {
+        "exact_matches": 16,
+        "match_ratio": 1.0,
+        "consecutive_bonus": 2.1999999999999997,
+        "position_bonus": 1.0,
+        "highlighting_bonus": 2.0,
+        "combined_score": 15.2
+      },
+      "_combined_relevance": 15.2
     }
   ]
 }
