@@ -351,6 +351,15 @@
     "publication_date": "2025-02-21"
   },
   {
+    "title": "Plant canopies exhibit stronger thermoregulation capability at the seasonal than diurnal timescales",
+    "author_list": "Zhengfei Guo, Kun Zhang, Hua Lin, Bartosz M. Majcher, Calvin K.F. Lee, Christopher J. Still, Jin Wu",
+    "journal_title": "Agricultural and Forest Meteorology",
+    "source_title": "Agricultural and Forest Meteorology",
+    "doi": "10.1016/j.agrformet.2023.109582",
+    "short_abstract": "Plant canopy temperature (T c) plays a crucial role in regulating plant growth and metabolism. Although dominant controls on T c are observed to differ across timescales, whether this would cause diff",
+    "publication_date": "2023-08"
+  },
+  {
     "title": "Granular satellite data to assess the potential for nature based solutions at a national scale: a proof of concept with data from Rwanda and Lesotho",
     "author_list": "Bas Heerma van Voss, William Ouellette",
     "journal_title": "Climate Policy",
@@ -385,15 +394,6 @@
     "doi": "10.3390/rs15174123",
     "short_abstract": "Crop type maps are critical for tracking agricultural land use and estimating crop production. Remote sensing has proven an efficient and reliable tool for creating these maps in regions with abundant",
     "publication_date": "2023-08-22"
-  },
-  {
-    "title": "On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards",
-    "author_list": "Zhimin Zhao, Abdul Ali Bangash, Filipe Roseiro Côgo, Bram Adams, Ahmed E. Hassan",
-    "journal_title": "arXiv",
-    "source_title": "arXiv",
-    "doi": "10.48550/arxiv.2407.04065",
-    "short_abstract": "Foundation models (FM), such as large language models (LLMs), which are\nlarge-scale machine learning (ML) models, have demonstrated remarkable\nadaptability in various downstream software engineering (",
-    "publication_date": "2024-07-04"
   },
   {
     "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
