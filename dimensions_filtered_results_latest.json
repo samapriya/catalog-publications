@@ -10,7 +10,7 @@
   },
   {
     "title": "Post-fire spectral recovery and driving factors across the boreal and temperate forests",
-    "author_list": "Li Kai Li, Zhihua Liu, Wenru Xu, Wenjuan Wang, Jiajia Su, Qiushuang Lv, Wenhua Guo, Marie Johnson",
+    "author_list": "Kaili Li, Zhihua Liu, Wenru Xu, Wenjuan Wang, Jiajia Su, Qiushuang Lv, Wenhua Guo, Marie Johnson",
     "journal_title": "Philosophical Transactions of the Royal Society B Biological Sciences",
     "source_title": "Philosophical Transactions of the Royal Society B Biological Sciences",
     "doi": "10.1098/rstb.2023.0453",
@@ -126,15 +126,6 @@
     "publication_date": "2025-05-26"
   },
   {
-    "title": "Improving the Accuracy of Tree Species Mapping by Sentinel-2 Images Using Auxiliary Data—A Case Study of Slyudyanskoye Forestry Area near Lake Baikal",
-    "author_list": "Anastasia Popova",
-    "journal_title": "Forests",
-    "source_title": "Forests",
-    "doi": "10.3390/f16030487",
-    "short_abstract": "Timely and accurate information on forest composition is crucial for ecosystem conservation and management tasks. Information regarding the distribution and extent of forested areas can be derived thr",
-    "publication_date": "2025-03-10"
-  },
-  {
     "title": "Addressing neighborhood effect averaging problem: Distinguishing mobility-based and residence-based heat exposure",
     "author_list": "Heng Wu, Guangyu Zhang, Yong Liu, Yujia Ming",
     "journal_title": "Building and Environment",
@@ -151,6 +142,15 @@
     "doi": "10.3390/su17073219",
     "short_abstract": "The 21st‑century Maritime Silk Road initiative highlights the importance of oceans as hubs for resources, ecology, and trade, yet a comprehensive understanding of marine natural disaster risks within",
     "publication_date": "2025-04-04"
+  },
+  {
+    "title": "Urban-rural gradient in biodiversity intactness across global cities",
+    "author_list": "Naiyi Liu, Zihan Liu, Felista Kasyoka Kilunda, Yanqi Liu, Chao Qin",
+    "journal_title": "Ecological Informatics",
+    "source_title": "Ecological Informatics",
+    "doi": "10.1016/j.ecoinf.2025.103350",
+    "short_abstract": "Identifying the urban-rural gradient in biodiversity variation is crucial to better understand the response of biodiversity dynamics to global urbanization. However, knowledge of this gradient in glob",
+    "publication_date": "2025-07"
   },
   {
     "title": "Assessment of Run-of-River and Hydropower Plants in Peru: Current and Potential Sites, Historical Variability (1981–2020), and Climate Change Projections (2035–2100)",
