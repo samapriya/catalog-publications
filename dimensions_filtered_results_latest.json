@@ -90,15 +90,6 @@
     "publication_date": "2025-04-15"
   },
   {
-    "title": "Photogrammetry to Assess the Recovery of a Forest: Case Study of Guadalupe Island",
-    "author_list": "Laura Abigail Vera-Ortega, Alejandro Hinojosa, Luciana Luna",
-    "journal_title": "Investigaciones Geográficas",
-    "source_title": "Investigaciones Geográficas",
-    "doi": "10.14350/rig.60914",
-    "short_abstract": "This study employs photogrammetry to evaluate and monitor the recovery of the cypress forest on Guadalupe Island, Mexico, an ecosystem significantly impacted by fires and overgrazing. Two drone survey",
-    "publication_date": "2025-03-12"
-  },
-  {
     "title": "Global patterns and driving factors of the carbon accumulation rate in coastal wetlands",
     "author_list": "Shao-Jun Yan, Qian Hao, Zhifeng Yan, Ren-Min Yang",
     "journal_title": "Earth-Science Reviews",
@@ -106,6 +97,15 @@
     "doi": "10.1016/j.earscirev.2025.105199",
     "short_abstract": "Coastal wetlands play crucial roles in sequestering organic carbon, which is vital for mitigating climate change. However, the global patterns and determinants of the organic carbon accumulation rate",
     "publication_date": "2025-10"
+  },
+  {
+    "title": "How to quantify the improvement effect of the park on urban eco-environmental quality? Remote sensing-based multisource data analysis",
+    "author_list": "Xiong Yao, Xupan Yue, Zhongli Lin, Zhipeng Zhu, Zhanghua Xu, Xu Chen",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2025.106694",
+    "short_abstract": "Urban parks are critical for mitigating environmental challenges; however, their beneficial impacts on eco-environmental quality (EEQ) have not been comprehensively explored. Therefore, we developed a",
+    "publication_date": "2025-07"
   },
   {
     "title": "Data-driven assessment of climate change and vegetative cover dynamics in traditional oases",
@@ -232,6 +232,15 @@
     "doi": "10.1016/j.landusepol.2025.107673",
     "short_abstract": "Armed conflicts are potent drivers of land use and land cover (LULC) change, yet little is known about how conflict intensity shapes land use, population displacement, and socioeconomic shifts in Nige",
     "publication_date": "2025-10"
+  },
+  {
+    "title": "Photogrammetry to Assess the Recovery of a Forest: Case Study of Guadalupe Island",
+    "author_list": "Laura Abigail Vera-Ortega, Alejandro Hinojosa, Luciana Luna",
+    "journal_title": "Investigaciones Geográficas",
+    "source_title": "Investigaciones Geográficas",
+    "doi": "10.14350/rig.60914",
+    "short_abstract": "This study employs photogrammetry to evaluate and monitor the recovery of the cypress forest on Guadalupe Island, Mexico, an ecosystem significantly impacted by fires and overgrazing. Two drone survey",
+    "publication_date": "2025-03-12"
   },
   {
     "title": "日本におけるパークランの会場特性と参加実態 国際比較と国内会場の分析",
