@@ -54,6 +54,15 @@
     "publication_date": "2025-06-27"
   },
   {
+    "title": "Baseline high-resolution maps of soil nutrients in Morocco to support sustainable agriculture",
+    "author_list": "Yassine Bouslihim, Abdelkrim Bouasria, Ahmed Jelloul, Lotfi Khiari, Sara Dahhani, Rachid Mrabet, Rachid Moussadek",
+    "journal_title": "Scientific Data",
+    "source_title": "Scientific Data",
+    "doi": "10.1038/s41597-025-05699-x",
+    "short_abstract": "Phosphorus (P) and potassium (K) are essential fertilizer elements whose recommendations require soil analysis tailored to crop-specific needs. However, in developing countries like Morocco, access to",
+    "publication_date": "2025-08-08"
+  },
+  {
     "title": "Critical zone controls on stream chemistry: Lessons from multiple machine learning methods and irregular data across large watersheds",
     "author_list": "G.M. Goldrich-Middaugh, K. Johnson, L. Ma, M.A. Engle, S.W. Fleming, J.W. Ricketts, P.L. Sullivan",
     "journal_title": "Journal of Hydrology",
@@ -61,15 +70,6 @@
     "doi": "10.1016/j.jhydrol.2025.133319",
     "short_abstract": "Understanding surface water quality and managing river systems that span a variety of climatic, lithology, and land cover types requires regional data analysis approaches. At this scale, spatial and t",
     "publication_date": "2025-10"
-  },
-  {
-    "title": "High‐Resolution National‐Scale Water Modeling Is Enhanced by Multiscale Differentiable Physics‐Informed Machine Learning",
-    "author_list": "Yalan Song, Tadd Bindas, Chaopeng Shen, Haoyu Ji, Wouter J. M. Knoben, Leo Lonzarich, Martyn P. Clark, Jiangtao Liu, Katie van Werkhoven, Sam Lamont, Matthew Denno, Ming Pan, Yuan Yang, Jeremy Rapp, Mukesh Kumar, Farshid Rahmani, Cyril Thébault, Richard Adkins, James Halgren, Trupesh Patel, Arpita Patel, Kamlesh Arun Sawadekar, Kathryn Lawson",
-    "journal_title": "Water Resources Research",
-    "source_title": "Water Resources Research",
-    "doi": "10.1029/2024wr038928",
-    "short_abstract": "Abstract  The National Water Model (NWM) is a key tool for flood forecasting, planning, and water management. Key challenges facing the NWM include calibration and parameter regionalization when confr",
-    "publication_date": "2025-04"
   },
   {
     "title": "A Phenology-Based Evaluation of the Optimal Proxy for Cropland Suitability Based on Crop Yield Correlations from Sentinel-2 Image Time-Series",
@@ -351,15 +351,6 @@
     "publication_date": "2025-02-21"
   },
   {
-    "title": "Plant canopies exhibit stronger thermoregulation capability at the seasonal than diurnal timescales",
-    "author_list": "Zhengfei Guo, Kun Zhang, Hua Lin, Bartosz M. Majcher, Calvin K.F. Lee, Christopher J. Still, Jin Wu",
-    "journal_title": "Agricultural and Forest Meteorology",
-    "source_title": "Agricultural and Forest Meteorology",
-    "doi": "10.1016/j.agrformet.2023.109582",
-    "short_abstract": "Plant canopy temperature (T c) plays a crucial role in regulating plant growth and metabolism. Although dominant controls on T c are observed to differ across timescales, whether this would cause diff",
-    "publication_date": "2023-08"
-  },
-  {
     "title": "Granular satellite data to assess the potential for nature based solutions at a national scale: a proof of concept with data from Rwanda and Lesotho",
     "author_list": "Bas Heerma van Voss, William Ouellette",
     "journal_title": "Climate Policy",
@@ -367,6 +358,15 @@
     "doi": "10.1080/14693062.2024.2330373",
     "short_abstract": "Nature-based Solutions (NbS) form a substantial part of cost-efficient climate change mitigation options. However, public financial flows towards NbS have been limited. Among the factors impeding inve",
     "publication_date": "2024-05-19"
+  },
+  {
+    "title": "Mapping urban slums and their inequality in sub-Saharan Africa",
+    "author_list": "Chengxiu Li, Le Yu, Robert Ndugwa, Adrian J. Bailey, Xiaoling Zhang, Francis Oloo, Ellasy Gulule Chimimba, Xiangzhen Deng, Jim Wright",
+    "journal_title": "Nature Cities",
+    "source_title": "Nature Cities",
+    "doi": "10.1038/s44284-025-00276-0",
+    "short_abstract": "Slums house nearly one-quarter of the global urban population, yet their spatial and socioeconomic dynamics remain poorly understood, hindering progress toward the United Nations’ commitment to ‘leave",
+    "publication_date": "2025-08-08"
   },
   {
     "title": "Mapping sugarcane globally at 10 m resolution using GEDI and Sentinel-2",
@@ -736,6 +736,15 @@
     "doi": "10.1029/2024jg008103",
     "short_abstract": "Abstract Elucidating the climate feedback due to forest cover loss is critical for a comprehensive understanding of the role of forests in mitigating climate change. Current research studies predomina",
     "publication_date": "2024-11"
+  },
+  {
+    "title": "High‐Resolution National‐Scale Water Modeling Is Enhanced by Multiscale Differentiable Physics‐Informed Machine Learning",
+    "author_list": "Yalan Song, Tadd Bindas, Chaopeng Shen, Haoyu Ji, Wouter J. M. Knoben, Leo Lonzarich, Martyn P. Clark, Jiangtao Liu, Katie van Werkhoven, Sam Lamont, Matthew Denno, Ming Pan, Yuan Yang, Jeremy Rapp, Mukesh Kumar, Farshid Rahmani, Cyril Thébault, Richard Adkins, James Halgren, Trupesh Patel, Arpita Patel, Kamlesh Arun Sawadekar, Kathryn Lawson",
+    "journal_title": "Water Resources Research",
+    "source_title": "Water Resources Research",
+    "doi": "10.1029/2024wr038928",
+    "short_abstract": "Abstract  The National Water Model (NWM) is a key tool for flood forecasting, planning, and water management. Key challenges facing the NWM include calibration and parameter regionalization when confr",
+    "publication_date": "2025-04"
   },
   {
     "title": "Utilize imagery and crowdsourced data on spatial employment modelling",
