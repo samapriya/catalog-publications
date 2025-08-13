@@ -1,5 +1,14 @@
 [
   {
+    "title": "Baseline high-resolution maps of soil nutrients in Morocco to support sustainable agriculture",
+    "author_list": "Yassine Bouslihim, Abdelkrim Bouasria, Ahmed Jelloul, Lotfi Khiari, Sara Dahhani, Rachid Mrabet, Rachid Moussadek",
+    "journal_title": "Scientific Data",
+    "source_title": "Scientific Data",
+    "doi": "10.1038/s41597-025-05699-x",
+    "short_abstract": "Phosphorus (P) and potassium (K) are essential fertilizer elements whose recommendations require soil analysis tailored to crop-specific needs. However, in developing countries like Morocco, access to",
+    "publication_date": "2025-08-08"
+  },
+  {
     "title": "Impacts of climate change on the distribution pattern of Himalayan Rhubarb (Rheum australe D. Don) in Nepal Himalaya",
     "author_list": "Babu Ram Paudel, Chandra Kanta Subedi, Suresh Kumar Ghimire, Dipesh Pyakurel, Meena Rajbhandari, Ram Prasad Chaudhary",
     "journal_title": "PLOS ONE",
@@ -52,15 +61,6 @@
     "doi": "10.3390/rs17132217",
     "short_abstract": "Understanding spatiotemporal mismatches between urban expansion and population dynamics is essential for guiding sustainable development in rapidly urbanizing regions. Using multi-source nighttime lig",
     "publication_date": "2025-06-27"
-  },
-  {
-    "title": "Baseline high-resolution maps of soil nutrients in Morocco to support sustainable agriculture",
-    "author_list": "Yassine Bouslihim, Abdelkrim Bouasria, Ahmed Jelloul, Lotfi Khiari, Sara Dahhani, Rachid Mrabet, Rachid Moussadek",
-    "journal_title": "Scientific Data",
-    "source_title": "Scientific Data",
-    "doi": "10.1038/s41597-025-05699-x",
-    "short_abstract": "Phosphorus (P) and potassium (K) are essential fertilizer elements whose recommendations require soil analysis tailored to crop-specific needs. However, in developing countries like Morocco, access to",
-    "publication_date": "2025-08-08"
   },
   {
     "title": "Critical zone controls on stream chemistry: Lessons from multiple machine learning methods and irregular data across large watersheds",
