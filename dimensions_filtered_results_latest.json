@@ -90,15 +90,6 @@
     "publication_date": "2025-10"
   },
   {
-    "title": "How to quantify the improvement effect of the park on urban eco-environmental quality? Remote sensing-based multisource data analysis",
-    "author_list": "Xiong Yao, Xupan Yue, Zhongli Lin, Zhipeng Zhu, Zhanghua Xu, Xu Chen",
-    "journal_title": "Sustainable Cities and Society",
-    "source_title": "Sustainable Cities and Society",
-    "doi": "10.1016/j.scs.2025.106694",
-    "short_abstract": "Urban parks are critical for mitigating environmental challenges; however, their beneficial impacts on eco-environmental quality (EEQ) have not been comprehensively explored. Therefore, we developed a",
-    "publication_date": "2025-09"
-  },
-  {
     "title": "MT-CYP-Net: Multi-task network for pixel-level crop yield prediction under very few samples",
     "author_list": "Shenzhou Liu, Di Wang, Haonan Guo, Chengxi Han, Wenzhi Zeng",
     "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
@@ -133,6 +124,15 @@
     "doi": "10.1016/j.ecoinf.2025.103350",
     "short_abstract": "Identifying the urban-rural gradient in biodiversity variation is crucial to better understand the response of biodiversity dynamics to global urbanization. However, knowledge of this gradient in glob",
     "publication_date": "2025-12"
+  },
+  {
+    "title": "How to quantify the improvement effect of the park on urban eco-environmental quality? Remote sensing-based multisource data analysis",
+    "author_list": "Xiong Yao, Xupan Yue, Zhongli Lin, Zhipeng Zhu, Zhanghua Xu, Xu Chen",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2025.106694",
+    "short_abstract": "Urban parks are critical for mitigating environmental challenges; however, their beneficial impacts on eco-environmental quality (EEQ) have not been comprehensively explored. Therefore, we developed a",
+    "publication_date": "2025-09"
   },
   {
     "title": "Addressing neighborhood effect averaging problem: Distinguishing mobility-based and residence-based heat exposure",
@@ -540,6 +540,15 @@
     "publication_date": "2025-06-01"
   },
   {
+    "title": "Leveraging GEE and machine learning algorithm in dynamic modeling of eco-environmental quality",
+    "author_list": "Atiyeh Amindin, Thomas Blaschke, Mojgan Bordbar, Narges Siamian, Omid Ghorbanzadeh, Hamid Reza Pourghasemi",
+    "journal_title": "Environmental and Sustainability Indicators",
+    "source_title": "Environmental and Sustainability Indicators",
+    "doi": "10.1016/j.indic.2025.100818",
+    "short_abstract": "The impact of human activities and natural resources on ecological quality (EQ) is a global issue facing the world. To address these problems, this study used a Remote Sensing Ecological Index (RSEI)",
+    "publication_date": "2025-09"
+  },
+  {
     "title": "Remote Sensing Extraction of Lakes on the Tibetan Plateau Based on the Google Earth Engine and Deep Learning",
     "author_list": "Yunxuan Pang, Junchuan Yu, Laidian Xi, Daqing Ge, Ping Zhou, Changhong Hou, Peng He, Liu Zhao",
     "journal_title": "Remote Sensing",
@@ -547,15 +556,6 @@
     "doi": "10.3390/rs16030583",
     "short_abstract": "Lakes are an important component of global water resources. In order to achieve accurate lake extractions on a large scale, this study takes the Tibetan Plateau as the study area and proposes an Autom",
     "publication_date": "2024-02-03"
-  },
-  {
-    "title": "Leveraging GEE and Machine Learning Algorithm in Dynamic Modeling of Eco-environmental Quality",
-    "author_list": "Atiyeh Amindin, Thomas Blaschke, Mojgan Bordbar, Narges Siamian, Omid Ghorbanzadeh, Hamid Reza Pourghasemi",
-    "journal_title": "Environmental and Sustainability Indicators",
-    "source_title": "Environmental and Sustainability Indicators",
-    "doi": "10.1016/j.indic.2025.100818",
-    "short_abstract": "The impact of human activities and natural resources on ecological quality (EQ) is a global issue facing the world. To address these problems, this study used a Remote Sensing Ecological Index (RSEI)",
-    "publication_date": "2025-09"
   },
   {
     "title": "Spatiotemporal evolution of ecological environmental quality and its dynamic relationships with landscape pattern in the Zhengzhou Metropolitan Area: A perspective based on nonlinear effects and spatiotemporal heterogeneity",
