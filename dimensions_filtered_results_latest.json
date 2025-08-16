@@ -36,15 +36,6 @@
     "publication_date": "2025-05-22"
   },
   {
-    "title": "Global extent and change in human modification of terrestrial ecosystems from 1990 to 2022",
-    "author_list": "David M. Theobald, James R. Oakleaf, Glenn Moncrieff, Maria Voigt, Joe Kiesecker, Christina M. Kennedy",
-    "journal_title": "Scientific Data",
-    "source_title": "Scientific Data",
-    "doi": "10.1038/s41597-025-04892-2",
-    "short_abstract": "Habitat loss and degradation associated with industrial development is the primary threat and dominant driver of biodiversity loss globally. Spatially-explicit datasets that estimate human pressures a",
-    "publication_date": "2025-04-10"
-  },
-  {
     "title": "A comparison shopper’s guide to forest datasets",
     "author_list": "Lucy G. Lee, Valerie J. Pasquarella, Benjamin Glass, Luca L. Morreale, Nina Chung, Xiaojie Gao, Jonathan R. Thompson",
     "journal_title": "bioRxiv",
@@ -70,6 +61,15 @@
     "doi": "10.1016/j.jhydrol.2025.133319",
     "short_abstract": "Understanding surface water quality and managing river systems that span a variety of climatic, lithology, and land cover types requires regional data analysis approaches. At this scale, spatial and t",
     "publication_date": "2025-10"
+  },
+  {
+    "title": "Factors influencing surface water accumulation in beaver pond complexes across the Western United States",
+    "author_list": "Luwen Wan, Emily Fairfax, Kate Maher",
+    "journal_title": "Communications Earth & Environment",
+    "source_title": "Communications Earth & Environment",
+    "doi": "10.1038/s43247-025-02573-x",
+    "short_abstract": "North American beavers (Castor canadensis) build dams and ponds that alter streamflow, enhance floodplain water storage, and provide refugia during droughts and wildfires. However, drivers of pond are",
+    "publication_date": "2025-08-11"
   },
   {
     "title": "A Phenology-Based Evaluation of the Optimal Proxy for Cropland Suitability Based on Crop Yield Correlations from Sentinel-2 Image Time-Series",
@@ -189,6 +189,15 @@
     "publication_date": "2024-02"
   },
   {
+    "title": "Global extent and change in human modification of terrestrial ecosystems from 1990 to 2022",
+    "author_list": "David M. Theobald, James R. Oakleaf, Glenn Moncrieff, Maria Voigt, Joe Kiesecker, Christina M. Kennedy",
+    "journal_title": "Scientific Data",
+    "source_title": "Scientific Data",
+    "doi": "10.1038/s41597-025-04892-2",
+    "short_abstract": "Habitat loss and degradation associated with industrial development is the primary threat and dominant driver of biodiversity loss globally. Spatially-explicit datasets that estimate human pressures a",
+    "publication_date": "2025-04-10"
+  },
+  {
     "title": "A state-of-the-art review on the quantitative and qualitative assessment of water resources using google earth engine",
     "author_list": "Rimsha Hasan, Aditya Kapoor, Rajneesh Singh, Brijesh Kumar Yadav",
     "journal_title": "Environmental Monitoring and Assessment",
@@ -205,15 +214,6 @@
     "doi": "10.1007/978-3-031-26588-4_34",
     "short_abstract": "The built environment consists of the human-made physical parts of the environment, including homes, buildings, streets, open spaces, and infrastructure. This chapter will focus on analyzing global in",
     "publication_date": "2023-10-02"
-  },
-  {
-    "title": "High-resolution land cover classification: cost-effective approach for extraction of reliable training data from existing land cover datasets",
-    "author_list": "Gorica Bratic, Vasil Yordanov, Maria Antonia Brovelli",
-    "journal_title": "International Journal of Digital Earth",
-    "source_title": "International Journal of Digital Earth",
-    "doi": "10.1080/17538947.2023.2253784",
-    "short_abstract": "There has been a significant increase in the availability of global high-resolution land cover (HRLC) datasets due to growing demand and favorable technological advancements. However, this has brought",
-    "publication_date": "2023-09-13"
   },
   {
     "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
@@ -315,15 +315,6 @@
     "publication_date": "2024-07-13"
   },
   {
-    "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
-    "author_list": "Kelsey E. Herndon, Robert Griffin, Whittaker Schroder, Timothy Murtha, Charles Golden, Daniel A. Contreras, Emil Cherrington, Luwei Wang, Alexandra Bazarsky, G. Van Kollias, Omar Alcover Firpi",
-    "journal_title": "Journal of Archaeological Science Reports",
-    "source_title": "Journal of Archaeological Science Reports",
-    "doi": "10.1016/j.jasrep.2023.104094",
-    "short_abstract": "A wealth of remotely sensed data has accumulated over the past several decades and now constitutes an analytical resource primed for archaeological applications. To date, remotely sensed big data (RSB",
-    "publication_date": "2023-08"
-  },
-  {
     "title": "Delta sustainability from the Holocene to the Anthropocene and envisioning the future",
     "author_list": "Edward Anthony, Jaia Syvitski, Florin Zăinescu, Robert J. Nicholls, Kim M. Cohen, Nick Marriner, Yoshiki Saito, John Day, Philip S. J. Minderhoud, Alessandro Amorosi, Zhongyuan Chen, Christophe Morhange, Toru Tamura, Alfred Vespremeanu-Stroe, Manon Besset, François Sabatier, David Kaniewski, Vittorio Maselli",
     "journal_title": "Nature Sustainability",
@@ -412,6 +403,15 @@
     "doi": "10.15587/1729-4061.2023.276653",
     "short_abstract": "The object of the study is the fire risk of the local area. The problem to be solved is to take into account most of the significant parameters in the territorial placement of fire-rescue units of dif",
     "publication_date": "2023-04-29"
+  },
+  {
+    "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
+    "author_list": "Kelsey E. Herndon, Robert Griffin, Whittaker Schroder, Timothy Murtha, Charles Golden, Daniel A. Contreras, Emil Cherrington, Luwei Wang, Alexandra Bazarsky, G. Van Kollias, Omar Alcover Firpi",
+    "journal_title": "Journal of Archaeological Science Reports",
+    "source_title": "Journal of Archaeological Science Reports",
+    "doi": "10.1016/j.jasrep.2023.104094",
+    "short_abstract": "A wealth of remotely sensed data has accumulated over the past several decades and now constitutes an analytical resource primed for archaeological applications. To date, remotely sensed big data (RSB",
+    "publication_date": "2023-08"
   },
   {
     "title": "Divergent radiative forcing of fine-mode aerosols across tree genera during wildfires in North America and Europe",
