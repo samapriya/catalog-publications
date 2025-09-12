@@ -18,15 +18,6 @@
     "publication_date": "2025-05-28"
   },
   {
-    "title": "Post-fire spectral recovery and driving factors across the boreal and temperate forests",
-    "author_list": "Kaili Li, Zhihua Liu, Wenru Xu, Wenjuan Wang, Jiajia Su, Qiushuang Lv, Wenhua Guo, Marie Johnson",
-    "journal_title": "Philosophical Transactions of the Royal Society B Biological Sciences",
-    "source_title": "Philosophical Transactions of the Royal Society B Biological Sciences",
-    "doi": "10.1098/rstb.2023.0453",
-    "short_abstract": "Increasingly frequent and severe forest fires, exacerbated by warmer and drier conditions, significantly affect forest ecosystems. Understanding the dynamics of post-fire forest recovery is crucial fo",
-    "publication_date": "2025-04"
-  },
-  {
     "title": "Inequality in infrastructure access and its association with health disparities",
     "author_list": "Ying Tu, Bin Chen, Chuan Liao, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, Bin Chen, Hong Wei, Bing Xu",
     "journal_title": "Nature Human Behaviour",
@@ -142,6 +133,15 @@
     "doi": "10.1016/j.buildenv.2025.113139",
     "short_abstract": "Urban heat poses significant risks to city populations, highlighting the need to accurately assess individual heat exposure. Traditional methods, which focus solely on residence-based measurements, fa",
     "publication_date": "2025-07"
+  },
+  {
+    "title": "A globally applicable deep learning model for Sentinel-2 cloud and shadow detection",
+    "author_list": "Dong Luo, Hankui K. Zhang, Hugo De Lemos, Junjie Li, David P. Roy",
+    "journal_title": "Science of Remote Sensing",
+    "source_title": "Science of Remote Sensing",
+    "doi": "10.1016/j.srs.2025.100278",
+    "short_abstract": "This study presents and evaluates a globally applicable cloud and shadow masking model for Sentinel-2 top-of-atmosphere (TOA) reflectance using a state-of-the-art transformer-based U-Net model (Swin-U",
+    "publication_date": "2025-09"
   },
   {
     "title": "Assessment of Run-of-River and Hydropower Plants in Peru: Current and Potential Sites, Historical Variability (1981–2020), and Climate Change Projections (2035–2100)",
