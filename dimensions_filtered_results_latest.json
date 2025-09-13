@@ -387,13 +387,13 @@
     "publication_date": "2024-04-01"
   },
   {
-    "title": "Annual Field-Scale Maps of Tall and Short Crops at the Global Scale Using GEDI and Sentinel-2",
-    "author_list": "Stefania Di Tommaso, Sherrie Wang, Vivek Vajipey, Noel Gorelick, Rob Strey, David B. Lobell",
-    "journal_title": "Remote Sensing",
-    "source_title": "Remote Sensing",
-    "doi": "10.3390/rs15174123",
-    "short_abstract": "Crop type maps are critical for tracking agricultural land use and estimating crop production. Remote sensing has proven an efficient and reliable tool for creating these maps in regions with abundant",
-    "publication_date": "2023-08-22"
+    "title": "Climate, topography, or fuels? Top‐down versus bottom‐up controls on fire refugia across British Columbia, Canada",
+    "author_list": "Christine E. Kuntzemann, Ellen Whitman, Doug Lewis, Diana Stralberg",
+    "journal_title": "Ecosphere",
+    "source_title": "Ecosphere",
+    "doi": "10.1002/ecs2.70385",
+    "short_abstract": "Surviving pockets of vegetation within fire perimeters, termed fire refugia, are an important component of ecological recovery following disturbance. Understanding the relative influence of the driver",
+    "publication_date": "2025-09"
   },
   {
     "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
@@ -405,15 +405,6 @@
     "publication_date": "2024-05-26"
   },
   {
-    "title": "Level of fire danger of the local territory",
-    "author_list": "Maksym Kustov, Oleg Fedoryaka, Viacheslav Kononovych, Batyr Khalmuradov, Pavlo Borodych, Tymur Kurtseitov, Anatolii Nikitin, Valentyn Romaniuk, Ivan Meshcheriakov, Julia Veretennikova",
-    "journal_title": "Eastern-European Journal of Enterprise Technologies",
-    "source_title": "Eastern-European Journal of Enterprise Technologies",
-    "doi": "10.15587/1729-4061.2023.276653",
-    "short_abstract": "The object of the study is the fire risk of the local area. The problem to be solved is to take into account most of the significant parameters in the territorial placement of fire-rescue units of dif",
-    "publication_date": "2023-04-29"
-  },
-  {
     "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
     "author_list": "Kelsey E. Herndon, Robert Griffin, Whittaker Schroder, Timothy Murtha, Charles Golden, Daniel A. Contreras, Emil Cherrington, Luwei Wang, Alexandra Bazarsky, G. Van Kollias, Omar Alcover Firpi",
     "journal_title": "Journal of Archaeological Science Reports",
@@ -421,6 +412,15 @@
     "doi": "10.1016/j.jasrep.2023.104094",
     "short_abstract": "A wealth of remotely sensed data has accumulated over the past several decades and now constitutes an analytical resource primed for archaeological applications. To date, remotely sensed big data (RSB",
     "publication_date": "2023-08"
+  },
+  {
+    "title": "Annual Field-Scale Maps of Tall and Short Crops at the Global Scale Using GEDI and Sentinel-2",
+    "author_list": "Stefania Di Tommaso, Sherrie Wang, Vivek Vajipey, Noel Gorelick, Rob Strey, David B. Lobell",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs15174123",
+    "short_abstract": "Crop type maps are critical for tracking agricultural land use and estimating crop production. Remote sensing has proven an efficient and reliable tool for creating these maps in regions with abundant",
+    "publication_date": "2023-08-22"
   },
   {
     "title": "Divergent radiative forcing of fine-mode aerosols across tree genera during wildfires in North America and Europe",
