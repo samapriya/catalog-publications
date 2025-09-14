@@ -144,6 +144,15 @@
     "publication_date": "2025-09"
   },
   {
+    "title": "Comparing 2D and 3D green quantity and spatial patterns in Built-Up areas of 292 Chinese cities",
+    "author_list": "Haochun Hu, Shoubang Huang, Jingyi Han, Qing Lin, Shiyang Zhang, Xiangrong Wang",
+    "journal_title": "Ecological Indicators",
+    "source_title": "Ecological Indicators",
+    "doi": "10.1016/j.ecolind.2025.114103",
+    "short_abstract": "Urban green space (UGS) is vital to ecological functioning and human well-being, yet current evaluations rely mainly on two-dimensional (2D) indicators. Three-dimensional (3D) green quantity, which me",
+    "publication_date": "2025-09"
+  },
+  {
     "title": "Assessment of Run-of-River and Hydropower Plants in Peru: Current and Potential Sites, Historical Variability (1981–2020), and Climate Change Projections (2035–2100)",
     "author_list": "Leonardo Gutierrez, Adrian Huerta, Harold Llauca, Luc Bourrel, Waldo Lavado-Casimiro",
     "journal_title": "Climate",
@@ -151,15 +160,6 @@
     "doi": "10.3390/cli13060125",
     "short_abstract": "Hydropower is the main source of renewable energy and the most feasible for implementation in remote areas without access to conventional energy grids. Therefore, knowledge of actual, potential, and f",
     "publication_date": "2025-06-12"
-  },
-  {
-    "title": "Spatial Downscaling of Soil Moisture Product to Generate High-Resolution Data: A Multi-Source Approach over Heterogeneous Landscapes in Kenya",
-    "author_list": "Asnake Kassahun Abebe, Xiang Zhou, Tingting Lv, Zui Tao, Abdelrazek Elnashar, Asfaw Kebede, Chunmei Wang, Hongming Zhang",
-    "journal_title": "Remote Sensing",
-    "source_title": "Remote Sensing",
-    "doi": "10.3390/rs17101763",
-    "short_abstract": "Soil moisture (SM) estimates are essential for drought monitoring, hydrological modeling, and climate resilience planning applications. While satellite and model-derived SM products effectively captur",
-    "publication_date": "2025-05-19"
   },
   {
     "title": "WetCH4: a machine-learning-based upscaling of methane fluxes of northern wetlands during 2016–2022",
