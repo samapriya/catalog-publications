@@ -18,15 +18,6 @@
     "publication_date": "2025-05-28"
   },
   {
-    "title": "Inequality in infrastructure access and its association with health disparities",
-    "author_list": "Ying Tu, Bin Chen, Chuan Liao, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, Bin Chen, Hong Wei, Bing Xu",
-    "journal_title": "Nature Human Behaviour",
-    "source_title": "Nature Human Behaviour",
-    "doi": "10.1038/s41562-025-02208-3",
-    "short_abstract": "Economic, social and environmental infrastructure forms a fundamental pillar of societal development. Ensuring equitable access to infrastructure for all residents is crucial for achieving the Sustain",
-    "publication_date": "2025-05-22"
-  },
-  {
     "title": "A comparison shopper’s guide to forest datasets",
     "author_list": "Lucy G. Lee, Valerie J. Pasquarella, Benjamin Glass, Luca L. Morreale, Nina Chung, Xiaojie Gao, Jonathan R. Thompson",
     "journal_title": "bioRxiv",
@@ -61,6 +52,15 @@
     "doi": "10.1038/s43247-025-02573-x",
     "short_abstract": "North American beavers (Castor canadensis) build dams and ponds that alter streamflow, enhance floodplain water storage, and provide refugia during droughts and wildfires. However, drivers of pond are",
     "publication_date": "2025-08-11"
+  },
+  {
+    "title": "Application of small area estimation using big data sources to estimate electricity consumption per capita households (case study: sub-district level in Central Java, Indonesia)",
+    "author_list": "Raflizal Fikrar Odriansyah, Setia Pramana, Amiek Chamami",
+    "journal_title": "Statistical Methods & Applications",
+    "source_title": "Statistical Methods & Applications",
+    "doi": "10.1007/s10260-025-00808-x",
+    "short_abstract": "Global electricity consumption has grown steadily, driven by increasing household, business, and industry demand. In Indonesia, the rapid growth in electricity consumption has led to significant chall",
+    "publication_date": "2025-09-08"
   },
   {
     "title": "Global patterns and driving factors of the carbon accumulation rate in coastal wetlands",
@@ -141,7 +141,7 @@
     "source_title": "Science of Remote Sensing",
     "doi": "10.1016/j.srs.2025.100278",
     "short_abstract": "This study presents and evaluates a globally applicable cloud and shadow masking model for Sentinel-2 top-of-atmosphere (TOA) reflectance using a state-of-the-art transformer-based U-Net model (Swin-U",
-    "publication_date": "2025-09"
+    "publication_date": "2025-12"
   },
   {
     "title": "Comparing 2D and 3D green quantity and spatial patterns in Built-Up areas of 292 Chinese cities",
@@ -618,7 +618,7 @@
     "source_title": "arXiv",
     "doi": "10.48550/arxiv.2507.22291",
     "short_abstract": "Unprecedented volumes of Earth observation data are continually collected around the world, but high-quality labels remain scarce given the effort required to make physical measurements and observatio",
-    "publication_date": "2025-07-29"
+    "publication_date": "2025-09-08"
   },
   {
     "title": "15th International Conference on Environmental Science and Development (ICESD2024)",
