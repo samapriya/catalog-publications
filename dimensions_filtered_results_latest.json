@@ -90,6 +90,15 @@
     "publication_date": "2025-09"
   },
   {
+    "title": "Sensing human health from Space: An assessment of applications and big data platforms",
+    "author_list": "Dhritiraj Sengupta, Filipe Girbal Brandão, Shubha Sathyendranath, Gemma Kulk, Annamaria Conte, Carla Ippoliti, Luca Candeloro, Monica Bucciarelli, David Moffat, William Wint, Marcello Maranesi, Raffaele Scarano, Joao Vitorino, Gunnar Brandt, Tejas Morbagal Harish",
+    "journal_title": "Remote Sensing Applications Society and Environment",
+    "source_title": "Remote Sensing Applications Society and Environment",
+    "doi": "10.1016/j.rsase.2025.101701",
+    "short_abstract": "The integration of Earth Observation (EO) into human health research has expanded significantly, particularly since 2009, highlighting its potential for disease modelling, environmental exposure asses",
+    "publication_date": "2025-08"
+  },
+  {
     "title": "Context-Specific Urban Optimisations Through Data-Driven Classification: A Perspective on Methods and Applications",
     "author_list": "Špela Verovšek, Miha Moškon",
     "journal_title": "Land",
@@ -133,15 +142,6 @@
     "doi": "10.1016/j.buildenv.2025.113139",
     "short_abstract": "Urban heat poses significant risks to city populations, highlighting the need to accurately assess individual heat exposure. Traditional methods, which focus solely on residence-based measurements, fa",
     "publication_date": "2025-07"
-  },
-  {
-    "title": "A globally applicable deep learning model for Sentinel-2 cloud and shadow detection",
-    "author_list": "Dong Luo, Hankui K. Zhang, Hugo De Lemos, Junjie Li, David P. Roy",
-    "journal_title": "Science of Remote Sensing",
-    "source_title": "Science of Remote Sensing",
-    "doi": "10.1016/j.srs.2025.100278",
-    "short_abstract": "This study presents and evaluates a globally applicable cloud and shadow masking model for Sentinel-2 top-of-atmosphere (TOA) reflectance using a state-of-the-art transformer-based U-Net model (Swin-U",
-    "publication_date": "2025-12"
   },
   {
     "title": "Comparing 2D and 3D green quantity and spatial patterns in Built-Up areas of 292 Chinese cities",
