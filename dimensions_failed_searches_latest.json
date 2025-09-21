@@ -1,7 +1,7 @@
 {
   "failed_search_metadata": {
     "total_failed_searches": 14,
-    "export_timestamp": "2025-09-20T16:30:17.617478"
+    "export_timestamp": "2025-09-21T16:30:20.268186"
   },
   "failed_searches": {
     "\"GEE Community Assets\"": {
@@ -34,7 +34,7 @@
       "count": 0,
       "retrieved": 0,
       "filtered": 0,
-      "error": "Empty response from API"
+      "error": "504 Server Error: Gateway Time-out for url: https://app.dimensions.ai/discover/publication/results.json?search_mode=content&search_text=An%C3%A1lise+espacial+da+disponibilidade+h%C3%ADdrica+da+bacia+hidrogr%C3%A1fica+do+Rio+Pirapora+%28SP%29&search_type=kws&search_field=text_search&order=date"
     },
     "Predictive Drivers and Spatiotemporal Transferability of Machine Learning Based Crop Yield Prediction Under Drought Conditions": {
       "description": "Scholar Diff Title",
