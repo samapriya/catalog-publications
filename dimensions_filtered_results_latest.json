@@ -9,15 +9,6 @@
     "publication_date": "2025-08-08"
   },
   {
-    "title": "Impacts of climate change on the distribution pattern of Himalayan Rhubarb (Rheum australe D. Don) in Nepal Himalaya",
-    "author_list": "Babu Ram Paudel, Chandra Kanta Subedi, Suresh Kumar Ghimire, Dipesh Pyakurel, Meena Rajbhandari, Ram Prasad Chaudhary",
-    "journal_title": "PLOS ONE",
-    "source_title": "PLOS ONE",
-    "doi": "10.1371/journal.pone.0323755",
-    "short_abstract": "While there has been substantial consensus that climate change poses a severe threat to the Himalayan biota; we still lack comprehensive data on the potential impact of climate change on the important",
-    "publication_date": "2025-05-28"
-  },
-  {
     "title": "GEDI and Sentinel data integration for quantifying agroforestry tree height and stocks",
     "author_list": "Giovanni D'Amico, Elia Vangi, Martin Schwartz, Francesca Giannetti, Saverio Francini, Piermaria Corona, Walter Mattioli, Gherardo Chirici",
     "journal_title": "Journal of Environmental Management",
@@ -52,6 +43,15 @@
     "doi": "10.1016/j.jhydrol.2025.133319",
     "short_abstract": "Understanding surface water quality and managing river systems that span a variety of climatic, lithology, and land cover types requires regional data analysis approaches. At this scale, spatial and t",
     "publication_date": "2025-10"
+  },
+  {
+    "title": "Quantifying the Average Cooling Effects of Tree, Artificial, and Hybrid Shade using City-Wide IoT Sensor Measurements: A Case Study of Seoul",
+    "author_list": "Seon Hyuk Kim, Bona Ku, Chae Yeon Park, Ayano Aida, Haojie Cheng, Suryeon Kim, Chan Park",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2025.106855",
+    "short_abstract": "As urban heat stress continues to rise, strategies to mitigate heat for pedestrians through the provision of shade have become essential. While many studies have quantified the cooling benefits of sha",
+    "publication_date": "2025-09"
   },
   {
     "title": "Factors influencing surface water accumulation in beaver pond complexes across the Western United States",
@@ -187,6 +187,15 @@
     "doi": "10.1073/pnas.2307072120",
     "short_abstract": "Amplified warming of high latitudes and rapid thaw of frozen ground threaten permafrost carbon stocks. The presence of permafrost modulates water infiltration and flow, as well as sediment transport,",
     "publication_date": "2024-02"
+  },
+  {
+    "title": "Impacts of climate change on the distribution pattern of Himalayan Rhubarb (Rheum australe D. Don) in Nepal Himalaya",
+    "author_list": "Babu Ram Paudel, Chandra Kanta Subedi, Suresh Kumar Ghimire, Dipesh Pyakurel, Meena Rajbhandari, Ram Prasad Chaudhary",
+    "journal_title": "PLOS ONE",
+    "source_title": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0323755",
+    "short_abstract": "While there has been substantial consensus that climate change poses a severe threat to the Himalayan biota; we still lack comprehensive data on the potential impact of climate change on the important",
+    "publication_date": "2025-05-28"
   },
   {
     "title": "Global extent and change in human modification of terrestrial ecosystems from 1990 to 2022",
