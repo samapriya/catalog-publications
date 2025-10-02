@@ -1,7 +1,7 @@
 {
   "failed_search_metadata": {
-    "total_failed_searches": 13,
-    "export_timestamp": "2025-10-01T16:30:36.894645"
+    "total_failed_searches": 12,
+    "export_timestamp": "2025-10-02T16:30:24.824490"
   },
   "failed_searches": {
     "\"GEE Community Assets\"": {
@@ -37,14 +37,6 @@
       "error": "Empty response from API"
     },
     "Predictive Drivers and Spatiotemporal Transferability of Machine Learning Based Crop Yield Prediction Under Drought Conditions": {
-      "description": "Scholar Diff Title",
-      "search_field": "text_search",
-      "count": 0,
-      "retrieved": 0,
-      "filtered": 0,
-      "error": "Empty response from API"
-    },
-    "The value of terrain pattern, high-resolution data and ensemble modeling for landslide susceptibility prediction": {
       "description": "Scholar Diff Title",
       "search_field": "text_search",
       "count": 0,

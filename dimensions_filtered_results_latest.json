@@ -18,15 +18,6 @@
     "publication_date": "2025-09-10"
   },
   {
-    "title": "A comparison shopper’s guide to forest datasets",
-    "author_list": "Lucy G. Lee, Valerie J. Pasquarella, Benjamin Glass, Luca L. Morreale, Nina Chung, Xiaojie Gao, Jonathan R. Thompson",
-    "journal_title": "bioRxiv",
-    "source_title": "bioRxiv",
-    "doi": "10.1101/2025.06.02.657445",
-    "short_abstract": "Abstract Recent advances in remote sensing, data availability, and cloud-based computing have led to a rapid expansion of publicly accessible datasets characterizing forest cover and land use. These d",
-    "publication_date": "2025-06-06"
-  },
-  {
     "title": "Satellite-Observed Mismatch in Urban Growth and Population Dynamics: Implications for Sustainable Regional Planning in Guangdong Province",
     "author_list": "Fushan Zhang, Chi Duan, Qingling Zhang",
     "journal_title": "Remote Sensing",
@@ -81,6 +72,24 @@
     "publication_date": "2025-10"
   },
   {
+    "title": "How does road networks impact cultivated land multifunctionality? The role of land fragmentation: evidence from Hubei Province, China",
+    "author_list": "Fan Liu, Weiyan Hu, Min Min, Tian Liu, Shixiang Li, Qi Rong",
+    "journal_title": "Frontiers in Sustainable Food Systems",
+    "source_title": "Frontiers in Sustainable Food Systems",
+    "doi": "10.3389/fsufs.2025.1686176",
+    "short_abstract": "Understanding the influence mechanisms of road networks on cultivated land multifunctionality (CLM) is critical for optimizing territorial spatial patterns and achieving sustainable cultivated land re",
+    "publication_date": "2025-09-26"
+  },
+  {
+    "title": "Evolution of eutrophication in boreal lakes: results from a half-century of in-situ measurements",
+    "author_list": "Milad Shamsi Anboohi, Roohollah Noori, Mohammad Reza Badamian, Sayed M. Bateni, Fan Xia, Mehran Mahdian, Peiman Kianmehr, Qiuhong Tang",
+    "journal_title": "Journal of Hydrology",
+    "source_title": "Journal of Hydrology",
+    "doi": "10.1016/j.jhydrol.2025.134323",
+    "short_abstract": "Eutrophication remains a critical threat to aquatic ecosystems globally. However, in-situ water quality measurements are often limited by short-duration or low temporal-frequency, resulting in long-te",
+    "publication_date": "2025-09"
+  },
+  {
     "title": "MT-CYP-Net: Multi-task network for pixel-level crop yield prediction under very few samples",
     "author_list": "Shenzhou Liu, Di Wang, Haonan Guo, Chengxi Han, Wenzhi Zeng",
     "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
@@ -106,15 +115,6 @@
     "doi": "10.3390/land14081505",
     "short_abstract": "Urban environments are increasingly challenged by rapid urbanisation and climate change, demanding strategic responses that are both adaptable and sensitive to local context. Typological classificatio",
     "publication_date": "2025-07-22"
-  },
-  {
-    "title": "Data-driven assessment of climate change and vegetative cover dynamics in traditional oases",
-    "author_list": "Elisa Baioni, Giulia Fiantanese, Giovanni Michele Porta",
-    "journal_title": "Journal of Hydrology Regional Studies",
-    "source_title": "Journal of Hydrology Regional Studies",
-    "doi": "10.1016/j.ejrh.2025.102266",
-    "short_abstract": "Study region: Abiod Valley, Aurès region, Algeria. Study focus: This work focuses on the relation between climatic forcing and vegetation cover dynamics in traditional oases. This study pursues two ma",
-    "publication_date": "2025-06"
   },
   {
     "title": "Urban-rural gradient in biodiversity intactness across global cities",
@@ -144,6 +144,24 @@
     "publication_date": "2025-07"
   },
   {
+    "title": "The Value of Terrain Pattern, High‐Resolution Data and Ensemble Modeling for Landslide Susceptibility Prediction",
+    "author_list": "Jiangtao Liu, Chaopeng Shen, Te Pei, Daniel Kifer, Kathryn Lawson",
+    "journal_title": "Journal of Geophysical Research Machine Learning and Computation",
+    "source_title": "Journal of Geophysical Research Machine Learning and Computation",
+    "doi": "10.1029/2024jh000460",
+    "short_abstract": "Abstract Landslide risk is traditionally predicted by process‐based models with detailed assessments or point‐scale attribute‐based machine learning (ML) models with first‐ or second‐order features (e",
+    "publication_date": "2025-09"
+  },
+  {
+    "title": "A multi-criteria optimization approach for the geometric integration of vector-based land cover datasets",
+    "author_list": "Farzane Mohseni, Peter Rottmann, Jan-Henrik Haunert",
+    "journal_title": "International Journal of Digital Earth",
+    "source_title": "International Journal of Digital Earth",
+    "doi": "10.1080/17538947.2025.2562058",
+    "short_abstract": "Land Use/Land Cover (LULC) mapping plays a pivotal role in understanding the complex interplay between human activities and the natural environment. Here, we present a novel approach for fusing LULC i",
+    "publication_date": "2025-09-24"
+  },
+  {
     "title": "Comparing 2D and 3D green quantity and spatial patterns in Built-Up areas of 292 Chinese cities",
     "author_list": "Haochun Hu, Shoubang Huang, Jingyi Han, Qing Lin, Shiyang Zhang, Xiangrong Wang",
     "journal_title": "Ecological Indicators",
@@ -159,15 +177,6 @@
     "source_title": "Climate",
     "doi": "10.3390/cli13060125",
     "short_abstract": "Hydropower is the main source of renewable energy and the most feasible for implementation in remote areas without access to conventional energy grids. Therefore, knowledge of actual, potential, and f",
-    "publication_date": "2025-06-12"
-  },
-  {
-    "title": "WetCH4: a machine-learning-based upscaling of methane fluxes of northern wetlands during 2016–2022",
-    "author_list": "Qing Ying, Benjamin Poulter, Jennifer D. Watts, Kyle A. Arndt, Anna-Maria Virkkala, Lori Bruhwiler, Youmi Oh, Brendan M. Rogers, Susan M. Natali, Hilary Sullivan, Amanda Armstrong, Eric J. Ward, Luke D. Schiferl, Clayton D. Elder, Olli Peltola, Annett Bartsch, Ankur R. Desai, Eugénie Euskirchen, Mathias Göckede, Bernhard Lehner, Mats B. Nilsson, Matthias Peichl, Oliver Sonnentag, Eeva-Stiina Tuittila, Torsten Sachs, Aram Kalhori, Masahito Ueyama, Zhen Zhang",
-    "journal_title": "Earth System Science Data",
-    "source_title": "Earth System Science Data",
-    "doi": "10.5194/essd-17-2507-2025",
-    "short_abstract": "Abstract. Wetlands are the largest natural source of methane (CH4) emissions globally. Northern wetlands (>45° N), accounting for 42 % of global wetland area, are increasingly vulnerable to carbon los",
     "publication_date": "2025-06-12"
   },
   {
@@ -414,6 +423,15 @@
     "publication_date": "2025-09"
   },
   {
+    "title": "A comparison shopper’s guide to forest datasets",
+    "author_list": "Lucy G. Lee, Valerie J. Pasquarella, Benjamin Glass, Luca L. Morreale, Nina Chung, Xiaojie Gao, Jonathan R. Thompson",
+    "journal_title": "bioRxiv",
+    "source_title": "bioRxiv",
+    "doi": "10.1101/2025.06.02.657445",
+    "short_abstract": "Abstract Recent advances in remote sensing, data availability, and cloud-based computing have led to a rapid expansion of publicly accessible datasets characterizing forest cover and land use. These d",
+    "publication_date": "2025-06-06"
+  },
+  {
     "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
     "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
     "journal_title": "Forests",
@@ -495,6 +513,15 @@
     "publication_date": "2025-04-24"
   },
   {
+    "title": "A Study on Harvesting Rainwater by Applying Green Roof",
+    "author_list": "Aysha Akter, Ramisa Tanjum Rain",
+    "journal_title": "Cleaner Water",
+    "source_title": "Cleaner Water",
+    "doi": "10.1016/j.clwat.2025.100137",
+    "short_abstract": "Rapid urban growth, poor drainage, and climate-induced heavy rainfall have led to frequent urban flooding. Green roofs, as a form of Low Impact Development (LID), provide a sustainable option to mitig",
+    "publication_date": "2025-09"
+  },
+  {
     "title": "Assessing forest area fragmentation potential in Bali, Nusa Tenggara and Maluku islands, Indonesia",
     "author_list": "L Abdulah, N S Lestari, A S Yunianto, M Iqbal, P H P Pasaribu",
     "journal_title": "IOP Conference Series Earth and Environmental Science",
@@ -538,15 +565,6 @@
     "doi": "10.1002/ird.3055",
     "short_abstract": "Abstract Surface water is essential for agricultural, domestic and industrial production worldwide. Monitoring surface dynamics is crucial for sustainable ecosystems and global water resources. Import",
     "publication_date": "2024-11"
-  },
-  {
-    "title": "Sensor-independent LAI/FPAR CDR: reconstructing a global sensor-independent climate data record of MODIS and VIIRS LAI/FPAR from 2000 to 2022",
-    "author_list": "Jiabin Pu, Kai Yan, Samapriya Roy, Zaichun Zhu, Miina Rautiainen, Yuri Knyazikhin, Ranga B. Myneni",
-    "journal_title": "Earth System Science Data",
-    "source_title": "Earth System Science Data",
-    "doi": "10.5194/essd-16-15-2024",
-    "short_abstract": "Abstract. Leaf area index (LAI) and fraction of photosynthetically active radiation (FPAR) are critical biophysical parameters for the characterization of terrestrial ecosystems. Long-term global LAI/",
-    "publication_date": "2024-01-04"
   },
   {
     "title": "A multi-source data fusion method for land cover production: a case study of the East European Plain",
@@ -745,6 +763,15 @@
     "doi": "10.1002/sd.3030",
     "short_abstract": "Abstract Understanding the role of ecosystem services (ES) and their interactions at different spatial scales in territorial space governance is crucial for sustainable development. However, a unified",
     "publication_date": "2024-05"
+  },
+  {
+    "title": "Data-driven assessment of climate change and vegetative cover dynamics in traditional oases",
+    "author_list": "Elisa Baioni, Giulia Fiantanese, Giovanni Michele Porta",
+    "journal_title": "Journal of Hydrology Regional Studies",
+    "source_title": "Journal of Hydrology Regional Studies",
+    "doi": "10.1016/j.ejrh.2025.102266",
+    "short_abstract": "Study region: Abiod Valley, Aurès region, Algeria. Study focus: This work focuses on the relation between climatic forcing and vegetation cover dynamics in traditional oases. This study pursues two ma",
+    "publication_date": "2025-06"
   },
   {
     "title": "Rainwater Harvesting Site Selection for Drought-Prone Areas in Somali and Borena Zones, Oromia Regional State, Ethiopia: A Geospatial and Multi-Criteria Decision Analysis",
