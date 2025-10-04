@@ -225,13 +225,13 @@
     "publication_date": "2024-11-28"
   },
   {
-    "title": "Built Environments",
-    "author_list": "Erin Trochim",
-    "journal_title": null,
-    "source_title": null,
-    "doi": "10.1007/978-3-031-26588-4_34",
-    "short_abstract": "The built environment consists of the human-made physical parts of the environment, including homes, buildings, streets, open spaces, and infrastructure. This chapter will focus on analyzing global in",
-    "publication_date": "2023-10-02"
+    "title": "A harmonized dataset of ground-mounted solar energy in the US with enhanced metadata",
+    "author_list": "Jacob T. Stid, Anthony D. Kendall, Annick Anctil, Jeremy Rapp, James C. Bingaman, David W. Hyndman",
+    "journal_title": "Scientific Data",
+    "source_title": "Scientific Data",
+    "doi": "10.1038/s41597-025-05862-4",
+    "short_abstract": "Solar energy generating systems are critical components of our expanding energy infrastructure, yet available datasets remain incomplete or not publicly available–particularly at the sub-array level.",
+    "publication_date": "2025-09-29"
   },
   {
     "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
@@ -1044,13 +1044,13 @@
     "publication_date": "2023-05-09"
   },
   {
-    "title": "Understanding Landslide Expression in SAR Backscatter Data: A Global Study",
-    "author_list": "Erin Lindsay, Alexandra Jarna Ganerød, Graziella Devoli, Johannes Reiche, Steinar Nordal, Regula Frauenfelder, Lars-Christian Tokle",
-    "journal_title": "Preprints.org",
-    "source_title": "Preprints.org",
-    "doi": "10.20944/preprints202302.0390.v1",
-    "short_abstract": "During disaster response, clouds or darkness can prevent the use of optical images for detecting consequences of natural disasters, including landslides. In these situations, radar images can be used",
-    "publication_date": "2023-02-22"
+    "title": "Understanding Landslide Expression in SAR Backscatter Data: Global Study and Disaster Response Application",
+    "author_list": "Erin Lindsay, Alexandra Jarna Ganerød, Graziella Devoli, Johannes Reiche, Steinar Nordal, Regula Frauenfelder",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs17193313",
+    "short_abstract": "Cloud cover can delay landslide detection in optical satellite imagery for weeks, complicating disaster response. Synthetic Aperture Radar (SAR) backscatter imagery, which is widely used for monitorin",
+    "publication_date": "2025-09-27"
   },
   {
     "title": "Current and Future Distribution of Shihuahuaco (Dipteryx spp.) under Climate Change Scenarios in the Central-Eastern Amazon of Peru",
