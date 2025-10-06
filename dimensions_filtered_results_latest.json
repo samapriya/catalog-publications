@@ -63,6 +63,15 @@
     "publication_date": "2025-09-08"
   },
   {
+    "title": "Evolution of eutrophication in boreal lakes: results from a half-century of in-situ measurements",
+    "author_list": "Milad Shamsi Anboohi, Roohollah Noori, Mohammad Reza Badamian, Sayed M. Bateni, Fan Xia, Mehran Mahdian, Peiman Kianmehr, Qiuhong Tang",
+    "journal_title": "Journal of Hydrology",
+    "source_title": "Journal of Hydrology",
+    "doi": "10.1016/j.jhydrol.2025.134323",
+    "short_abstract": "Eutrophication remains a critical threat to aquatic ecosystems globally. However, in-situ water quality measurements are often limited by short-duration or low temporal-frequency, resulting in long-te",
+    "publication_date": "2025-12"
+  },
+  {
     "title": "Global patterns and driving factors of the carbon accumulation rate in coastal wetlands",
     "author_list": "Shao-Jun Yan, Qian Hao, Zhifeng Yan, Ren-Min Yang",
     "journal_title": "Earth-Science Reviews",
@@ -79,15 +88,6 @@
     "doi": "10.3389/fsufs.2025.1686176",
     "short_abstract": "Understanding the influence mechanisms of road networks on cultivated land multifunctionality (CLM) is critical for optimizing territorial spatial patterns and achieving sustainable cultivated land re",
     "publication_date": "2025-09-26"
-  },
-  {
-    "title": "Evolution of eutrophication in boreal lakes: results from a half-century of in-situ measurements",
-    "author_list": "Milad Shamsi Anboohi, Roohollah Noori, Mohammad Reza Badamian, Sayed M. Bateni, Fan Xia, Mehran Mahdian, Peiman Kianmehr, Qiuhong Tang",
-    "journal_title": "Journal of Hydrology",
-    "source_title": "Journal of Hydrology",
-    "doi": "10.1016/j.jhydrol.2025.134323",
-    "short_abstract": "Eutrophication remains a critical threat to aquatic ecosystems globally. However, in-situ water quality measurements are often limited by short-duration or low temporal-frequency, resulting in long-te",
-    "publication_date": "2025-09"
   },
   {
     "title": "MT-CYP-Net: Multi-task network for pixel-level crop yield prediction under very few samples",
@@ -519,7 +519,7 @@
     "source_title": "Cleaner Water",
     "doi": "10.1016/j.clwat.2025.100137",
     "short_abstract": "Rapid urban growth, poor drainage, and climate-induced heavy rainfall have led to frequent urban flooding. Green roofs, as a form of Low Impact Development (LID), provide a sustainable option to mitig",
-    "publication_date": "2025-09"
+    "publication_date": "2025-12"
   },
   {
     "title": "Assessing forest area fragmentation potential in Bali, Nusa Tenggara and Maluku islands, Indonesia",
