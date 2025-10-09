@@ -333,15 +333,6 @@
     "publication_date": "2024"
   },
   {
-    "title": "Assessing size shifts amidst a warming climate in lakes recharged by the Asian Water Tower through satellite imagery",
-    "author_list": "Nuo Xu, Jiahua Zhang, Andre Daccache, Chong Liu, Arman Ahmadi, Tianyu Zhou, Peng Gou",
-    "journal_title": "The Science of The Total Environment",
-    "source_title": "The Science of The Total Environment",
-    "doi": "10.1016/j.scitotenv.2023.168770",
-    "short_abstract": "Recent studies indicate that the Asian Water Tower (AWT) is at risk due to climate change, which can negatively impact water and food security in Asia. However, there is a lack of comprehensive inform",
-    "publication_date": "2023-11-24"
-  },
-  {
     "title": "Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction",
     "author_list": "Geethen Singh, Glenn Moncrieff, Zander Venter, Kerry Cawse-Nicholson, Jasper Slingsby, Tamara B. Robinson",
     "journal_title": "Scientific Reports",
@@ -358,6 +349,15 @@
     "doi": "10.1038/s41597-025-05810-2",
     "short_abstract": "Retrogressive Thaw Slumps (RTS) are widespread mass-wasting hillslope failures triggered by thawing permafrost. While regional studies have provided insights into the spatial distribution and dynamics",
     "publication_date": "2025-08-29"
+  },
+  {
+    "title": "An earth observation and explainable machine learning approach for determining the drivers of invasive species — a water hyacinth case study",
+    "author_list": "Geethen Singh, Benjamin Rosman, Marcus J Byrne, Chevonne Reynolds",
+    "journal_title": "Environmental Monitoring and Assessment",
+    "source_title": "Environmental Monitoring and Assessment",
+    "doi": "10.1007/s10661-025-14517-1",
+    "short_abstract": "Invasive species management is often constrained by limited resources and complicated by ecological and socio-economic variability across landscapes, leading to inconsistent outcomes. We use water hya",
+    "publication_date": "2025-10-03"
   },
   {
     "title": "Delta sustainability from the Holocene to the Anthropocene and envisioning the future",
@@ -439,6 +439,15 @@
     "doi": "10.3390/f15060923",
     "short_abstract": "This study developed a comprehensive framework using Google Earth Engine to efficiently generate a forest fire inventory dataset, which enhanced data accessibility without specialized knowledge or acc",
     "publication_date": "2024-05-26"
+  },
+  {
+    "title": "Assessing size shifts amidst a warming climate in lakes recharged by the Asian Water Tower through satellite imagery",
+    "author_list": "Nuo Xu, Jiahua Zhang, Andre Daccache, Chong Liu, Arman Ahmadi, Tianyu Zhou, Peng Gou",
+    "journal_title": "The Science of The Total Environment",
+    "source_title": "The Science of The Total Environment",
+    "doi": "10.1016/j.scitotenv.2023.168770",
+    "short_abstract": "Recent studies indicate that the Asian Water Tower (AWT) is at risk due to climate change, which can negatively impact water and food security in Asia. However, there is a lack of comprehensive inform",
+    "publication_date": "2023-11-24"
   },
   {
     "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
