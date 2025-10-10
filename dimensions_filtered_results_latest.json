@@ -18,6 +18,15 @@
     "publication_date": "2025-09-10"
   },
   {
+    "title": "Evolution of eutrophication in boreal lakes: results from a half-century of in-situ measurements",
+    "author_list": "Milad Shamsi Anboohi, Roohollah Noori, Mohammad Reza Badamian, Sayed M. Bateni, Fan Xia, Mehran Mahdian, Peiman Kianmehr, Qiuhong Tang",
+    "journal_title": "Journal of Hydrology",
+    "source_title": "Journal of Hydrology",
+    "doi": "10.1016/j.jhydrol.2025.134323",
+    "short_abstract": "Eutrophication remains a critical threat to aquatic ecosystems globally. However, in-situ water quality measurements are often limited by short-duration or low temporal-frequency, resulting in long-te",
+    "publication_date": "2025-12"
+  },
+  {
     "title": "Satellite-Observed Mismatch in Urban Growth and Population Dynamics: Implications for Sustainable Regional Planning in Guangdong Province",
     "author_list": "Fushan Zhang, Chi Duan, Qingling Zhang",
     "journal_title": "Remote Sensing",
@@ -36,15 +45,6 @@
     "publication_date": "2025-10"
   },
   {
-    "title": "Quantifying the Average Cooling Effects of Tree, Artificial, and Hybrid Shade using City-Wide IoT Sensor Measurements: A Case Study of Seoul",
-    "author_list": "Seon Hyuk Kim, Bona Ku, Chae Yeon Park, Ayano Aida, Haojie Cheng, Suryeon Kim, Chan Park",
-    "journal_title": "Sustainable Cities and Society",
-    "source_title": "Sustainable Cities and Society",
-    "doi": "10.1016/j.scs.2025.106855",
-    "short_abstract": "As urban heat stress continues to rise, strategies to mitigate heat for pedestrians through the provision of shade have become essential. While many studies have quantified the cooling benefits of sha",
-    "publication_date": "2025-09"
-  },
-  {
     "title": "Factors influencing surface water accumulation in beaver pond complexes across the Western United States",
     "author_list": "Luwen Wan, Emily Fairfax, Kate Maher",
     "journal_title": "Communications Earth & Environment",
@@ -61,15 +61,6 @@
     "doi": "10.1007/s10260-025-00808-x",
     "short_abstract": "Global electricity consumption has grown steadily, driven by increasing household, business, and industry demand. In Indonesia, the rapid growth in electricity consumption has led to significant chall",
     "publication_date": "2025-09-08"
-  },
-  {
-    "title": "Evolution of eutrophication in boreal lakes: results from a half-century of in-situ measurements",
-    "author_list": "Milad Shamsi Anboohi, Roohollah Noori, Mohammad Reza Badamian, Sayed M. Bateni, Fan Xia, Mehran Mahdian, Peiman Kianmehr, Qiuhong Tang",
-    "journal_title": "Journal of Hydrology",
-    "source_title": "Journal of Hydrology",
-    "doi": "10.1016/j.jhydrol.2025.134323",
-    "short_abstract": "Eutrophication remains a critical threat to aquatic ecosystems globally. However, in-situ water quality measurements are often limited by short-duration or low temporal-frequency, resulting in long-te",
-    "publication_date": "2025-12"
   },
   {
     "title": "Global patterns and driving factors of the carbon accumulation rate in coastal wetlands",
@@ -142,6 +133,15 @@
     "doi": "10.1016/j.buildenv.2025.113139",
     "short_abstract": "Urban heat poses significant risks to city populations, highlighting the need to accurately assess individual heat exposure. Traditional methods, which focus solely on residence-based measurements, fa",
     "publication_date": "2025-07"
+  },
+  {
+    "title": "Unraveling the Phenomenon of Supply‐Demand Feedback in Agricultural Water Interventions",
+    "author_list": "Mohammad Faiz Alam, Michael E. McClain, Alok Sikka, D. R. Sena, Saket Pande",
+    "journal_title": "Earth's Future",
+    "source_title": "Earth's Future",
+    "doi": "10.1029/2025ef005990",
+    "short_abstract": "Abstract The Agricultural water interventions can trigger human‐water feedback, including unintended supply demand feedback—where increased water availability drives greater water use. In the Kamadhiy",
+    "publication_date": "2025-10"
   },
   {
     "title": "The Value of Terrain Pattern, High‐Resolution Data and Ensemble Modeling for Landslide Susceptibility Prediction",
@@ -357,7 +357,7 @@
     "source_title": "Environmental Monitoring and Assessment",
     "doi": "10.1007/s10661-025-14517-1",
     "short_abstract": "Invasive species management is often constrained by limited resources and complicated by ecological and socio-economic variability across landscapes, leading to inconsistent outcomes. We use water hya",
-    "publication_date": "2025-10-03"
+    "publication_date": "2025-01-01"
   },
   {
     "title": "Delta sustainability from the Holocene to the Anthropocene and envisioning the future",
@@ -477,6 +477,15 @@
     "publication_date": "2025-06-11"
   },
   {
+    "title": "Balancing Agricultural Growth and Land Degradation: The Key Role of Water Resources in Sustainable Farmland Management",
+    "author_list": "Kun Wang",
+    "journal_title": "Land Degradation and Development",
+    "source_title": "Land Degradation and Development",
+    "doi": "10.1002/ldr.70231",
+    "short_abstract": "ABSTRACT Agriculture plays a vital role in meeting global food demands, yet its expansion is often linked to challenges such as land degradation and water scarcity. It is important to identify changes",
+    "publication_date": "2025-10-05"
+  },
+  {
     "title": "Spatiotemporal assessment of mangrove cover, soil salinity, and nutrient patterns in Chengmai County using remote sensing (2018–2023)",
     "author_list": "Kashif Ali Solangi, Zexiu Yang, Xiaochun Wei, Farheen Solangi, Di Zeng, Lei Liu, Kangbing Wang, Jinling Zhang, Xiqiang Song",
     "journal_title": "Ecological Indicators",
@@ -522,7 +531,7 @@
     "publication_date": "2025-04-24"
   },
   {
-    "title": "A Study on Harvesting Rainwater by Applying Green Roof",
+    "title": "A study on harvesting rainwater by applying green roof",
     "author_list": "Aysha Akter, Ramisa Tanjum Rain",
     "journal_title": "Cleaner Water",
     "source_title": "Cleaner Water",
@@ -1105,6 +1114,15 @@
     "doi": "10.1016/j.agrformet.2024.110373",
     "short_abstract": "In the last two decades, rapid corn expansion has significantly impacted local and regional climates in Northeastern China. However, its climatic effects and underlying biophysical mechanisms have rar",
     "publication_date": "2025-03"
+  },
+  {
+    "title": "Quantifying the average cooling effects of tree, artificial, and hybrid shade using city-wide IoT sensor measurements: A case study of Seoul",
+    "author_list": "Seon Hyuk Kim, Bona Ku, Chae Yeon Park, Ayano Aida, Haojie Cheng, Suryeon Kim, Chan Park",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2025.106855",
+    "short_abstract": "As urban heat stress continues to rise, strategies to mitigate heat for pedestrians through the provision of shade have become essential. While many studies have quantified the cooling benefits of sha",
+    "publication_date": "2025-10"
   },
   {
     "title": "Unlocking the full potential of Sentinel-1 for flood detection in arid regions",
