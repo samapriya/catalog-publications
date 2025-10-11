@@ -153,6 +153,15 @@
     "publication_date": "2025-09"
   },
   {
+    "title": "Impacts of rising atmospheric dryness on terrestrial ecosystem carbon cycle",
+    "author_list": "Wenping Yuan, Jie Tian, Mei Wang, Shuo Wang, Wenfang Xu, Yin Wang, Zheng Fu, Martin P. Girardin, Julia K. Green, Sha Zhou, Jiali Shang, Bin He, Miao Huang, Menglong Liu, Haibo Lu, Shilong Piao, Yamin Qing, Meimei Xue, Chaoqing Song, Yongxian Su, Walid Sadok, Yao Zhang, Xiuzhi Chen",
+    "journal_title": "Nature Reviews Earth & Environment",
+    "source_title": "Nature Reviews Earth & Environment",
+    "doi": "10.1038/s43017-025-00726-2",
+    "short_abstract": "Rising atmospheric dryness is affecting the terrestrial ecosystem carbon cycle through its influence on plant physiology. In this Review, we synthesize historical and projected trends in atmospheric v",
+    "publication_date": "2025-10-07"
+  },
+  {
     "title": "A multi-criteria optimization approach for the geometric integration of vector-based land cover datasets",
     "author_list": "Farzane Mohseni, Peter Rottmann, Jan-Henrik Haunert",
     "journal_title": "International Journal of Digital Earth",
@@ -169,15 +178,6 @@
     "doi": "10.1016/j.ecolind.2025.114103",
     "short_abstract": "Urban green space (UGS) is vital to ecological functioning and human well-being, yet current evaluations rely mainly on two-dimensional (2D) indicators. Three-dimensional (3D) green quantity, which me",
     "publication_date": "2025-09"
-  },
-  {
-    "title": "Assessment of Run-of-River and Hydropower Plants in Peru: Current and Potential Sites, Historical Variability (1981–2020), and Climate Change Projections (2035–2100)",
-    "author_list": "Leonardo Gutierrez, Adrian Huerta, Harold Llauca, Luc Bourrel, Waldo Lavado-Casimiro",
-    "journal_title": "Climate",
-    "source_title": "Climate",
-    "doi": "10.3390/cli13060125",
-    "short_abstract": "Hydropower is the main source of renewable energy and the most feasible for implementation in remote areas without access to conventional energy grids. Therefore, knowledge of actual, potential, and f",
-    "publication_date": "2025-06-12"
   },
   {
     "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
