@@ -27,15 +27,6 @@
     "publication_date": "2025-12"
   },
   {
-    "title": "Satellite-Observed Mismatch in Urban Growth and Population Dynamics: Implications for Sustainable Regional Planning in Guangdong Province",
-    "author_list": "Fushan Zhang, Chi Duan, Qingling Zhang",
-    "journal_title": "Remote Sensing",
-    "source_title": "Remote Sensing",
-    "doi": "10.3390/rs17132217",
-    "short_abstract": "Understanding spatiotemporal mismatches between urban expansion and population dynamics is essential for guiding sustainable development in rapidly urbanizing regions. Using multi-source nighttime lig",
-    "publication_date": "2025-06-27"
-  },
-  {
     "title": "Critical zone controls on stream chemistry: Lessons from multiple machine learning methods and irregular data across large watersheds",
     "author_list": "G.M. Goldrich-Middaugh, K. Johnson, L. Ma, M.A. Engle, S.W. Fleming, J.W. Ricketts, P.L. Sullivan",
     "journal_title": "Journal of Hydrology",
@@ -52,6 +43,15 @@
     "doi": "10.1038/s43247-025-02573-x",
     "short_abstract": "North American beavers (Castor canadensis) build dams and ponds that alter streamflow, enhance floodplain water storage, and provide refugia during droughts and wildfires. However, drivers of pond are",
     "publication_date": "2025-08-11"
+  },
+  {
+    "title": "Carbon stock assessment using Machine learning based modeling in Pinus massoniana plantations",
+    "author_list": "Sufeng Zhu, Mengmeng Gou, Zunji Jian, Cong Jiang, Huiling Chen, Ruyuan Hu, Haiping Zhao, Changfu Liu, Wenfa Xiao",
+    "journal_title": "Trees Forests and People",
+    "source_title": "Trees Forests and People",
+    "doi": "10.1016/j.tfp.2025.101043",
+    "short_abstract": "Accurate estimation of forest ecosystem carbon stocks is vital for sustainable forest management and climate change mitigation strategies. Yet, belowground carbon quantification remains one of the gre",
+    "publication_date": "2025-10"
   },
   {
     "title": "Application of small area estimation using big data sources to estimate electricity consumption per capita households (case study: sub-district level in Central Java, Indonesia)",
