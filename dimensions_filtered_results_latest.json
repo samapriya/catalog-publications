@@ -45,13 +45,13 @@
     "publication_date": "2025-08-11"
   },
   {
-    "title": "Carbon stock assessment using Machine learning based modeling in Pinus massoniana plantations",
+    "title": "Carbon stock assessment using machine learning based modeling in Pinus massoniana plantations",
     "author_list": "Sufeng Zhu, Mengmeng Gou, Zunji Jian, Cong Jiang, Huiling Chen, Ruyuan Hu, Haiping Zhao, Changfu Liu, Wenfa Xiao",
     "journal_title": "Trees Forests and People",
     "source_title": "Trees Forests and People",
     "doi": "10.1016/j.tfp.2025.101043",
     "short_abstract": "Accurate estimation of forest ecosystem carbon stocks is vital for sustainable forest management and climate change mitigation strategies. Yet, belowground carbon quantification remains one of the gre",
-    "publication_date": "2025-10"
+    "publication_date": "2025-12"
   },
   {
     "title": "Application of small area estimation using big data sources to estimate electricity consumption per capita households (case study: sub-district level in Central Java, Indonesia)",
@@ -61,15 +61,6 @@
     "doi": "10.1007/s10260-025-00808-x",
     "short_abstract": "Global electricity consumption has grown steadily, driven by increasing household, business, and industry demand. In Indonesia, the rapid growth in electricity consumption has led to significant chall",
     "publication_date": "2025-09-08"
-  },
-  {
-    "title": "Integrating social media data and machine learning methods for flash flood susceptibility mapping in China",
-    "author_list": "Yaojie Zhuang, Tuoshi Gong, Jian Fang, Dingtao Shen, Weiyu Tang, Sanming Lin, Xinyi Chen, Yihan Zhang",
-    "journal_title": "Journal of Hydrology",
-    "source_title": "Journal of Hydrology",
-    "doi": "10.1016/j.jhydrol.2025.134397",
-    "short_abstract": "Flash floods represent one of the most hazardous natural disasters globally, with China ranking among the nations most severely impacted by such events. Assessment of flash flood susceptibility and ri",
-    "publication_date": "2025-10"
   },
   {
     "title": "Global patterns and driving factors of the carbon accumulation rate in coastal wetlands",
@@ -142,6 +133,15 @@
     "doi": "10.1038/s43017-025-00726-2",
     "short_abstract": "Rising atmospheric dryness is affecting the terrestrial ecosystem carbon cycle through its influence on plant physiology. In this Review, we synthesize historical and projected trends in atmospheric v",
     "publication_date": "2025-10-07"
+  },
+  {
+    "title": "Machine Learning-Based Mapping of Fog Water Harvesting Potential in Pithoragarh, Uttarakhand: Evaluating Climate Scenarios and Geospatial Influences",
+    "author_list": "Chiranjit Singha, Kishore Chandra Swain, Biswajeet Pradhan, Armin Moghimi, Babak Ranjgar, Shahid Gulzar, Hetvi Shah",
+    "journal_title": "Physics and Chemistry of the Earth Parts A/B/C",
+    "source_title": "Physics and Chemistry of the Earth Parts A/B/C",
+    "doi": "10.1016/j.pce.2025.104138",
+    "short_abstract": "Fog is crucial to the hydrological processes in Pithoragarh district, Uttarakhand, significantly affecting local water systems and ecosystems. This study employed five machine learning (ML) models, Gr",
+    "publication_date": "2025-10"
   },
   {
     "title": "Understanding Landslide Expression in SAR Backscatter Data: Global Study and Disaster Response Application",
