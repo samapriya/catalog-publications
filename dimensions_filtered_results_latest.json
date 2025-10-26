@@ -1,14 +1,5 @@
 [
   {
-    "title": "Baseline high-resolution maps of soil nutrients in Morocco to support sustainable agriculture",
-    "author_list": "Yassine Bouslihim, Abdelkrim Bouasria, Ahmed Jelloul, Lotfi Khiari, Sara Dahhani, Rachid Mrabet, Rachid Moussadek",
-    "journal_title": "Scientific Data",
-    "source_title": "Scientific Data",
-    "doi": "10.1038/s41597-025-05699-x",
-    "short_abstract": "Phosphorus (P) and potassium (K) are essential fertilizer elements whose recommendations require soil analysis tailored to crop-specific needs. However, in developing countries like Morocco, access to",
-    "publication_date": "2025-08-08"
-  },
-  {
     "title": "GEDI and Sentinel data integration for quantifying agroforestry tree height and stocks",
     "author_list": "Giovanni D'Amico, Elia Vangi, Martin Schwartz, Francesca Giannetti, Saverio Francini, Piermaria Corona, Walter Mattioli, Gherardo Chirici",
     "journal_title": "Journal of Environmental Management",
@@ -16,6 +7,15 @@
     "doi": "10.1016/j.jenvman.2025.127197",
     "short_abstract": "Agroforestry is a strategic asset for combating climate change and mitigating the environmental impacts of agricultural intensification, offering a nature-based solution for enhancing landscape resili",
     "publication_date": "2025-09-10"
+  },
+  {
+    "title": "Multidecadal satellite imagery reveals significant impacts of anthropogenic threats on Ramsar sites of India",
+    "author_list": "Krishna Patil, Ravindra Pawar, Ashwin Gujrati",
+    "journal_title": "Environmental Monitoring and Assessment",
+    "source_title": "Environmental Monitoring and Assessment",
+    "doi": "10.1007/s10661-025-14689-w",
+    "short_abstract": "Ramsar sites are wetlands of global significance, providing vital habitats for unique flora and fauna, while offering essential ecosystem services. Although India hosts the highest number of Ramsar si",
+    "publication_date": "2025-10-21"
   },
   {
     "title": "Evolution of eutrophication in boreal lakes: results from a half-century of in-situ measurements",
@@ -322,15 +322,6 @@
     "doi": "10.3390/land13111811",
     "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, th",
     "publication_date": "2024-11-01"
-  },
-  {
-    "title": "Cloud-Based Remote Sensing with Google Earth Engine, Fundamentals and Applications",
-    "author_list": "Jeffrey A. Cardille, Morgan A. Crowley, David Saah, Nicholas E. Clinton",
-    "journal_title": null,
-    "source_title": null,
-    "doi": "10.1007/978-3-031-26588-4",
-    "short_abstract": "This book guides its audience—which can range from novice users to experts— though a 55-chapter tour of Google Earth Engine. A sequenced and diverse set of lab materials, this is the product of more t",
-    "publication_date": "2024"
   },
   {
     "title": "Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction",
