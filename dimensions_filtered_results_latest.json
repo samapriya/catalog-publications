@@ -126,6 +126,15 @@
     "publication_date": "2025-09"
   },
   {
+    "title": "Machine Learning-Based Mapping of Fog Water Harvesting Potential in Pithoragarh, Uttarakhand: Evaluating Climate Scenarios and Geospatial Influences",
+    "author_list": "Chiranjit Singha, Kishore Chandra Swain, Biswajeet Pradhan, Armin Moghimi, Babak Ranjgar, Shahid Gulzar, Hetvi Shah",
+    "journal_title": "Physics and Chemistry of the Earth Parts A/B/C",
+    "source_title": "Physics and Chemistry of the Earth Parts A/B/C",
+    "doi": "10.1016/j.pce.2025.104138",
+    "short_abstract": "Fog is crucial to the hydrological processes in Pithoragarh district, Uttarakhand, significantly affecting local water systems and ecosystems. This study employed five machine learning (ML) models, Gr",
+    "publication_date": "2025-11"
+  },
+  {
     "title": "Impacts of rising atmospheric dryness on terrestrial ecosystem carbon cycle",
     "author_list": "Wenping Yuan, Jie Tian, Mei Wang, Shuo Wang, Wenfang Xu, Yin Wang, Zheng Fu, Martin P. Girardin, Julia K. Green, Sha Zhou, Jiali Shang, Bin He, Miao Huang, Menglong Liu, Haibo Lu, Shilong Piao, Yamin Qing, Meimei Xue, Chaoqing Song, Yongxian Su, Walid Sadok, Yao Zhang, Xiuzhi Chen",
     "journal_title": "Nature Reviews Earth & Environment",
@@ -133,15 +142,6 @@
     "doi": "10.1038/s43017-025-00726-2",
     "short_abstract": "Rising atmospheric dryness is affecting the terrestrial ecosystem carbon cycle through its influence on plant physiology. In this Review, we synthesize historical and projected trends in atmospheric v",
     "publication_date": "2025-10-07"
-  },
-  {
-    "title": "Machine Learning-Based Mapping of Fog Water Harvesting Potential in Pithoragarh, Uttarakhand: Evaluating Climate Scenarios and Geospatial Influences",
-    "author_list": "Chiranjit Singha, Kishore Chandra Swain, Biswajeet Pradhan, Armin Moghimi, Babak Ranjgar, Shahid Gulzar, Hetvi Shah",
-    "journal_title": "Physics and Chemistry of the Earth Parts A/B/C",
-    "source_title": "Physics and Chemistry of the Earth Parts A/B/C",
-    "doi": "10.1016/j.pce.2025.104138",
-    "short_abstract": "Fog is crucial to the hydrological processes in Pithoragarh district, Uttarakhand, significantly affecting local water systems and ecosystems. This study employed five machine learning (ML) models, Gr",
-    "publication_date": "2025-10"
   },
   {
     "title": "Understanding Landslide Expression in SAR Backscatter Data: Global Study and Disaster Response Application",
