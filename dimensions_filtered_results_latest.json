@@ -36,15 +36,6 @@
     "publication_date": "2025-10"
   },
   {
-    "title": "Factors influencing surface water accumulation in beaver pond complexes across the Western United States",
-    "author_list": "Luwen Wan, Emily Fairfax, Kate Maher",
-    "journal_title": "Communications Earth & Environment",
-    "source_title": "Communications Earth & Environment",
-    "doi": "10.1038/s43247-025-02573-x",
-    "short_abstract": "North American beavers (Castor canadensis) build dams and ponds that alter streamflow, enhance floodplain water storage, and provide refugia during droughts and wildfires. However, drivers of pond are",
-    "publication_date": "2025-08-11"
-  },
-  {
     "title": "Carbon stock assessment using machine learning based modeling in Pinus massoniana plantations",
     "author_list": "Sufeng Zhu, Mengmeng Gou, Zunji Jian, Cong Jiang, Huiling Chen, Ruyuan Hu, Haiping Zhao, Changfu Liu, Wenfa Xiao",
     "journal_title": "Trees Forests and People",
@@ -108,6 +99,15 @@
     "publication_date": "2025-09"
   },
   {
+    "title": "Crop water origins and hydroclimate vulnerability of global croplands",
+    "author_list": "Yan Jiang, Jennifer A. Burney",
+    "journal_title": "Nature Sustainability",
+    "source_title": "Nature Sustainability",
+    "doi": "10.1038/s41893-025-01662-1",
+    "short_abstract": "Water availability critically influences crop phenology and agricultural productivity. Here we use satellite-derived water isotope observations and physical models to trace atmospheric moisture origin",
+    "publication_date": "2025-10-24"
+  },
+  {
     "title": "Unraveling the Phenomenon of Supply‐Demand Feedback in Agricultural Water Interventions",
     "author_list": "Mohammad Faiz Alam, Michael E. McClain, Alok Sikka, D. R. Sena, Saket Pande",
     "journal_title": "Earth's Future",
@@ -144,6 +144,15 @@
     "publication_date": "2025-10-07"
   },
   {
+    "title": "Comparing 2D and 3D green quantity and spatial patterns in Built-Up areas of 292 Chinese cities",
+    "author_list": "Haochun Hu, Shoubang Huang, Jingyi Han, Qing Lin, Shiyang Zhang, Xiangrong Wang",
+    "journal_title": "Ecological Indicators",
+    "source_title": "Ecological Indicators",
+    "doi": "10.1016/j.ecolind.2025.114103",
+    "short_abstract": "Urban green space (UGS) is vital to ecological functioning and human well-being, yet current evaluations rely mainly on two-dimensional (2D) indicators. Three-dimensional (3D) green quantity, which me",
+    "publication_date": "2025-10"
+  },
+  {
     "title": "Understanding Landslide Expression in SAR Backscatter Data: Global Study and Disaster Response Application",
     "author_list": "Erin Lindsay, Alexandra Jarna Ganerød, Graziella Devoli, Johannes Reiche, Steinar Nordal, Regula Frauenfelder",
     "journal_title": "Remote Sensing",
@@ -169,15 +178,6 @@
     "doi": "10.1080/17538947.2025.2562058",
     "short_abstract": "Land Use/Land Cover (LULC) mapping plays a pivotal role in understanding the complex interplay between human activities and the natural environment. Here, we present a novel approach for fusing LULC i",
     "publication_date": "2025-09-24"
-  },
-  {
-    "title": "Comparing 2D and 3D green quantity and spatial patterns in Built-Up areas of 292 Chinese cities",
-    "author_list": "Haochun Hu, Shoubang Huang, Jingyi Han, Qing Lin, Shiyang Zhang, Xiangrong Wang",
-    "journal_title": "Ecological Indicators",
-    "source_title": "Ecological Indicators",
-    "doi": "10.1016/j.ecolind.2025.114103",
-    "short_abstract": "Urban green space (UGS) is vital to ecological functioning and human well-being, yet current evaluations rely mainly on two-dimensional (2D) indicators. Three-dimensional (3D) green quantity, which me",
-    "publication_date": "2025-09"
   },
   {
     "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
@@ -241,6 +241,15 @@
     "doi": "10.1016/j.landusepol.2025.107673",
     "short_abstract": "Armed conflicts are potent drivers of land use and land cover (LULC) change, yet little is known about how conflict intensity shapes land use, population displacement, and socioeconomic shifts in Nige",
     "publication_date": "2025-10"
+  },
+  {
+    "title": "Factors influencing surface water accumulation in beaver pond complexes across the Western United States",
+    "author_list": "Luwen Wan, Emily Fairfax, Kate Maher",
+    "journal_title": "Communications Earth & Environment",
+    "source_title": "Communications Earth & Environment",
+    "doi": "10.1038/s43247-025-02573-x",
+    "short_abstract": "North American beavers (Castor canadensis) build dams and ponds that alter streamflow, enhance floodplain water storage, and provide refugia during droughts and wildfires. However, drivers of pond are",
+    "publication_date": "2025-08-11"
   },
   {
     "title": "A Phenology-Based Evaluation of the Optimal Proxy for Cropland Suitability Based on Crop Yield Correlations from Sentinel-2 Image Time-Series",
