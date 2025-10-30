@@ -99,6 +99,15 @@
     "publication_date": "2025-09"
   },
   {
+    "title": "Machine learning-based mapping of fog water harvesting potential in Pithoragarh, Uttarakhand: Evaluating climate scenarios and geospatial influences",
+    "author_list": "Chiranjit Singha, Kishore Chandra Swain, Biswajeet Pradhan, Armin Moghimi, Babak Ranjgar, Shahid Gulzar, Hetvi Shah",
+    "journal_title": "Physics and Chemistry of the Earth Parts A/B/C",
+    "source_title": "Physics and Chemistry of the Earth Parts A/B/C",
+    "doi": "10.1016/j.pce.2025.104138",
+    "short_abstract": "Fog is crucial to the hydrological processes in Pithoragarh district, Uttarakhand, significantly affecting local water systems and ecosystems. This study employed five machine learning (ML) models, Gr",
+    "publication_date": "2025-11"
+  },
+  {
     "title": "Crop water origins and hydroclimate vulnerability of global croplands",
     "author_list": "Yan Jiang, Jennifer A. Burney",
     "journal_title": "Nature Sustainability",
@@ -124,15 +133,6 @@
     "doi": "10.1029/2024jh000460",
     "short_abstract": "Abstract Landslide risk is traditionally predicted by process‐based models with detailed assessments or point‐scale attribute‐based machine learning (ML) models with first‐ or second‐order features (e",
     "publication_date": "2025-09"
-  },
-  {
-    "title": "Machine Learning-Based Mapping of Fog Water Harvesting Potential in Pithoragarh, Uttarakhand: Evaluating Climate Scenarios and Geospatial Influences",
-    "author_list": "Chiranjit Singha, Kishore Chandra Swain, Biswajeet Pradhan, Armin Moghimi, Babak Ranjgar, Shahid Gulzar, Hetvi Shah",
-    "journal_title": "Physics and Chemistry of the Earth Parts A/B/C",
-    "source_title": "Physics and Chemistry of the Earth Parts A/B/C",
-    "doi": "10.1016/j.pce.2025.104138",
-    "short_abstract": "Fog is crucial to the hydrological processes in Pithoragarh district, Uttarakhand, significantly affecting local water systems and ecosystems. This study employed five machine learning (ML) models, Gr",
-    "publication_date": "2025-11"
   },
   {
     "title": "Impacts of rising atmospheric dryness on terrestrial ecosystem carbon cycle",
