@@ -81,15 +81,6 @@
     "publication_date": "2025-09-26"
   },
   {
-    "title": "MT-CYP-Net: Multi-task network for pixel-level crop yield prediction under very few samples",
-    "author_list": "Shenzhou Liu, Di Wang, Haonan Guo, Chengxi Han, Wenzhi Zeng",
-    "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
-    "source_title": "International Journal of Applied Earth Observation and Geoinformation",
-    "doi": "10.1016/j.jag.2025.104748",
-    "short_abstract": "Accurate and fine-grained crop yield prediction plays a crucial role in advancing global agriculture. However, the accuracy of pixel-level yield estimation based on satellite remote sensing data has b",
-    "publication_date": "2025-09"
-  },
-  {
     "title": "Urban-rural gradient in biodiversity intactness across global cities",
     "author_list": "Naiyi Liu, Zihan Liu, Felista Kasyoka Kilunda, Yanqi Liu, Chao Qin",
     "journal_title": "Ecological Informatics",
@@ -97,6 +88,15 @@
     "doi": "10.1016/j.ecoinf.2025.103350",
     "short_abstract": "Identifying the urban-rural gradient in biodiversity variation is crucial to better understand the response of biodiversity dynamics to global urbanization. However, knowledge of this gradient in glob",
     "publication_date": "2025-12"
+  },
+  {
+    "title": "Enhanced Amazon Wetland Map with Multi-Source Remote Sensing Data",
+    "author_list": "Carlos M. Souza, Bruno G. Ferreira, Ives Medeiros Brandão, Sandra Rios, John Aguilar-Brand, Juliano Schirmbeck, Emanuel Valero, Miguel A. Restrepo-Galvis, Eva Mollinedo-Veneros, Esteban Terneus, Nelly Rivero, Lucimara Wolfarth Schirmbeck, María A. Oliveira-Miranda, Cícero Cardoso Augusto, Jose Eduardo Victorio Gonzales, Juan Espinosa, Juan Carlos Amilibia, Tony Vizcarra Bentos, Suelma Ribeiro Silva, Judith Rosales Godoy, Helga C. Wiederhecker",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs17213644",
+    "short_abstract": "The Amazon wetlands are the largest and most diverse freshwater ecosystem globally, characterized by various flooded vegetation and the Amazon River’s estuary. This critical ecosystem is vulnerable to",
+    "publication_date": "2025-11-05"
   },
   {
     "title": "Machine learning-based mapping of fog water harvesting potential in Pithoragarh, Uttarakhand: Evaluating climate scenarios and geospatial influences",
@@ -187,15 +187,6 @@
     "doi": "10.1016/j.scitotenv.2024.175283",
     "short_abstract": "There has been an increase in tile drained area across the US Midwest and other regions worldwide due to agricultural expansion, intensification, and climate variability. Despite this growth, spatiall",
     "publication_date": "2024-08-05"
-  },
-  {
-    "title": "Permafrost extent sets drainage density in the Arctic",
-    "author_list": "Joanmarie Del Vecchio, Marisa C. Palucis, Colin R. Meyer",
-    "journal_title": "Proceedings of the National Academy of Sciences of the United States of America",
-    "source_title": "Proceedings of the National Academy of Sciences of the United States of America",
-    "doi": "10.1073/pnas.2307072120",
-    "short_abstract": "Amplified warming of high latitudes and rapid thaw of frozen ground threaten permafrost carbon stocks. The presence of permafrost modulates water infiltration and flow, as well as sediment transport,",
-    "publication_date": "2024-02"
   },
   {
     "title": "Impacts of climate change on the distribution pattern of Himalayan Rhubarb (Rheum australe D. Don) in Nepal Himalaya",
