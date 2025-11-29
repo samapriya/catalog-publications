@@ -54,15 +54,6 @@
     "publication_date": "2025-12"
   },
   {
-    "title": "Application of small area estimation using big data sources to estimate electricity consumption per capita households (case study: sub-district level in Central Java, Indonesia)",
-    "author_list": "Raflizal Fikrar Odriansyah, Setia Pramana, Amiek Chamami",
-    "journal_title": "Statistical Methods & Applications",
-    "source_title": "Statistical Methods & Applications",
-    "doi": "10.1007/s10260-025-00808-x",
-    "short_abstract": "Global electricity consumption has grown steadily, driven by increasing household, business, and industry demand. In Indonesia, the rapid growth in electricity consumption has led to significant chall",
-    "publication_date": "2025-09-08"
-  },
-  {
     "title": "Global patterns and driving factors of the carbon accumulation rate in coastal wetlands",
     "author_list": "Shao-Jun Yan, Qian Hao, Zhifeng Yan, Ren-Min Yang",
     "journal_title": "Earth-Science Reviews",
@@ -133,6 +124,15 @@
     "doi": "10.1029/2024jh000460",
     "short_abstract": "Abstract Landslide risk is traditionally predicted by process‐based models with detailed assessments or point‐scale attribute‐based machine learning (ML) models with first‐ or second‐order features (e",
     "publication_date": "2025-09"
+  },
+  {
+    "title": "Wall‐to‐wall Amazon forest height mapping with planet NICFI, Aerial LiDAR, and a U‐Net regression model",
+    "author_list": "Fabien H. Wagner, Ricardo Dalagnol, Griffin Carter, Mayumi C. M. Hirye, Shivraj Gill, Le Bienfaiteur Sagang Takougoum, Samuel Favrichon, Michael Keller, Jean P. H. B. Ometto, Lorena Alves, Cynthia Creze, Stephanie P. George‐Chacon, Shuang Li, Zhihua Liu, Adugna Mullissa, Yan Yang, Erone G. Santos, Sarah R. Worden, Martin Brandt, Philippe Ciais, Stephen C. Hagen, Sassan Saatchi",
+    "journal_title": "Remote Sensing in Ecology and Conservation",
+    "source_title": "Remote Sensing in Ecology and Conservation",
+    "doi": "10.1002/rse2.70041",
+    "short_abstract": "Abstract Tree canopy height is a key indicator of forest biomass, productivity and structure, yet measuring it accurately at regional or larger scales, whether from the ground or remotely, remains cha",
+    "publication_date": "2025-11-16"
   },
   {
     "title": "Impacts of rising atmospheric dryness on terrestrial ecosystem carbon cycle",
@@ -549,6 +549,15 @@
     "publication_date": "2024-03-01"
   },
   {
+    "title": "Deteksi Dini Kerentanan Risiko Kebakaran Hutan dan Lahan Gambut di Kalimantan Barat Melalui Analisis Spasio-Temporal Distribusi dan Tingkat Kekeringan Vegetasi Menggunakan Google Earth Engine (Tahun 2025)",
+    "author_list": "Asramid Yasin",
+    "journal_title": "RIGGS Journal of Artificial Intelligence and Digital Business",
+    "source_title": "RIGGS Journal of Artificial Intelligence and Digital Business",
+    "doi": "10.31004/riggs.v4i3.3184",
+    "short_abstract": "Kebakaran hutan dan lahan (karhutla) merupakan bencana tahunan dengan dampak multidimensional di Indonesia, khususnya di Provinsi Kalimantan Barat yang memiliki hutan dan lahan gambut yang luas dan re",
+    "publication_date": "2025-10-20"
+  },
+  {
     "title": "Assessment of Potential Aquifer Recharge Zones in the Locumba Basin, Arid Region of the Atacama Desert Using Integration of Two MCDM Methods: Fuzzy AHP and TOPSIS",
     "author_list": "Víctor Pocco, Arleth Mendoza, Samuel Chucuya, Pablo Franco-León, Germán Huayna, Eusebio Ingol-Blanco, Edwin Pino-Vargas",
     "journal_title": "Water",
@@ -610,15 +619,6 @@
     "doi": "10.1016/j.indic.2025.100818",
     "short_abstract": "The impact of human activities and natural resources on ecological quality (EQ) is a global issue facing the world. To address these problems, this study used a Remote Sensing Ecological Index (RSEI)",
     "publication_date": "2025-09"
-  },
-  {
-    "title": "Remote Sensing Extraction of Lakes on the Tibetan Plateau Based on the Google Earth Engine and Deep Learning",
-    "author_list": "Yunxuan Pang, Junchuan Yu, Laidian Xi, Daqing Ge, Ping Zhou, Changhong Hou, Peng He, Liu Zhao",
-    "journal_title": "Remote Sensing",
-    "source_title": "Remote Sensing",
-    "doi": "10.3390/rs16030583",
-    "short_abstract": "Lakes are an important component of global water resources. In order to achieve accurate lake extractions on a large scale, this study takes the Tibetan Plateau as the study area and proposes an Autom",
-    "publication_date": "2024-02-03"
   },
   {
     "title": "Spatiotemporal evolution of ecological environmental quality and its dynamic relationships with landscape pattern in the Zhengzhou Metropolitan Area: A perspective based on nonlinear effects and spatiotemporal heterogeneity",
@@ -700,15 +700,6 @@
     "doi": "10.1111/mec.17736",
     "short_abstract": "Speciation, i.e., the formation of new species, implies that diverging populations evolve genetic, phenotypic or ecological factors that promote reproductive isolation (RI), but the relative contribut",
     "publication_date": "2025-03-25"
-  },
-  {
-    "title": "Siberia Integrated Regional Study: multidisciplinary investigations of the dynamic relationship between the Siberian environment and global climate change",
-    "author_list": "E P Gordov, E A Vaganov",
-    "journal_title": "Environmental Research Letters",
-    "source_title": "Environmental Research Letters",
-    "doi": "10.1088/1748-9326/5/1/015007",
-    "short_abstract": "This is an editorial overview of the Siberia Integrated Regional Study (SIRS), which is a large-scale investigation of ongoing and future environmental change in Siberia and its relationship to global",
-    "publication_date": "2010-03"
   },
   {
     "title": "Oral abstracts of the 21st International AIDS Conference 18–22 July 2016, Durban, South Africa",
