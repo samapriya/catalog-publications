@@ -9,7 +9,7 @@
     "publication_date": "2025-10-21"
   },
   {
-    "title": "Drivers of Day-Night intra-surface urban heat island variations under local extreme heat: A case study of Singapore",
+    "title": "Drivers of day–night intra-surface urban heat island variations under local extreme heat: A case study of Singapore",
     "author_list": "Siyu Li, Filip Biljecki, Pengyuan Liu, Rudi Stouffs",
     "journal_title": "Sustainable Cities and Society",
     "source_title": "Sustainable Cities and Society",
@@ -54,6 +54,24 @@
     "publication_date": "2025-12"
   },
   {
+    "title": "Nonlinear Mechanisms of PM2.5 and O3 Response to 2D/3D Building and Green Space Patterns in Guiyang City, China",
+    "author_list": "Debin Lu, Dongyang Yang, Menglin Li, Tong Lu, Chang Han",
+    "journal_title": "Land",
+    "source_title": "Land",
+    "doi": "10.3390/land14112257",
+    "short_abstract": "PM2.5 and O3 are now the primary air pollutants in Chinese cities and pose serious risks to human health. In particular, the two- and three-dimensional patterns of urban buildings and green spaces pla",
+    "publication_date": "2025-11-14"
+  },
+  {
+    "title": "Remote Sensing-Based Spatiotemporal Assessment of Heat Risk in the Guangdong–Hong Kong–Macao Greater Bay Area",
+    "author_list": "Zhoutong Yuan, Guotao Cui, Zhiqiang Zhang",
+    "journal_title": "ISPRS International Journal of Geo-Information",
+    "source_title": "ISPRS International Journal of Geo-Information",
+    "doi": "10.3390/ijgi14110421",
+    "short_abstract": "Under the dual pressures of climate change and rapid urbanization, extreme heat events pose growing risks to densely populated megaregions. The Guangdong–Hong Kong–Macao Greater Bay Area (GBA), a dens",
+    "publication_date": "2025-10-29"
+  },
+  {
     "title": "Global patterns and driving factors of the carbon accumulation rate in coastal wetlands",
     "author_list": "Shao-Jun Yan, Qian Hao, Zhifeng Yan, Ren-Min Yang",
     "journal_title": "Earth-Science Reviews",
@@ -61,15 +79,6 @@
     "doi": "10.1016/j.earscirev.2025.105199",
     "short_abstract": "Coastal wetlands play crucial roles in sequestering organic carbon, which is vital for mitigating climate change. However, the global patterns and determinants of the organic carbon accumulation rate",
     "publication_date": "2025-10"
-  },
-  {
-    "title": "How does road networks impact cultivated land multifunctionality? The role of land fragmentation: evidence from Hubei Province, China",
-    "author_list": "Fan Liu, Weiyan Hu, Min Min, Tian Liu, Shixiang Li, Qi Rong",
-    "journal_title": "Frontiers in Sustainable Food Systems",
-    "source_title": "Frontiers in Sustainable Food Systems",
-    "doi": "10.3389/fsufs.2025.1686176",
-    "short_abstract": "Understanding the influence mechanisms of road networks on cultivated land multifunctionality (CLM) is critical for optimizing territorial spatial patterns and achieving sustainable cultivated land re",
-    "publication_date": "2025-09-26"
   },
   {
     "title": "Urban-rural gradient in biodiversity intactness across global cities",
@@ -144,7 +153,7 @@
     "publication_date": "2025-11-20"
   },
   {
-    "title": "Wall‐to‐wall Amazon forest height mapping with planet NICFI, Aerial LiDAR, and a U‐Net regression model",
+    "title": "Wall‐to‐wall Amazon forest height mapping with Planet NICFI, Aerial LiDAR, and a U‐Net regression model",
     "author_list": "Fabien H. Wagner, Ricardo Dalagnol, Griffin Carter, Mayumi C. M. Hirye, Shivraj Gill, Le Bienfaiteur Sagang Takougoum, Samuel Favrichon, Michael Keller, Jean P. H. B. Ometto, Lorena Alves, Cynthia Creze, Stephanie P. George‐Chacon, Shuang Li, Zhihua Liu, Adugna Mullissa, Yan Yang, Erone G. Santos, Sarah R. Worden, Martin Brandt, Philippe Ciais, Stephen C. Hagen, Sassan Saatchi",
     "journal_title": "Remote Sensing in Ecology and Conservation",
     "source_title": "Remote Sensing in Ecology and Conservation",
@@ -169,15 +178,6 @@
     "doi": "10.1016/j.ecolind.2025.114103",
     "short_abstract": "Urban green space (UGS) is vital to ecological functioning and human well-being, yet current evaluations rely mainly on two-dimensional (2D) indicators. Three-dimensional (3D) green quantity, which me",
     "publication_date": "2025-10"
-  },
-  {
-    "title": "Understanding Landslide Expression in SAR Backscatter Data: Global Study and Disaster Response Application",
-    "author_list": "Erin Lindsay, Alexandra Jarna Ganerød, Graziella Devoli, Johannes Reiche, Steinar Nordal, Regula Frauenfelder",
-    "journal_title": "Remote Sensing",
-    "source_title": "Remote Sensing",
-    "doi": "10.3390/rs17193313",
-    "short_abstract": "Cloud cover can delay landslide detection in optical satellite imagery for weeks, complicating disaster response. Synthetic Aperture Radar (SAR) backscatter imagery, which is widely used for monitorin",
-    "publication_date": "2025-09-27"
   },
   {
     "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
@@ -1069,6 +1069,15 @@
     "doi": "10.3390/land12051034",
     "short_abstract": "While SoilGrids is an important source of soil property data for a wide range of environmental studies worldwide, there is currently an extreme lack of studies evaluating its accuracy against independ",
     "publication_date": "2023-05-09"
+  },
+  {
+    "title": "Understanding Landslide Expression in SAR Backscatter Data: Global Study and Disaster Response Application",
+    "author_list": "Erin Lindsay, Alexandra Jarna Ganerød, Graziella Devoli, Johannes Reiche, Steinar Nordal, Regula Frauenfelder",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs17193313",
+    "short_abstract": "Cloud cover can delay landslide detection in optical satellite imagery for weeks, complicating disaster response. Synthetic Aperture Radar (SAR) backscatter imagery, which is widely used for monitorin",
+    "publication_date": "2025-09-27"
   },
   {
     "title": "Current and Future Distribution of Shihuahuaco (Dipteryx spp.) under Climate Change Scenarios in the Central-Eastern Amazon of Peru",
