@@ -180,15 +180,6 @@
     "publication_date": "2025-10"
   },
   {
-    "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
-    "author_list": "Luwen Wan, Anthony D Kendall, Jeremy Rapp, David W Hyndman",
-    "journal_title": "The Science of The Total Environment",
-    "source_title": "The Science of The Total Environment",
-    "doi": "10.1016/j.scitotenv.2024.175283",
-    "short_abstract": "There has been an increase in tile drained area across the US Midwest and other regions worldwide due to agricultural expansion, intensification, and climate variability. Despite this growth, spatiall",
-    "publication_date": "2024-08-05"
-  },
-  {
     "title": "Impacts of climate change on the distribution pattern of Himalayan Rhubarb (Rheum australe D. Don) in Nepal Himalaya",
     "author_list": "Babu Ram Paudel, Chandra Kanta Subedi, Suresh Kumar Ghimire, Dipesh Pyakurel, Meena Rajbhandari, Ram Prasad Chaudhary",
     "journal_title": "PLOS ONE",
@@ -322,6 +313,15 @@
     "doi": "10.3390/land13111811",
     "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, th",
     "publication_date": "2024-11-01"
+  },
+  {
+    "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
+    "author_list": "Luwen Wan, Anthony D Kendall, Jeremy Rapp, David W Hyndman",
+    "journal_title": "The Science of The Total Environment",
+    "source_title": "The Science of The Total Environment",
+    "doi": "10.1016/j.scitotenv.2024.175283",
+    "short_abstract": "There has been an increase in tile drained area across the US Midwest and other regions worldwide due to agricultural expansion, intensification, and climate variability. Despite this growth, spatiall",
+    "publication_date": "2024-08-05"
   },
   {
     "title": "Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction",
@@ -540,15 +540,6 @@
     "publication_date": "2025-12"
   },
   {
-    "title": "Assessing forest area fragmentation potential in Bali, Nusa Tenggara and Maluku islands, Indonesia",
-    "author_list": "L Abdulah, N S Lestari, A S Yunianto, M Iqbal, P H P Pasaribu",
-    "journal_title": "IOP Conference Series Earth and Environmental Science",
-    "source_title": "IOP Conference Series Earth and Environmental Science",
-    "doi": "10.1088/1755-1315/1315/1/012030",
-    "short_abstract": "Forest fragmentation has emerged as an important driver of habitat loss and biodiversity degradation, but research on this topic has been limited, particularly in island areas. The aim of this study i",
-    "publication_date": "2024-03-01"
-  },
-  {
     "title": "Deteksi Dini Kerentanan Risiko Kebakaran Hutan dan Lahan Gambut di Kalimantan Barat Melalui Analisis Spasio-Temporal Distribusi dan Tingkat Kekeringan Vegetasi Menggunakan Google Earth Engine (Tahun 2025)",
     "author_list": "Asramid Yasin",
     "journal_title": "RIGGS Journal of Artificial Intelligence and Digital Business",
@@ -592,15 +583,6 @@
     "doi": "10.1002/ird.3055",
     "short_abstract": "Abstract Surface water is essential for agricultural, domestic and industrial production worldwide. Monitoring surface dynamics is crucial for sustainable ecosystems and global water resources. Import",
     "publication_date": "2024-11"
-  },
-  {
-    "title": "A multi-source data fusion method for land cover production: a case study of the East European Plain",
-    "author_list": "Kai Li, Juanle Wang",
-    "journal_title": "International Journal of Digital Earth",
-    "source_title": "International Journal of Digital Earth",
-    "doi": "10.1080/17538947.2024.2339360",
-    "short_abstract": "Large-area high-precision land cover mapping faces challenges such as a lack of uniform classification systems and the inability to compare different products. The current use of deep learning methods",
-    "publication_date": "2024-04-05"
   },
   {
     "title": "Multi-Sensor Fusion and Machine Learning for Forest Age Mapping in Southeastern Tibet",
@@ -655,6 +637,15 @@
     "doi": "10.1016/j.jaridenv.2024.105151",
     "short_abstract": "Land degradation and multidimensional poverty represent global challenges whose interconnected dynamics are poorly understood and hinder effective interventions. The aim of this study was to address t",
     "publication_date": "2024-06"
+  },
+  {
+    "title": "Revealing remote sensing blind spots in human-driven land transitions: a systematic evaluation of state-of-the-art land use and land cover datasets on the Tibetan Plateau",
+    "author_list": "Junzhi Ye, Chiwei Xiao, Zhiming Feng, Tian Qiao, Yu Shi, Yuxin Zhang",
+    "journal_title": "Big Earth Data",
+    "source_title": "Big Earth Data",
+    "doi": "10.1080/20964471.2025.2589642",
+    "short_abstract": "For a long time, human-induced land transformation in sparsely populated areas has been a blind spot for satellite monitoring. The Tibetan Plateau (TP), with scattered human-managed land and vast wild",
+    "publication_date": "2025-11-27"
   },
   {
     "title": "Automatic training sample collection utilizing multi-source land cover products and time-series Sentinel-2 images",
