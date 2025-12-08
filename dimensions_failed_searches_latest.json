@@ -1,20 +1,12 @@
 {
   "failed_search_metadata": {
-    "total_failed_searches": 12,
-    "export_timestamp": "2025-12-07T16:31:56.071173"
+    "total_failed_searches": 10,
+    "export_timestamp": "2025-12-08T16:32:08.655473"
   },
   "failed_searches": {
     "\"GEE Community Assets\"": {
       "description": "Community assets reference",
       "search_field": "full_search",
-      "count": 0,
-      "retrieved": 0,
-      "filtered": 0,
-      "error": "Empty response from API"
-    },
-    "Assessing multi-hazard risk in Gulmidarbar Rural Municipality, Gulmi, Nepal": {
-      "description": "Scholar Diff Title",
-      "search_field": "text_search",
       "count": 0,
       "retrieved": 0,
       "filtered": 0,
@@ -85,14 +77,6 @@
       "error": "Empty response from API"
     },
     "Calculating Indicators from Global Geospatia l Data Sets for Benchmarking and Tracking Change in the Urban Environment": {
-      "description": "Scholar Diff Title",
-      "search_field": "text_search",
-      "count": 0,
-      "retrieved": 0,
-      "filtered": 0,
-      "error": "Empty response from API"
-    },
-    "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001-2021)": {
       "description": "Scholar Diff Title",
       "search_field": "text_search",
       "count": 0,

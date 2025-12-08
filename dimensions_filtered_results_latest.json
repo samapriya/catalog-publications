@@ -1,5 +1,14 @@
 [
   {
+    "title": "ENSO amplifies global vegetation resilience variability in a changing climate",
+    "author_list": "Wei Zhou, Changjia Li, Haicheng Zhang, Lindsay C. Stringer, Jingyu Wang, Zhongci Deng, Zhen Wang",
+    "journal_title": "Nature Communications",
+    "source_title": "Nature Communications",
+    "doi": "10.1038/s41467-025-66987-z",
+    "short_abstract": "A thorough understanding of vegetation resilience to climate variability is critical for sustaining ecosystem functions and terrestrial carbon sinks. Although the El Niño-Southern Oscillation (ENSO) i",
+    "publication_date": "2025-12-04"
+  },
+  {
     "title": "Multidecadal satellite imagery reveals significant impacts of anthropogenic threats on Ramsar sites of India",
     "author_list": "Krishna Patil, Ravindra Pawar, Ashwin Gujrati",
     "journal_title": "Environmental Monitoring and Assessment",
@@ -36,13 +45,22 @@
     "publication_date": "2025-12"
   },
   {
-    "title": "Critical zone controls on stream chemistry: Lessons from multiple machine learning methods and irregular data across large watersheds",
-    "author_list": "G.M. Goldrich-Middaugh, K. Johnson, L. Ma, M.A. Engle, S.W. Fleming, J.W. Ricketts, P.L. Sullivan",
-    "journal_title": "Journal of Hydrology",
-    "source_title": "Journal of Hydrology",
-    "doi": "10.1016/j.jhydrol.2025.133319",
-    "short_abstract": "Understanding surface water quality and managing river systems that span a variety of climatic, lithology, and land cover types requires regional data analysis approaches. At this scale, spatial and t",
-    "publication_date": "2025-10"
+    "title": "High-Resolution Maize Yield Mapping across Africa using Earth Observation and Machine Learning, Deep Learning, and Foundation Model",
+    "author_list": "Krishnagopal Halder, Frank Ewert, Anitabha Ghosh, Kaushik Muduchuru, Lily-belle Sweet, Radwa Elshawi, Jan Timko, Wenhi Zheng, Karam Alsafadi, Gang Zhao, Michael Maerker, Manmeet Singh, Lei Guoging, Thomas Gaiser, Dominik Behrend, Yue Shi, Liangxiu Han, Masahiro Ryo, Amit Kumar Srivastava",
+    "journal_title": "Science of Remote Sensing",
+    "source_title": "Science of Remote Sensing",
+    "doi": "10.1016/j.srs.2025.100344",
+    "short_abstract": "Africa’s food security is increasingly threatened by climate change and population growth, creating an urgent need for high-resolution crop yield maps to support precision agriculture and climate adap",
+    "publication_date": "2025-12"
+  },
+  {
+    "title": "Perceived drought exposure in small communities of the United States: Demographic, attitudinal, and metric-based drivers",
+    "author_list": "Sadaf Mehrabi, Ingrid Cintura Rojas, Antonio Arenas Amado, Yu Wang, Kaoru Ikuma",
+    "journal_title": "The Science of The Total Environment",
+    "source_title": "The Science of The Total Environment",
+    "doi": "10.1016/j.scitotenv.2025.180992",
+    "short_abstract": "Droughts in the U.S. are intensifying and, in many regions, becoming more frequent and longer under climate change, placing disproportionate pressure on small and under-resourced water systems. Yet, a",
+    "publication_date": "2026-01"
   },
   {
     "title": "Carbon stock assessment using machine learning based modeling in Pinus massoniana plantations",
@@ -52,6 +70,15 @@
     "doi": "10.1016/j.tfp.2025.101043",
     "short_abstract": "Accurate estimation of forest ecosystem carbon stocks is vital for sustainable forest management and climate change mitigation strategies. Yet, belowground carbon quantification remains one of the gre",
     "publication_date": "2025-12"
+  },
+  {
+    "title": "Individual mobility and heat exposure: Distinguishing residence-based and mobility-based assessments",
+    "author_list": "Heng Wu, Yong Liu",
+    "journal_title": "Environmental Impact Assessment Review",
+    "source_title": "Environmental Impact Assessment Review",
+    "doi": "10.1016/j.eiar.2025.108292",
+    "short_abstract": "Human mobility is essential for accurately estimating individual heat exposure, yet most assessments still rely on residence-based measures that neglect daily movements. How mobility patterns influenc",
+    "publication_date": "2026-04"
   },
   {
     "title": "Nonlinear Mechanisms of PM2.5 and O3 Response to 2D/3D Building and Green Space Patterns in Guiyang City, China",
@@ -70,15 +97,6 @@
     "doi": "10.3390/ijgi14110421",
     "short_abstract": "Under the dual pressures of climate change and rapid urbanization, extreme heat events pose growing risks to densely populated megaregions. The Guangdong–Hong Kong–Macao Greater Bay Area (GBA), a dens",
     "publication_date": "2025-10-29"
-  },
-  {
-    "title": "Global patterns and driving factors of the carbon accumulation rate in coastal wetlands",
-    "author_list": "Shao-Jun Yan, Qian Hao, Zhifeng Yan, Ren-Min Yang",
-    "journal_title": "Earth-Science Reviews",
-    "source_title": "Earth-Science Reviews",
-    "doi": "10.1016/j.earscirev.2025.105199",
-    "short_abstract": "Coastal wetlands play crucial roles in sequestering organic carbon, which is vital for mitigating climate change. However, the global patterns and determinants of the organic carbon accumulation rate",
-    "publication_date": "2025-10"
   },
   {
     "title": "Urban-rural gradient in biodiversity intactness across global cities",
@@ -126,6 +144,15 @@
     "publication_date": "2025-11"
   },
   {
+    "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
+    "author_list": "Daniel Paluba, Vojtěch Bližňák, Miloslav Müller, Přemysl Štych",
+    "journal_title": "Big Earth Data",
+    "source_title": "Big Earth Data",
+    "doi": "10.1080/20964471.2025.2592444",
+    "short_abstract": "This study assesses the accuracy of ten satellite-based and reanalysis precipitation datasets available in Google Earth Engine (GEE) using in-situ rain gauge measurements across Czechia, Central Europ",
+    "publication_date": "2025-12-02"
+  },
+  {
     "title": "Crop water origins and hydroclimate vulnerability of global croplands",
     "author_list": "Yan Jiang, Jennifer A. Burney",
     "journal_title": "Nature Sustainability",
@@ -133,15 +160,6 @@
     "doi": "10.1038/s41893-025-01662-1",
     "short_abstract": "Water availability critically influences crop phenology and agricultural productivity. Here we use satellite-derived water isotope observations and physical models to trace atmospheric moisture origin",
     "publication_date": "2025-10-24"
-  },
-  {
-    "title": "Unraveling the Phenomenon of Supply‐Demand Feedback in Agricultural Water Interventions",
-    "author_list": "Mohammad Faiz Alam, Michael E. McClain, Alok Sikka, D. R. Sena, Saket Pande",
-    "journal_title": "Earth's Future",
-    "source_title": "Earth's Future",
-    "doi": "10.1029/2025ef005990",
-    "short_abstract": "Abstract The Agricultural water interventions can trigger human‐water feedback, including unintended supply demand feedback—where increased water availability drives greater water use. In the Kamadhiy",
-    "publication_date": "2025-10"
   },
   {
     "title": "Quantitative Analysis of Urban Heat Island and ISA Density Effects on Land Surface Temperature: A Remote Sensing Study Using Local Morphological Density Analysis and Hybrid Optimization Model",
@@ -160,24 +178,6 @@
     "doi": "10.1002/rse2.70041",
     "short_abstract": "Abstract Tree canopy height is a key indicator of forest biomass, productivity and structure, yet measuring it accurately at regional or larger scales, whether from the ground or remotely, remains cha",
     "publication_date": "2025-11-16"
-  },
-  {
-    "title": "Impacts of rising atmospheric dryness on terrestrial ecosystem carbon cycle",
-    "author_list": "Wenping Yuan, Jie Tian, Mei Wang, Shuo Wang, Wenfang Xu, Yin Wang, Zheng Fu, Martin P. Girardin, Julia K. Green, Sha Zhou, Jiali Shang, Bin He, Miao Huang, Menglong Liu, Haibo Lu, Shilong Piao, Yamin Qing, Meimei Xue, Chaoqing Song, Yongxian Su, Walid Sadok, Yao Zhang, Xiuzhi Chen",
-    "journal_title": "Nature Reviews Earth & Environment",
-    "source_title": "Nature Reviews Earth & Environment",
-    "doi": "10.1038/s43017-025-00726-2",
-    "short_abstract": "Rising atmospheric dryness is affecting the terrestrial ecosystem carbon cycle through its influence on plant physiology. In this Review, we synthesize historical and projected trends in atmospheric v",
-    "publication_date": "2025-10-07"
-  },
-  {
-    "title": "Comparing 2D and 3D green quantity and spatial patterns in Built-Up areas of 292 Chinese cities",
-    "author_list": "Haochun Hu, Shoubang Huang, Jingyi Han, Qing Lin, Shiyang Zhang, Xiangrong Wang",
-    "journal_title": "Ecological Indicators",
-    "source_title": "Ecological Indicators",
-    "doi": "10.1016/j.ecolind.2025.114103",
-    "short_abstract": "Urban green space (UGS) is vital to ecological functioning and human well-being, yet current evaluations rely mainly on two-dimensional (2D) indicators. Three-dimensional (3D) green quantity, which me",
-    "publication_date": "2025-10"
   },
   {
     "title": "Impacts of climate change on the distribution pattern of Himalayan Rhubarb (Rheum australe D. Don) in Nepal Himalaya",
@@ -252,15 +252,6 @@
     "publication_date": "2025-03-12"
   },
   {
-    "title": "日本におけるパークランの会場特性と参加実態 国際比較と国内会場の分析",
-    "author_list": "東條 秀祐, 衣笠 匠斗, 樋野 公宏",
-    "journal_title": "Reports of the City Planning Institute of Japan",
-    "source_title": "Reports of the City Planning Institute of Japan",
-    "doi": "10.11361/reportscpij.23.2_286",
-    "short_abstract": "This study examines the weekly running event \"parkrun,\" which combines elements of both exercise and social interaction, focusing on a comparison of venue attributes and participation patterns between",
-    "publication_date": "2024-09-10"
-  },
-  {
     "title": "A question-answering framework for geospatial data retrieval enhanced by a knowledge graph and large language models",
     "author_list": "Hao Li, Peng Yue, Haoru Wu, Baoxin Teng, Yongkun Zhao, Changfeng Liu",
     "journal_title": "International Journal of Digital Earth",
@@ -279,6 +270,15 @@
     "publication_date": "2025-02"
   },
   {
+    "title": "Mapping and modeling urban and peri-urban carbon storage ecosystem service in the Atlas Cedar Biosphere Reserve (Morocco): Integrating GIS, remote sensing, and InVEST Model",
+    "author_list": "Mohamed Ouchanni, Said Laaribya, Thomas H. Culhane",
+    "journal_title": "Research Square",
+    "source_title": "Research Square",
+    "doi": "10.21203/rs.3.rs-7065518/v1",
+    "short_abstract": "In Morocco’s Atlas Cedar Biosphere Reserve (ACBR), urban and peri-urban areas are crucial settings for sustainable urban ecosystem services (UES), supplying essential benefits including carbon sequest",
+    "publication_date": "2025-07-11"
+  },
+  {
     "title": "Automating global landslide detection with heterogeneous ensemble deep-learning classification",
     "author_list": "Alexandra Jarna Ganerød, Gabriele Franch, Erin Lindsay, Martina Calovi",
     "journal_title": "Remote Sensing Applications Society and Environment",
@@ -295,15 +295,6 @@
     "doi": "10.1016/j.jhydrol.2025.133062",
     "short_abstract": "Accurate estimation of actual evapotranspiration (ETa) through remote sensing (RS) is essential for effective large-scale water management. We developed an EvapoTranspiration Mapper in the Google Eart",
     "publication_date": "2025-08"
-  },
-  {
-    "title": "High-Resolution Land Use Land Cover Dataset for Meteorological Modelling – Part 1: ECOCLIMAP-SG+ an Agreement-Based Dataset",
-    "author_list": "Geoffrey Bessardon, Thomas Rieutord, Emily Gleeson, Bolli Pálmason, Sandro Oswald",
-    "journal_title": "Preprints.org",
-    "source_title": "Preprints.org",
-    "doi": "10.20944/preprints202409.0953.v1",
-    "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain, and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, t",
-    "publication_date": "2024-09-12"
   },
   {
     "title": "High-Resolution Land Use Land Cover Dataset for Meteorological Modelling—Part 1: ECOCLIMAP-SG+ an Agreement-Based Dataset",
@@ -360,6 +351,15 @@
     "publication_date": "2024-10-01"
   },
   {
+    "title": "Modelling spatiotemporal patterns in surface water quality in northwestern Argentina: the importance of potential pollution sources and climatic conditions.",
+    "author_list": "Pablo García-Díaz, Yohana G. Jimenez, Sara Isasmendi, Carlos Molineri, Priscila A. Powell, María de L. Gultemirian, Ezequiel Aráoz, Sebastián Albanesi",
+    "journal_title": "Research Square",
+    "source_title": "Research Square",
+    "doi": "10.21203/rs.3.rs-6977300/v1",
+    "short_abstract": "Good surface water quality is essential for environmental health and human well-being. Over the last decades, developing economies have experienced worsening water quality conditions, impairing their",
+    "publication_date": "2025-07-02"
+  },
+  {
     "title": "The May 2024 Flood Disaster in Southern Brazil: Causes, Impacts, and SWOT‐Based Volume Estimation",
     "author_list": "Iury T. Simoes‐Sousa, Carolina M. L. Camargo, Juliana Tavora, Agata Piffer‐Braga, J. Thomas Farrar, Tamlin M. Pavelsky",
     "journal_title": "Geophysical Research Letters",
@@ -396,15 +396,6 @@
     "publication_date": "2024-04-15"
   },
   {
-    "title": "Framework to Create Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
-    "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
-    "journal_title": "Preprints.org",
-    "source_title": "Preprints.org",
-    "doi": "10.20944/preprints202404.0027.v1",
-    "short_abstract": "This research presents a comprehensive framework for efficiently generating forest fire datasets from Google Earth Engine data sources. The primary contribution of this work lies in providing a method",
-    "publication_date": "2024-04-01"
-  },
-  {
     "title": "Climate, topography, or fuels? Top‐down versus bottom‐up controls on fire refugia across British Columbia, Canada",
     "author_list": "Christine E. Kuntzemann, Ellen Whitman, Doug Lewis, Diana Stralberg",
     "journal_title": "Ecosphere",
@@ -412,6 +403,15 @@
     "doi": "10.1002/ecs2.70385",
     "short_abstract": "Abstract Surviving pockets of vegetation within fire perimeters, termed fire refugia, are an important component of ecological recovery following disturbance. Understanding the relative influence of t",
     "publication_date": "2025-09"
+  },
+  {
+    "title": "High-Resolution Land Use Land Cover Dataset for Meteorological Modelling – Part 1: ECOCLIMAP-SG+ an Agreement-Based Dataset",
+    "author_list": "Geoffrey Bessardon, Thomas Rieutord, Emily Gleeson, Bolli Pálmason, Sandro Oswald",
+    "journal_title": "Preprints.org",
+    "source_title": "Preprints.org",
+    "doi": "10.20944/preprints202409.0953.v1",
+    "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain, and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, t",
+    "publication_date": "2024-09-12"
   },
   {
     "title": "A comparison shopper’s guide to forest datasets",
@@ -441,6 +441,15 @@
     "publication_date": "2023-11-24"
   },
   {
+    "title": "Framework to Create Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
+    "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
+    "journal_title": "Preprints.org",
+    "source_title": "Preprints.org",
+    "doi": "10.20944/preprints202404.0027.v1",
+    "short_abstract": "This research presents a comprehensive framework for efficiently generating forest fire datasets from Google Earth Engine data sources. The primary contribution of this work lies in providing a method",
+    "publication_date": "2024-04-01"
+  },
+  {
     "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
     "author_list": "Kelsey E. Herndon, Robert Griffin, Whittaker Schroder, Timothy Murtha, Charles Golden, Daniel A. Contreras, Emil Cherrington, Luwei Wang, Alexandra Bazarsky, G. Van Kollias, Omar Alcover Firpi",
     "journal_title": "Journal of Archaeological Science Reports",
@@ -448,15 +457,6 @@
     "doi": "10.1016/j.jasrep.2023.104094",
     "short_abstract": "A wealth of remotely sensed data has accumulated over the past several decades and now constitutes an analytical resource primed for archaeological applications. To date, remotely sensed big data (RSB",
     "publication_date": "2023-08"
-  },
-  {
-    "title": "Annual Field-Scale Maps of Tall and Short Crops at the Global Scale Using GEDI and Sentinel-2",
-    "author_list": "Stefania Di Tommaso, Sherrie Wang, Vivek Vajipey, Noel Gorelick, Rob Strey, David B. Lobell",
-    "journal_title": "Remote Sensing",
-    "source_title": "Remote Sensing",
-    "doi": "10.3390/rs15174123",
-    "short_abstract": "Crop type maps are critical for tracking agricultural land use and estimating crop production. Remote sensing has proven an efficient and reliable tool for creating these maps in regions with abundant",
-    "publication_date": "2023-08-22"
   },
   {
     "title": "Divergent radiative forcing of fine-mode aerosols across tree genera during wildfires in North America and Europe",
@@ -673,6 +673,15 @@
     "doi": "10.1007/978-3-031-88683-6",
     "short_abstract": "This book is proposed to be a collection of excellently peer-reviewed research from the 2024 15th International Conference on Environmental Science and Development (ICESD 2024), which will be held dur",
     "publication_date": "2025"
+  },
+  {
+    "title": "Assessing multi-hazard risk in Gulmidarbar Rural Municipality, Gulmi, Nepal",
+    "author_list": "Sundar Tandan, Basanta Raj Adhikari, Akhilesh Kumar Karna",
+    "journal_title": "Research Square",
+    "source_title": "Research Square",
+    "doi": "10.21203/rs.3.rs-4948781/v1",
+    "short_abstract": "The occurrences of different kinds of natural hazards in the Nepal Himalaya is increasing in recent years. The complex interaction between these hazards is poorly understood. The multi-hazard mapping",
+    "publication_date": "2024-09-19"
   },
   {
     "title": "Threat of low-frequency high-intensity floods to global cropland and crop yields",
