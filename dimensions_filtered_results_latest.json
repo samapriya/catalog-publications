@@ -1,5 +1,14 @@
 [
   {
+    "title": "Perceived drought exposure in small communities of the United States: Demographic, attitudinal, and metric-based drivers",
+    "author_list": "Sadaf Mehrabi, Ingrid Cintura Rojas, Antonio Arenas Amado, Yu Wang, Kaoru Ikuma",
+    "journal_title": "The Science of The Total Environment",
+    "source_title": "The Science of The Total Environment",
+    "doi": "10.1016/j.scitotenv.2025.180992",
+    "short_abstract": "Droughts in the U.S. are intensifying and, in many regions, becoming more frequent and longer under climate change, placing disproportionate pressure on small and under-resourced water systems. Yet, a",
+    "publication_date": "2025-12-04"
+  },
+  {
     "title": "ENSO amplifies global vegetation resilience variability in a changing climate",
     "author_list": "Wei Zhou, Changjia Li, Haicheng Zhang, Lindsay C. Stringer, Jingyu Wang, Zhongci Deng, Zhen Wang",
     "journal_title": "Nature Communications",
@@ -45,22 +54,13 @@
     "publication_date": "2025-12"
   },
   {
-    "title": "High-Resolution Maize Yield Mapping across Africa using Earth Observation and Machine Learning, Deep Learning, and Foundation Model",
+    "title": "High-resolution maize yield mapping across Africa using earth observation and machine learning, deep learning, and foundation model",
     "author_list": "Krishnagopal Halder, Frank Ewert, Anitabha Ghosh, Kaushik Muduchuru, Lily-belle Sweet, Radwa Elshawi, Jan Timko, Wenhi Zheng, Karam Alsafadi, Gang Zhao, Michael Maerker, Manmeet Singh, Lei Guoging, Thomas Gaiser, Dominik Behrend, Yue Shi, Liangxiu Han, Masahiro Ryo, Amit Kumar Srivastava",
     "journal_title": "Science of Remote Sensing",
     "source_title": "Science of Remote Sensing",
     "doi": "10.1016/j.srs.2025.100344",
-    "short_abstract": "Africa’s food security is increasingly threatened by climate change and population growth, creating an urgent need for high-resolution crop yield maps to support precision agriculture and climate adap",
-    "publication_date": "2025-12"
-  },
-  {
-    "title": "Perceived drought exposure in small communities of the United States: Demographic, attitudinal, and metric-based drivers",
-    "author_list": "Sadaf Mehrabi, Ingrid Cintura Rojas, Antonio Arenas Amado, Yu Wang, Kaoru Ikuma",
-    "journal_title": "The Science of The Total Environment",
-    "source_title": "The Science of The Total Environment",
-    "doi": "10.1016/j.scitotenv.2025.180992",
-    "short_abstract": "Droughts in the U.S. are intensifying and, in many regions, becoming more frequent and longer under climate change, placing disproportionate pressure on small and under-resourced water systems. Yet, a",
-    "publication_date": "2026-01"
+    "short_abstract": "Africa's food security is increasingly threatened by climate change and population growth, creating an urgent need for high-resolution crop yield maps to support precision agriculture and climate adap",
+    "publication_date": "2026-06"
   },
   {
     "title": "Carbon stock assessment using machine learning based modeling in Pinus massoniana plantations",
