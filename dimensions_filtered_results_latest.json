@@ -18,15 +18,6 @@
     "publication_date": "2025-12-04"
   },
   {
-    "title": "Multidecadal satellite imagery reveals significant impacts of anthropogenic threats on Ramsar sites of India",
-    "author_list": "Krishna Patil, Ravindra Pawar, Ashwin Gujrati",
-    "journal_title": "Environmental Monitoring and Assessment",
-    "source_title": "Environmental Monitoring and Assessment",
-    "doi": "10.1007/s10661-025-14689-w",
-    "short_abstract": "Ramsar sites are wetlands of global significance, providing vital habitats for unique flora and fauna, while offering essential ecosystem services. Although India hosts the highest number of Ramsar si",
-    "publication_date": "2025-10-21"
-  },
-  {
     "title": "Drivers of day–night intra-surface urban heat island variations under local extreme heat: A case study of Singapore",
     "author_list": "Siyu Li, Filip Biljecki, Pengyuan Liu, Rudi Stouffs",
     "journal_title": "Sustainable Cities and Society",
@@ -108,6 +99,15 @@
     "publication_date": "2025-12"
   },
   {
+    "title": "Effect of Climate Change on Above-Ground Biomass, Modulated by Forest Fragmentation and Biodiversity in Ghana",
+    "author_list": "Elisha Njomaba, Ben Emunah Aikins, Peter Surový",
+    "journal_title": "Preprints.org",
+    "source_title": "Preprints.org",
+    "doi": "10.20944/preprints202511.1780.v1",
+    "short_abstract": "Forests play a vital role in the global carbon cycle but face growing anthropogenic pressures, with climate change and forest fragmentation among the most critical. In West Africa, particularly in Gha",
+    "publication_date": "2025-11-25"
+  },
+  {
     "title": "Enhanced Amazon Wetland Map with Multi-Source Remote Sensing Data",
     "author_list": "Carlos M. Souza, Bruno G. Ferreira, Ives Medeiros Brandão, Sandra Rios, John Aguilar-Brand, Juliano Schirmbeck, Emanuel Valero, Miguel A. Restrepo-Galvis, Eva Mollinedo-Veneros, Esteban Terneus, Nelly Rivero, Lucimara Wolfarth Schirmbeck, María A. Oliveira-Miranda, Cícero Cardoso Augusto, Jose Eduardo Victorio Gonzales, Juan Espinosa, Juan Carlos Amilibia, Tony Vizcarra Bentos, Suelma Ribeiro Silva, Judith Rosales Godoy, Helga C. Wiederhecker",
     "journal_title": "Remote Sensing",
@@ -178,6 +178,15 @@
     "doi": "10.1002/rse2.70041",
     "short_abstract": "Abstract Tree canopy height is a key indicator of forest biomass, productivity and structure, yet measuring it accurately at regional or larger scales, whether from the ground or remotely, remains cha",
     "publication_date": "2025-11-16"
+  },
+  {
+    "title": "Multidecadal satellite imagery reveals significant impacts of anthropogenic threats on Ramsar sites of India",
+    "author_list": "Krishna Patil, Ravindra Pawar, Ashwin Gujrati",
+    "journal_title": "Environmental Monitoring and Assessment",
+    "source_title": "Environmental Monitoring and Assessment",
+    "doi": "10.1007/s10661-025-14689-w",
+    "short_abstract": "Ramsar sites are wetlands of global significance, providing vital habitats for unique flora and fauna, while offering essential ecosystem services. Although India hosts the highest number of Ramsar si",
+    "publication_date": "2025-10-21"
   },
   {
     "title": "Impacts of climate change on the distribution pattern of Himalayan Rhubarb (Rheum australe D. Don) in Nepal Himalaya",
@@ -504,15 +513,6 @@
     "publication_date": "2025-11-13"
   },
   {
-    "title": "How accurate are existing land cover maps for agriculture in Sub-Saharan Africa?",
-    "author_list": "Hannah Kerner, Catherine Nakalembe, Adam Yang, Ivan Zvonkov, Ryan McWeeny, Gabriel Tseng, Inbal Becker-Reshef",
-    "journal_title": "Scientific Data",
-    "source_title": "Scientific Data",
-    "doi": "10.1038/s41597-024-03306-z",
-    "short_abstract": "Satellite Earth observations (EO) can provide affordable and timely information for assessing crop conditions and food production. Such monitoring systems are essential in Africa, where food insecurit",
-    "publication_date": "2024-05-10"
-  },
-  {
     "title": "Declining urban density attenuates rising population exposure to surface heat extremes",
     "author_list": "Kangning Huang, Brian Stone, ChengHe Guan, Jiayong Liang",
     "journal_title": "Scientific Reports",
@@ -565,6 +565,15 @@
     "doi": "10.1007/978-3-031-88683-6_5",
     "short_abstract": "Due to historical problems, such as river overflows in the Pacific slope basins, this study focuses on the Ica basin, which has recently experienced climatological disasters. The main objective is to",
     "publication_date": "2025"
+  },
+  {
+    "title": "Development of Agriculture in Mountain Areas in Europe. Organisational and Economic Versus Environmental Aspects",
+    "author_list": "Marek Zieliński, Artur Łopatka, Piotr Koza, Jolanta Sobierajewska, Sławomir Juszczyk, Wojciech Józwiak",
+    "journal_title": "Preprints.org",
+    "source_title": "Preprints.org",
+    "doi": "10.20944/preprints202511.1101.v1",
+    "short_abstract": "The article analyses the direction and intensity of changes occurring in agriculture in mountain areas in Europe between 2000 and 2022. For the calculations, the ESA CCI Land Cover global land-use map",
+    "publication_date": "2025-11-17"
   },
   {
     "title": "Spatial Heterogeneity of Mountain Greenness and Greening in the Tibetan Plateau: From a Remote Sensing Perspective",
