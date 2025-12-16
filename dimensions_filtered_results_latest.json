@@ -603,6 +603,15 @@
     "publication_date": "2025-06-01"
   },
   {
+    "title": "Mapping Three Decades of Urban Growth in China: A 30 m Annual Building Height Dataset (1990–2019)",
+    "author_list": "Yizhi Zhang, Yi Wang, Quanhua Dong, Xiao-Jian Chen, Fan Zhang, Xuecao Li, Yu Liu",
+    "journal_title": "EGUsphere",
+    "source_title": "EGUsphere",
+    "doi": "10.5194/essd-2025-632",
+    "short_abstract": "Long-term building height data are critical for analyzing urban morphological evolution and renewal processes, yet such datasets at fine spatial resolutions remain scarce for large geographical region",
+    "publication_date": "2025-12-09"
+  },
+  {
     "title": "Leveraging GEE and machine learning algorithm in dynamic modeling of eco-environmental quality",
     "author_list": "Atiyeh Amindin, Thomas Blaschke, Mojgan Bordbar, Narges Siamian, Omid Ghorbanzadeh, Hamid Reza Pourghasemi",
     "journal_title": "Environmental and Sustainability Indicators",
@@ -655,15 +664,6 @@
     "doi": "10.1080/20964471.2025.2589642",
     "short_abstract": "For a long time, human-induced land transformation in sparsely populated areas has been a blind spot for satellite monitoring. The Tibetan Plateau (TP), with scattered human-managed land and vast wild",
     "publication_date": "2025-11-27"
-  },
-  {
-    "title": "Automatic training sample collection utilizing multi-source land cover products and time-series Sentinel-2 images",
-    "author_list": "Yanzhao Wang, Yonghua Sun, Xuyue Cao, Yihan Wang, Wangkuan Zhang, Xinglu Cheng, Ruozeng Wang, Jinkun Zong",
-    "journal_title": "GIScience & Remote Sensing",
-    "source_title": "GIScience & Remote Sensing",
-    "doi": "10.1080/15481603.2024.2352957",
-    "short_abstract": "Collecting reliable training samples plays a crucial role in improving the accuracy of land cover (LC) mapping products, which are essential foundational data for global environmental and climate chan",
-    "publication_date": "2024-05-14"
   },
   {
     "title": "AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data",
