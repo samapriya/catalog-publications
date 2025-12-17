@@ -123,7 +123,7 @@
     "source_title": "Forest Ecosystems",
     "doi": "10.1016/j.fecs.2025.100408",
     "short_abstract": "Forests are experiencing more frequent and intense wildfires in Canada, which pose considerable threats to water quantity and quality, particularly during the summer low-flow period when water demand",
-    "publication_date": "2025-11"
+    "publication_date": "2026-04"
   },
   {
     "title": "Observed shifts in regional climate linked to Amazon deforestation",
@@ -153,6 +153,15 @@
     "publication_date": "2025-12-02"
   },
   {
+    "title": "Quantitative Analysis of Urban Heat Island and ISA Density Effects on Land Surface Temperature: A Remote Sensing Study Using Local Morphological Density Analysis and Hybrid Optimization Model",
+    "author_list": "Nor El Houda Alioua, Akila Kemmouche, Alessandra Capolupo, Eufemia Tarantino",
+    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2025.3634721",
+    "short_abstract": "Urban heat island (UHI) phenomenon, driven by rapid urbanization and increased impervious surface areas (ISA) density, is a significant challenge to sustainable urban development and climate resilienc",
+    "publication_date": "2025-11-19"
+  },
+  {
     "title": "Crop water origins and hydroclimate vulnerability of global croplands",
     "author_list": "Yan Jiang, Jennifer A. Burney",
     "journal_title": "Nature Sustainability",
@@ -160,15 +169,6 @@
     "doi": "10.1038/s41893-025-01662-1",
     "short_abstract": "Water availability critically influences crop phenology and agricultural productivity. Here we use satellite-derived water isotope observations and physical models to trace atmospheric moisture origin",
     "publication_date": "2025-10-24"
-  },
-  {
-    "title": "Quantitative Analysis of Urban Heat Island and ISA Density Effects on Land Surface Temperature: A Remote Sensing Study Using Local Morphological Density Analysis and Hybrid Optimization Model",
-    "author_list": "Nor El Houda Alioua, Akila Kemmouche, Alessandra Capolupo, Eufemia Tarantino",
-    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "doi": "10.1109/jstars.2025.3634721",
-    "short_abstract": "Urban Heat Island (UHI) phenomenon, driven by rapid urbanization and increased Impervious Surface Areas (ISA) density, is a significant challenge to sustainable urban development and climate resilienc",
-    "publication_date": "2025-11-20"
   },
   {
     "title": "Wall‐to‐wall Amazon forest height mapping with Planet NICFI, Aerial LiDAR, and a U‐Net regression model",
@@ -288,15 +288,6 @@
     "publication_date": "2025-07-11"
   },
   {
-    "title": "Automating global landslide detection with heterogeneous ensemble deep-learning classification",
-    "author_list": "Alexandra Jarna Ganerød, Gabriele Franch, Erin Lindsay, Martina Calovi",
-    "journal_title": "Remote Sensing Applications Society and Environment",
-    "source_title": "Remote Sensing Applications Society and Environment",
-    "doi": "10.1016/j.rsase.2024.101384",
-    "short_abstract": "With changing climatic conditions, we are already seeing an increase in extreme weather events and their secondary consequences, including landslides. Landslides threaten infrastructure, including roa",
-    "publication_date": "2024-11"
-  },
-  {
     "title": "A Multi-model approach for remote sensing-based actual evapotranspiration mapping using Google Earth Engine (ETMapper-GEE)",
     "author_list": "Abdelrazek Elnashar, Shahab Aldin Shojaeezadeh, Tobias Karl David Weber",
     "journal_title": "Journal of Hydrology",
@@ -313,6 +304,15 @@
     "doi": "10.3390/land13111811",
     "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, th",
     "publication_date": "2024-11-01"
+  },
+  {
+    "title": "Integrating geospatial analysis and the suitability-resources quality index to optimize crop suitability for sustainable agriculture",
+    "author_list": "Shimaa K. Ganzour, Tharwat K. Ghabour, Abdelrazek Elnashar",
+    "journal_title": "Frontiers in Sustainable Food Systems",
+    "source_title": "Frontiers in Sustainable Food Systems",
+    "doi": "10.3389/fsufs.2025.1703891",
+    "short_abstract": "This study develops a framework for sustainable agriculture in an arid Egyptian region, enhancing food security through advanced assessments of crop suitability. By integrating freely accessible Googl",
+    "publication_date": "2025-12-11"
   },
   {
     "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
@@ -388,7 +388,7 @@
   },
   {
     "title": "Mapping urban slums and their inequality in sub-Saharan Africa",
-    "author_list": "Chengxiu Li, Le Yu, Robert Ndugwa, Adrian J. Bailey, Xiaoling Zhang, Francis Oloo, Ellasy Gulule Chimimba, Xiangzhen Deng, Jim Wright",
+    "author_list": "Chengxiu Li, Le Yu, Robert Ndugwa, Adrian J. Bailey, Xiaoling Zhang, Francis Oloo, Ellasy Gulule Chimimba, Xiangzheng Deng, Jim Wright",
     "journal_title": "Nature Cities",
     "source_title": "Nature Cities",
     "doi": "10.1038/s44284-025-00276-0",
@@ -621,6 +621,15 @@
     "publication_date": "2025-09"
   },
   {
+    "title": "Accuracy and Consistency of Eight Representative Medium-to-High Resolution Land Cover Products across China:A Cross-Resolution, Multi-Scale Assessment",
+    "author_list": "Hongrui Zheng, Jia Tang, Weili Wang, Yuxin Ji, Pengfei Tang, Zhizhong Li, Qiang Su, Xiaojuan Li",
+    "journal_title": null,
+    "source_title": null,
+    "doi": "10.2139/ssrn.5903678",
+    "short_abstract": "High-precision land cover (LC) products serve as foundational data for critical applications such as ecological assessment and spatial planning. However, the scientific validity of these applications",
+    "publication_date": "2025-12"
+  },
+  {
     "title": "Spatiotemporal evolution of ecological environmental quality and its dynamic relationships with landscape pattern in the Zhengzhou Metropolitan Area: A perspective based on nonlinear effects and spatiotemporal heterogeneity",
     "author_list": "Qi Liu, Jiajun Qiao, Mengjuan Li, Yingjie Dun, Xiaoyong Zhu, Xiaoya Ji",
     "journal_title": "Journal of Cleaner Production",
@@ -646,15 +655,6 @@
     "doi": "10.1016/j.rse.2024.114447",
     "short_abstract": "Urban heat island (UHI) is among the most pronounced human impacts on Earth. To formulate locally adapted mitigation strategies, a comprehensive understanding of the influencing mechanisms of UHI at h",
     "publication_date": "2024-12"
-  },
-  {
-    "title": "Unveiling and modelling: Land degradation, poverty nexus in Nigeria&#x27;s semi-arid (jigawa state) using cloud-based geospatial data",
-    "author_list": "Jibrin Gambo, Siti Nur Aliaa Binti Roslan, Helmi Zulhaidi Mohd Shafri, Nik Norasma Che Ya, Yusuf Ahmed Yusuf",
-    "journal_title": "Journal of Arid Environments",
-    "source_title": "Journal of Arid Environments",
-    "doi": "10.1016/j.jaridenv.2024.105151",
-    "short_abstract": "Land degradation and multidimensional poverty represent global challenges whose interconnected dynamics are poorly understood and hinder effective interventions. The aim of this study was to address t",
-    "publication_date": "2024-06"
   },
   {
     "title": "Revealing remote sensing blind spots in human-driven land transitions: a systematic evaluation of state-of-the-art land use and land cover datasets on the Tibetan Plateau",
