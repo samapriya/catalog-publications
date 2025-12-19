@@ -477,6 +477,15 @@
     "publication_date": "2025-06-11"
   },
   {
+    "title": "Mitigating Soil and Land Degradation: Socio‐Ecological Perspectives on Ecosystem Service Trade‐Offs",
+    "author_list": "Zhenqiang Feng",
+    "journal_title": "Land Degradation and Development",
+    "source_title": "Land Degradation and Development",
+    "doi": "10.1002/ldr.70372",
+    "short_abstract": "Globally, mangrove forests offer a wide range of ecosystem services that are vulnerable due to land degradation and climate change. Mangrove protection and their restoration strategies have been getti",
+    "publication_date": "2025-12"
+  },
+  {
     "title": "Balancing Agricultural Growth and Land Degradation: The Key Role of Water Resources in Sustainable Farmland Management",
     "author_list": "Kun Wang",
     "journal_title": "Land Degradation and Development",
@@ -621,15 +630,6 @@
     "publication_date": "2025-09"
   },
   {
-    "title": "Accuracy and Consistency of Eight Representative Medium-to-High Resolution Land Cover Products across China:A Cross-Resolution, Multi-Scale Assessment",
-    "author_list": "Hongrui Zheng, Jia Tang, Weili Wang, Yuxin Ji, Pengfei Tang, Zhizhong Li, Qiang Su, Xiaojuan Li",
-    "journal_title": null,
-    "source_title": null,
-    "doi": "10.2139/ssrn.5903678",
-    "short_abstract": "High-precision land cover (LC) products serve as foundational data for critical applications such as ecological assessment and spatial planning. However, the scientific validity of these applications",
-    "publication_date": "2025-12"
-  },
-  {
     "title": "Spatiotemporal evolution of ecological environmental quality and its dynamic relationships with landscape pattern in the Zhengzhou Metropolitan Area: A perspective based on nonlinear effects and spatiotemporal heterogeneity",
     "author_list": "Qi Liu, Jiajun Qiao, Mengjuan Li, Yingjie Dun, Xiaoyong Zhu, Xiaoya Ji",
     "journal_title": "Journal of Cleaner Production",
@@ -655,6 +655,15 @@
     "doi": "10.1016/j.rse.2024.114447",
     "short_abstract": "Urban heat island (UHI) is among the most pronounced human impacts on Earth. To formulate locally adapted mitigation strategies, a comprehensive understanding of the influencing mechanisms of UHI at h",
     "publication_date": "2024-12"
+  },
+  {
+    "title": "Unveiling and modelling: Land degradation, poverty nexus in Nigeria&#x27;s semi-arid (jigawa state) using cloud-based geospatial data",
+    "author_list": "Jibrin Gambo, Siti Nur Aliaa Binti Roslan, Helmi Zulhaidi Mohd Shafri, Nik Norasma Che Ya, Yusuf Ahmed Yusuf",
+    "journal_title": "Journal of Arid Environments",
+    "source_title": "Journal of Arid Environments",
+    "doi": "10.1016/j.jaridenv.2024.105151",
+    "short_abstract": "Land degradation and multidimensional poverty represent global challenges whose interconnected dynamics are poorly understood and hinder effective interventions. The aim of this study was to address t",
+    "publication_date": "2024-06"
   },
   {
     "title": "Revealing remote sensing blind spots in human-driven land transitions: a systematic evaluation of state-of-the-art land use and land cover datasets on the Tibetan Plateau",
