@@ -90,6 +90,15 @@
     "publication_date": "2025-10-29"
   },
   {
+    "title": "Wildfire increased summer low flows in snow-dominated watersheds: A combined approach of hydrometric monitoring and geochemical tracing",
+    "author_list": "Shixuan Lyu, Xiaohua Wei, Ming Qiu, Mackenzie Myers, Zhaozhi Wang, Jinyu Hui, Wenhui Yan, Tongqing Shen, Meirong Sun, Shuhui Wang, Yiping Hou",
+    "journal_title": "Forest Ecosystems",
+    "source_title": "Forest Ecosystems",
+    "doi": "10.1016/j.fecs.2025.100408",
+    "short_abstract": "Forests are experiencing more frequent and intense wildfires in Canada, which pose considerable threats to water quantity and quality, particularly during the summer low-flow period when water demand",
+    "publication_date": "2026-04"
+  },
+  {
     "title": "Urban-rural gradient in biodiversity intactness across global cities",
     "author_list": "Naiyi Liu, Zihan Liu, Felista Kasyoka Kilunda, Yanqi Liu, Chao Qin",
     "journal_title": "Ecological Informatics",
@@ -115,15 +124,6 @@
     "doi": "10.3390/rs17213644",
     "short_abstract": "The Amazon wetlands are the largest and most diverse freshwater ecosystem globally, characterized by various flooded vegetation and the Amazon River’s estuary. This critical ecosystem is vulnerable to",
     "publication_date": "2025-11-05"
-  },
-  {
-    "title": "Wildfire increased summer low flows in snow-dominated watersheds: A combined approach of hydrometric monitoring and geochemical tracing",
-    "author_list": "Shixuan Lyu, Xiaohua Wei, Ming Qiu, Mackenzie Myers, Zhaozhi Wang, Jinyu Hui, Wenhui Yan, Tongqing Shen, Meirong Sun, Shuhui Wang, Yiping Hou",
-    "journal_title": "Forest Ecosystems",
-    "source_title": "Forest Ecosystems",
-    "doi": "10.1016/j.fecs.2025.100408",
-    "short_abstract": "Forests are experiencing more frequent and intense wildfires in Canada, which pose considerable threats to water quantity and quality, particularly during the summer low-flow period when water demand",
-    "publication_date": "2026-04"
   },
   {
     "title": "Observed shifts in regional climate linked to Amazon deforestation",
@@ -482,8 +482,8 @@
     "journal_title": "Land Degradation and Development",
     "source_title": "Land Degradation and Development",
     "doi": "10.1002/ldr.70372",
-    "short_abstract": "Globally, mangrove forests offer a wide range of ecosystem services that are vulnerable due to land degradation and climate change. Mangrove protection and their restoration strategies have been getti",
-    "publication_date": "2025-12"
+    "short_abstract": "ABSTRACT Globally, mangrove forests offer a wide range of ecosystem services that are vulnerable due to land degradation and climate change. Mangrove protection and their restoration strategies have b",
+    "publication_date": "2025-12-12"
   },
   {
     "title": "Balancing Agricultural Growth and Land Degradation: The Key Role of Water Resources in Sustainable Farmland Management",
@@ -657,13 +657,13 @@
     "publication_date": "2024-12"
   },
   {
-    "title": "Unveiling and modelling: Land degradation, poverty nexus in Nigeria&#x27;s semi-arid (jigawa state) using cloud-based geospatial data",
-    "author_list": "Jibrin Gambo, Siti Nur Aliaa Binti Roslan, Helmi Zulhaidi Mohd Shafri, Nik Norasma Che Ya, Yusuf Ahmed Yusuf",
-    "journal_title": "Journal of Arid Environments",
-    "source_title": "Journal of Arid Environments",
-    "doi": "10.1016/j.jaridenv.2024.105151",
-    "short_abstract": "Land degradation and multidimensional poverty represent global challenges whose interconnected dynamics are poorly understood and hinder effective interventions. The aim of this study was to address t",
-    "publication_date": "2024-06"
+    "title": "Ensemble deep learning towards high-resolution soil-moisture mapping for enhanced water management in California&#x27;s Central Valley",
+    "author_list": "Ali Azedou, Aouatif Amine, Said Lahssini, Gordon Osterman, Mauricio Arboleda-Zapata, Michael Cosh, Isaya Kisekka",
+    "journal_title": "Environmental Modelling & Software",
+    "source_title": "Environmental Modelling & Software",
+    "doi": "10.1016/j.envsoft.2025.106824",
+    "short_abstract": "Soil moisture (SM) plays a vital role in both hydrological and agricultural processes and is critical for achieving groundwater sustainability in agriculture through demand management. NASA's Soil Moi",
+    "publication_date": "2026-02"
   },
   {
     "title": "Revealing remote sensing blind spots in human-driven land transitions: a systematic evaluation of state-of-the-art land use and land cover datasets on the Tibetan Plateau",
@@ -945,13 +945,13 @@
     "publication_date": "2020-03-10"
   },
   {
-    "title": "Application and Challenges of Machine Learning Techniques in Mining Engineering and Material Science",
-    "author_list": "Vidyasagar Shetty, B. Shabari Shedthi, C. Shashishekar",
-    "journal_title": "Journal of Mines Metals and Fuels",
-    "source_title": "Journal of Mines Metals and Fuels",
-    "doi": "10.18311/jmmf/2023/36099",
-    "short_abstract": "The ultimate objective of modern engineering applications in mining and material science is to develop good quality novel materials with desirable qualities. Machine Learning (ML) is used in the minin",
-    "publication_date": "2023-11-30"
+    "title": "Machine Learning Based Parameter Estimation of Energy Models in Digital Production Environments",
+    "author_list": "Fabian Fichtl, Marco Ullrich, Frieder Heieck, Bernd Lüdemann-Ravit",
+    "journal_title": "Lecture Notes in Computer Science",
+    "source_title": "Lecture Notes in Computer Science",
+    "doi": "10.1007/978-3-031-82957-4_14",
+    "short_abstract": "The growing relevance of data science in engineering highlights the challenges of modelling complex systems using conventional methods, which are often time-consuming. This paper explores the applicat",
+    "publication_date": "2025"
   },
   {
     "title": "Predicting Internet Connectivity in Schools: A Feasibility Study Leveraging Multi-modal Data and Location Encoders in Low-Resource Settings",
