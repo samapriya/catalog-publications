@@ -45,6 +45,15 @@
     "publication_date": "2025-12"
   },
   {
+    "title": "Mapping the environmental footprint of urbanization in Tirana district through NDVI change analysis (2000–2025)",
+    "author_list": "Medjon Hysenaj, Dritan Rustja",
+    "journal_title": "Geoinformatica Polonica",
+    "source_title": "Geoinformatica Polonica",
+    "doi": "10.4467/21995923gp.25.005.22860",
+    "short_abstract": "Serdecznie witamy na eJournals. Portalu Czasopism Naukowych! eJournals to nie tylko platforma do publikowana online, ale również doświadczony zespół Wydawnictwa Uniwersytetu Jagiellońskiego oferujący",
+    "publication_date": "2025-12-16"
+  },
+  {
     "title": "High-resolution maize yield mapping across Africa using earth observation and machine learning, deep learning, and foundation model",
     "author_list": "Krishnagopal Halder, Frank Ewert, Anitabha Ghosh, Kaushik Muduchuru, Lily-belle Sweet, Radwa Elshawi, Jan Timko, Wenhi Zheng, Karam Alsafadi, Gang Zhao, Michael Maerker, Manmeet Singh, Lei Guoging, Thomas Gaiser, Dominik Behrend, Yue Shi, Liangxiu Han, Masahiro Ryo, Amit Kumar Srivastava",
     "journal_title": "Science of Remote Sensing",
@@ -79,15 +88,6 @@
     "doi": "10.3390/land14112257",
     "short_abstract": "PM2.5 and O3 are now the primary air pollutants in Chinese cities and pose serious risks to human health. In particular, the two- and three-dimensional patterns of urban buildings and green spaces pla",
     "publication_date": "2025-11-14"
-  },
-  {
-    "title": "Remote Sensing-Based Spatiotemporal Assessment of Heat Risk in the Guangdong–Hong Kong–Macao Greater Bay Area",
-    "author_list": "Zhoutong Yuan, Guotao Cui, Zhiqiang Zhang",
-    "journal_title": "ISPRS International Journal of Geo-Information",
-    "source_title": "ISPRS International Journal of Geo-Information",
-    "doi": "10.3390/ijgi14110421",
-    "short_abstract": "Under the dual pressures of climate change and rapid urbanization, extreme heat events pose growing risks to densely populated megaregions. The Guangdong–Hong Kong–Macao Greater Bay Area (GBA), a dens",
-    "publication_date": "2025-10-29"
   },
   {
     "title": "Wildfire increased summer low flows in snow-dominated watersheds: A combined approach of hydrometric monitoring and geochemical tracing",
@@ -126,6 +126,15 @@
     "publication_date": "2025-11-05"
   },
   {
+    "title": "Sponge City for whom? Leveraging Social Vulnerability Index for extreme flood adaptation",
+    "author_list": "Hanyu Gao, Boqian Xu, Tarlan Pourmostaghimi, Guangzhao Zhang, Shannon Van Zandt",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2025.107068",
+    "short_abstract": "Environmental extremes are intensifying due to human-induced climate change, disproportionately affecting urban populations with differing capacities to respond and recover. Social vulnerability and S",
+    "publication_date": "2025-12"
+  },
+  {
     "title": "Observed shifts in regional climate linked to Amazon deforestation",
     "author_list": "Marcus V. F. Silveira, Patrick W. Keys, Anderson Ruhoff, Paulo Artaxo, Marcos H. Costa, Liana O. Anderson, Marcos Adami, Celso von Randow, Luiz E. O. C. Aragão",
     "journal_title": "Communications Earth & Environment",
@@ -160,15 +169,6 @@
     "doi": "10.1109/jstars.2025.3634721",
     "short_abstract": "Urban heat island (UHI) phenomenon, driven by rapid urbanization and increased impervious surface areas (ISA) density, is a significant challenge to sustainable urban development and climate resilienc",
     "publication_date": "2025-11-19"
-  },
-  {
-    "title": "Crop water origins and hydroclimate vulnerability of global croplands",
-    "author_list": "Yan Jiang, Jennifer A. Burney",
-    "journal_title": "Nature Sustainability",
-    "source_title": "Nature Sustainability",
-    "doi": "10.1038/s41893-025-01662-1",
-    "short_abstract": "Water availability critically influences crop phenology and agricultural productivity. Here we use satellite-derived water isotope observations and physical models to trace atmospheric moisture origin",
-    "publication_date": "2025-10-24"
   },
   {
     "title": "Wall‐to‐wall Amazon forest height mapping with Planet NICFI, Aerial LiDAR, and a U‐Net regression model",
@@ -297,15 +297,6 @@
     "publication_date": "2025-08"
   },
   {
-    "title": "High-Resolution Land Use Land Cover Dataset for Meteorological Modelling—Part 1: ECOCLIMAP-SG+ an Agreement-Based Dataset",
-    "author_list": "Geoffrey Bessardon, Thomas Rieutord, Emily Gleeson, Bolli Pálmason, Sandro Oswald",
-    "journal_title": "Land",
-    "source_title": "Land",
-    "doi": "10.3390/land13111811",
-    "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, th",
-    "publication_date": "2024-11-01"
-  },
-  {
     "title": "Integrating geospatial analysis and the suitability-resources quality index to optimize crop suitability for sustainable agriculture",
     "author_list": "Shimaa K. Ganzour, Tharwat K. Ghabour, Abdelrazek Elnashar",
     "journal_title": "Frontiers in Sustainable Food Systems",
@@ -430,6 +421,15 @@
     "doi": "10.1101/2025.06.02.657445",
     "short_abstract": "Abstract Recent advances in remote sensing, data availability, and cloud-based computing have led to a rapid expansion of publicly accessible datasets characterizing forest cover and land use. These d",
     "publication_date": "2025-06-06"
+  },
+  {
+    "title": "High-Resolution Land Use Land Cover Dataset for Meteorological Modelling—Part 1: ECOCLIMAP-SG+ an Agreement-Based Dataset",
+    "author_list": "Geoffrey Bessardon, Thomas Rieutord, Emily Gleeson, Bolli Pálmason, Sandro Oswald",
+    "journal_title": "Land",
+    "source_title": "Land",
+    "doi": "10.3390/land13111811",
+    "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, th",
+    "publication_date": "2024-11-01"
   },
   {
     "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
@@ -558,15 +558,6 @@
     "publication_date": "2025-10-20"
   },
   {
-    "title": "Assessment of Potential Aquifer Recharge Zones in the Locumba Basin, Arid Region of the Atacama Desert Using Integration of Two MCDM Methods: Fuzzy AHP and TOPSIS",
-    "author_list": "Víctor Pocco, Arleth Mendoza, Samuel Chucuya, Pablo Franco-León, Germán Huayna, Eusebio Ingol-Blanco, Edwin Pino-Vargas",
-    "journal_title": "Water",
-    "source_title": "Water",
-    "doi": "10.3390/w16182643",
-    "short_abstract": "Natural aquifers used for human consumption are among the most important resources in the world. The Locumba basin faces significant challenges due to its limited water availability for the local popu",
-    "publication_date": "2024-09-18"
-  },
-  {
     "title": "Generation of Monthly Flows in the Ica River Basin up to the La Achirana Hydrometric Station Using the GR2M Precipitation-Runoff Model",
     "author_list": "Angel Gabriel Ochante Sanchez, Diego Fermin Jonislla Rojas, Abel Carmona Arteaga",
     "journal_title": "Environmental Science and Engineering",
@@ -610,6 +601,15 @@
     "doi": "10.3390/rs17111926",
     "short_abstract": "Forest age is a key factor in determining the carbon sequestration capacity and trends of forests. Based on the Google Earth Engine platform and using the topographically complex and climatically dive",
     "publication_date": "2025-06-01"
+  },
+  {
+    "title": "Carbon dioxide emissions from global land cover mapping are projected to increase by 2050",
+    "author_list": "Hengbin Wang, Yu Yao, Yuanyuan Zhao, Shaoming Li, Zhe Liu, Xiaodong Zhang",
+    "journal_title": "Communications Earth & Environment",
+    "source_title": "Communications Earth & Environment",
+    "doi": "10.1038/s43247-025-02990-y",
+    "short_abstract": "Global land cover mapping is essential for environmental monitoring and earth system modeling, but the high production costs lead to considerable carbon dioxide emissions that are rarely considered. W",
+    "publication_date": "2025-12-18"
   },
   {
     "title": "Mapping Three Decades of Urban Growth in China: A 30 m Annual Building Height Dataset (1990–2019)",
