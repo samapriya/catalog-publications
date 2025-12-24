@@ -81,6 +81,15 @@
     "publication_date": "2026-04"
   },
   {
+    "title": "A Simplified Model for Simulating Complex Signals in GNSS-Reflectometry over Land",
+    "author_list": "Jilun Peng, Estel Cardellach, Weiqiang Li",
+    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2025.3646137",
+    "short_abstract": "The availability of complex signals in Global Navigation Satellite System-Reflectometry (GNSS-R) has gained growing attention across a range of applications, due to its capacity to preserve phase info",
+    "publication_date": "2025-12-19"
+  },
+  {
     "title": "Nonlinear Mechanisms of PM2.5 and O3 Response to 2D/3D Building and Green Space Patterns in Guiyang City, China",
     "author_list": "Debin Lu, Dongyang Yang, Menglin Li, Tong Lu, Chang Han",
     "journal_title": "Land",
@@ -132,7 +141,7 @@
     "source_title": "Sustainable Cities and Society",
     "doi": "10.1016/j.scs.2025.107068",
     "short_abstract": "Environmental extremes are intensifying due to human-induced climate change, disproportionately affecting urban populations with differing capacities to respond and recover. Social vulnerability and S",
-    "publication_date": "2025-12"
+    "publication_date": "2026-01"
   },
   {
     "title": "Observed shifts in regional climate linked to Amazon deforestation",
@@ -142,15 +151,6 @@
     "doi": "10.1038/s43247-025-02900-2",
     "short_abstract": "Deforestation is an important driver of regional climate change in the Amazon; thus, assessments of climate impacts from deforestation can provide key insights to climate change mitigation and adaptat",
     "publication_date": "2025-11-21"
-  },
-  {
-    "title": "Machine learning-based mapping of fog water harvesting potential in Pithoragarh, Uttarakhand: Evaluating climate scenarios and geospatial influences",
-    "author_list": "Chiranjit Singha, Kishore Chandra Swain, Biswajeet Pradhan, Armin Moghimi, Babak Ranjgar, Shahid Gulzar, Hetvi Shah",
-    "journal_title": "Physics and Chemistry of the Earth Parts A/B/C",
-    "source_title": "Physics and Chemistry of the Earth Parts A/B/C",
-    "doi": "10.1016/j.pce.2025.104138",
-    "short_abstract": "Fog is crucial to the hydrological processes in Pithoragarh district, Uttarakhand, significantly affecting local water systems and ecosystems. This study employed five machine learning (ML) models, Gr",
-    "publication_date": "2025-11"
   },
   {
     "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
