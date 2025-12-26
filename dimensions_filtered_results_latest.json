@@ -27,6 +27,15 @@
     "publication_date": "2025-12"
   },
   {
+    "title": "Sponge City for whom? Leveraging Social Vulnerability Index for extreme flood adaptation",
+    "author_list": "Hanyu Gao, Boqian Xu, Tarlan Pourmostaghimi, Guangzhao Zhang, Shannon Van Zandt",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2025.107068",
+    "short_abstract": "Environmental extremes are intensifying due to human-induced climate change, disproportionately affecting urban populations with differing capacities to respond and recover. Social vulnerability and S",
+    "publication_date": "2026-01"
+  },
+  {
     "title": "Performance evaluation of sustainable development goals (SDGs) for Chinese major coastal cities: A spatially explicit evaluation considering evenness",
     "author_list": "Chao Liu, Ping Li, Yuning Zhao, Zhiwei Zhang",
     "journal_title": "Ocean & Coastal Management",
@@ -61,6 +70,15 @@
     "doi": "10.1016/j.srs.2025.100344",
     "short_abstract": "Africa's food security is increasingly threatened by climate change and population growth, creating an urgent need for high-resolution crop yield maps to support precision agriculture and climate adap",
     "publication_date": "2026-06"
+  },
+  {
+    "title": "Overlooked deforestation from global mining activities in the 21st century",
+    "author_list": "Xiaoxin Zhang, Bin Chen, Jiafu An, Chen Lin, Peng Gong",
+    "journal_title": "Nature Communications",
+    "source_title": "Nature Communications",
+    "doi": "10.1038/s41467-025-67501-1",
+    "short_abstract": "Mining is a major driver of deforestation, yet the full scale of its contribution to global natural forest loss and associated carbon emissions remains obscured by the incomplete inventories of mining",
+    "publication_date": "2025-12-21"
   },
   {
     "title": "Carbon stock assessment using machine learning based modeling in Pinus massoniana plantations",
@@ -124,24 +142,6 @@
     "doi": "10.20944/preprints202511.1780.v1",
     "short_abstract": "Forests play a vital role in the global carbon cycle but face growing anthropogenic pressures, with climate change and forest fragmentation among the most critical. In West Africa, particularly in Gha",
     "publication_date": "2025-11-25"
-  },
-  {
-    "title": "Enhanced Amazon Wetland Map with Multi-Source Remote Sensing Data",
-    "author_list": "Carlos M. Souza, Bruno G. Ferreira, Ives Medeiros Brandão, Sandra Rios, John Aguilar-Brand, Juliano Schirmbeck, Emanuel Valero, Miguel A. Restrepo-Galvis, Eva Mollinedo-Veneros, Esteban Terneus, Nelly Rivero, Lucimara Wolfarth Schirmbeck, María A. Oliveira-Miranda, Cícero Cardoso Augusto, Jose Eduardo Victorio Gonzales, Juan Espinosa, Juan Carlos Amilibia, Tony Vizcarra Bentos, Suelma Ribeiro Silva, Judith Rosales Godoy, Helga C. Wiederhecker",
-    "journal_title": "Remote Sensing",
-    "source_title": "Remote Sensing",
-    "doi": "10.3390/rs17213644",
-    "short_abstract": "The Amazon wetlands are the largest and most diverse freshwater ecosystem globally, characterized by various flooded vegetation and the Amazon River’s estuary. This critical ecosystem is vulnerable to",
-    "publication_date": "2025-11-05"
-  },
-  {
-    "title": "Sponge City for whom? Leveraging Social Vulnerability Index for extreme flood adaptation",
-    "author_list": "Hanyu Gao, Boqian Xu, Tarlan Pourmostaghimi, Guangzhao Zhang, Shannon Van Zandt",
-    "journal_title": "Sustainable Cities and Society",
-    "source_title": "Sustainable Cities and Society",
-    "doi": "10.1016/j.scs.2025.107068",
-    "short_abstract": "Environmental extremes are intensifying due to human-induced climate change, disproportionately affecting urban populations with differing capacities to respond and recover. Social vulnerability and S",
-    "publication_date": "2026-01"
   },
   {
     "title": "Observed shifts in regional climate linked to Amazon deforestation",
@@ -277,6 +277,15 @@
     "doi": "10.1016/j.jag.2025.104362",
     "short_abstract": "Curtailing encroachment is dependent on effectively identifying where problematic species occur. However, traditional classification methods struggle to distinguish spectrally similar species. New tec",
     "publication_date": "2025-02"
+  },
+  {
+    "title": "Enhanced Amazon Wetland Map with Multi-Source Remote Sensing Data",
+    "author_list": "Carlos M. Souza, Bruno G. Ferreira, Ives Medeiros Brandão, Sandra Rios, John Aguilar-Brand, Juliano Schirmbeck, Emanuel Valero, Miguel A. Restrepo-Galvis, Eva Mollinedo-Veneros, Esteban Terneus, Nelly Rivero, Lucimara Wolfarth Schirmbeck, María A. Oliveira-Miranda, Cícero Cardoso Augusto, Jose Eduardo Victorio Gonzales, Juan Espinosa, Juan Carlos Amilibia, Tony Vizcarra Bentos, Suelma Ribeiro Silva, Judith Rosales Godoy, Helga C. Wiederhecker",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs17213644",
+    "short_abstract": "The Amazon wetlands are the largest and most diverse freshwater ecosystem globally, characterized by various flooded vegetation and the Amazon River’s estuary. This critical ecosystem is vulnerable to",
+    "publication_date": "2025-11-05"
   },
   {
     "title": "Mapping and modeling urban and peri-urban carbon storage ecosystem service in the Atlas Cedar Biosphere Reserve (Morocco): Integrating GIS, remote sensing, and InVEST Model",
