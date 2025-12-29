@@ -1,5 +1,14 @@
 [
   {
+    "title": "Overlooked deforestation from global mining activities in the 21st century",
+    "author_list": "Xiaoxin Zhang, Bin Chen, Jiafu An, Chen Lin, Peng Gong",
+    "journal_title": "Nature Communications",
+    "source_title": "Nature Communications",
+    "doi": "10.1038/s41467-025-67501-1",
+    "short_abstract": "Mining is a major driver of deforestation, yet the full scale of its contribution to global natural forest loss and associated carbon emissions remains obscured by the incomplete inventories of mining",
+    "publication_date": "2025-12-21"
+  },
+  {
     "title": "Perceived drought exposure in small communities of the United States: Demographic, attitudinal, and metric-based drivers",
     "author_list": "Sadaf Mehrabi, Ingrid Cintura Rojas, Antonio Arenas Amado, Yu Wang, Kaoru Ikuma",
     "journal_title": "The Science of The Total Environment",
@@ -72,13 +81,13 @@
     "publication_date": "2026-06"
   },
   {
-    "title": "Overlooked deforestation from global mining activities in the 21st century",
-    "author_list": "Xiaoxin Zhang, Bin Chen, Jiafu An, Chen Lin, Peng Gong",
-    "journal_title": "Nature Communications",
-    "source_title": "Nature Communications",
-    "doi": "10.1038/s41467-025-67501-1",
-    "short_abstract": "Mining is a major driver of deforestation, yet the full scale of its contribution to global natural forest loss and associated carbon emissions remains obscured by the incomplete inventories of mining",
-    "publication_date": "2025-12-21"
+    "title": "A novel multimodal fusion deep network for identifying hillside urban expansion",
+    "author_list": "Linlin Jiang, Wan Hou, Kaifang Shi",
+    "journal_title": "GIScience & Remote Sensing",
+    "source_title": "GIScience & Remote Sensing",
+    "doi": "10.1080/15481603.2025.2605708",
+    "short_abstract": "Hillside urban expansion (HUE) threatens fragile and sensitive mountainous and hilly ecosystems, increasing geological and ecological risks that adversely affect human well-being. Accurate HUE identif",
+    "publication_date": "2025-12-23"
   },
   {
     "title": "Carbon stock assessment using machine learning based modeling in Pinus massoniana plantations",
@@ -106,15 +115,6 @@
     "doi": "10.1109/jstars.2025.3646137",
     "short_abstract": "The availability of complex signals in Global Navigation Satellite System-Reflectometry (GNSS-R) has gained growing attention across a range of applications, due to its capacity to preserve phase info",
     "publication_date": "2025-12-19"
-  },
-  {
-    "title": "Nonlinear Mechanisms of PM2.5 and O3 Response to 2D/3D Building and Green Space Patterns in Guiyang City, China",
-    "author_list": "Debin Lu, Dongyang Yang, Menglin Li, Tong Lu, Chang Han",
-    "journal_title": "Land",
-    "source_title": "Land",
-    "doi": "10.3390/land14112257",
-    "short_abstract": "PM2.5 and O3 are now the primary air pollutants in Chinese cities and pose serious risks to human health. In particular, the two- and three-dimensional patterns of urban buildings and green spaces pla",
-    "publication_date": "2025-11-14"
   },
   {
     "title": "Wildfire increased summer low flows in snow-dominated watersheds: A combined approach of hydrometric monitoring and geochemical tracing",
@@ -205,15 +205,6 @@
     "doi": "10.1038/s41597-025-04892-2",
     "short_abstract": "Habitat loss and degradation associated with industrial development is the primary threat and dominant driver of biodiversity loss globally. Spatially-explicit datasets that estimate human pressures a",
     "publication_date": "2025-04-10"
-  },
-  {
-    "title": "A state-of-the-art review on the quantitative and qualitative assessment of water resources using google earth engine",
-    "author_list": "Rimsha Hasan, Aditya Kapoor, Rajneesh Singh, Brijesh Kumar Yadav",
-    "journal_title": "Environmental Monitoring and Assessment",
-    "source_title": "Environmental Monitoring and Assessment",
-    "doi": "10.1007/s10661-024-13315-5",
-    "short_abstract": "Water resource management is becoming essential due to many anthropogenic and climatic factors resulting in dwindling water resources. Traditionally, geographic information systems (GIS) and remote se",
-    "publication_date": "2024-11-28"
   },
   {
     "title": "A harmonized dataset of ground-mounted solar energy in the US with enhanced metadata",
@@ -531,6 +522,15 @@
     "publication_date": "2025-11-13"
   },
   {
+    "title": "Determination of dengue high-risk areas in the Philippines: a kernel density estimation, inverse distance weighting, and ecological niche modeling",
+    "author_list": "Kenny Oriel A. Olana, Aksara Thongprachum, Napaphat Poprom, Wengui Li, Veerasak Punyapornwithaya",
+    "journal_title": "Parasites & Vectors",
+    "source_title": "Parasites & Vectors",
+    "doi": "10.1186/s13071-025-07200-4",
+    "short_abstract": "BackgroundDengue is an acute infectious tropical disease that poses a significant public health burden in the Philippines; however, studies employing spatial distribution modeling and ecological appro",
+    "publication_date": "2025-12-23"
+  },
+  {
     "title": "Declining urban density attenuates rising population exposure to surface heat extremes",
     "author_list": "Kangning Huang, Brian Stone, ChengHe Guan, Jiayong Liang",
     "journal_title": "Scientific Reports",
@@ -637,15 +637,6 @@
     "doi": "10.1016/j.indic.2025.100818",
     "short_abstract": "The impact of human activities and natural resources on ecological quality (EQ) is a global issue facing the world. To address these problems, this study used a Remote Sensing Ecological Index (RSEI)",
     "publication_date": "2025-09"
-  },
-  {
-    "title": "Spatiotemporal evolution of ecological environmental quality and its dynamic relationships with landscape pattern in the Zhengzhou Metropolitan Area: A perspective based on nonlinear effects and spatiotemporal heterogeneity",
-    "author_list": "Qi Liu, Jiajun Qiao, Mengjuan Li, Yingjie Dun, Xiaoyong Zhu, Xiaoya Ji",
-    "journal_title": "Journal of Cleaner Production",
-    "source_title": "Journal of Cleaner Production",
-    "doi": "10.1016/j.jclepro.2024.144102",
-    "short_abstract": "Understanding the spatiotemporal dynamics between landscape pattern changes and ecological environmental quality is essential for optimizing regional landscapes and improving the ecological environmen",
-    "publication_date": "2024-11"
   },
   {
     "title": "Optimal locating satellite observation reaches for manning’s equation: From surface water and ocean topography mission river Database",
