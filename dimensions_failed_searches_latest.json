@@ -1,7 +1,7 @@
 {
   "failed_search_metadata": {
-    "total_failed_searches": 11,
-    "export_timestamp": "2025-12-31T16:31:55.804659"
+    "total_failed_searches": 10,
+    "export_timestamp": "2026-01-01T16:32:01.845445"
   },
   "failed_searches": {
     "\"GEE Community Assets\"": {
@@ -27,14 +27,6 @@
       "retrieved": 0,
       "filtered": 0,
       "error": "Empty response from API"
-    },
-    "Investigation of data for decision-support in forest-related natural resources management with a focus on spatial data on European and national level": {
-      "description": "Scholar Diff Title",
-      "search_field": "text_search",
-      "count": 0,
-      "retrieved": 0,
-      "filtered": 0,
-      "error": "502 Server Error: Bad Gateway for url: https://app.dimensions.ai/discover/publication/results.json?search_mode=content&search_text=Investigation+of+data+for+decision-support+in+forest-related+natural+resources+management+with+a+focus+on+spatial+data+on+European+and+national+level&search_type=kws&search_field=text_search&order=date"
     },
     "Predictive Drivers and Spatiotemporal Transferability of Machine Learning Based Crop Yield Prediction Under Drought Conditions": {
       "description": "Scholar Diff Title",
