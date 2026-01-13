@@ -54,6 +54,15 @@
     "publication_date": "2026-01"
   },
   {
+    "title": "A Simplified Model for Simulating Complex Signals in GNSS-Reflectometry over Land",
+    "author_list": "Jilun Peng, Estel Cardellach, Weiqiang Li",
+    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2025.3646137",
+    "short_abstract": "The availability of complex signals in global navigation satellite system-reflectometry (GNSS-R) has gained growing attention across a range of applications, due to its capacity to preserve phase info",
+    "publication_date": "2025-12-19"
+  },
+  {
     "title": "Evolution of eutrophication in boreal lakes: results from a half-century of in-situ measurements",
     "author_list": "Milad Shamsi Anboohi, Roohollah Noori, Mohammad Reza Badamian, Sayed M. Bateni, Fan Xia, Mehran Mahdian, Peiman Kianmehr, Qiuhong Tang",
     "journal_title": "Journal of Hydrology",
@@ -106,15 +115,6 @@
     "doi": "10.1016/j.eiar.2025.108292",
     "short_abstract": "Human mobility is essential for accurately estimating individual heat exposure, yet most assessments still rely on residence-based measures that neglect daily movements. How mobility patterns influenc",
     "publication_date": "2026-04"
-  },
-  {
-    "title": "A Simplified Model for Simulating Complex Signals in GNSS-Reflectometry over Land",
-    "author_list": "Jilun Peng, Estel Cardellach, Weiqiang Li",
-    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "doi": "10.1109/jstars.2025.3646137",
-    "short_abstract": "The availability of complex signals in Global Navigation Satellite System-Reflectometry (GNSS-R) has gained growing attention across a range of applications, due to its capacity to preserve phase info",
-    "publication_date": "2025-12-19"
   },
   {
     "title": "Wildfire increased summer low flows in snow-dominated watersheds: A combined approach of hydrometric monitoring and geochemical tracing",
