@@ -117,6 +117,15 @@
     "publication_date": "2026-04"
   },
   {
+    "title": "Estimating Soil Moisture Using Multimodal Remote Sensing and Transfer Optimization Techniques",
+    "author_list": "Jingke Liu, Lin Liu, Weidong Yu, Xingbin Wang",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs18010084",
+    "short_abstract": "Surface soil moisture (SSM) is essential for crop growth, irrigation management, and drought monitoring. However, conventional field-based measurements offer limited spatial and temporal coverage, mak",
+    "publication_date": "2025-12-26"
+  },
+  {
     "title": "Wildfire increased summer low flows in snow-dominated watersheds: A combined approach of hydrometric monitoring and geochemical tracing",
     "author_list": "Shixuan Lyu, Xiaohua Wei, Ming Qiu, Mackenzie Myers, Zhaozhi Wang, Jinyu Hui, Wenhui Yan, Tongqing Shen, Meirong Sun, Shuhui Wang, Yiping Hou",
     "journal_title": "Forest Ecosystems",
@@ -135,15 +144,6 @@
     "publication_date": "2025-12"
   },
   {
-    "title": "Effect of Climate Change on Above-Ground Biomass, Modulated by Forest Fragmentation and Biodiversity in Ghana",
-    "author_list": "Elisha Njomaba, Ben Emunah Aikins, Peter Surový",
-    "journal_title": "Preprints.org",
-    "source_title": "Preprints.org",
-    "doi": "10.20944/preprints202511.1780.v1",
-    "short_abstract": "Forests play a vital role in the global carbon cycle but face growing anthropogenic pressures, with climate change and forest fragmentation among the most critical. In West Africa, particularly in Gha",
-    "publication_date": "2025-11-25"
-  },
-  {
     "title": "Explainable machine learning reveals the nonlinear relationships between green innovation and coordinated urban-rural development: Evidence from the Yangtze River Delta urban agglomeration, China",
     "author_list": "Zhonghu Zhang, Rui Wang, Siqi Zhang, Wenqin Meng",
     "journal_title": "Environmental Impact Assessment Review",
@@ -151,15 +151,6 @@
     "doi": "10.1016/j.eiar.2025.108320",
     "short_abstract": "Green innovation serves as a vital component for achieving Coordinated Urban-Rural Development (CUD) and the Sustainable Development Goals. This study constructs a multidimensional theoretical framewo",
     "publication_date": "2026-04"
-  },
-  {
-    "title": "Observed shifts in regional climate linked to Amazon deforestation",
-    "author_list": "Marcus V. F. Silveira, Patrick W. Keys, Anderson Ruhoff, Paulo Artaxo, Marcos H. Costa, Liana O. Anderson, Marcos Adami, Celso von Randow, Luiz E. O. C. Aragão",
-    "journal_title": "Communications Earth & Environment",
-    "source_title": "Communications Earth & Environment",
-    "doi": "10.1038/s43247-025-02900-2",
-    "short_abstract": "Deforestation is an important driver of regional climate change in the Amazon; thus, assessments of climate impacts from deforestation can provide key insights to climate change mitigation and adaptat",
-    "publication_date": "2025-11-21"
   },
   {
     "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
@@ -171,13 +162,22 @@
     "publication_date": "2025-12-02"
   },
   {
-    "title": "Quantitative Analysis of Urban Heat Island and ISA Density Effects on Land Surface Temperature: A Remote Sensing Study Using Local Morphological Density Analysis and Hybrid Optimization Model",
-    "author_list": "Nor El Houda Alioua, Akila Kemmouche, Alessandra Capolupo, Eufemia Tarantino",
-    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "doi": "10.1109/jstars.2025.3634721",
-    "short_abstract": "Urban heat island (UHI) phenomenon, driven by rapid urbanization and increased impervious surface areas (ISA) density, is a significant challenge to sustainable urban development and climate resilienc",
-    "publication_date": "2025-11-19"
+    "title": "Interpretable Assessment of Streetscape Quality Using Street-View Imagery and Satellite-Derived Environmental Indicators: Evidence from Tianjin, China",
+    "author_list": "Yankui Yuan, Fengliang Tang, Shengbei Zhou, Yuqiao Zhang, Xiaojuan Li, Sen Wang, Lin Wang, Qi Wang",
+    "journal_title": "Buildings",
+    "source_title": "Buildings",
+    "doi": "10.3390/buildings16010001",
+    "short_abstract": "Amid accelerating climate change, intensifying urban heat island effects, and rising public demand for livable, walkable streets, there is an urgent practical need for interpretable and actionable evi",
+    "publication_date": "2025-12-19"
+  },
+  {
+    "title": "Enhancing land cover classification in the heterogeneous landscape by integrating auxiliary data with Sentinel-2 imagery using the random forest algorithm",
+    "author_list": "Irvin D. Shandu, Sifiso Xulu, Michael Gebreslasie",
+    "journal_title": "Frontiers in Remote Sensing",
+    "source_title": "Frontiers in Remote Sensing",
+    "doi": "10.3389/frsen.2025.1697897",
+    "short_abstract": "Effective and accurate land use and land cover classification (LULC-C) is an indispensable exercise for various environmental management objectives, including past and future land-use dynamics, flood",
+    "publication_date": "2026-01-09"
   },
   {
     "title": "Multidecadal satellite imagery reveals significant impacts of anthropogenic threats on Ramsar sites of India",
