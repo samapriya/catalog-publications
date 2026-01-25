@@ -1,14 +1,5 @@
 [
   {
-    "title": "Overlooked deforestation from global mining activities in the 21st century",
-    "author_list": "Xiaoxin Zhang, Bin Chen, Jiafu An, Chen Lin, Peng Gong",
-    "journal_title": "Nature Communications",
-    "source_title": "Nature Communications",
-    "doi": "10.1038/s41467-025-67501-1",
-    "short_abstract": "Mining is a major driver of deforestation, yet the full scale of its contribution to global natural forest loss and associated carbon emissions remains obscured by the incomplete inventories of mining",
-    "publication_date": "2025-12-21"
-  },
-  {
     "title": "Perceived drought exposure in small communities of the United States: Demographic, attitudinal, and metric-based drivers",
     "author_list": "Sadaf Mehrabi, Ingrid Cintura Rojas, Antonio Arenas Amado, Yu Wang, Kaoru Ikuma",
     "journal_title": "The Science of The Total Environment",
@@ -142,6 +133,15 @@
     "doi": "10.1016/j.ecoinf.2025.103350",
     "short_abstract": "Identifying the urban-rural gradient in biodiversity variation is crucial to better understand the response of biodiversity dynamics to global urbanization. However, knowledge of this gradient in glob",
     "publication_date": "2025-12"
+  },
+  {
+    "title": "Effect of Climate Change on Above-Ground Biomass, Modulated by Forest Fragmentation and Biodiversity in Ghana",
+    "author_list": "Elisha Njomaba, Ben Emunah Aikins, Peter Surový",
+    "journal_title": "Preprints.org",
+    "source_title": "Preprints.org",
+    "doi": "10.20944/preprints202511.1780.v1",
+    "short_abstract": "Forests play a vital role in the global carbon cycle but face growing anthropogenic pressures, with climate change and forest fragmentation among the most critical. In West Africa, particularly in Gha",
+    "publication_date": "2025-11-25"
   },
   {
     "title": "Explainable machine learning reveals the nonlinear relationships between green innovation and coordinated urban-rural development: Evidence from the Yangtze River Delta urban agglomeration, China",
