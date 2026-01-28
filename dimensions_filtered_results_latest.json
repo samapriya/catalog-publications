@@ -126,6 +126,15 @@
     "publication_date": "2026-04"
   },
   {
+    "title": "Locally Relevant Streamflow by Integrating a Land Surface Model Ensemble With a Two‐Stage LSTM Post‐Processor",
+    "author_list": "Bhanu Magotra, Manabendra Saharia",
+    "journal_title": "Water Resources Research",
+    "source_title": "Water Resources Research",
+    "doi": "10.1029/2024wr039792",
+    "short_abstract": "Abstract Process‐based land surface models (LSMs) are widely used for global water cycle and runoff assessments, but when integrated with hydrodynamic models, the streamflow simulations exhibit signif",
+    "publication_date": "2026-01"
+  },
+  {
     "title": "Urban-rural gradient in biodiversity intactness across global cities",
     "author_list": "Naiyi Liu, Zihan Liu, Felista Kasyoka Kilunda, Yanqi Liu, Chao Qin",
     "journal_title": "Ecological Informatics",
@@ -133,15 +142,6 @@
     "doi": "10.1016/j.ecoinf.2025.103350",
     "short_abstract": "Identifying the urban-rural gradient in biodiversity variation is crucial to better understand the response of biodiversity dynamics to global urbanization. However, knowledge of this gradient in glob",
     "publication_date": "2025-12"
-  },
-  {
-    "title": "Effect of Climate Change on Above-Ground Biomass, Modulated by Forest Fragmentation and Biodiversity in Ghana",
-    "author_list": "Elisha Njomaba, Ben Emunah Aikins, Peter Surový",
-    "journal_title": "Preprints.org",
-    "source_title": "Preprints.org",
-    "doi": "10.20944/preprints202511.1780.v1",
-    "short_abstract": "Forests play a vital role in the global carbon cycle but face growing anthropogenic pressures, with climate change and forest fragmentation among the most critical. In West Africa, particularly in Gha",
-    "publication_date": "2025-11-25"
   },
   {
     "title": "Explainable machine learning reveals the nonlinear relationships between green innovation and coordinated urban-rural development: Evidence from the Yangtze River Delta urban agglomeration, China",
@@ -396,15 +396,6 @@
     "publication_date": "2024-04-15"
   },
   {
-    "title": "Framework to Create Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
-    "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
-    "journal_title": "Preprints.org",
-    "source_title": "Preprints.org",
-    "doi": "10.20944/preprints202404.0027.v1",
-    "short_abstract": "This research presents a comprehensive framework for efficiently generating forest fire datasets from Google Earth Engine data sources. The primary contribution of this work lies in providing a method",
-    "publication_date": "2024-04-01"
-  },
-  {
     "title": "Climate, topography, or fuels? Top‐down versus bottom‐up controls on fire refugia across British Columbia, Canada",
     "author_list": "Christine E. Kuntzemann, Ellen Whitman, Doug Lewis, Diana Stralberg",
     "journal_title": "Ecosphere",
@@ -421,6 +412,15 @@
     "doi": "10.20944/preprints202409.0953.v1",
     "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain, and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, t",
     "publication_date": "2024-09-12"
+  },
+  {
+    "title": "A comparison shopper’s guide to forest datasets",
+    "author_list": "Lucy G. Lee, Valerie J. Pasquarella, Benjamin Glass, Luca L. Morreale, Nina Chung, Xiaojie Gao, Jonathan R. Thompson",
+    "journal_title": "bioRxiv",
+    "source_title": "bioRxiv",
+    "doi": "10.1101/2025.06.02.657445",
+    "short_abstract": "Abstract Recent advances in remote sensing, data availability, and cloud-based computing have led to a rapid expansion of publicly accessible datasets characterizing forest cover and land use. These d",
+    "publication_date": "2025-06-06"
   },
   {
     "title": "High-Resolution Land Use Land Cover Dataset for Meteorological Modelling—Part 1: ECOCLIMAP-SG+ an Agreement-Based Dataset",
@@ -450,13 +450,13 @@
     "publication_date": "2023-11-24"
   },
   {
-    "title": "Annual Field-Scale Maps of Tall and Short Crops at the Global Scale Using GEDI and Sentinel-2",
-    "author_list": "Stefania Di Tommaso, Sherrie Wang, Vivek Vajipey, Noel Gorelick, Rob Strey, David B. Lobell",
-    "journal_title": "Remote Sensing",
-    "source_title": "Remote Sensing",
-    "doi": "10.3390/rs15174123",
-    "short_abstract": "Crop type maps are critical for tracking agricultural land use and estimating crop production. Remote sensing has proven an efficient and reliable tool for creating these maps in regions with abundant",
-    "publication_date": "2023-08-22"
+    "title": "Framework to Create Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
+    "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
+    "journal_title": "Preprints.org",
+    "source_title": "Preprints.org",
+    "doi": "10.20944/preprints202404.0027.v1",
+    "short_abstract": "This research presents a comprehensive framework for efficiently generating forest fire datasets from Google Earth Engine data sources. The primary contribution of this work lies in providing a method",
+    "publication_date": "2024-04-01"
   },
   {
     "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
