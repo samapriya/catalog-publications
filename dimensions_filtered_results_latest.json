@@ -108,6 +108,15 @@
     "publication_date": "2026-04"
   },
   {
+    "title": "Regulatory Effects of Urban Morphology on Near-Surface Wind Speed in China Revealed by Observed and Remote Sensing Data",
+    "author_list": "Huiying Chen, Long Chen, Xingfang Pei, Yifei Guan, Zhenhua Zhou, Guanjun Liu, Senlin Zhu, Yi Luo",
+    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2026.3659506",
+    "short_abstract": "The decline in surface wind speed caused by rapid urbanization has been confirmed in many regions. However, due to technological limitations, previous studies have often overlooked the multidimensiona",
+    "publication_date": "2026-01-30"
+  },
+  {
     "title": "Estimating Soil Moisture Using Multimodal Remote Sensing and Transfer Optimization Techniques",
     "author_list": "Jingke Liu, Lin Liu, Weidong Yu, Xingbin Wang",
     "journal_title": "Remote Sensing",
@@ -133,15 +142,6 @@
     "doi": "10.1029/2024wr039792",
     "short_abstract": "Abstract Process‐based land surface models (LSMs) are widely used for global water cycle and runoff assessments, but when integrated with hydrodynamic models, the streamflow simulations exhibit signif",
     "publication_date": "2026-01"
-  },
-  {
-    "title": "Urban-rural gradient in biodiversity intactness across global cities",
-    "author_list": "Naiyi Liu, Zihan Liu, Felista Kasyoka Kilunda, Yanqi Liu, Chao Qin",
-    "journal_title": "Ecological Informatics",
-    "source_title": "Ecological Informatics",
-    "doi": "10.1016/j.ecoinf.2025.103350",
-    "short_abstract": "Identifying the urban-rural gradient in biodiversity variation is crucial to better understand the response of biodiversity dynamics to global urbanization. However, knowledge of this gradient in glob",
-    "publication_date": "2025-12"
   },
   {
     "title": "Explainable machine learning reveals the nonlinear relationships between green innovation and coordinated urban-rural development: Evidence from the Yangtze River Delta urban agglomeration, China",
