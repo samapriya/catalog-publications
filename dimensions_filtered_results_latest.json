@@ -90,15 +90,6 @@
     "publication_date": "2025-12-23"
   },
   {
-    "title": "Carbon stock assessment using machine learning based modeling in Pinus massoniana plantations",
-    "author_list": "Sufeng Zhu, Mengmeng Gou, Zunji Jian, Cong Jiang, Huiling Chen, Ruyuan Hu, Haiping Zhao, Changfu Liu, Wenfa Xiao",
-    "journal_title": "Trees Forests and People",
-    "source_title": "Trees Forests and People",
-    "doi": "10.1016/j.tfp.2025.101043",
-    "short_abstract": "Accurate estimation of forest ecosystem carbon stocks is vital for sustainable forest management and climate change mitigation strategies. Yet, belowground carbon quantification remains one of the gre",
-    "publication_date": "2025-12"
-  },
-  {
     "title": "Individual mobility and heat exposure: Distinguishing residence-based and mobility-based assessments",
     "author_list": "Heng Wu, Yong Liu",
     "journal_title": "Environmental Impact Assessment Review",
@@ -151,6 +142,15 @@
     "doi": "10.1016/j.eiar.2025.108320",
     "short_abstract": "Green innovation serves as a vital component for achieving Coordinated Urban-Rural Development (CUD) and the Sustainable Development Goals. This study constructs a multidimensional theoretical framewo",
     "publication_date": "2026-04"
+  },
+  {
+    "title": "Refining estimates of U.S. reforestation opportunities for climate mitigation: updated algorithms and analyses",
+    "author_list": "Jeffrey A. Hicke",
+    "journal_title": "Canadian Journal of Forest Research",
+    "source_title": "Canadian Journal of Forest Research",
+    "doi": "10.1139/cjfr-2025-0136",
+    "short_abstract": "Reforestation has substantial potential for carbon sequestration in the conterminous United States. My inspection of the results of a recent novel study of potential reforestation in the US revealed p",
+    "publication_date": "2026-01-01"
   },
   {
     "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
@@ -486,6 +486,15 @@
     "publication_date": "2025-06-11"
   },
   {
+    "title": "Crowdsourced biodiversity monitoring fills gaps in global plant trait mapping",
+    "author_list": "Daniel Lusk, Sophie Wolf, Daria Svidzinska, Carsten F. Dormann, Jens Kattge, Helge Bruelheide, Francesco Maria Sabatini, Gabriella Damasceno, Álvaro Moreno Martínez, Cyrille Violle, Daniel Hending, Georg J. A. Hähn, Solana Tabeni, Shyam Phartyal, Fernando Gonçalves, Holger Kreft, Marco Schmidt, Han Chen, Behlül Güler, Jiri Dolezal, Remigiusz Pielech, Anaclara Guido, Ciara Dwyer, Francesca Napoleone, Jacob Willie, André Luís Gasper, Manuel J. Macía, Milan Chytry, Jonathan Lenoir, Dinesh Thakur, Jürgen Dengler, Sebastian Świerszcz, Jan Altman, Ladislav Mucina, Ashish N. Nerlekar, Kaoru Kakinuma, Pravin Rawat, Zvjezdana Stančić, Riccardo Testolin, Mohamed Z. Hatim, Flávio Rodrigues, Jürgen Homeier, Marcia C. M. Marques, James K. McCarthy, M. A. El-Sheikh, Kirill Korznikov, Kilian Gerberding, Teja Kattenborn",
+    "journal_title": "Nature Communications",
+    "source_title": "Nature Communications",
+    "doi": "10.1038/s41467-026-68996-y",
+    "short_abstract": "Plant functional traits are fundamental to ecosystem dynamics and Earth system processes, but their global characterization is limited by available field surveys and trait measurements. Recent expansi",
+    "publication_date": "2026-01-30"
+  },
+  {
     "title": "Mitigating Soil and Land Degradation: Socio‐Ecological Perspectives on Ecosystem Service Trade‐Offs",
     "author_list": "Zhenqiang Feng",
     "journal_title": "Land Degradation and Development",
@@ -520,15 +529,6 @@
     "doi": "10.1139/cjfr-2024-0319",
     "short_abstract": "Wildland fire fuels within the gray-phase of mountain pine beetle ( Dendroctonus ponderosae Hopkins) outbreak (4–10 years post mortality) are treated as homogenous despite potential variability. To a",
     "publication_date": "2025-01-01"
-  },
-  {
-    "title": "Crowdsourced biodiversity monitoring fills gaps in global plant trait mapping",
-    "author_list": "Daniel Lusk, Sophie Wolf, Daria Svidzinska, Carsten F. Dormann, Jens Kattge, Helge Bruelheide, Francesco Maria Sabatini, Gabriella Damasceno, Álvaro Moreno Martínez, Cyrille Violle, Daniel Hending, Georg J. A. Hähn, Solana Tabeni, Shyam Phartyal, Fernando Gonçalves, Holger Kreft, Marco Schmidt, Han Chen, Behlül Güler, Jiri Dolezal, Remigiusz Pielech, Anaclara Guido, Ciara Dwyer, Francesca Napoleone, Jacob Willie, André Luís Gasper, Manuel J. Macía, Milan Chytry, Jonathan Lenoir, Dinesh Thakur, Jürgen Dengler, Sebastian Świerszcz, Jan Altman, Ladislav Mucina, Ashish N. Nerlekar, Kaoru Kakinuma, Pravin Rawat, Zvjezdana Stančić, Riccardo Testolin, Mohamed Z. Hatim, Flávio Rodrigues, Jürgen Homeier, Marcia C. M. Marques, James K. McCarthy, M. A. El-Sheikh, Kirill Korznikov, Kilian Gerberding, Teja Kattenborn",
-    "journal_title": "Nature Communications",
-    "source_title": "Nature Communications",
-    "doi": "10.1038/s41467-026-68996-y",
-    "short_abstract": "Plant functional traits are fundamental to ecosystem dynamics and Earth system processes, but their global characterization is limited by available field surveys and trait measurements. Recent expansi",
-    "publication_date": "2026-01-30"
   },
   {
     "title": "A comparison shopper’s guide to forest datasets",
