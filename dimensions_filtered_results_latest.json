@@ -1,5 +1,14 @@
 [
   {
+    "title": "Harvesting insights: interpretable machine learning to understand environmental drivers of U.S. maize and soybean yield",
+    "author_list": "Harrison W. Smith, Christopher J. Heffernan, Amanda J. Ashworth, L. Lanier Nalley, David S. Bullock, Jason Tullis, Phillip R. Owens",
+    "journal_title": "Scientific Reports",
+    "source_title": "Scientific Reports",
+    "doi": "10.1038/s41598-026-38724-z",
+    "short_abstract": "Accurate crop yield prediction is crucial for enhancing food security and agricultural sustainability; however, existing models frequently struggle to capture the intricate relationships between envir",
+    "publication_date": "2026-02-13"
+  },
+  {
     "title": "Ecological Integrity Index, timely annual tracking of biodiversity change",
     "author_list": "Taochun Sun, Alice C. Hughes, Kehan He, Le Yu",
     "journal_title": "Scientific Data",
@@ -7,33 +16,6 @@
     "doi": "10.1038/s41597-025-06485-5",
     "short_abstract": "Despite numerous global initiatives and policy framework to mitigate ongoing biodiversity decline, progress remains limited due to lack of biodiversity indicators that are timely, scientifically rigor",
     "publication_date": "2026-01-15"
-  },
-  {
-    "title": "Perceived drought exposure in small communities of the United States: Demographic, attitudinal, and metric-based drivers",
-    "author_list": "Sadaf Mehrabi, Ingrid Cintura Rojas, Antonio Arenas Amado, Yu Wang, Kaoru Ikuma",
-    "journal_title": "The Science of The Total Environment",
-    "source_title": "The Science of The Total Environment",
-    "doi": "10.1016/j.scitotenv.2025.180992",
-    "short_abstract": "Droughts in the U.S. are intensifying and, in many regions, becoming more frequent and longer under climate change, placing disproportionate pressure on small and under-resourced water systems. Yet, a",
-    "publication_date": "2025-12-04"
-  },
-  {
-    "title": "ENSO amplifies global vegetation resilience variability in a changing climate",
-    "author_list": "Wei Zhou, Changjia Li, Haicheng Zhang, Lindsay C. Stringer, Jingyu Wang, Zhongci Deng, Zhen Wang",
-    "journal_title": "Nature Communications",
-    "source_title": "Nature Communications",
-    "doi": "10.1038/s41467-025-66987-z",
-    "short_abstract": "A thorough understanding of vegetation resilience to climate variability is critical for sustaining ecosystem functions and terrestrial carbon sinks. Although the El Niño-Southern Oscillation (ENSO) i",
-    "publication_date": "2025-12-04"
-  },
-  {
-    "title": "Drivers of day–night intra-surface urban heat island variations under local extreme heat: A case study of Singapore",
-    "author_list": "Siyu Li, Filip Biljecki, Pengyuan Liu, Rudi Stouffs",
-    "journal_title": "Sustainable Cities and Society",
-    "source_title": "Sustainable Cities and Society",
-    "doi": "10.1016/j.scs.2025.107000",
-    "short_abstract": "Urban areas face significant challenges from extreme heat and urban heat islands (UHIs), which often interact and intensify each other at multi-spatial scales. However, most existing studies examine e",
-    "publication_date": "2025-12"
   },
   {
     "title": "Sponge City for whom? Leveraging Social Vulnerability Index for extreme flood adaptation",
@@ -126,6 +108,15 @@
     "publication_date": "2026-04"
   },
   {
+    "title": "Detecting and modeling topography‐induced differences in plant productivity across a grassland ecosystem gradient",
+    "author_list": "Johny Arteaga, Melannie D. Hartman, William J. Parton, Yushu Xia, Jiaming Duan, Mitchell B. Stephenson, Jerry Volesky, Maosi Chen, Darrin Sharp, Jonathan Straube, Wei Gao",
+    "journal_title": "Ecosphere",
+    "source_title": "Ecosphere",
+    "doi": "10.1002/ecs2.70537",
+    "short_abstract": "Abstract Understanding spatial variation in grassland productivity is critical for ecological modeling and management. The Great Plains of North America, a vast grassland region east of the Rocky Moun",
+    "publication_date": "2026-02"
+  },
+  {
     "title": "Locally Relevant Streamflow by Integrating a Land Surface Model Ensemble With a Two‐Stage LSTM Post‐Processor",
     "author_list": "Bhanu Magotra, Manabendra Saharia",
     "journal_title": "Water Resources Research",
@@ -153,13 +144,22 @@
     "publication_date": "2026-01-01"
   },
   {
-    "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
-    "author_list": "Daniel Paluba, Vojtěch Bližňák, Miloslav Müller, Přemysl Štych",
-    "journal_title": "Big Earth Data",
-    "source_title": "Big Earth Data",
-    "doi": "10.1080/20964471.2025.2592444",
-    "short_abstract": "This study assesses the accuracy of ten satellite-based and reanalysis precipitation datasets available in Google Earth Engine (GEE) using in-situ rain gauge measurements across Czechia, Central Europ",
-    "publication_date": "2025-12-02"
+    "title": "Modeling structural attributes and carbon stock in subtropical wooded savannas using machine learning and multi-source data",
+    "author_list": "Andrés Baietto, Rafael Ma Navarro Cerrillo, Carolina Toranza, Patricia Brussa, Matías Mañana, Mauricio Bonifacino, Andrés Hirigoyen",
+    "journal_title": "Trees Forests and People",
+    "source_title": "Trees Forests and People",
+    "doi": "10.1016/j.tfp.2026.101187",
+    "short_abstract": "Savannas are significant global carbon sinks that are increasingly threatened by land-use change. In Uruguay, subtropical wooded savannas cover approximately 100,000 ha and are focus of conservation a",
+    "publication_date": "2026-02"
+  },
+  {
+    "title": "A Hierarchical Robust Combined Index for Agricultural Drought Detection and Monitoring Using Earth Observation Big Data and Google Earth Engine: Application to a Case Study in Southern Italy",
+    "author_list": "Filippo Bocchino, Giulia Graldi, Camillo Zaccarini, Deodato Tapete, Alessandro Ursi, Maria Virelli, Patrizia Sacco, Valeria Belloni, Roberta Ravanelli, Mattia Crespi",
+    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2026.3663697",
+    "short_abstract": "Agricultural drought poses a significant threat to crop productivity and food security. This study provides a detailed review of the approaches used to construct Combined Drought Indices (CDIs) in the",
+    "publication_date": "2026-02-12"
   },
   {
     "title": "Interpretable Assessment of Streetscape Quality Using Street-View Imagery and Satellite-Derived Environmental Indicators: Evidence from Tianjin, China",
@@ -214,6 +214,15 @@
     "doi": "10.1038/s41597-025-05862-4",
     "short_abstract": "Solar energy generating systems are critical components of our expanding energy infrastructure, yet available datasets remain incomplete or not publicly available–particularly at the sub-array level.",
     "publication_date": "2025-09-29"
+  },
+  {
+    "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
+    "author_list": "Daniel Paluba, Vojtěch Bližňák, Miloslav Müller, Přemysl Štych",
+    "journal_title": "Big Earth Data",
+    "source_title": "Big Earth Data",
+    "doi": "10.1080/20964471.2025.2592444",
+    "short_abstract": "This study assesses the accuracy of ten satellite-based and reanalysis precipitation datasets available in Google Earth Engine (GEE) using in-situ rain gauge measurements across Czechia, Central Europ",
+    "publication_date": "2025-12-02"
   },
   {
     "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
@@ -360,6 +369,15 @@
     "publication_date": "2024-10-01"
   },
   {
+    "title": "Modeling urban expansion in the Philippines using a cellular automata–integrated spatiotemporal machine learning framework",
+    "author_list": "Joshua R. Dela Cruz, Adrian Roy L. Valdez",
+    "journal_title": "ISPRS Annals of the Photogrammetry Remote Sensing and Spatial Information Sciences",
+    "source_title": "ISPRS Annals of the Photogrammetry Remote Sensing and Spatial Information Sciences",
+    "doi": "10.5194/isprs-annals-x-5-w4-2025-213-2026",
+    "short_abstract": "Abstract. Urbanization in the Philippines rapidly shift towards a certain critical level, yet there are only few established frameworks that provide localized forecasts of urban growth across the Phil",
+    "publication_date": "2026-02-10"
+  },
+  {
     "title": "Modelling spatiotemporal patterns in surface water quality in northwestern Argentina: the importance of potential pollution sources and climatic conditions.",
     "author_list": "Pablo García-Díaz, Yohana G. Jimenez, Sara Isasmendi, Carlos Molineri, Priscila A. Powell, María de L. Gultemirian, Ezequiel Aráoz, Sebastián Albanesi",
     "journal_title": "Research Square",
@@ -378,15 +396,6 @@
     "publication_date": "2025-02-21"
   },
   {
-    "title": "Granular satellite data to assess the potential for nature based solutions at a national scale: a proof of concept with data from Rwanda and Lesotho",
-    "author_list": "Bas Heerma van Voss, William Ouellette",
-    "journal_title": "Climate Policy",
-    "source_title": "Climate Policy",
-    "doi": "10.1080/14693062.2024.2330373",
-    "short_abstract": "Nature-based Solutions (NbS) form a substantial part of cost-efficient climate change mitigation options. However, public financial flows towards NbS have been limited. Among the factors impeding inve",
-    "publication_date": "2024-05-19"
-  },
-  {
     "title": "Mapping urban slums and their inequality in sub-Saharan Africa",
     "author_list": "Chengxiu Li, Le Yu, Robert Ndugwa, Adrian J. Bailey, Xiaoling Zhang, Francis Oloo, Ellasy Gulule Chimimba, Xiangzheng Deng, Jim Wright",
     "journal_title": "Nature Cities",
@@ -394,15 +403,6 @@
     "doi": "10.1038/s44284-025-00276-0",
     "short_abstract": "Slums house nearly one-quarter of the global urban population, yet their spatial and socioeconomic dynamics remain poorly understood, hindering progress toward the United Nations’ commitment to ‘leave",
     "publication_date": "2025-08-08"
-  },
-  {
-    "title": "Mapping sugarcane globally at 10 m resolution using GEDI and Sentinel-2",
-    "author_list": "Stefania Di Tommaso, Sherrie Wang, Rob Strey, David B. Lobell",
-    "journal_title": "EGUsphere",
-    "source_title": "EGUsphere",
-    "doi": "10.5194/essd-2024-121",
-    "short_abstract": "Sugarcane is an important source of food, biofuel, and farmer income in many countries. At the same time, sugarcane is implicated in many social and environmental challenges, including water scarcity",
-    "publication_date": "2024-04-15"
   },
   {
     "title": "Climate, topography, or fuels? Top‐down versus bottom‐up controls on fire refugia across British Columbia, Canada",
@@ -441,6 +441,15 @@
     "publication_date": "2024-11-01"
   },
   {
+    "title": "Do-it-yourself built-up mapping tool: A practical cloud-based solution using Sentinel imagery for mapping urban expansion in Africa",
+    "author_list": "Marta Sapena, Johannes Mast, Elisabeth Schoepfer, Hannes Taubenböck",
+    "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "source_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "doi": "10.1016/j.jag.2026.105153",
+    "short_abstract": "Urban areas across Africa have undergone unprecedented growth, posing significant challenges for sustainable development, infrastructure planning, and climate resilience. Existing mapping products oft",
+    "publication_date": "2026-02"
+  },
+  {
     "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
     "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
     "journal_title": "Forests",
@@ -450,13 +459,22 @@
     "publication_date": "2024-05-26"
   },
   {
-    "title": "Assessing size shifts amidst a warming climate in lakes recharged by the Asian Water Tower through satellite imagery",
-    "author_list": "Nuo Xu, Jiahua Zhang, Andre Daccache, Chong Liu, Arman Ahmadi, Tianyu Zhou, Peng Gou",
-    "journal_title": "The Science of The Total Environment",
-    "source_title": "The Science of The Total Environment",
-    "doi": "10.1016/j.scitotenv.2023.168770",
-    "short_abstract": "Recent studies indicate that the Asian Water Tower (AWT) is at risk due to climate change, which can negatively impact water and food security in Asia. However, there is a lack of comprehensive inform",
-    "publication_date": "2023-11-24"
+    "title": "Granular satellite data to assess the potential for nature based solutions at a national scale: a proof of concept with data from Rwanda and Lesotho",
+    "author_list": "Bas Heerma van Voss, William Ouellette",
+    "journal_title": "Climate Policy",
+    "source_title": "Climate Policy",
+    "doi": "10.1080/14693062.2024.2330373",
+    "short_abstract": "Nature-based Solutions (NbS) form a substantial part of cost-efficient climate change mitigation options. However, public financial flows towards NbS have been limited. Among the factors impeding inve",
+    "publication_date": "2024-05-19"
+  },
+  {
+    "title": "Mapping sugarcane globally at 10 m resolution using GEDI and Sentinel-2",
+    "author_list": "Stefania Di Tommaso, Sherrie Wang, Rob Strey, David B. Lobell",
+    "journal_title": "EGUsphere",
+    "source_title": "EGUsphere",
+    "doi": "10.5194/essd-2024-121",
+    "short_abstract": "Sugarcane is an important source of food, biofuel, and farmer income in many countries. At the same time, sugarcane is implicated in many social and environmental challenges, including water scarcity",
+    "publication_date": "2024-04-15"
   },
   {
     "title": "Framework to Create Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
@@ -977,7 +995,7 @@
     "journal_title": "arXiv",
     "source_title": "arXiv",
     "doi": "10.48550/arxiv.2412.12188",
-    "short_abstract": "Internet connectivity in schools is critical to provide students with the\ndigital literary skills necessary to compete in modern economies. In order for\ngovernments to effectively implement digital in",
+    "short_abstract": "Internet connectivity in schools is critical to provide students with the digital literary skills necessary to compete in modern economies. In order for governments to effectively implement digital in",
     "publication_date": "2024-12-13"
   },
   {
@@ -1229,8 +1247,8 @@
     "journal_title": "arXiv",
     "source_title": "arXiv",
     "doi": "10.48550/arxiv.2406.04230",
-    "short_abstract": "Satellite-based remote sensing has revolutionised the way we address global\nchallenges. Huge quantities of Earth Observation (EO) data are generated by\nsatellite sensors daily, but processing these la",
-    "publication_date": "2024-06-06"
+    "short_abstract": "Satellite-based remote sensing has revolutionised the way we address global challenges. Huge quantities of Earth Observation (EO) data are generated by satellite sensors daily, but processing these la",
+    "publication_date": "2024-10-31"
   },
   {
     "title": "Multilevel ecological compensation policy design based on ecosystem service flow: A case study of carbon sequestration services in the Qinghai-Tibet Plateau",
