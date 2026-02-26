@@ -45,15 +45,6 @@
     "publication_date": "2025-12-19"
   },
   {
-    "title": "Mapping the environmental footprint of urbanization in Tirana district through NDVI change analysis (2000–2025)",
-    "author_list": "Medjon Hysenaj, Dritan Rustja",
-    "journal_title": "Geoinformatica Polonica",
-    "source_title": "Geoinformatica Polonica",
-    "doi": "10.4467/21995923gp.25.005.22860",
-    "short_abstract": "Serdecznie witamy na eJournals. Portalu Czasopism Naukowych! eJournals to nie tylko platforma do publikowana online, ale również doświadczony zespół Wydawnictwa Uniwersytetu Jagiellońskiego oferujący",
-    "publication_date": "2025-12-16"
-  },
-  {
     "title": "High-resolution maize yield mapping across Africa using earth observation and machine learning, deep learning, and foundation model",
     "author_list": "Krishnagopal Halder, Frank Ewert, Anitabha Ghosh, Kaushik Muduchuru, Lily-belle Sweet, Radwa Elshawi, Jan Timko, Wenhi Zheng, Karam Alsafadi, Gang Zhao, Michael Maerker, Manmeet Singh, Lei Guoging, Thomas Gaiser, Dominik Behrend, Yue Shi, Liangxiu Han, Masahiro Ryo, Amit Kumar Srivastava",
     "journal_title": "Science of Remote Sensing",
@@ -61,6 +52,15 @@
     "doi": "10.1016/j.srs.2025.100344",
     "short_abstract": "Africa's food security is increasingly threatened by climate change and population growth, creating an urgent need for high-resolution crop yield maps to support precision agriculture and climate adap",
     "publication_date": "2026-06"
+  },
+  {
+    "title": "More intense and equal compound heatwaves driven by urbanization",
+    "author_list": "Shengjun Gao, Yunhao Chen, Deliang Chen, Bin He, Kangning Li, Peng Hou",
+    "journal_title": "npj Urban Sustainability",
+    "source_title": "npj Urban Sustainability",
+    "doi": "10.1038/s42949-026-00363-8",
+    "short_abstract": "Urban populations are increasingly exposed to severe and disproportionate heatwaves. While existing studies address urban heatwaves and intra-urban disparities, there remain gaps in understanding of t",
+    "publication_date": "2026-02-18"
   },
   {
     "title": "A novel multimodal fusion deep network for identifying hillside urban expansion",
@@ -223,6 +223,15 @@
     "doi": "10.1080/20964471.2025.2592444",
     "short_abstract": "This study assesses the accuracy of ten satellite-based and reanalysis precipitation datasets available in Google Earth Engine (GEE) using in-situ rain gauge measurements across Czechia, Central Europ",
     "publication_date": "2025-12-02"
+  },
+  {
+    "title": "Mapping the environmental footprint of urbanization in Tirana district through NDVI change analysis (2000–2025)",
+    "author_list": "Medjon Hysenaj, Dritan Rustja",
+    "journal_title": "Geoinformatica Polonica",
+    "source_title": "Geoinformatica Polonica",
+    "doi": "10.4467/21995923gp.25.005.22860",
+    "short_abstract": "Serdecznie witamy na eJournals. Portalu Czasopism Naukowych! eJournals to nie tylko platforma do publikowana online, ale również doświadczony zespół Wydawnictwa Uniwersytetu Jagiellońskiego oferujący",
+    "publication_date": "2025-12-16"
   },
   {
     "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
@@ -630,13 +639,13 @@
     "publication_date": "2025-03-26"
   },
   {
-    "title": "Patterns of surface water dynamics and storage changes in a basin of Bundelkhand Region, India: Implications for water management",
-    "author_list": "Dhyey Bhatpuria, Nitin Sharma, Giriraj Amarnath, Alok Sikka",
-    "journal_title": "Irrigation and Drainage",
-    "source_title": "Irrigation and Drainage",
-    "doi": "10.1002/ird.3055",
-    "short_abstract": "Abstract Surface water is essential for agricultural, domestic and industrial production worldwide. Monitoring surface dynamics is crucial for sustainable ecosystems and global water resources. Import",
-    "publication_date": "2024-11"
+    "title": "Long‐Term Snow Avalanche Trends in High Mountain Asia: Climatic Drivers and Impacts",
+    "author_list": "Arnaud Caiserman, Roy C. Sidle, Jakob Steiner, Evgenii Shibkov",
+    "journal_title": "Earth's Future",
+    "source_title": "Earth's Future",
+    "doi": "10.1029/2025ef006503",
+    "short_abstract": "Devastating snow avalanches are frequent in High Mountain Asia (HMA) yet remain undocumented with climate change impact drivers poorly understood. Here we introduce the first record of 60 million aval",
+    "publication_date": "2026-02"
   },
   {
     "title": "Multi-Sensor Fusion and Machine Learning for Forest Age Mapping in Southeastern Tibet",
@@ -684,15 +693,6 @@
     "publication_date": "2025-06"
   },
   {
-    "title": "Surface energy balance-based surface urban heat island decomposition at high resolution",
-    "author_list": "Fengxiang Guo, Jiayue Sun, Die Hu",
-    "journal_title": "Remote Sensing of Environment",
-    "source_title": "Remote Sensing of Environment",
-    "doi": "10.1016/j.rse.2024.114447",
-    "short_abstract": "Urban heat island (UHI) is among the most pronounced human impacts on Earth. To formulate locally adapted mitigation strategies, a comprehensive understanding of the influencing mechanisms of UHI at h",
-    "publication_date": "2024-12"
-  },
-  {
     "title": "Ensemble deep learning towards high-resolution soil-moisture mapping for enhanced water management in California&#x27;s Central Valley",
     "author_list": "Ali Azedou, Aouatif Amine, Said Lahssini, Gordon Osterman, Mauricio Arboleda-Zapata, Michael Cosh, Isaya Kisekka",
     "journal_title": "Environmental Modelling & Software",
@@ -709,6 +709,15 @@
     "doi": "10.1080/20964471.2025.2589642",
     "short_abstract": "For a long time, human-induced land transformation in sparsely populated areas has been a blind spot for satellite monitoring. The Tibetan Plateau (TP), with scattered human-managed land and vast wild",
     "publication_date": "2025-11-27"
+  },
+  {
+    "title": "A hybrid remote sensing-based framework for high-resolution population mapping and reconstruction in Ecuador (2000–2024)",
+    "author_list": "Gonzalo Rodolfo Peña Zamalloa, Yumin Tan, Guifei Jing, Lingfeng He",
+    "journal_title": "Habitat International",
+    "source_title": "Habitat International",
+    "doi": "10.1016/j.habitatint.2026.103751",
+    "short_abstract": "Global population distribution grids are characterised by low accuracy in fragmented urban areas and in regions dominated by extensive rural landscapes, a common situation in Ecuador and other Latin A",
+    "publication_date": "2026-04"
   },
   {
     "title": "AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data",
