@@ -54,6 +54,15 @@
     "publication_date": "2026-06"
   },
   {
+    "title": "Urban compound heatwaves substantially offset by cooling from urbanization–promoted vegetation growth",
+    "author_list": "Shengjun Gao, Yunhao Chen, Kangning Li, Hans W. Chen, Bin He",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2026.107249",
+    "short_abstract": "The expansion of urban built–up areas and loss of urban greenspace alter the surface energy balance, exacerbating heat stress. While the greenspace loss reduces biophysical cooling, urbanization can i",
+    "publication_date": "2026-02"
+  },
+  {
     "title": "More intense and equal compound heatwaves driven by urbanization",
     "author_list": "Shengjun Gao, Yunhao Chen, Deliang Chen, Bin He, Kangning Li, Peng Hou",
     "journal_title": "npj Urban Sustainability",
@@ -79,15 +88,6 @@
     "doi": "10.1016/j.eiar.2025.108292",
     "short_abstract": "Human mobility is essential for accurately estimating individual heat exposure, yet most assessments still rely on residence-based measures that neglect daily movements. How mobility patterns influenc",
     "publication_date": "2026-04"
-  },
-  {
-    "title": "Regulatory Effects of Urban Morphology on Near-Surface Wind Speed in China Revealed by Observed and Remote Sensing Data",
-    "author_list": "Huiying Chen, Long Chen, Xingfang Pei, Yifei Guan, Zhenhua Zhou, Guanjun Liu, Senlin Zhu, Yi Luo",
-    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "doi": "10.1109/jstars.2026.3659506",
-    "short_abstract": "The decline in surface wind speed caused by rapid urbanization has been confirmed in many regions. However, due to technological limitations, previous studies have often overlooked the multidimensiona",
-    "publication_date": "2026-01-30"
   },
   {
     "title": "Estimating Soil Moisture Using Multimodal Remote Sensing and Transfer Optimization Techniques",
@@ -162,15 +162,6 @@
     "publication_date": "2026-02-12"
   },
   {
-    "title": "Interpretable Assessment of Streetscape Quality Using Street-View Imagery and Satellite-Derived Environmental Indicators: Evidence from Tianjin, China",
-    "author_list": "Yankui Yuan, Fengliang Tang, Shengbei Zhou, Yuqiao Zhang, Xiaojuan Li, Sen Wang, Lin Wang, Qi Wang",
-    "journal_title": "Buildings",
-    "source_title": "Buildings",
-    "doi": "10.3390/buildings16010001",
-    "short_abstract": "Amid accelerating climate change, intensifying urban heat island effects, and rising public demand for livable, walkable streets, there is an urgent practical need for interpretable and actionable evi",
-    "publication_date": "2025-12-19"
-  },
-  {
     "title": "Enhancing land cover classification in the heterogeneous landscape by integrating auxiliary data with Sentinel-2 imagery using the random forest algorithm",
     "author_list": "Irvin D. Shandu, Sifiso Xulu, Michael Gebreslasie",
     "journal_title": "Frontiers in Remote Sensing",
@@ -178,6 +169,15 @@
     "doi": "10.3389/frsen.2025.1697897",
     "short_abstract": "Effective and accurate land use and land cover classification (LULC-C) is an indispensable exercise for various environmental management objectives, including past and future land-use dynamics, flood",
     "publication_date": "2026-01-09"
+  },
+  {
+    "title": "Tree cooling effects analysis and canopy-covered space optimization pathways exploration in apartheid-influenced Cape Town, South Africa",
+    "author_list": "Shihan Zeng, Jianhua Guo, Weijia Wang, Sijie Zhu, Zhongchang Sun",
+    "journal_title": "Building and Environment",
+    "source_title": "Building and Environment",
+    "doi": "10.1016/j.buildenv.2026.114407",
+    "short_abstract": "Shaped by apartheid-era spatial planning, Cape Town has deep racial and socioeconomic segregation that still influences urban infrastructure and environmental exposure. In this context, uneven distrib",
+    "publication_date": "2026-02"
   },
   {
     "title": "Multidecadal satellite imagery reveals significant impacts of anthropogenic threats on Ramsar sites of India",
@@ -216,15 +216,6 @@
     "publication_date": "2025-09-29"
   },
   {
-    "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
-    "author_list": "Daniel Paluba, Vojtěch Bližňák, Miloslav Müller, Přemysl Štych",
-    "journal_title": "Big Earth Data",
-    "source_title": "Big Earth Data",
-    "doi": "10.1080/20964471.2025.2592444",
-    "short_abstract": "This study assesses the accuracy of ten satellite-based and reanalysis precipitation datasets available in Google Earth Engine (GEE) using in-situ rain gauge measurements across Czechia, Central Europ",
-    "publication_date": "2025-12-02"
-  },
-  {
     "title": "Mapping the environmental footprint of urbanization in Tirana district through NDVI change analysis (2000–2025)",
     "author_list": "Medjon Hysenaj, Dritan Rustja",
     "journal_title": "Geoinformatica Polonica",
@@ -232,6 +223,15 @@
     "doi": "10.4467/21995923gp.25.005.22860",
     "short_abstract": "Serdecznie witamy na eJournals. Portalu Czasopism Naukowych! eJournals to nie tylko platforma do publikowana online, ale również doświadczony zespół Wydawnictwa Uniwersytetu Jagiellońskiego oferujący",
     "publication_date": "2025-12-16"
+  },
+  {
+    "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
+    "author_list": "Daniel Paluba, Vojtěch Bližňák, Miloslav Müller, Přemysl Štych",
+    "journal_title": "Big Earth Data",
+    "source_title": "Big Earth Data",
+    "doi": "10.1080/20964471.2025.2592444",
+    "short_abstract": "This study assesses the accuracy of ten satellite-based and reanalysis precipitation datasets available in Google Earth Engine (GEE) using in-situ rain gauge measurements across Czechia, Central Europ",
+    "publication_date": "2025-12-02"
   },
   {
     "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
