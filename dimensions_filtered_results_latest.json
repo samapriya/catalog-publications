@@ -36,15 +36,6 @@
     "publication_date": "2026-01"
   },
   {
-    "title": "A Simplified Model for Simulating Complex Signals in GNSS-Reflectometry over Land",
-    "author_list": "Jilun Peng, Estel Cardellach, Weiqiang Li",
-    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "doi": "10.1109/jstars.2025.3646137",
-    "short_abstract": "The availability of complex signals in global navigation satellite system-reflectometry (GNSS-R) has gained growing attention across a range of applications, due to its capacity to preserve phase info",
-    "publication_date": "2025-12-19"
-  },
-  {
     "title": "High-resolution maize yield mapping across Africa using earth observation and machine learning, deep learning, and foundation model",
     "author_list": "Krishnagopal Halder, Frank Ewert, Anitabha Ghosh, Kaushik Muduchuru, Lily-belle Sweet, Radwa Elshawi, Jan Timko, Wenhi Zheng, Karam Alsafadi, Gang Zhao, Michael Maerker, Manmeet Singh, Lei Guoging, Thomas Gaiser, Dominik Behrend, Yue Shi, Liangxiu Han, Masahiro Ryo, Amit Kumar Srivastava",
     "journal_title": "Science of Remote Sensing",
@@ -60,7 +51,7 @@
     "source_title": "Sustainable Cities and Society",
     "doi": "10.1016/j.scs.2026.107249",
     "short_abstract": "The expansion of urban built–up areas and loss of urban greenspace alter the surface energy balance, exacerbating heat stress. While the greenspace loss reduces biophysical cooling, urbanization can i",
-    "publication_date": "2026-02"
+    "publication_date": "2026-04"
   },
   {
     "title": "More intense and equal compound heatwaves driven by urbanization",
@@ -142,6 +133,15 @@
     "doi": "10.1139/cjfr-2025-0136",
     "short_abstract": "Reforestation has substantial potential for carbon sequestration in the conterminous United States. My inspection of the results of a recent novel study of potential reforestation in the US revealed p",
     "publication_date": "2026-01-01"
+  },
+  {
+    "title": "Effect of Climatic Aridity on Above-Ground Biomass, Modulated by Forest Fragmentation and Biodiversity in Ghana",
+    "author_list": "Elisha Njomaba, Ben Emunah Aikins, Peter Surový",
+    "journal_title": "Earth",
+    "source_title": "Earth",
+    "doi": "10.3390/earth7010007",
+    "short_abstract": "Forests play a vital role in the global carbon cycle but face growing anthropogenic pressures, with climate change and forest fragmentation among the most critical. In West Africa, particularly in Gha",
+    "publication_date": "2026-01-07"
   },
   {
     "title": "Modeling structural attributes and carbon stock in subtropical wooded savannas using machine learning and multi-source data",
