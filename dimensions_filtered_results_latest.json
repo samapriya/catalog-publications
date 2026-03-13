@@ -144,6 +144,15 @@
     "publication_date": "2026-01-01"
   },
   {
+    "title": "How does missing-modality affect cross-domain remote sensing image classification: A synergistic inter-modal proxy fine-tuning solution",
+    "author_list": "Aijun Xu, Zhaohui Xue, Hao Wu",
+    "journal_title": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "source_title": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "doi": "10.1016/j.isprsjprs.2026.02.040",
+    "short_abstract": "In the context of advancing new urbanization and ecological civilization construction, cross-domain remote sensing (RS) image classification with multimodal data provides essential technical support f",
+    "publication_date": "2026-05"
+  },
+  {
     "title": "Effect of Climatic Aridity on Above-Ground Biomass, Modulated by Forest Fragmentation and Biodiversity in Ghana",
     "author_list": "Elisha Njomaba, Ben Emunah Aikins, Peter Surový",
     "journal_title": "Earth",
@@ -160,15 +169,6 @@
     "doi": "10.1109/jstars.2026.3663697",
     "short_abstract": "Agricultural drought poses a significant threat to crop productivity and food security. This study provides a detailed review of the approaches used to construct Combined Drought Indices (CDIs) in the",
     "publication_date": "2026-02-12"
-  },
-  {
-    "title": "Interpretable Assessment of Streetscape Quality Using Street-View Imagery and Satellite-Derived Environmental Indicators: Evidence from Tianjin, China",
-    "author_list": "Yankui Yuan, Fengliang Tang, Shengbei Zhou, Yuqiao Zhang, Xiaojuan Li, Sen Wang, Lin Wang, Qi Wang",
-    "journal_title": "Buildings",
-    "source_title": "Buildings",
-    "doi": "10.3390/buildings16010001",
-    "short_abstract": "Amid accelerating climate change, intensifying urban heat island effects, and rising public demand for livable, walkable streets, there is an urgent practical need for interpretable and actionable evi",
-    "publication_date": "2025-12-19"
   },
   {
     "title": "Enhancing land cover classification in the heterogeneous landscape by integrating auxiliary data with Sentinel-2 imagery using the random forest algorithm",
