@@ -54,6 +54,15 @@
     "publication_date": "2026-03-31"
   },
   {
+    "title": "A Hierarchical Robust Combined Index for Agricultural Drought Detection and Monitoring Using Earth Observation Big Data and Google Earth Engine: Application to a Case Study in Southern Italy",
+    "author_list": "Filippo Bocchino, Giulia Graldi, Camillo Zaccarini, Deodato Tapete, Alessandro Ursi, Maria Virelli, Patrizia Sacco, Valeria Belloni, Roberta Ravanelli, Mattia Crespi",
+    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2026.3663697",
+    "short_abstract": "Agricultural drought poses a significant threat to crop productivity and food security. This study provides a detailed review of the approaches used to construct Combined Drought Indices (CDIs) in the",
+    "publication_date": "2026-02-11"
+  },
+  {
     "title": "High-resolution maize yield mapping across Africa using earth observation and machine learning, deep learning, and foundation model",
     "author_list": "Krishnagopal Halder, Frank Ewert, Anitabha Ghosh, Kaushik Muduchuru, Lily-belle Sweet, Radwa Elshawi, Jan Timko, Wenhi Zheng, Karam Alsafadi, Gang Zhao, Michael Maerker, Manmeet Singh, Lei Guoging, Thomas Gaiser, Dominik Behrend, Yue Shi, Liangxiu Han, Masahiro Ryo, Amit Kumar Srivastava",
     "journal_title": "Science of Remote Sensing",
@@ -160,15 +169,6 @@
     "doi": "10.3390/earth7010007",
     "short_abstract": "Forests play a vital role in the global carbon cycle but face growing anthropogenic pressures, with climate change and forest fragmentation among the most critical. In West Africa, particularly in Gha",
     "publication_date": "2026-01-07"
-  },
-  {
-    "title": "A Hierarchical Robust Combined Index for Agricultural Drought Detection and Monitoring Using Earth Observation Big Data and Google Earth Engine: Application to a Case Study in Southern Italy",
-    "author_list": "Filippo Bocchino, Giulia Graldi, Camillo Zaccarini, Deodato Tapete, Alessandro Ursi, Maria Virelli, Patrizia Sacco, Valeria Belloni, Roberta Ravanelli, Mattia Crespi",
-    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "doi": "10.1109/jstars.2026.3663697",
-    "short_abstract": "Agricultural drought poses a significant threat to crop productivity and food security. This study provides a detailed review of the approaches used to construct Combined Drought Indices (CDIs) in the",
-    "publication_date": "2026-02-12"
   },
   {
     "title": "Enhancing land cover classification in the heterogeneous landscape by integrating auxiliary data with Sentinel-2 imagery using the random forest algorithm",
