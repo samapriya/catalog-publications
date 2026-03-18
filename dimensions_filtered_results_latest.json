@@ -630,15 +630,6 @@
     "publication_date": "2025-11-17"
   },
   {
-    "title": "Spatial Heterogeneity of Mountain Greenness and Greening in the Tibetan Plateau: From a Remote Sensing Perspective",
-    "author_list": "Zhao Liu, Xingjian Zhang, Shuang Zhao, Panpan Liu, Jinxiu Liu",
-    "journal_title": "Forests",
-    "source_title": "Forests",
-    "doi": "10.3390/f16040576",
-    "short_abstract": "As an important component of terrestrial ecosystems, mountain vegetation serves as an indicator of climate change. Due to the sensitivity of the Tibetan Plateau Mountains (TPM) to climate change and t",
-    "publication_date": "2025-03-26"
-  },
-  {
     "title": "Long‐Term Snow Avalanche Trends in High Mountain Asia: Climatic Drivers and Impacts",
     "author_list": "Arnaud Caiserman, Roy C. Sidle, Jakob Steiner, Evgenii Shibkov",
     "journal_title": "Earth's Future",
@@ -684,6 +675,15 @@
     "publication_date": "2025-09"
   },
   {
+    "title": "Reconstructing Lake Storage for the Major Water Bodies in the Aral Sea Basin Using Multi-DEM Hypsometry",
+    "author_list": "Shuangyan Huang, Xi Chen, Liao Yang, Tie Liu, Longhui Li, Xuexi Ma, Bing Yue, Nannan Wu, Akhylbek K. Kurishbayev, Imanmadi Duman, Hossein Azadi, Xiaoting Ma",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs18050763",
+    "short_abstract": "In arid-zone water resource management and water-security assessment, changes in water-body volume are key indicators of water availability and regulation performance. However, arid-zone lakes often l",
+    "publication_date": "2026-03-03"
+  },
+  {
     "title": "Optimal locating satellite observation reaches for manning’s equation: From surface water and ocean topography mission river Database",
     "author_list": "Qihang Liu, Yun Chen, Qianqian Chen, Duomandi Jiang, Hongtao Duan, Shiqiang Zhang, Ninglian Wang, Chang Huang",
     "journal_title": "Journal of Hydrology",
@@ -700,6 +700,15 @@
     "doi": "10.1016/j.envsoft.2025.106824",
     "short_abstract": "Soil moisture (SM) plays a vital role in both hydrological and agricultural processes and is critical for achieving groundwater sustainability in agriculture through demand management. NASA's Soil Moi",
     "publication_date": "2026-02"
+  },
+  {
+    "title": "Assessment of groundwater development in watersheds using novel hydrosociological indicators and machine learning approach",
+    "author_list": "Roja Eliza, Rahul Kumar Pandey, Sanchit Kumar,  Anshumali",
+    "journal_title": "Environmental and Sustainability Indicators",
+    "source_title": "Environmental and Sustainability Indicators",
+    "doi": "10.1016/j.indic.2026.101220",
+    "short_abstract": "The impact of land use changes on watershed morphometry has shifted the delivery of ecosystem services from river-centric to aquifer-centric in the Ganga River Basin. We assessed the hydrosociology of",
+    "publication_date": "2026-03"
   },
   {
     "title": "Revealing remote sensing blind spots in human-driven land transitions: a systematic evaluation of state-of-the-art land use and land cover datasets on the Tibetan Plateau",
@@ -727,15 +736,6 @@
     "doi": "10.48550/arxiv.2507.22291",
     "short_abstract": "Unprecedented volumes of Earth observation data are continually collected around the world, but high-quality labels remain scarce given the effort required to make physical measurements and observatio",
     "publication_date": "2025-09-08"
-  },
-  {
-    "title": "15th International Conference on Environmental Science and Development (ICESD2024)",
-    "author_list": "Gordon Huang, Ed McBean, Yongping Li, Wendy Huang, Peng Zhang",
-    "journal_title": "Environmental Science and Engineering",
-    "source_title": "Environmental Science and Engineering",
-    "doi": "10.1007/978-3-031-88683-6",
-    "short_abstract": "This book is proposed to be a collection of excellently peer-reviewed research from the 2024 15th International Conference on Environmental Science and Development (ICESD 2024), which will be held dur",
-    "publication_date": "2025"
   },
   {
     "title": "Assessing multi-hazard risk in Gulmidarbar Rural Municipality, Gulmi, Nepal",
