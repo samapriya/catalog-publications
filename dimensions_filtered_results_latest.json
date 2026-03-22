@@ -36,15 +36,6 @@
     "publication_date": "2026-01"
   },
   {
-    "title": "A Simplified Model for Simulating Complex Signals in GNSS-Reflectometry over Land",
-    "author_list": "Jilun Peng, Estel Cardellach, Weiqiang Li",
-    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "doi": "10.1109/jstars.2025.3646137",
-    "short_abstract": "The availability of complex signals in global navigation satellite system-reflectometry (GNSS-R) has gained growing attention across a range of applications, due to its capacity to preserve phase info",
-    "publication_date": "2025-12-19"
-  },
-  {
     "title": "Contribution of remote sensing and GIS and the analytical hierarchical process approach to identifying groundwater recharge in the Abacha watershed, Chad",
     "author_list": "Al-Djazouli Ouchar Mahamat",
     "journal_title": "GSC Advanced Research and Reviews",
@@ -169,6 +160,15 @@
     "doi": "10.3390/earth7010007",
     "short_abstract": "Forests play a vital role in the global carbon cycle but face growing anthropogenic pressures, with climate change and forest fragmentation among the most critical. In West Africa, particularly in Gha",
     "publication_date": "2026-01-07"
+  },
+  {
+    "title": "Fire across frontiers: Satellite-based investigation of climate-fire interactions in the Middle East (West Asia)",
+    "author_list": "Wan Ni Lin, Abdulhakim M. Abdi, Lina Eklund",
+    "journal_title": "EGUsphere",
+    "source_title": "EGUsphere",
+    "doi": "10.5194/egusphere-2026-1085",
+    "short_abstract": "Although the global burned area has declined in recent decades, fire activity worldwide is projected to become more frequent and intense due to both climate change and human activities, including fire",
+    "publication_date": "2026-03-17"
   },
   {
     "title": "Enhancing land cover classification in the heterogeneous landscape by integrating auxiliary data with Sentinel-2 imagery using the random forest algorithm",
