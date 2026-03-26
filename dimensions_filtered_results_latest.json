@@ -279,15 +279,6 @@
     "publication_date": "2025-05-26"
   },
   {
-    "title": "Incorporating environmental data to refine the classification and understanding of the mechanisms behind encroachment of a woody species in the Southern Great Plains (USA)",
-    "author_list": "Justin Dawsey, Nancy E. McIntyre",
-    "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
-    "source_title": "International Journal of Applied Earth Observation and Geoinformation",
-    "doi": "10.1016/j.jag.2025.104362",
-    "short_abstract": "Curtailing encroachment is dependent on effectively identifying where problematic species occur. However, traditional classification methods struggle to distinguish spectrally similar species. New tec",
-    "publication_date": "2025-02"
-  },
-  {
     "title": "Enhanced Amazon Wetland Map with Multi-Source Remote Sensing Data",
     "author_list": "Carlos M. Souza, Bruno G. Ferreira, Ives Medeiros Brandão, Sandra Rios, John Aguilar-Brand, Juliano Schirmbeck, Emanuel Valero, Miguel A. Restrepo-Galvis, Eva Mollinedo-Veneros, Esteban Terneus, Nelly Rivero, Lucimara Wolfarth Schirmbeck, María A. Oliveira-Miranda, Cícero Cardoso Augusto, Jose Eduardo Victorio Gonzales, Juan Espinosa, Juan Carlos Amilibia, Tony Vizcarra Bentos, Suelma Ribeiro Silva, Judith Rosales Godoy, Helga C. Wiederhecker",
     "journal_title": "Remote Sensing",
@@ -322,6 +313,15 @@
     "doi": "10.1016/j.jhydrol.2025.133062",
     "short_abstract": "Accurate estimation of actual evapotranspiration (ETa) through remote sensing (RS) is essential for effective large-scale water management. We developed an EvapoTranspiration Mapper in the Google Eart",
     "publication_date": "2025-08"
+  },
+  {
+    "title": "Transient snow line altitudes of glaciers in the European Alps from multi-mission remote sensing data (2000–2025)",
+    "author_list": "Christian Sommer, Alexander Raphael Groos, Johannes Fürst, Matthias Braun",
+    "journal_title": "EGUsphere",
+    "source_title": "EGUsphere",
+    "doi": "10.5194/essd-2026-35",
+    "short_abstract": "Observations of glacier snow line altitude (SLA) provide important information for estimating glacier surface mass balance and glaciological modelling. Optical satellite remote sensing enables the rep",
+    "publication_date": "2026-03-20"
   },
   {
     "title": "Integrating geospatial analysis and the suitability-resources quality index to optimize crop suitability for sustainable agriculture",
@@ -403,6 +403,15 @@
     "doi": "10.1029/2024gl112442",
     "short_abstract": "Abstract In May 2024, southern Brazil experienced a severe flood that caused widespread devastation, particularly in the metropolitan area of Porto Alegre. This disaster resulted from a rare combinati",
     "publication_date": "2025-02-21"
+  },
+  {
+    "title": "Incorporating environmental data to refine the classification and understanding of the mechanisms behind encroachment of a woody species in the Southern Great Plains (USA)",
+    "author_list": "Justin Dawsey, Nancy E. McIntyre",
+    "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "source_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "doi": "10.1016/j.jag.2025.104362",
+    "short_abstract": "Curtailing encroachment is dependent on effectively identifying where problematic species occur. However, traditional classification methods struggle to distinguish spectrally similar species. New tec",
+    "publication_date": "2025-02"
   },
   {
     "title": "Mapping urban slums and their inequality in sub-Saharan Africa",
@@ -693,15 +702,6 @@
     "publication_date": "2025-06"
   },
   {
-    "title": "Ensemble deep learning towards high-resolution soil-moisture mapping for enhanced water management in California&#x27;s Central Valley",
-    "author_list": "Ali Azedou, Aouatif Amine, Said Lahssini, Gordon Osterman, Mauricio Arboleda-Zapata, Michael Cosh, Isaya Kisekka",
-    "journal_title": "Environmental Modelling & Software",
-    "source_title": "Environmental Modelling & Software",
-    "doi": "10.1016/j.envsoft.2025.106824",
-    "short_abstract": "Soil moisture (SM) plays a vital role in both hydrological and agricultural processes and is critical for achieving groundwater sustainability in agriculture through demand management. NASA's Soil Moi",
-    "publication_date": "2026-02"
-  },
-  {
     "title": "Assessment of groundwater development in watersheds using novel hydrosociological indicators and machine learning approach",
     "author_list": "Roja Eliza, Rahul Kumar Pandey, Sanchit Kumar,  Anshumali",
     "journal_title": "Environmental and Sustainability Indicators",
@@ -709,6 +709,15 @@
     "doi": "10.1016/j.indic.2026.101220",
     "short_abstract": "The impact of land use changes on watershed morphometry has shifted the delivery of ecosystem services from river-centric to aquifer-centric in the Ganga River Basin. We assessed the hydrosociology of",
     "publication_date": "2026-06"
+  },
+  {
+    "title": "Ensemble deep learning towards high-resolution soil-moisture mapping for enhanced water management in California&#x27;s Central Valley",
+    "author_list": "Ali Azedou, Aouatif Amine, Said Lahssini, Gordon Osterman, Mauricio Arboleda-Zapata, Michael Cosh, Isaya Kisekka",
+    "journal_title": "Environmental Modelling & Software",
+    "source_title": "Environmental Modelling & Software",
+    "doi": "10.1016/j.envsoft.2025.106824",
+    "short_abstract": "Soil moisture (SM) plays a vital role in both hydrological and agricultural processes and is critical for achieving groundwater sustainability in agriculture through demand management. NASA's Soil Moi",
+    "publication_date": "2026-02"
   },
   {
     "title": "Revealing remote sensing blind spots in human-driven land transitions: a systematic evaluation of state-of-the-art land use and land cover datasets on the Tibetan Plateau",
