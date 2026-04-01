@@ -1,7 +1,7 @@
 {
   "failed_search_metadata": {
-    "total_failed_searches": 10,
-    "export_timestamp": "2026-03-31T16:43:23.175428"
+    "total_failed_searches": 11,
+    "export_timestamp": "2026-04-01T16:41:27.567551"
   },
   "failed_searches": {
     "\"GEE Community Assets\"": {
@@ -37,6 +37,14 @@
       "error": "Empty response from API"
     },
     "FLOOD RISK AND SPATIAL INEQUITY: EXPLORING THE RELATIONSHIP BETWEEN MARGINALIZED COMMUNITIES'SPATIAL DISTRIBUTION AND SUSCEPTIBILITY TO FLOODING IN BLANTYRE, MALAWI": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Quantifying geomorphically effective floods using satellite observations of river mobility": {
       "description": "Scholar Diff Title",
       "search_field": "text_search",
       "count": 0,

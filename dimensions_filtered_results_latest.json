@@ -459,6 +459,15 @@
     "publication_date": "2024-11-01"
   },
   {
+    "title": "Predictors of land-surface temperature and air pollution across Canadian cities are largely scale and city dependent",
+    "author_list": "Isabella C Richmond, Nicole Yu, Alec L Robitaille, Kayleigh Hutt-Taylor, Carly D Ziter",
+    "journal_title": "Environmental Research Communications",
+    "source_title": "Environmental Research Communications",
+    "doi": "10.1088/2515-7620/ae4f61",
+    "short_abstract": "Problems of urban heat and air pollution have been increasing in Canadian cities over the past several decades. The distribution and level of temperature and air pollution are directly tied to the str",
+    "publication_date": "2026-03-01"
+  },
+  {
     "title": "Do-it-yourself built-up mapping tool: A practical cloud-based solution using Sentinel imagery for mapping urban expansion in Africa",
     "author_list": "Marta Sapena, Johannes Mast, Elisabeth Schoepfer, Hannes Taubenböck",
     "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
@@ -466,15 +475,6 @@
     "doi": "10.1016/j.jag.2026.105153",
     "short_abstract": "Urban areas across Africa have undergone unprecedented growth, posing significant challenges for sustainable development, infrastructure planning, and climate resilience. Existing mapping products oft",
     "publication_date": "2026-02"
-  },
-  {
-    "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
-    "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
-    "journal_title": "Forests",
-    "source_title": "Forests",
-    "doi": "10.3390/f15060923",
-    "short_abstract": "This study developed a comprehensive framework using Google Earth Engine to efficiently generate a forest fire inventory dataset, which enhanced data accessibility without specialized knowledge or acc",
-    "publication_date": "2024-05-26"
   },
   {
     "title": "Granular satellite data to assess the potential for nature based solutions at a national scale: a proof of concept with data from Rwanda and Lesotho",
@@ -495,13 +495,13 @@
     "publication_date": "2024-04-15"
   },
   {
-    "title": "Framework to Create Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
+    "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
     "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
-    "journal_title": "Preprints.org",
-    "source_title": "Preprints.org",
-    "doi": "10.20944/preprints202404.0027.v1",
-    "short_abstract": "This research presents a comprehensive framework for efficiently generating forest fire datasets from Google Earth Engine data sources. The primary contribution of this work lies in providing a method",
-    "publication_date": "2024-04-01"
+    "journal_title": "Forests",
+    "source_title": "Forests",
+    "doi": "10.3390/f15060923",
+    "short_abstract": "This study developed a comprehensive framework using Google Earth Engine to efficiently generate a forest fire inventory dataset, which enhanced data accessibility without specialized knowledge or acc",
+    "publication_date": "2024-05-26"
   },
   {
     "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
@@ -1089,15 +1089,6 @@
     "publication_date": "2023-11"
   },
   {
-    "title": "Quantifying geomorphically effective floods using satellite observations of river mobility",
-    "author_list": "Anya S Leenman, Louise J. Slater, Simon J Dadson, Michel Wortmann, Richard Boothroyd",
-    "journal_title": "Authorea",
-    "source_title": "Authorea",
-    "doi": "10.22541/essoar.168200157.71608214/v1",
-    "short_abstract": "Geomorphologists have long debated the relative importance of\ndisturbance magnitude, duration and frequency in shaping landscapes. For\nriver-channel adjustment during floods, some argue that cumulativ",
-    "publication_date": "2023-04-20"
-  },
-  {
     "title": "Large disagreements in estimates of urban land across scales and their implications",
     "author_list": "TC Chakraborty, Zander S. Venter, Matthias Demuzere, Wenfeng Zhan, Jing Gao, Lei Zhao, Yun Qian",
     "journal_title": "Nature Communications",
@@ -1243,7 +1234,7 @@
   },
   {
     "title": "Geomorphometric Analysis of the Kshetrapal Landslide in Chamoli, Uttarakhand, India Using the White Box Tool (WBT) and QGIS by Comparing various DEMs Obtained from UAV and TLS",
-    "author_list": "Ashok Anand, Sahil Kundal, Alok Bhardwaj",
+    "author_list": "Ashok Anand",
     "journal_title": "International Journal of Geosciences",
     "source_title": "International Journal of Geosciences",
     "doi": "10.4236/ijg.2025.161003",
