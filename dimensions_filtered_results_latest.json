@@ -18,6 +18,15 @@
     "publication_date": "2026-01-15"
   },
   {
+    "title": "Decoding the drivers of global desertification sensitivity from 2005 to 2020",
+    "author_list": "Qi Wu, Gangte Lin, Min He, Jianzhou Gong",
+    "journal_title": "Journal of Environmental Management",
+    "source_title": "Journal of Environmental Management",
+    "doi": "10.1016/j.jenvman.2026.129384",
+    "short_abstract": "Land desertification threatens ecosystem sustainability and socioeconomic development globally. We assessed global desertification sensitivity from 2005 to 2020 using the Google Earth Engine-Mediterra",
+    "publication_date": "2026-03-27"
+  },
+  {
     "title": "Sponge City for whom? Leveraging Social Vulnerability Index for extreme flood adaptation",
     "author_list": "Hanyu Gao, Boqian Xu, Tarlan Pourmostaghimi, Guangzhao Zhang, Shannon Van Zandt",
     "journal_title": "Sustainable Cities and Society",
@@ -70,15 +79,6 @@
     "doi": "10.1038/s42949-026-00363-8",
     "short_abstract": "Urban populations are increasingly exposed to severe and disproportionate heatwaves. While existing studies address urban heatwaves and intra-urban disparities, there remain gaps in understanding of t",
     "publication_date": "2026-02-18"
-  },
-  {
-    "title": "A novel multimodal fusion deep network for identifying hillside urban expansion",
-    "author_list": "Linlin Jiang, Wan Hou, Kaifang Shi",
-    "journal_title": "GIScience & Remote Sensing",
-    "source_title": "GIScience & Remote Sensing",
-    "doi": "10.1080/15481603.2025.2605708",
-    "short_abstract": "Hillside urban expansion (HUE) threatens fragile and sensitive mountainous and hilly ecosystems, increasing geological and ecological risks that adversely affect human well-being. Accurate HUE identif",
-    "publication_date": "2025-12-23"
   },
   {
     "title": "Individual mobility and heat exposure: Distinguishing residence-based and mobility-based assessments",
