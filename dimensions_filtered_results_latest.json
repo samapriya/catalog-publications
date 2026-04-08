@@ -81,6 +81,15 @@
     "publication_date": "2026-02-18"
   },
   {
+    "title": "Climatic clues to local distributions: a hierarchical approach to model the distribution of Miniopterus schreibersii in Italy",
+    "author_list": "Francesca Festa, Stefania Leopardi, Luigi Maiorano, Francesca Cosentino",
+    "journal_title": "Ecological Informatics",
+    "source_title": "Ecological Informatics",
+    "doi": "10.1016/j.ecoinf.2026.103745",
+    "short_abstract": "Species distribution models (SDMs) are widely used to understand species-environment relationships and inform conservation strategies. However, when based solely on broad-scale bioclimatic variables,",
+    "publication_date": "2026-05"
+  },
+  {
     "title": "Individual mobility and heat exposure: Distinguishing residence-based and mobility-based assessments",
     "author_list": "Heng Wu, Yong Liu",
     "journal_title": "Environmental Impact Assessment Review",
@@ -88,15 +97,6 @@
     "doi": "10.1016/j.eiar.2025.108292",
     "short_abstract": "Human mobility is essential for accurately estimating individual heat exposure, yet most assessments still rely on residence-based measures that neglect daily movements. How mobility patterns influenc",
     "publication_date": "2026-04"
-  },
-  {
-    "title": "Estimating Soil Moisture Using Multimodal Remote Sensing and Transfer Optimization Techniques",
-    "author_list": "Jingke Liu, Lin Liu, Weidong Yu, Xingbin Wang",
-    "journal_title": "Remote Sensing",
-    "source_title": "Remote Sensing",
-    "doi": "10.3390/rs18010084",
-    "short_abstract": "Surface soil moisture (SSM) is essential for crop growth, irrigation management, and drought monitoring. However, conventional field-based measurements offer limited spatial and temporal coverage, mak",
-    "publication_date": "2025-12-26"
   },
   {
     "title": "Wildfire increased summer low flows in snow-dominated watersheds: A combined approach of hydrometric monitoring and geochemical tracing",
@@ -261,13 +261,13 @@
     "publication_date": "2025-04-15"
   },
   {
-    "title": "Photogrammetry to Assess the Recovery of a Forest: Case Study of Guadalupe Island",
-    "author_list": "Laura Abigail Vera-Ortega, Alejandro Hinojosa, Luciana Luna",
-    "journal_title": "Investigaciones Geográficas",
-    "source_title": "Investigaciones Geográficas",
-    "doi": "10.14350/rig.60914",
-    "short_abstract": "This study employs photogrammetry to evaluate and monitor the recovery of the cypress forest on Guadalupe Island, Mexico, an ecosystem significantly impacted by fires and overgrazing. Two drone survey",
-    "publication_date": "2025-03-12"
+    "title": "Winter wheat yield prediction based on a multi-year phenological modeling from Sentinel-1 radar vegetation indices and machine learning",
+    "author_list": "Dorijan Radočaj, Ivan Plaščak, Mladen Jurišić",
+    "journal_title": "Remote Sensing Applications Society and Environment",
+    "source_title": "Remote Sensing Applications Society and Environment",
+    "doi": "10.1016/j.rsase.2026.102004",
+    "short_abstract": "Current yield prediction models are mostly based on the multispectral time series, which are usually restricted due to cloud contamination, low temporal resolution, or insufficient coverage at the cri",
+    "publication_date": "2026-04"
   },
   {
     "title": "A question-answering framework for geospatial data retrieval enhanced by a knowledge graph and large language models",
