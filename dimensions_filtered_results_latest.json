@@ -1,21 +1,336 @@
 [
   {
-    "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
-    "author_list": "Kelsey E. Herndon, Robert Griffin, Whittaker Schroder, Timothy Murtha, Charles Golden, Daniel A. Contreras, Emil Cherrington, Luwei Wang, Alexandra Bazarsky, G. Van Kollias, Omar Alcover Firpi",
-    "journal_title": "Journal of Archaeological Science Reports",
-    "source_title": "Journal of Archaeological Science Reports",
-    "doi": "10.1016/j.jasrep.2023.104094",
-    "short_abstract": "A wealth of remotely sensed data has accumulated over the past several decades and now constitutes an analytical resource primed for archaeological applications. To date, remotely sensed big data (RSB",
-    "publication_date": "2023-08"
+    "title": "Harvesting insights: interpretable machine learning to understand environmental drivers of U.S. maize and soybean yield",
+    "author_list": "Harrison W. Smith, Christopher J. Heffernan, Amanda J. Ashworth, L. Lanier Nalley, David S. Bullock, Jason Tullis, Phillip R. Owens",
+    "journal_title": "Scientific Reports",
+    "source_title": "Scientific Reports",
+    "doi": "10.1038/s41598-026-38724-z",
+    "short_abstract": "Accurate crop yield prediction is crucial for enhancing food security and agricultural sustainability; however, existing models frequently struggle to capture the intricate relationships between envir",
+    "publication_date": "2026-02-13"
   },
   {
-    "title": "An earth observation and explainable machine learning approach for determining the drivers of invasive species — a water hyacinth case study",
-    "author_list": "Geethen Singh, Benjamin Rosman, Marcus J Byrne, Chevonne Reynolds",
+    "title": "Ecological Integrity Index, timely annual tracking of biodiversity change",
+    "author_list": "Taochun Sun, Alice C. Hughes, Kehan He, Le Yu",
+    "journal_title": "Scientific Data",
+    "source_title": "Scientific Data",
+    "doi": "10.1038/s41597-025-06485-5",
+    "short_abstract": "Despite numerous global initiatives and policy framework to mitigate ongoing biodiversity decline, progress remains limited due to lack of biodiversity indicators that are timely, scientifically rigor",
+    "publication_date": "2026-01-15"
+  },
+  {
+    "title": "Decoding the drivers of global desertification sensitivity from 2005 to 2020",
+    "author_list": "Qi Wu, Gangte Lin, Min He, Jianzhou Gong",
+    "journal_title": "Journal of Environmental Management",
+    "source_title": "Journal of Environmental Management",
+    "doi": "10.1016/j.jenvman.2026.129384",
+    "short_abstract": "Land desertification threatens ecosystem sustainability and socioeconomic development globally. We assessed global desertification sensitivity from 2005 to 2020 using the Google Earth Engine-Mediterra",
+    "publication_date": "2026-03-27"
+  },
+  {
+    "title": "Sponge City for whom? Leveraging Social Vulnerability Index for extreme flood adaptation",
+    "author_list": "Hanyu Gao, Boqian Xu, Tarlan Pourmostaghimi, Guangzhao Zhang, Shannon Van Zandt",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2025.107068",
+    "short_abstract": "Environmental extremes are intensifying due to human-induced climate change, disproportionately affecting urban populations with differing capacities to respond and recover. Social vulnerability and S",
+    "publication_date": "2026-01"
+  },
+  {
+    "title": "Performance evaluation of sustainable development goals (SDGs) for Chinese major coastal cities: A spatially explicit evaluation considering evenness",
+    "author_list": "Chao Liu, Ping Li, Yuning Zhao, Zhiwei Zhang",
+    "journal_title": "Ocean & Coastal Management",
+    "source_title": "Ocean & Coastal Management",
+    "doi": "10.1016/j.ocecoaman.2025.107984",
+    "short_abstract": "Spatially explicit assessment of sustainable development of the economy-society-environment system can provide detailed insights into micro-level differences in resource distribution, environmental is",
+    "publication_date": "2026-01"
+  },
+  {
+    "title": "Contribution of remote sensing and GIS and the analytical hierarchical process approach to identifying groundwater recharge in the Abacha watershed, Chad",
+    "author_list": "Al-Djazouli Ouchar Mahamat",
+    "journal_title": "GSC Advanced Research and Reviews",
+    "source_title": "GSC Advanced Research and Reviews",
+    "doi": "10.30574/gscarr.2026.26.3.0056",
+    "short_abstract": "Groundwater is a major source of water supply for various areas. However, over the last ten years, demographic growth and other changes have contributed to an increase in water demand. It is therefore",
+    "publication_date": "2026-03-31"
+  },
+  {
+    "title": "A Hierarchical Robust Combined Index for Agricultural Drought Detection and Monitoring Using Earth Observation Big Data and Google Earth Engine: Application to a Case Study in Southern Italy",
+    "author_list": "Filippo Bocchino, Giulia Graldi, Camillo Zaccarini, Deodato Tapete, Alessandro Ursi, Maria Virelli, Patrizia Sacco, Valeria Belloni, Roberta Ravanelli, Mattia Crespi",
+    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2026.3663697",
+    "short_abstract": "Agricultural drought poses a significant threat to crop productivity and food security. This study provides a detailed review of the approaches used to construct Combined Drought Indices (CDIs) in the",
+    "publication_date": "2026-02-11"
+  },
+  {
+    "title": "High-resolution maize yield mapping across Africa using earth observation and machine learning, deep learning, and foundation model",
+    "author_list": "Krishnagopal Halder, Frank Ewert, Anitabha Ghosh, Kaushik Muduchuru, Lily-belle Sweet, Radwa Elshawi, Jan Timko, Wenhi Zheng, Karam Alsafadi, Gang Zhao, Michael Maerker, Manmeet Singh, Lei Guoging, Thomas Gaiser, Dominik Behrend, Yue Shi, Liangxiu Han, Masahiro Ryo, Amit Kumar Srivastava",
+    "journal_title": "Science of Remote Sensing",
+    "source_title": "Science of Remote Sensing",
+    "doi": "10.1016/j.srs.2025.100344",
+    "short_abstract": "Africa's food security is increasingly threatened by climate change and population growth, creating an urgent need for high-resolution crop yield maps to support precision agriculture and climate adap",
+    "publication_date": "2026-06"
+  },
+  {
+    "title": "More intense and equal compound heatwaves driven by urbanization",
+    "author_list": "Shengjun Gao, Yunhao Chen, Deliang Chen, Bin He, Kangning Li, Peng Hou",
+    "journal_title": "npj Urban Sustainability",
+    "source_title": "npj Urban Sustainability",
+    "doi": "10.1038/s42949-026-00363-8",
+    "short_abstract": "Urban populations are increasingly exposed to severe and disproportionate heatwaves. While existing studies address urban heatwaves and intra-urban disparities, there remain gaps in understanding of t",
+    "publication_date": "2026-02-18"
+  },
+  {
+    "title": "Climatic clues to local distributions: a hierarchical approach to model the distribution of Miniopterus schreibersii in Italy",
+    "author_list": "Francesca Festa, Stefania Leopardi, Luigi Maiorano, Francesca Cosentino",
+    "journal_title": "Ecological Informatics",
+    "source_title": "Ecological Informatics",
+    "doi": "10.1016/j.ecoinf.2026.103745",
+    "short_abstract": "Species distribution models (SDMs) are widely used to understand species-environment relationships and inform conservation strategies. However, when based solely on broad-scale bioclimatic variables,",
+    "publication_date": "2026-05"
+  },
+  {
+    "title": "Individual mobility and heat exposure: Distinguishing residence-based and mobility-based assessments",
+    "author_list": "Heng Wu, Yong Liu",
+    "journal_title": "Environmental Impact Assessment Review",
+    "source_title": "Environmental Impact Assessment Review",
+    "doi": "10.1016/j.eiar.2025.108292",
+    "short_abstract": "Human mobility is essential for accurately estimating individual heat exposure, yet most assessments still rely on residence-based measures that neglect daily movements. How mobility patterns influenc",
+    "publication_date": "2026-04"
+  },
+  {
+    "title": "Wildfire increased summer low flows in snow-dominated watersheds: A combined approach of hydrometric monitoring and geochemical tracing",
+    "author_list": "Shixuan Lyu, Xiaohua Wei, Ming Qiu, Mackenzie Myers, Zhaozhi Wang, Jinyu Hui, Wenhui Yan, Tongqing Shen, Meirong Sun, Shuhui Wang, Yiping Hou",
+    "journal_title": "Forest Ecosystems",
+    "source_title": "Forest Ecosystems",
+    "doi": "10.1016/j.fecs.2025.100408",
+    "short_abstract": "Forests are experiencing more frequent and intense wildfires in Canada, which pose considerable threats to water quantity and quality, particularly during the summer low-flow period when water demand",
+    "publication_date": "2026-04"
+  },
+  {
+    "title": "Detecting and modeling topography‐induced differences in plant productivity across a grassland ecosystem gradient",
+    "author_list": "Johny Arteaga, Melannie D. Hartman, William J. Parton, Yushu Xia, Jiaming Duan, Mitchell B. Stephenson, Jerry Volesky, Maosi Chen, Darrin Sharp, Jonathan Straube, Wei Gao",
+    "journal_title": "Ecosphere",
+    "source_title": "Ecosphere",
+    "doi": "10.1002/ecs2.70537",
+    "short_abstract": "Abstract Understanding spatial variation in grassland productivity is critical for ecological modeling and management. The Great Plains of North America, a vast grassland region east of the Rocky Moun",
+    "publication_date": "2026-02"
+  },
+  {
+    "title": "Locally Relevant Streamflow by Integrating a Land Surface Model Ensemble With a Two‐Stage LSTM Post‐Processor",
+    "author_list": "Bhanu Magotra, Manabendra Saharia",
+    "journal_title": "Water Resources Research",
+    "source_title": "Water Resources Research",
+    "doi": "10.1029/2024wr039792",
+    "short_abstract": "Abstract Process‐based land surface models (LSMs) are widely used for global water cycle and runoff assessments, but when integrated with hydrodynamic models, the streamflow simulations exhibit signif",
+    "publication_date": "2026-01"
+  },
+  {
+    "title": "Explainable machine learning reveals the nonlinear relationships between green innovation and coordinated urban-rural development: Evidence from the Yangtze River Delta urban agglomeration, China",
+    "author_list": "Zhonghu Zhang, Rui Wang, Siqi Zhang, Wenqin Meng",
+    "journal_title": "Environmental Impact Assessment Review",
+    "source_title": "Environmental Impact Assessment Review",
+    "doi": "10.1016/j.eiar.2025.108320",
+    "short_abstract": "Green innovation serves as a vital component for achieving Coordinated Urban-Rural Development (CUD) and the Sustainable Development Goals. This study constructs a multidimensional theoretical framewo",
+    "publication_date": "2026-04"
+  },
+  {
+    "title": "Refining estimates of U.S. reforestation opportunities for climate mitigation: updated algorithms and analyses",
+    "author_list": "Jeffrey A. Hicke",
+    "journal_title": "Canadian Journal of Forest Research",
+    "source_title": "Canadian Journal of Forest Research",
+    "doi": "10.1139/cjfr-2025-0136",
+    "short_abstract": "Reforestation has substantial potential for carbon sequestration in the conterminous United States. My inspection of the results of a recent novel study of potential reforestation in the US revealed p",
+    "publication_date": "2026-01-01"
+  },
+  {
+    "title": "How does missing-modality affect cross-domain remote sensing image classification: A synergistic inter-modal proxy fine-tuning solution",
+    "author_list": "Aijun Xu, Zhaohui Xue, Hao Wu",
+    "journal_title": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "source_title": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "doi": "10.1016/j.isprsjprs.2026.02.040",
+    "short_abstract": "In the context of advancing new urbanization and ecological civilization construction, cross-domain remote sensing (RS) image classification with multimodal data provides essential technical support f",
+    "publication_date": "2026-05"
+  },
+  {
+    "title": "Effect of Climatic Aridity on Above-Ground Biomass, Modulated by Forest Fragmentation and Biodiversity in Ghana",
+    "author_list": "Elisha Njomaba, Ben Emunah Aikins, Peter Surový",
+    "journal_title": "Earth",
+    "source_title": "Earth",
+    "doi": "10.3390/earth7010007",
+    "short_abstract": "Forests play a vital role in the global carbon cycle but face growing anthropogenic pressures, with climate change and forest fragmentation among the most critical. In West Africa, particularly in Gha",
+    "publication_date": "2026-01-07"
+  },
+  {
+    "title": "Fire across frontiers: Satellite-based investigation of climate-fire interactions in the Middle East (West Asia)",
+    "author_list": "Wan Ni Lin, Abdulhakim M. Abdi, Lina Eklund",
+    "journal_title": "EGUsphere",
+    "source_title": "EGUsphere",
+    "doi": "10.5194/egusphere-2026-1085",
+    "short_abstract": "Although the global burned area has declined in recent decades, fire activity worldwide is projected to become more frequent and intense due to both climate change and human activities, including fire",
+    "publication_date": "2026-03-17"
+  },
+  {
+    "title": "Enhancing land cover classification in the heterogeneous landscape by integrating auxiliary data with Sentinel-2 imagery using the random forest algorithm",
+    "author_list": "Irvin D. Shandu, Sifiso Xulu, Michael Gebreslasie",
+    "journal_title": "Frontiers in Remote Sensing",
+    "source_title": "Frontiers in Remote Sensing",
+    "doi": "10.3389/frsen.2025.1697897",
+    "short_abstract": "Effective and accurate land use and land cover classification (LULC-C) is an indispensable exercise for various environmental management objectives, including past and future land-use dynamics, flood",
+    "publication_date": "2026-01-09"
+  },
+  {
+    "title": "Multidecadal satellite imagery reveals significant impacts of anthropogenic threats on Ramsar sites of India",
+    "author_list": "Krishna Patil, Ravindra Pawar, Ashwin Gujrati",
     "journal_title": "Environmental Monitoring and Assessment",
     "source_title": "Environmental Monitoring and Assessment",
-    "doi": "10.1007/s10661-025-14517-1",
-    "short_abstract": "Invasive species management is often constrained by limited resources and complicated by ecological and socio-economic variability across landscapes, leading to inconsistent outcomes. We use water hya",
-    "publication_date": "2025-01-01"
+    "doi": "10.1007/s10661-025-14689-w",
+    "short_abstract": "Ramsar sites are wetlands of global significance, providing vital habitats for unique flora and fauna, while offering essential ecosystem services. Although India hosts the highest number of Ramsar si",
+    "publication_date": "2025-10-21"
+  },
+  {
+    "title": "Impacts of climate change on the distribution pattern of Himalayan Rhubarb (Rheum australe D. Don) in Nepal Himalaya",
+    "author_list": "Babu Ram Paudel, Chandra Kanta Subedi, Suresh Kumar Ghimire, Dipesh Pyakurel, Meena Rajbhandari, Ram Prasad Chaudhary",
+    "journal_title": "PLOS ONE",
+    "source_title": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0323755",
+    "short_abstract": "While there has been substantial consensus that climate change poses a severe threat to the Himalayan biota; we still lack comprehensive data on the potential impact of climate change on the important",
+    "publication_date": "2025-05-28"
+  },
+  {
+    "title": "Global extent and change in human modification of terrestrial ecosystems from 1990 to 2022",
+    "author_list": "David M. Theobald, James R. Oakleaf, Glenn Moncrieff, Maria Voigt, Joe Kiesecker, Christina M. Kennedy",
+    "journal_title": "Scientific Data",
+    "source_title": "Scientific Data",
+    "doi": "10.1038/s41597-025-04892-2",
+    "short_abstract": "Habitat loss and degradation associated with industrial development is the primary threat and dominant driver of biodiversity loss globally. Spatially-explicit datasets that estimate human pressures a",
+    "publication_date": "2025-04-10"
+  },
+  {
+    "title": "A harmonized dataset of ground-mounted solar energy in the US with enhanced metadata",
+    "author_list": "Jacob T. Stid, Anthony D. Kendall, Annick Anctil, Jeremy Rapp, James C. Bingaman, David W. Hyndman",
+    "journal_title": "Scientific Data",
+    "source_title": "Scientific Data",
+    "doi": "10.1038/s41597-025-05862-4",
+    "short_abstract": "Solar energy generating systems are critical components of our expanding energy infrastructure, yet available datasets remain incomplete or not publicly available–particularly at the sub-array level.",
+    "publication_date": "2025-09-29"
+  },
+  {
+    "title": "Mapping the environmental footprint of urbanization in Tirana district through NDVI change analysis (2000–2025)",
+    "author_list": "Medjon Hysenaj, Dritan Rustja",
+    "journal_title": "Geoinformatica Polonica",
+    "source_title": "Geoinformatica Polonica",
+    "doi": "10.4467/21995923gp.25.005.22860",
+    "short_abstract": "Serdecznie witamy na eJournals. Portalu Czasopism Naukowych! eJournals to nie tylko platforma do publikowana online, ale również doświadczony zespół Wydawnictwa Uniwersytetu Jagiellońskiego oferujący",
+    "publication_date": "2025-12-16"
+  },
+  {
+    "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
+    "author_list": "Daniel Paluba, Vojtěch Bližňák, Miloslav Müller, Přemysl Štych",
+    "journal_title": "Big Earth Data",
+    "source_title": "Big Earth Data",
+    "doi": "10.1080/20964471.2025.2592444",
+    "short_abstract": "This study assesses the accuracy of ten satellite-based and reanalysis precipitation datasets available in Google Earth Engine (GEE) using in-situ rain gauge measurements across Czechia, Central Europ",
+    "publication_date": "2025-12-02"
+  },
+  {
+    "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
+    "author_list": "Lukumon Olaitan Lateef, Abdulwaheed Tella, John Rowen Miano, Yusuf A. Aina",
+    "journal_title": "Land Use Policy",
+    "source_title": "Land Use Policy",
+    "doi": "10.1016/j.landusepol.2025.107673",
+    "short_abstract": "Armed conflicts are potent drivers of land use and land cover (LULC) change, yet little is known about how conflict intensity shapes land use, population displacement, and socioeconomic shifts in Nige",
+    "publication_date": "2025-10"
+  },
+  {
+    "title": "Factors influencing surface water accumulation in beaver pond complexes across the Western United States",
+    "author_list": "Luwen Wan, Emily Fairfax, Kate Maher",
+    "journal_title": "Communications Earth & Environment",
+    "source_title": "Communications Earth & Environment",
+    "doi": "10.1038/s43247-025-02573-x",
+    "short_abstract": "North American beavers (Castor canadensis) build dams and ponds that alter streamflow, enhance floodplain water storage, and provide refugia during droughts and wildfires. However, drivers of pond are",
+    "publication_date": "2025-08-11"
+  },
+  {
+    "title": "A Phenology-Based Evaluation of the Optimal Proxy for Cropland Suitability Based on Crop Yield Correlations from Sentinel-2 Image Time-Series",
+    "author_list": "Dorijan Radočaj, Mladen Jurišić",
+    "journal_title": "Agriculture",
+    "source_title": "Agriculture",
+    "doi": "10.3390/agriculture15080859",
+    "short_abstract": "Cropland suitability calculations quantify natural suitability according to abiotic conditions, thus making them crucial for sustainable land management. However, since ground-truth yield data are ext",
+    "publication_date": "2025-04-15"
+  },
+  {
+    "title": "Winter wheat yield prediction based on a multi-year phenological modeling from Sentinel-1 radar vegetation indices and machine learning",
+    "author_list": "Dorijan Radočaj, Ivan Plaščak, Mladen Jurišić",
+    "journal_title": "Remote Sensing Applications Society and Environment",
+    "source_title": "Remote Sensing Applications Society and Environment",
+    "doi": "10.1016/j.rsase.2026.102004",
+    "short_abstract": "Current yield prediction models are mostly based on the multispectral time series, which are usually restricted due to cloud contamination, low temporal resolution, or insufficient coverage at the cri",
+    "publication_date": "2026-04"
+  },
+  {
+    "title": "A question-answering framework for geospatial data retrieval enhanced by a knowledge graph and large language models",
+    "author_list": "Hao Li, Peng Yue, Haoru Wu, Baoxin Teng, Yongkun Zhao, Changfeng Liu",
+    "journal_title": "International Journal of Digital Earth",
+    "source_title": "International Journal of Digital Earth",
+    "doi": "10.1080/17538947.2025.2510566",
+    "short_abstract": "The rapid advancement of Earth observation technologies has resulted in an explosive growth of geoscientific data. Efficient retrieval of such data is essential but often challenging, especially for n",
+    "publication_date": "2025-05-26"
+  },
+  {
+    "title": "Enhanced Amazon Wetland Map with Multi-Source Remote Sensing Data",
+    "author_list": "Carlos M. Souza, Bruno G. Ferreira, Ives Medeiros Brandão, Sandra Rios, John Aguilar-Brand, Juliano Schirmbeck, Emanuel Valero, Miguel A. Restrepo-Galvis, Eva Mollinedo-Veneros, Esteban Terneus, Nelly Rivero, Lucimara Wolfarth Schirmbeck, María A. Oliveira-Miranda, Cícero Cardoso Augusto, Jose Eduardo Victorio Gonzales, Juan Espinosa, Juan Carlos Amilibia, Tony Vizcarra Bentos, Suelma Ribeiro Silva, Judith Rosales Godoy, Helga C. Wiederhecker",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs17213644",
+    "short_abstract": "The Amazon wetlands are the largest and most diverse freshwater ecosystem globally, characterized by various flooded vegetation and the Amazon River’s estuary. This critical ecosystem is vulnerable to",
+    "publication_date": "2025-11-05"
+  },
+  {
+    "title": "Mapping and modeling urban and peri-urban carbon storage ecosystem service in the Atlas Cedar Biosphere Reserve (Morocco): Integrating GIS, remote sensing, and InVEST Model",
+    "author_list": "Mohamed Ouchanni, Said Laaribya, Thomas H. Culhane",
+    "journal_title": "Research Square",
+    "source_title": "Research Square",
+    "doi": "10.21203/rs.3.rs-7065518/v1",
+    "short_abstract": "In Morocco’s Atlas Cedar Biosphere Reserve (ACBR), urban and peri-urban areas are crucial settings for sustainable urban ecosystem services (UES), supplying essential benefits including carbon sequest",
+    "publication_date": "2025-07-11"
+  },
+  {
+    "title": "Forest Landscape Transformation in the Ecotonal Watershed of Central South Africa: Evidence from Remote Sensing and Asymmetric Land Change Analysis",
+    "author_list": "Kassaye Hussien, Yali E. Woyessa",
+    "journal_title": "Forests",
+    "source_title": "Forests",
+    "doi": "10.3390/f17010064",
+    "short_abstract": "Forest cover dynamics strongly influence ecological integrity and resource sustainability, particularly in ecotonal landscapes, where vegetation is highly sensitive to climate variability, long-term c",
+    "publication_date": "2025-12-31"
+  },
+  {
+    "title": "A Multi-model approach for remote sensing-based actual evapotranspiration mapping using Google Earth Engine (ETMapper-GEE)",
+    "author_list": "Abdelrazek Elnashar, Shahab Aldin Shojaeezadeh, Tobias Karl David Weber",
+    "journal_title": "Journal of Hydrology",
+    "source_title": "Journal of Hydrology",
+    "doi": "10.1016/j.jhydrol.2025.133062",
+    "short_abstract": "Accurate estimation of actual evapotranspiration (ETa) through remote sensing (RS) is essential for effective large-scale water management. We developed an EvapoTranspiration Mapper in the Google Eart",
+    "publication_date": "2025-08"
+  },
+  {
+    "title": "Transient snow line altitudes of glaciers in the European Alps from multi-mission remote sensing data (2000–2025)",
+    "author_list": "Christian Sommer, Alexander Raphael Groos, Johannes Fürst, Matthias Braun",
+    "journal_title": "EGUsphere",
+    "source_title": "EGUsphere",
+    "doi": "10.5194/essd-2026-35",
+    "short_abstract": "Observations of glacier snow line altitude (SLA) provide important information for estimating glacier surface mass balance and glaciological modelling. Optical satellite remote sensing enables the rep",
+    "publication_date": "2026-03-20"
+  },
+  {
+    "title": "Integrating geospatial analysis and the suitability-resources quality index to optimize crop suitability for sustainable agriculture",
+    "author_list": "Shimaa K. Ganzour, Tharwat K. Ghabour, Abdelrazek Elnashar",
+    "journal_title": "Frontiers in Sustainable Food Systems",
+    "source_title": "Frontiers in Sustainable Food Systems",
+    "doi": "10.3389/fsufs.2025.1703891",
+    "short_abstract": "This study develops a framework for sustainable agriculture in an arid Egyptian region, enhancing food security through advanced assessments of crop suitability. By integrating freely accessible Googl",
+    "publication_date": "2025-12-11"
   },
   {
     "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
@@ -45,6 +360,15 @@
     "publication_date": "2025-08-29"
   },
   {
+    "title": "An earth observation and explainable machine learning approach for determining the drivers of invasive species — a water hyacinth case study",
+    "author_list": "Geethen Singh, Benjamin Rosman, Marcus J Byrne, Chevonne Reynolds",
+    "journal_title": "Environmental Monitoring and Assessment",
+    "source_title": "Environmental Monitoring and Assessment",
+    "doi": "10.1007/s10661-025-14517-1",
+    "short_abstract": "Invasive species management is often constrained by limited resources and complicated by ecological and socio-economic variability across landscapes, leading to inconsistent outcomes. We use water hya",
+    "publication_date": "2025-01-01"
+  },
+  {
     "title": "Delta sustainability from the Holocene to the Anthropocene and envisioning the future",
     "author_list": "Edward Anthony, Jaia Syvitski, Florin Zăinescu, Robert J. Nicholls, Kim M. Cohen, Nick Marriner, Yoshiki Saito, John Day, Philip S. J. Minderhoud, Alessandro Amorosi, Zhongyuan Chen, Christophe Morhange, Toru Tamura, Alfred Vespremeanu-Stroe, Manon Besset, François Sabatier, David Kaniewski, Vittorio Maselli",
     "journal_title": "Nature Sustainability",
@@ -61,15 +385,6 @@
     "doi": "10.5194/isprs-annals-x-5-w4-2025-213-2026",
     "short_abstract": "Abstract. Urbanization in the Philippines rapidly shift towards a certain critical level, yet there are only few established frameworks that provide localized forecasts of urban growth across the Phil",
     "publication_date": "2026-02-10"
-  },
-  {
-    "title": "Factors influencing surface water accumulation in beaver pond complexes across the Western United States",
-    "author_list": "Luwen Wan, Emily Fairfax, Kate Maher",
-    "journal_title": "Communications Earth & Environment",
-    "source_title": "Communications Earth & Environment",
-    "doi": "10.1038/s43247-025-02573-x",
-    "short_abstract": "North American beavers (Castor canadensis) build dams and ponds that alter streamflow, enhance floodplain water storage, and provide refugia during droughts and wildfires. However, drivers of pond are",
-    "publication_date": "2025-08-11"
   },
   {
     "title": "Modelling spatiotemporal patterns in surface water quality in northwestern Argentina: the importance of potential pollution sources and climatic conditions.",
@@ -108,15 +423,6 @@
     "publication_date": "2025-08-08"
   },
   {
-    "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
-    "author_list": "Lukumon Olaitan Lateef, Abdulwaheed Tella, John Rowen Miano, Yusuf A. Aina",
-    "journal_title": "Land Use Policy",
-    "source_title": "Land Use Policy",
-    "doi": "10.1016/j.landusepol.2025.107673",
-    "short_abstract": "Armed conflicts are potent drivers of land use and land cover (LULC) change, yet little is known about how conflict intensity shapes land use, population displacement, and socioeconomic shifts in Nige",
-    "publication_date": "2025-10"
-  },
-  {
     "title": "Climate, topography, or fuels? Top‐down versus bottom‐up controls on fire refugia across British Columbia, Canada",
     "author_list": "Christine E. Kuntzemann, Ellen Whitman, Doug Lewis, Diana Stralberg",
     "journal_title": "Ecosphere",
@@ -133,15 +439,6 @@
     "doi": "10.20944/preprints202409.0953.v1",
     "short_abstract": "ECOCLIMAP-SG+ is a new 60 m land use land cover dataset, which covers a continental domain, and represents the 33 labels of the original ECOCLIMAP-SG dataset. ECOCLIMAP-SG is used in HARMONIE-AROME, t",
     "publication_date": "2024-09-12"
-  },
-  {
-    "title": "Evaluation of ten satellite-based and reanalysis precipitation datasets on a daily basis for Czechia (2001–2021)",
-    "author_list": "Daniel Paluba, Vojtěch Bližňák, Miloslav Müller, Přemysl Štych",
-    "journal_title": "Big Earth Data",
-    "source_title": "Big Earth Data",
-    "doi": "10.1080/20964471.2025.2592444",
-    "short_abstract": "This study assesses the accuracy of ten satellite-based and reanalysis precipitation datasets available in Google Earth Engine (GEE) using in-situ rain gauge measurements across Czechia, Central Europ",
-    "publication_date": "2025-12-02"
   },
   {
     "title": "A comparison shopper’s guide to forest datasets",
@@ -180,13 +477,40 @@
     "publication_date": "2026-02"
   },
   {
-    "title": "Harvesting insights: interpretable machine learning to understand environmental drivers of U.S. maize and soybean yield",
-    "author_list": "Harrison W. Smith, Christopher J. Heffernan, Amanda J. Ashworth, L. Lanier Nalley, David S. Bullock, Jason Tullis, Phillip R. Owens",
-    "journal_title": "Scientific Reports",
-    "source_title": "Scientific Reports",
-    "doi": "10.1038/s41598-026-38724-z",
-    "short_abstract": "Accurate crop yield prediction is crucial for enhancing food security and agricultural sustainability; however, existing models frequently struggle to capture the intricate relationships between envir",
-    "publication_date": "2026-02-13"
+    "title": "Granular satellite data to assess the potential for nature based solutions at a national scale: a proof of concept with data from Rwanda and Lesotho",
+    "author_list": "Bas Heerma van Voss, William Ouellette",
+    "journal_title": "Climate Policy",
+    "source_title": "Climate Policy",
+    "doi": "10.1080/14693062.2024.2330373",
+    "short_abstract": "Nature-based Solutions (NbS) form a substantial part of cost-efficient climate change mitigation options. However, public financial flows towards NbS have been limited. Among the factors impeding inve",
+    "publication_date": "2024-05-19"
+  },
+  {
+    "title": "Mapping sugarcane globally at 10 m resolution using GEDI and Sentinel-2",
+    "author_list": "Stefania Di Tommaso, Sherrie Wang, Rob Strey, David B. Lobell",
+    "journal_title": "EGUsphere",
+    "source_title": "EGUsphere",
+    "doi": "10.5194/essd-2024-121",
+    "short_abstract": "Sugarcane is an important source of food, biofuel, and farmer income in many countries. At the same time, sugarcane is implicated in many social and environmental challenges, including water scarcity",
+    "publication_date": "2024-04-15"
+  },
+  {
+    "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
+    "author_list": "Yee Jian Chew, Shih Yin Ooi, Ying Han Pang, Zheng You Lim",
+    "journal_title": "Forests",
+    "source_title": "Forests",
+    "doi": "10.3390/f15060923",
+    "short_abstract": "This study developed a comprehensive framework using Google Earth Engine to efficiently generate a forest fire inventory dataset, which enhanced data accessibility without specialized knowledge or acc",
+    "publication_date": "2024-05-26"
+  },
+  {
+    "title": "Google Earth Engine for archaeologists: An updated look at the progress and promise of remotely sensed big data",
+    "author_list": "Kelsey E. Herndon, Robert Griffin, Whittaker Schroder, Timothy Murtha, Charles Golden, Daniel A. Contreras, Emil Cherrington, Luwei Wang, Alexandra Bazarsky, G. Van Kollias, Omar Alcover Firpi",
+    "journal_title": "Journal of Archaeological Science Reports",
+    "source_title": "Journal of Archaeological Science Reports",
+    "doi": "10.1016/j.jasrep.2023.104094",
+    "short_abstract": "A wealth of remotely sensed data has accumulated over the past several decades and now constitutes an analytical resource primed for archaeological applications. To date, remotely sensed big data (RSB",
+    "publication_date": "2023-08"
   },
   {
     "title": "Divergent radiative forcing of fine-mode aerosols across tree genera during wildfires in North America and Europe",
@@ -448,5 +772,500 @@
     "doi": "10.1111/mec.17736",
     "short_abstract": "Speciation, i.e., the formation of new species, implies that diverging populations evolve genetic, phenotypic or ecological factors that promote reproductive isolation (RI), but the relative contribut",
     "publication_date": "2025-03-25"
+  },
+  {
+    "title": "Siberia Integrated Regional Study: multidisciplinary investigations of the dynamic relationship between the Siberian environment and global climate change",
+    "author_list": "E P Gordov, E A Vaganov",
+    "journal_title": "Environmental Research Letters",
+    "source_title": "Environmental Research Letters",
+    "doi": "10.1088/1748-9326/5/1/015007",
+    "short_abstract": "This is an editorial overview of the Siberia Integrated Regional Study (SIRS), which is a large-scale investigation of ongoing and future environmental change in Siberia and its relationship to global",
+    "publication_date": "2010-03"
+  },
+  {
+    "title": "Oral abstracts of the 21st International AIDS Conference 18–22 July 2016, Durban, South Africa",
+    "author_list": "A Ericsen, M Lauck, M Mohns, S Dinapoli, J Mutschler, J Greene, J Weinfurter, G Lehrer‐Brey, K Crosno, E Peterson, M Reynolds, R Wiseman, B Burwitz, J Sacha, T Friedrich, J Brenchley, D O'Connor, C Xu, T He, G Haret‐Richter, D Franck, B Policicchio, E Brocca‐Cofano, D Ma, J Stock, R Tracy, A Landay, C Wilson, C Apetrei, I Pandrea, EB Wong, B Xulu, S Prakadan, AK Shalek, U Lalloo, P Baijnath, M Suleman, V Moodley, M Mitha, P Maharaj, C Costiniuk, M Nielsen, Z Mhlane, F Karim, D Lewinsohn, T Ndung'u, A Pasternak, J Prins, B Berkhout, L Leon‐Fuentes, M Viveros‐Rogel, M Vergara‐Mendoza, M Rodriguez‐Castañón, A Cardenas‐Ochoa, A Tello‐Mercado, C Vega, J Sierra‐Madero, L Soto‐Ramirez, S Perez‐Patrigeon, T Hensley‐Mcbain, R Cheu, J Manuzak, A Zevin, C Miller, E Lee, C Wilson, A Burgener, N Klatt, CA Mellins, EJ Abrams, C Dolezal, P Warne, K Elkington, A Bucek, CS Leu, M Maskew, J Bor, W MacLeod, S Carmona, G Sherman, MP Fox, A Judd, E Chappell, K Doerholt, L Galli, C Giaquinto, D Gibb, T Goetghebuer, S Le Coeur, A Noguera Julian, A Turkova, R Goodall, European Pregnancy and Paediatric Hiv Cohort Collaboration, M‐A Davies, S Sawry, S Phiri, H Rabie, B Eley, G Fatti, K‐G Technau, F Tanser, R Wood, J Giddy, C Bolton‐Moore, C Chimbetete, R Hazra, O Keiser, K Stinson, IJ Collins, Collaborative Initiative for Paediatric HIV Education and Research Cohort Collaboration Duration of First‐line Team, L Cluver, E Toska, M Orkin, A Yakubovich, R Hodes, L Sherr, T Decroo, B Telfer, C Das Dores, B Candrinho, N Dos Santos, A Mkwamba, S Dezembro, M Jofrisse, T Ellman, C Metcalf, C Hanrahan, V Keyser, S Schwartz, P Soyizwaphi, N West, L Mutunga, J Steingo, J Bassett, A Van Rie, G Abongomera, A Cook, M Lamorde, C Chabala, V Musiime, M Thomason, V Mulenga, R Colebunders, C Kityo, S Walker, DM Gibb, on behalf of the CHAPAS‐3 Trial Team, M Fox, J Bor, W MacLeod, M Maskew, A Brennan, W Stevens, S Carmona, E Brocca‐Cofano, C Xu, D Ma, BB Policicchio, KD Raehtz, T Dunsmore, GS Haret‐Richter, C Sykes, BF Keele,  Kashuba, I Pandrea, C Apetrei, R Gulick, T Wilkin, Y Chen, R Landovitz, R Amico, A Young, P Richardson, M Marzinke, C Hendrix, S Eshleman, I McGowan, A Andrade, S Hodder, K Klingman, W Chege, A Rinehart, J Rooney, P Andrew, M McCauley, K Mayer, HPTN 069/ACTG 5305 Study Team, I McGowan, A Siegel, J Engstrom, A Nikiforov, K Duffill, S Edick, C Mitchell, D Back, L Else, D Egan, S Khoo, P Williams, RM Brand, RD Cranston, R Grant, V Fonner, M Rodolph, T Liegler, D Glidden, R Baggaley, E Brown, T Palanee‐Philips, M Marzinke, C Hendrix, C Dezutti, L Soto‐Torres, J Baeten, A Kharsany, C Cawood, D Khanyile, A Grobler, A Puren, T Kufa‐Chakeza, N Samsunder, J Frohlich, Q Abdool Karim, G George, K Govender, C Toledo, Z Chipeta, L Zembe, M Glenshaw, L Madurai, A Bere, V Deyde, B Riche, D Maman, S Wanjala, P Mendiharat, W Hennequin, A Vandenbulcke, I Mukui, F Subtil, R Ecochard, L Marty, F Cazein, J Pillonel, D Costagliola, V Supervie, R Nelson, R Thompson, I Casavant, S Pals, J Bonzela, D Mugabe, J Come, D Ujamaa, J Cardoso, A Auld, B Maculuve, S Wei, D Shodell, D MacKellar, J Bor, A Brennan, MP Fox, M Maskew, W Stevens, S Carmona, W MacLeod, C Logie, C Daniel, Y Wang, N Bozinoff, D Fast, C Long, T Kerr, W Small, J Pannetier, A Ravalihasy, M Le Guen, N Lydié, R Dray‐Spira, N Bajos, F Lert, A Desgress du Lou, Parcours Study Group, C Kuo, D Operario, J Hoare, K Underhill, D Giovenco, M Atujuna, C Mathews, D Stein, L Brown, J Hecht, A Plenty, J Lin, E Charlebois, E Igonya, J Ndimbii, A Guise, F Owiti, T Rhodes, S Strathde, K Deuba, S Anderson, AM Ekström,  Pandey, R Shrestha, DK Karki, G Marrone, C Lyons, D Diouf, F Drame, A Kouamé, R Ezouatchi, A Bamba, M Thiam, B Liestman, S Ketende, S Baral, A Gibbs, K Dunkle, T Khumalo, N Ntini, L Washington, N Mbatha, E Chirwa, S Willan, Y Sikweyiya, N Jama‐Shai, R Jewkes, AK Groves, HL McNaughton Reyes, D Moodley, S Maman, L Bukowski, R Coulter, N Riley, S Buehler, C Hoffmann, A Gehr‐Seloover, R Stalll The Power Study Team, R Faden, S Gilbert, K Sullivan, J Cadigan, C Krubiner, E Namey, M Little, A Lyerly, A Mastroianni, A Rao, S Baral, N Phaswana‐Mafuya, A Lambert, Z Kose, M McIngana, C Holland, S Ketende, S Schwartz, TB Masvawure, Y Lafort, S Chabeda, A Restar, P Gichangi, J Tocco, T Sandfort, J Mantell, A Tam, G Tumwekwase, E Kabunga, S Russell, J Seeley, C Li, Y Zhao, H Zhang, Z Cheng, P Hong, X Liang, J Gaoshan, L Li, K Tang, MA Carrasco, C Kennedy, C Barrington, M Perez, Y Donastorg, D Kerrigan, K Hartson, D Sherman, S Mofelehetsi, T Ncheke, M Khasoane, JP‐H Wong, K Fung, C Hui, H Luyombya, A Bisignano, D Maitland, K Poon, AT‐W Li, A Perez‐Brumer, S McLean, A Silva‐Santisteban, L Huerta, R de la Grecca, KH Mayer, J Sanchez,  Lama, SL Reisner, O Bonnington, J Wamoyi, W Ddaaki, D Bukenya, F Odongo, M Skovdal, E McLean, C Nyamukapa, M Moshabela, A Wringe, S Chapman, N Kayuni Chihana, E Scheepers, K Schmitz, J Joseph, K Suggu, N Hariharan, G Esiru, E Yavuz, J Gross, B Mirembe, K Sherr, A Silvis Rustagi, S Gimbel, R Nduati, F Cuembelo, A Kone, C Farquhar, J Wasserheit, S Gloyd, C de Schacht, SAIA Study Team, E Kamanga, G Banda, I Mofolo, G Mwale, M Mwale, J Chikonda, J Sherman, J Chinkonde, M Herce, K Ng'oma, T Mtileni, I Odongo, P Robinson, M Mogashoa, S Bhardwaj, P Holele, Y Pillay, A Goga, D Jackson, C Lombard, V Ramokolo, N Ngandu, G Sherman, A Puren, T Doherty, S Bhardwaj, N Noveve, T Ramraj, V Magasana, Y Singh, Y Pillay, South African PMTCT Evaluation Study Group, E Kroon, J Ananworanich, K Eubanks, J Intasan, S Pinyakorn, N Chomont,  Lewin, S Palmer, L Trautmann, H Yang, N Chomchey, N Phanuphak, K Cooper, P Phanuphak, M de Souza, on behalf of the SEARCH 019 study group, L‐G Bekker, F Laher, Z Moodie, G Tomaras, N Grunenberg, M Allen, B Daniels, C Innes, K Mngadi, M Malahleha, P Gilbert, N Michael, S Phogat, C Diaz Granados, N Kanesa‐Thasan, L Corey, G Gray, J McElrath, The HVTN100 Study Team, F Cowan, C Davey, P Mushati, S Mtetwa, T Chiyaka, S Chabata, E Fearon, S Napierala Mavedzenge, V Cambiano, N Masuka, M Chemhuru, J Dirawo, D Hanisch, K Hatzold, O Mugurungi, J Busza, A Phillips, J Hargreaves, S Hosek, R Landovitz, B Rudy, B Kapogiannis, G Siberry, B Rutledge, N Liu, J Brothers, J Rooney, CM Wilson, The Adolescent Trials Network for HIV/AIDS Interventions, R Mera, S McCallister, B Palmer, G Mayer, D Magnuson, K Rawlings, DJ Stieh, E Matias, AJ Fought, PA Marx, RS Veazey, TJ Hope, S Ngcapu, AM Carias, LJ Liebenberg, L Werner, GC Cianci, M McRaven, S Sibeko, NJ Garrett, J‐M Kriek, LR McKinnon, S Abdool Karim, Q Abdool Karim, J‐AS Passmore, TJ Hope, K Raehtz, G Haret‐Richter, C Ling Xu, B Policicchio, C Barrenas, D Ma, V Wijewardana, E Brocca‐Cofano, J Stock, A Trichel, B Keele, J Estes, M Katze, I Pandrea, C Apetrei, Z Ndhlovu, T Nkosi, N Mewalal, N Ismail, A Moodley, K Dong, T Ndun'gu, BD Walker, GE Martin, N Pantazis, M Hoffmann, S Hickling, J Hurst, J Meyerowitz, CB Willberg, N Robinson, H Brown, M Fisher, S Kinloch, A Babiker, J Weber, N Nwokolo, J Fox, S Fidler, R Phillips, J Frater, SPARTAC and Cherub Investigators, K van den Berg, M Vermeulen, T Xulu, C McClure, C Ingram, G Beck, M Stone, MP Busch, B Custer, EL Murphy, NHLBI Recipient Epidemiology and Donor Evaluation Study, N Garrett, E Norman, V Asari, N Naicker, N Majola, K Leask, Q Abdool Karim, S Abdool Karim, D Onoya, T Sineke, A Brennan, MP Fox, P Datong, H Jaspan, S Osawe, J Gatei, J‐A Coombs, KA Muldoon, R Mallick, C Gray, K Rosenthal, DW Cameron, A Abimiku, R Zash, S Souda, J Leidner, K Binda, C Hick, K Powis, J Makhema, M Mmalane, M Essex, S Lockman, R Shapiro, J Jao, D Kacanek, P Williams, M Geffner, EG Livingston, RS Sperling, K Patel, A Bardeguez, S Burchett, N Chakhtoura, GB Scott, R Van Dyke, EJ Abrams, Pediatric HIV/AIDS Cohort Study & International Maternal Pediatric Adolescent AIDS Clinical Trials Network, G Narendran, S Ramesh Kumar, C Padmapriyadarsini, NS Gomathi, PA Menon, L Sekar, S Devarajulu Reddy, S Chandra, AK Hemanth Kumar, S Kumar, S Sekar, N Ravichandran, K Raja, J Lavanya, R Sridhar, M Lakshmi, A Mahilmaran, S Swaminathan, E Atuhumuza, C Yoon, J Katende, L Asege, S Mwebe, A Andama, D Armstrong, D Dowdy, M Kamya, FC Semitala, A Cattamanchi, A Ward, D Barr, C Schutz, R Burton, A Boulle, G Maartens, RJ Wilkinson, G Meintjes, R Flick, K Simon, A Munthali, A Dimba, M Kim, P Kazembe, M Hosseinipour, S Ahmed, CS Merle, S Floyd, A Ndiaye, T Galperine, A Furco, BC De Jong, H McIlleron, J Glynn, M Sarr, O Bah‐sow, D Affolabi, on behalf of the Rafa Team, N Bräu, D Wyles, S Kottilil, E Darr, K Workowski, A Luetkemeyer, O Adeyemi, P Ruane, B Doehle, KC Huang, A Osinusi, J McNally, M Natha, M Guion, T McLean, DM Brainard, JG McHutchison, S Naggie, M Sulkowski, E Mogalian, A Luetkemeyer, S Naik, M Natha, L Stamm, A Osinusi, G Shen, K Sajwani, J McNally, A Mathias,  Kouamé, R Moh, A Boyd, A Badjé, D Gabillard, JB N'takpé, S Maylin, SP Eholié, X Anglaret, C Danel, ANRS12136 Temprano Trial Group, JK Rockstroh, C Orkin, RM Viani, D Wyles, A Luetkemeyer, A Lazzarin, R Soto‐Malave, M Nelson,  Bhagani, HHF Klinker, G Rizzardini, P‐M Girard, NS Shulman, YB Hu, LM Fredrick, R Trinh, E Gane, A Kourtis, L Wang, J Wiener, S Liang, X Wei, W Liu, L Chen, C Shepard, A Wang, F Zhang, M Bulterys, TIP study Group, J‐M Molina, I Charreau, B Spire, L Cotte, J Chas, C Capitant, C Tremblay, D Rojas‐Castro, E Cua, A Pasquet, C Bernaud, W Rozenbaum, C Delaugerre, V Doré, S Le Mestre, M‐C Simon, J‐F Delfraissy, L Meyer, ANRS IPERGAY Study Group, C Hucks‐Ortiz, JP Lucas, DP Wheeler, SD Fields, The HPTN Black Caucus, D Wheeler, S Fields, L Nelson, L Hightow‐Weidman, M Magnus, S Shoptaw, G Beauchamp, L Emel, E Piwowar‐Manning, Y Chen, P Watkins, K Mayer, HPTN073 Study Team, J Baeten, R Heffron, L Kidoguchi, N Mugo, E Katabira, E Bukusi, S Asiimwe, J Morton, K Ngure, N Bulya, J Odoyo, E Tindimwemba, J Haberer, M Marzinke, D Donnell, C Celum, M Petersen, L Balzer, D Kwarsiima, N Sang, G Chamie, J Ayieko, J Kabami, A Owaraganise, T Liegler, F Mwangwa, K Kadede, V Jain, A Plenty, G Lavoy, D Black, E Bukusi, C Cohen, T Clark, E Charlebois, M Kamya, D Havlir, SEARCH Study Team, A Radix, P Carneiro, S Stephanos, S Mosher, P Meacher, U Belkind, I Evans‐Frantz, F Brigham, A Fortenberry, L Comstock, R Vail, S Weiss, S Pena, S Golub, R Garofalo, L Kuhns, S Reisner, K Biello, M Mimiaga, L Bukowski, S Meanley, J Egan, D Matthews, R Stall, The Power Study Team, GR Bauer, M Shokoohi, R Hammond, AI Scheim, A Slogrove, A Judd, V Leroy, Collaborative Initiative for Paediatric HIV Education and Research Global Cohort Collaboration, S Naidoo, B Sartorius, H de Vries, M Taylor, A Pettifor, J Wang, A Selin, J Hughes, X Gómez‐Olivé, R Wagner, C MacPhail, K Kahn, HPTN 068 Study Team, L Kann, E Olsen, T McManus, S Zaza, K Mulligan, S Hosek,  Kapogiannis, RJ Landovitz, N Liu, SS Cofield,  Perumean‐Chaney, PL Havens, B Rutledge, CM Wilson, Adolescent Trials Network (ATN for Hiv/aids Interventions Protocol 110 Team, B Marshall, J Tate, K McGinnis, D Fiellin, K Bryant, A Justice, S Springer, M Azar, R Barbour, A Krishnan, F Altice, A DiPaola, AA Baghazal, L Tariko, K Shikely, S Patta, B Omar, H Musyoki, S Bertrand, S Abdallah, J Stone, E Brooks‐Pollock, FL Altice, L Azbel, P Smyrnov, NK Martin, P Vickerman, A Borquez, D Abramovitz, L Beletsky, P Vickerman, P Gonzales‐Zuñiga, G Rangel, M Hickman,  Strathdee, N Martin, K Wall, W Kilembe, B Vwalika, L Haddad, N Htee Khu, I Brill, C Vwalika, E Chomba, A Tichacek, S Allen, L Darbes, NM McGrath, MO Johnson, V Hosegood, K Fritz, T Ngubane, H van Rooyen, A Ruark, D Brewster‐Lee, J Hembling, V Rhoe Davis, J Renju, A Wringe, AC Crampin, O Koole, C Nyirenda, H Namadingo, E McLean, ALPHA Network, L Li, L‐J Liang, CQ Lin, Y Xiao, GP Ji, L Irani, E McGinn, M Mellish, O Mtema, P Dindi, R Imakit, S Ajok, D Talima, A Namakula, H Allen, C Fair, C Trexler, L D'Angelo, J Stadler, A Chikandiwa, P Mayaud, H Rees, J Imrie, S Delany‐Moretlwe, T Taylor, G Oberth, O Mumba, L Bhayani, A Russell, F Mwanza, M Milanga, R Nandelenga, D Namutamba, C Albert‐Hope, R Gustav, Y Simon, E Castellanos, R Irwin, IW Holloway, WT Steward, J Mortimer, P Curtis, D Van Gorder, A Leibowitz, S Morin, C Mulhern‐Pearson, A Donnelly, AJ King, A Fox, C Pulsipher, D Evans, G Lemp, S Baral, C Lyons, E Sullivan, S Kurani, J Sherwood, G Millett, J MacAllister, A Zanolini, J Chipungu, S Bosomprah, M Mafwenko, C Holmes, H Thirumurthy, Y Qin, F Liu, W Tang, S Tang, C Liu, J Mao, W Zhang, A Taege, A Nowacki, C Wei, J Tucker, C Madanhire, E Sibanda, N Ruhode, K Hatzold, FM Cowan,  Mavedzenge, N Manjezi, G Fatti, E Mothibi, N Shaikh, O Oyebanji, A Grimwood, EL Sibanda, M Tumushime, J Mufuka, S Gudukeya, S Napierala Mavedzenge, S Bautista‐Arredondo, H Thirumurthy, S McCoy, N Padian, K Hatzold, A Copas, FM Cowan, G Dougherty, K Clarke, R Fayorsey, M Kamonga, S Kimambo, D Lutkam, C Madevu‐Matson, H Mtiro, S Msuka, V Mugisha, M Panya, A Ramadhani, J Sipemba, P Urasa, M Rabkin, R Granich, S Gupta, I Hall, J Aberle‐Grasse, S Hader, J Mermin, S Koenig, N Dorvil, P Severe, C Riviere, M Faustin, C Perodin, C Paul, A Apollon, G Saintil, L Duverger, E Dumont, B Hedt‐Gauthier, K Hennessey, V Rivera, J Devieux, JW Pape, M Kitheka, K Curran, P Gathii, M Mudany, S Bii, J Bor, S Ahmed, MP Fox, S Rosen, I Katz, F Tanser, D Pillay, T Bärnighausen, D MacKellar, H Maruyama, R Weber, O Ernest, S Porter, J Gikaro, G Alexander, G Kundi, J Byrd, K Kazaura, D Mbilinyi, F Morales, J Justman, R Josiah, M McNairy, M Lamb, A Gachuhi, H Nuwagaba‐Biribonwoha, S Burke, S Mazibuko, V Okello, P Ehrenkranz, R Sahabo, W El‐Sadr, Link4Health Study Group, M Dhodho, M Frieden, A Shroufi, E Wanjiru, S Daho, E Simons, H Bygrave, R Giuliani, A Torrens, L Molfino, C Silva, T Ellman, A Magaia, J van Dijk, K Kamenova, A Shamu, K Pfeiffer, M Hobbins, J Ehmer, J Murungu, R Barnabas, R Coombs, M Chang, T Schaafsma, S Asiimwe, K Thomas, J Baeten, C Celum, S Moyo, T Mohammed, K Wirth, K Bennett, MP Holme, L Mupfumi, P Sebogodi, NO Moraka, C Boleo, CN Maphorisa, B Seraise, S Gaseitsiwe, RM Musonda, E van Widenfelt, KM Powis, T Gaolathe, EJ Tchetgen Tchetgen, JM Makhema, M Essex, S Lockman, V Novitsky, O Brigstock‐Barron, L Logan, H Sowerbutts, V Womack, M Osman, J Anderson, A Nardone, M Pinkevych, A Reynaldi, C Fennessey, C Reid, P Nadella, L Lipkey, L Newman, V Ayala, S Jain, G Del Prete, J Estes, D Ott, J Lifson, C Ohlen, B Keele, M Davenport, R Kaminski, W Hu, J Karn, K Khalili, CW Peterson, J Wang, P Polacino, S‐L Hu, MC Holmes, H‐P Kiem, G Bozzi, S Watters,  Simonetti, E Anderson, R Gorelick, W Shao, J Bell, C Rehm, R Dewar, R Yarchoan, T Uldrick, F Maldarelli, AM Wensing, JL Diez‐Martin, G Huetter, J Kuball, M Kwon, M Nijhuis, A Saez‐Cirion, V Rocha, M Salgado, J Schulze zur Wiesch, A Stam, J Martinez‐Picado, L Huang, W Lai, L Zhu, C‐H Chen, BK Felber, X Hu, A Valentin, F Dayton, Y Cai, M Rosati, C Alicea, NY Sardesai, R Gautam, MA Martin, JI Mullins, GN Pavlakis, CK Koofhethile, Z Ndhlovu, C Thobakgale, J Prado, N Ismail, Z Mncube, L Mkhize, M van der Stok, N Yende, BD Walker, PJR Goulder, T Ndung'u, Sinikithemba Cohort, MJ Worley, AD Kelleher, SJ Kent, AW Chung, SG Okala, D King, R Shattock, T He, B Policicchio, E Brocca‐Cofano, J Stock, C Xu, K Raehtz, T Gaufin, R Gautam, I Pandrea, C Apetrei, G Mylvaganam, S Hicks, B Lawson, M Nega, V Velu, R Ahmed, G Freeman, RR Amara, SJ Steele, G Arellano, T Ellman, A Shroufi, G Van Cutsem, C Oldenburg, J Bor, F Tanser, T Mutevedzi, M Shahmanesh, G Seage, V De Gruttola, M Mimiaga, K Mayer, D Pillay, T Bärnighausen, J Currier, P Britto, R Hoffman, S Brummel, G Masheto, E Joao, B Santos, L Aurpibul, M Losso, MF Pierre, A Weinberg, N Chakhtoura, R Browning, A Coletti, D Shapiro, J Pilotto, PROMISE 1077HS Team, P Munderi, E Were, A Avihingsanon, P Abena Messomo Mbida, L Mohapi, BM Samba, M Jansen, P Mohammed, G Sawyerr, P Barnes, Y van Delft, E Laker Agnes Odongpiny, D Nalwanga, A Kaimal, A Kiragga, SM Nabaggala, B Castelnuovo, R Parkes‐Ratanshi, L Stranix‐Chibanda, S Brummel, K Angelidou, C Tierney, A Coletti, K McCarthy, J Pilotto, M Mutambanengwe, V Chanaiwa, T Mhembere, M Kamateeka, G Masheto, R Chamanga, M Maluwa, S Hanley, E Joao, G Theron, A Chandawale, M Nyathi, B Santos, L Aurpibul, M Mubiana‐Mbewe, R Oliveira, M Basar, N Chakhtoura, R Browning, J Currier,  Fowler, PROMISE Study Team, J‐M Molina, B Grund, F Gordin, I Williams, M Schechter, M Losso, M Law, E Ekong, N Mwelase, A Skoutelis, MJ Wiselka, L Vanderkerckhove, T Benfield, D Munroe, J Lundgren, J Neaton Insight Start Study Group, A Arenas‐Pinto, B Grund, S Sharma, E Martinez, N Cummins, J Fox, KL Klingman, D Sedlacek, S Collins, PM Flynn,  Chasanov, E Kedem, C Katlama, J Sierra‐Madero, V Ormaasen, P Brouwers, D Cooper, for the Insight Start Study Group, JE Lake, B Trottier, J Garcia‐Diaz, H Edelstein, P Kumar, UF Bredeek, M Loutfy, C Brennan, J Koteff, B Wynne, J Hopking, M Aboud, D Kerrigan, A Mantsios, D Margolis, M Murray, C Orrell, D Hagins, E Belonosova, N Porteiro, S Walmsley, V Falcó, C Man, A Aylott, A Buchanan, B Wynne, C Vavro, M Aboud, K Smith, D Margolis, D Podzamczer, H‐J Stellbrink, T Lutz, J Angel, G Richmond, B Clotet, F Gutierrez, L Sloan, S Griffith, M St Clair, D Dorey, S Ford, J Mrus, H Crauwels, K Smith, P Williams, W Spreen, BR Bavinton, N Phanuphak, F Jin, I Zablotska, B Grinsztejn, G Prestage, AE Grulich, Opposites Attract Study Group, C Couderc, B Dembélé Keita, C Anoma, AS Wade, A Ouédraogo, A Coulibaly, S Ehouman, AK Diop, M Somda, Y Yomb, E Henry, B Spire, C Laurent, R Mendizabal‐Burastero, C Galindo‐Arandi, MP Yancor, I Vela, JM Aguilar‐Martinez, G Paz‐Bailey, B Hoots, M Xia, T Finlayson, J Prejean, D Purcell, for the Nhbs Study Group, L Hightow‐Weidman, M Magnus, G Beauchamp, C Hurt, S Shoptaw, L Emel, E Piwowar‐Manning, K Mayer, L Nelson, L Wilton, P Watkins, S Fields, D Wheeler, C Tong, M Suzan‐Monti, L Sagaon‐Teyssier, O Ossanga, C Laurent, G Maradan, A Ambani, L Vidal, B Spire, S Boyer, EVOLCAM Study Group, R Phillip, T Mudzviti, T Shamu, C Chimbetete, N Rakhmanina, B Corrigan, J Kose, K Manson, New Horizons Advancing Pediatric HIV Care Collaborative, C Cawley, S Oti, B Njamwea, A Nyaguara, F Odhiambo, FO Otieno, M Njage, T Shoham, K Church, J Todd, B Zaba, A Wringe, ALPHA Network, S Bivol, V Catranji, L Caraulan, J Lucas, S Karuna, K Hinson, N Sista, N Yola, F Ntombela, N Mgodi, N Luthuli, S Wakefield, P Andrew, E Greene, S Delany‐Moretlwe, G Gray, R White, SI McCoy, P Njau, C Fahey, N Czaicki, N Kapologwe, S Kadiyala, W Dow, N Jewell, N Padian, N Jagessar, L Papua, E Ndunda, M‐L Wijne, S Hendriks, N Khoza, J Stadler, C MacPhail, A Chikandiwa, H Brahmbhatt, S Delany‐Moretlwe, E Toska, LD Cluver, ME Boyes, M Isaacsohn, R Hodes, L Sherr, Mzantsi Wakho Cohort Study, L Gauer Bermudez, L Jennings, F Ssewamala, P Nabunya, C Mellins, M McKay, T Fagan, C Zulu, W Zeng, V Menon, E Korenromp, M Haacker, M Turay, K Rotich, M Strauss, T Barihuta, I Semini, J Stover, A‐M Nitschke, N Forster, N Poku, A Dutta, C Barker, L Lazar, A Grosso, G Millett, B Honermann, J Sherwood, J MacAllister, K Lindsey, C Chandra, S Blumenthal, C Lyons, S Baral, E Donaldson, D Mattur, K Fisher, T Harmon, P Harrison, JA Izazola‐Licea, A Naeveke, M Warren, L Irani, E McGinn, M Mellish, O Mtema, P Dindi, S Faye, B Johns, E Baruwa, K Ambrose, I Bassett, T Hong, P Drain, S Govere, H Thulare, M Krows, M‐Y Moosa, B Mhlongo, D Wexler, M Huang, S Frank, E Hyle, R Parker, A Mukuye, N Lukoda, B Crandall, H Bryant, E Oliveras, E Colua, E Marinda,  Campbell, K Gustafson, P Jalan, B Ngauv, S Sovannarith, A Wilhelm, S Sopheap, C Vichea, C Middlecote, LP Sun, B Kgwaadira, T Katlholo, L Fiebig, R Boyd, M Wame, L Kuate, D Agegnehu, W Dikobe, N Sangrujee, C Petlo, B Nkomo, A Avalos, M Skiles, H Phillips, T Wuhib, A Finlay‐Vickers, P Stegman, K Kripke, E Njeuhmeli, J Samuelson, M Schnure, S Dalal, T Farley, C Hankins, A Thomas, J Reed, N Bock, I Durand‐Zaleski, P Mutuon, I Charreau, C Temblay, D Rojas, J Chas, C Chidiac, C Capitant, B Spire, L Meyer, JM Molina, ANRS Ipergay, PM Luz, B Osher, B Grinsztejn, RL MacLean, E Losina, CJ Struchiner, RA Parker, KA Freedberg, F Mesquita, RP Walensky, VG Veloso, AD Paltiel, T Shiino, J Hattori, K Sadamasu, M Nagashima, A Hachiya, W Sugiura, K Yoshimura, the Japanese Drug Resistance HIV‐1 Surveillance Network, M Villaran, A Brezak, S Ahmed, A Ulrich, A Duerr, J Herbeck, J Mullins, E Seto, E Morgan, A Nyaku, R D'Aquila, J Schneider, T de Oliveira, P Khumalo, C Cawood, R Dellar, F Tanser, G Hunt, A Grobler, A Kharsany, L Madurai, Q Abdool Karim, S Abdool Karim, B Hora, N Gulzar, Y Chen, F Cai, C Su, K Karagiannis, K Smith, V Simonyan,  Shah, M Ahmed, AM Sanchez, M Stone,  Cohen, BF Haynes, MP Busch, R Mazumder, TN Denny, F Gao, J Hakim, V Musiime, AJ Szubert, A Siika, J Mallewa, C Agutu, SL Pett, M Bwakura‐Dangarembizi, A Lugemwa, S Kaunda, M Karoney, K Maitland, A Griffiths, C Kityo, P Mugyenyi, AJ Prendergast, AS Walker, DM Gibb, REALITY Trial Team, C Kityo, A Siika, AJ Szubert, J Mallewa, M Bwakura‐Dangarembizi, S Kabahenda, S Mwaringa, SL Pett, A Griffiths, A Lugemwa, S Wachira, G Musoro, C Rajapakse, T Etyang, J Abach, P Wavamunno, L Nyondo‐Mipando, A Reid, K Nathoo, J Hakim, DM Gibb, AS Walker, REALITY trial team, P Cahn, R Kaplan, P Sax, K Squires, J‐M Molina, A Avihingsanon, W Ratanasuwan, E Rojas, M Rassool, X Xu, A Rodgers, S Rawlins, B‐Y Nguyen, R Leavitt, H Teppler, for the Oncemrk Study Group, P Cahn, MJ Rolón, MI Figueroa, A Gun, P Patterson, O Sued, VV Patel, S Rawat, C Lelutiu‐Weinberger, A Dange, C Kamath, R Poojary, M Bisht,  Golub,  Jamil, G Prestage, CK Fairley, AE Grulich, KS Smith, M Chen, M Holt, AM McNulty, BR Bavinton, DP Conway, H Wand, P Keen, J Bradley, J Kolstee, C Batrouney, D Russell, M Law, JM Kaldor, RJ Guy, S Shenoi, A Moll, J Madi, V Guddera, T Madondo, D Turner, R Brooks, T Kyriakides, L Andrews, G Friedland, H Thirumurthy, S Masters, B Obonyo, S Napierala Mavedzenge, S Maman, E Omanga, K Agot, C Iwuji, J Orne‐Gliemann, E Balestre, J Larmarange, R Thiebaut, F Tanser, N Okesola, T Makowa, J Dreyer, K Herbst, N Mc Grath, T Barnighausen, S Boyer, T De Oliveira, C Rekacewicz, B Bazin, M‐L Newell, D Pillay, F Dabis, for the Anrs 12249 Tasp Study Group, EJ Bernard, P Eba, C Kazatchkine, A Müller, K Daskilewicz, S Spencer, T Meer, L Artz, A Saha, C Grant, P Patel, M Getahun, T Sellers, TS Ndeogo, J Blantari, E Awotwi, P Saunders, S Outlaw, D Demeri, J McCracken, K Hagos, C King, V Shubert, D Daskalakis, D Tietz, M Harrington, K Smith, C Ferrusi, M Kavanagh, K Bhardwaj, C Tomlinson, Y Hu, C Waterhouse, L Rutter, T Amin, P Radhakrishnan, O Mellouk, L Di Giano, K Babikhina, S Golovin, E Fonseca, F Bastos, A Siegler, A Liu, K Mayer, K Thure, R Fish, E Andrew, M Gelman, P Sullivan, LE Mansoor, Q Abdool Karim, KT Mngadi, C Montague, N Yende‐Zuma, H Dawood, TN Gengiah, N Samsunder, C Baxter, JL Schwartz, GF Doncel, F Ntombela, A Grobler, SS Abdool Karim, MA Wyatt, EE Pisarski, M Tam, E Nakku‐Joloba, TR Muwonge, E Katabira, NC Ware, S Gibson, P‐C Crouch, J Hecht, J Gagliano, T Patriarca, J Auerbach, R Grant, W Lyon, C Hall, I Zablotska, AE Grulich, R Guy, J Amin, C Selvey, H‐M Schmidt, K Price, D Cooper, EPIC‐NSW Study Group, K Mugwanya, R Heffron, C Wyatt, N Mugo, C Celum, J Kiarie, E Katabira, A Ronald, J Baeten, for the Partners PrEP Study and Partners Demonstration Project Teams, C Cawley, S Nicholas, E Szumilin, S Perry, I Amoros Quiles, C Masiku, A Wringe, LF Jefferys, J Hector, MA Hobbins, J Ehmer, N Anderegg, SB Shade, W Chang, JG Kahn, D Mwai, F Mwangwa, D Kwarisiima, A Owaraganise, J Ayieko, DV Havlir,  Kamya, ED Charlebois, ML Petersen, TD Clark, EA Bukusi, CR Cohen, V Jain, L Pasipamire, B Kerschberger, I Zabsonre, S Ndlovu, G Sibanda, S Mamba, S Mazibuko, N Lukhele, SM Kabore, B Rusch, A Jakubowski, J Kabami, D Mwai, K Snyman, T Clark, J Ayieko, A Owaraganise, F Mwangwa, M Petersen, C Cohen, E Bukusi, M Kamya, D Havlir, E Charlebois, H Thirumurthy, A Nofemela, C Kalombo, C Orrell, L Myer, N Ngandu, J Carlson, D Chopera, N Ndabambi, S Goodier, N Garrett, N Samsunder, Q Abdool Karim, S Abdool Karim, C Williamson, M Rolland, S Tovanabutra, G Kijak, E Sanders‐Buell, M Bose, C Owen, L Maganga, S Nitayaphan, K Rono, A Sekiziyivu, La Eller, J Kim, N Michael, M Robb, B Palmer, C Neff, S Li, J Schneider, T Campbell, C Lozupone, EH Byrne, MN Anahtar, KE Cohen, A Moodeley, N Padavattan, N Ismail, BA Bowman, GS Olson, A Mabhula, A Leslie, T Ndung'u, BD Walker,  Ghebremichael, KL Dong, DS Kwon, L Liebenberg, LR McKinnon, K Leask, A Rositch, N Garrett, N Samsunder, A Kharsany, A Grobler, A Singh, J‐A Passmore, SS Abdool Karim, Q Abdool Karim, S Martinez, A Campa, F Huffman, J Makhema, S Moyo, OD Williams, R Marlink, M Baum, N Mutenda, T Nakanyala, N Hamunime, T Mekonen, F Tjituka, S Natanael, G Mazibuko, S Mwinga, D Mabirizi, E Sagwa, H Walkowiak, A Kiesling, S Aptekar, M Jordan, S Hong, I Zapiola, DM Cecchini, S Fernandez Giuliano, M Martinez, CG Rodriguez, MB Bouzas, N Dzissyuk, A Abishev, A Zhanpeisova, G Nagashbekova, G Tazhibayeva, B Schramm, V Carnimeo, A Rakesh, DL Ardiet, L Cossa, O Bouchaud, C Alloui, WL Oo, P Gonzales Dias, I Mukui, W Omwoyo, R Manuel, AM de Pedro, A Telnov, Z Chirwa, B Chilima, S Nicholas, A Vubil, L Serrano, V Opolo, C Zeh, M Peeters, L Molfino, L Salumu, A Vandenbulcke, I Amoros, J‐F Etard, M Pujades Rodríguez, S Balkan, E Szumilin, JA Thompson, C Kityo, AS Walker, J Hakim, A Kambugu, JJ van Oosterhout, A Siika, A Mweemba, P Van den Eede, DT Dunn, NI Paton, for the Earnest Trial Team, A Díaz, JL Casado, F Dronda, C Gómez‐Ayerbe, MJ Vivancos, S Bañón, C Quereda, S Serrano, A Moreno, E Navas, MÁ Rodríguez, MJ Pérez‐Elías, S Moreno, A Grobler, A Kharsany, C Cawood, D Khanyile, A Puren, L Madurai, WB MacLeod, N Fraser, J Bor, Z Shubber, S Carmona, Y Pillay, M Gorgens, S Moyo, T Mohammed, KP Kotokwe, C Boleo, L Mupfumi, S Gaseitsiwe, RM Musonda, K Bennett, E van Widenfelt, T Gaolathe, M Mmalane, MP Holme, N Khan, R Wang, K Wirth, EJ Tchetgen Tchetgen, S Lockman, JM Makhema, M Essex, V Novitsky, T Nakanyala, SV Patel, S Sawadogo, AD Maher, KM Banda, A Wolkon, S Chaturvedi, P Luphala, AM‐A Agovi,  Chipadze, C Ntema, D Prybylski, I Mabuku, DW Lowrance, N Hamunime, S Agolory, W McFarland, A Rodger, F Lampe, W Burman, A Gruhlich, G Friedland, W El‐Sadr, J Neaton, S Emery, G Corbelli, JM Molina, C Orkin, J Gatell, J Gerstoft, K Ruxrungtham, M Barbosa de Souza, A Phillips, for the International Network for Strategic Initiatives in Global Hiv Trials Start Study Group, N Masuka, TP Goverwa‐Sibanda, T Maphosa, ES Tshuma, W Kurauone, K Ngarivume, T Masungo, RW Carroll, P Greiger‐Zanlungo, G Blick, A Raw, I Lakhani, D Dlamini, A Munthali, B Chinsinga, J Kadzandira, B Ngwira, F Masiye, B Kaunda‐Khangamwa, A Torriente, M Licata, S Mabhele, A Virga, C Nininahazwe, N Ndayizeye, JD Kabanga, The Link Up project, A Stangl, D Singh, M Windle, K Sievwright, K Footer, A Iovita, S Mukasa, S Baral, SLM Davis, M Hart, C Euzébio de Lima, D De Castro, M Elizabeth de Lima Pereira, D Ferreira Santana, P Aguiar, L Myers, H Hajiyiannis, T Motuba, R Delate, L Mahlasela, K Biello, J Coffey‐Esquivel, S Hosek, M Belzer, P Sullivan, M Mimiaga, S Oleson, S Taylor, L Kreh, K Mayer, R Souleymanov, DJ Brennan, N Lachowsky, S Fantus, A Ceranto, RH Remien, CA Mellins, R Robbins, H Gouse, CS Leu, J Rowe, M Henry, L Myer, D Stein, J Joska, A Mathias, L Abreu, T Zampieri, A Spiassi, E Gutierrez, W Tun, PP Aung, A Bajracharya, E Yam, C Ryan, SM Oo, ZW Thein, AK Paing, N Pasricha, L Willenberg, P Agius, TT Sein, S Htun, NZ Latt, S Luchters, L Vu, J Pulerwitz, B Zieman, J Okal, E Yam, Link Up Project, A Anderson, E Stern, T Mokganyetji, D Rebombo, C MacPhail, N Khoza, S Treves‐Kagan, A Selin, D Peacock, A Pettifor, S Lippman, K Kahn, R Twine, A Gibbs, N Ntini, T Khumalo, L Washington, N Mbatha, E Chirwa, S Willan, Y Sikweyiya, N Jama‐Shai, R Jewkes, T McClair, T Hossain, N Sultana, E Yam, B Zieman, S Hossain, R Yasmin, N Sadiq, A Carter, S Greene, C Hankins, LA Brotto, D Money, M Kestler, S Patterson, N O'Brien, K Salters, E Ding, K Webster, V Nicholson, M Sanchez, M Desbiens, D Dubuc, SY Lin, RS Hogg, A de Pokomandy,  Loutfy, A Kaida, CHIWOS Research Team, A Chirowodza, D Williams, C Diergaardt, O Adetokunboh, S Gede, N Gobodo, N Makeleni, N Tuswa, M Eckard, T O'rie, N Shingwenyana, B Green, I Oluwatimilehin, D Jacobs, R Mabuse, T Maartens, F Dikgale, J Sithole, A Thambinayagam, J Ndirangu, W Leonard, D Uwamahoro, T Uwacu, A Ishimwe, A Mutaganzwa, E Chang, JD Ngirabega, D Mwakangalu, M Nzaro, Y Mwamzandi, BS Mwero, J Makori, R Mlongo, A Bunu, S Kegoli, A Njoroge, J Motoku, C Muriithi, I Mutisya, E Cale, J Gorman, N Radakovich, G Ozorowski, E Crooks, K Osawa, M Asokan, N Doria‐Rose, A Ward, P Kwong, J Binley, J Mascola, S Ranasinghe, P Lamothe‐Molina, D Soghoian, S Kaizer, M Cole, A Shalek, N Yosef, B Jones, M Carrington, H Streeck, D Kaufmann, L Picker, J Kappler, BD Walker, T Mduluza, S Dzoro, K Bedi, WS Mpoloka, J Dutrieux, G Maarifi, D Portilho, N Arhel, M Chelbi‐Alix, S Nisole, S Chen, J Tang, Z Chen, A Mocroft, AC Achra, M Ross, L Ryom, A Avihingsanon, E Bakowska, W Belloso, A Clarke, H Furrer, G Lucas, M Ristola,  Rassool, J Ross, C Somboonwit, C Wyatt, On behalf of the INSIGHT and START Study Group, T Maponga, H Vermeulen, B Robertson, S Burmeister, W Preiser, M Kew, M Andersson, A Bucek, C‐S Leu, S Benson, P Warne, E Abrams, KS Elkington, C Dolezal, A Wiznia, CA Mellins, JC Mogambery, H Dawood, D Wilson, A Moodley, B Alejos, V Hernando, J del Amo, R Rubio, M Montero, M Rivero, J Hernández‐Quero, R Muga, F Gutierrez, S Moreno,  Coris, M Mosepele, L Mokgatlhe, PF Hudson, V Letsatsi, R Gross, I Nyaboke, V Pengo, S Ojuok, M Athiambo, E Okello, F Otieno, R Plank, RC Bailey, M Little, A Fox, K Agot, J Grund, E Mboya, P Musingila, E Omanga, D Emusu, E Odoyo‐June, S Ohaga, B Otieno‐Nyunya, QD Awori, R Lee, P Li, D Ouma, N Obura, M Oundo, D Mwamkita, B Chirchir, M Barasa, M Kirui, P Macharia, J Oketch, P Otiende, N Nyangweso, M Maina, N Kiswi, M Goldstein, J Nyanchoka, MA Barone, M Kaufman, K Dam, K Hatzold, L Van Lith, G Ncube, G Lija, C Bonnecwe, W Mavhu, C Kahabuka, K Seifert‐Ahanda, A Marcell, L Mahlasela, ME Figueroa, E Njeuhmeli, A Tobian, Adolescent Vmmc Technical Advisory Group, F Adera, M Young, T Adipo, F Otieno, S Nordstrom, S Mehta, RC Bailey, RS McClelland,  Lingappa, G John‐Stewart, J Kinuthia, K Yuhas, W Jaoko, S Srinivasan, KN Mandaliya, TL Fiedler, MM Munch, BA Richardson, J Overbaugh, DN Fredricks, M Decker, C Tomko, E Wingo, S Peitzmeier, A Sawyer, N Glass, S Sherman, A van der Straten, MK Shapley‐Quinn, K Reddy, H Cheng, J Etima, K Woeber, P Musara, T Palanee‐Phillips, J Baeten, ET Montgomery, MTN‐020/ASPIRE Study Team, B Maughan‐Brown, M Evans, G George, M Rosenberg, A Pettifor, R Twine, J Hughes, FX Gomez‐Olive, RG Wagner, A Selin, C MacPhail, K Kahn, J Stadler, S Delany‐Moretlwe, D Baron, S Ju, G Gray, H Rees, FACTS 001 Study Group, M Moshabela, D Bukenya, G Darong, J Wamoyi, T Zuma, J Renju, C Nyamukapa, W Ddaaki, O Bonnington, J Seeley, V Hoosegood, A Wringe, C Audet, S Ngobeni, R Wagner, S Abdallah, F Ibrahim, M Kirimo, A Mongi, J Baya, M Shossi, A Omar, S Nomsenge, A Thomas, G Hoddinott, G Carolus, V Bond, and On behalf of HPTN 071 Study Team, F Dube, M Dube, A Mpofu, T Magure, I Taramusi, CDP Montalvo Pacahuala, T Stratton, R Masching, A King, C Aspin, J Nyakerario Omare, A Kituku, E McLean, J Renju, J Wamoyi, D Bukenya, W Ddaaki, K Church, A Wringe, ALPHA Network, P Barron, Y Pillay, J Sebidi, A Fernandes, O Adeyemi, S Erekaha, E Ogum, F Yunusa, H Swomen, A Barde, C Chime, I Ebagua, NA Sam‐Agudu, J Ditekemena Dinanga, MM Gill, A Loando, C Nyombe, J Bakwalufu, N Mbonze, F Fwamba, V Ilunga, R Machekano, T Phillips, K Brittain, EJ Abrams, A Zerbe, A Ronan, CA Mellins, RH Remien, G Woelk, MP Kieffer, D Mpofu, R Cathcart, ACCLAIM Study Group, B Azizuyo, A Mantsios, C Shembilu, J Mbwambo, S Likindikoki, S Beckham, A Mwampashi, A Leddy, N Galai, W Davis, D Kerrigan, T",
+    "journal_title": "Journal of the International AIDS Society",
+    "source_title": "Journal of the International AIDS Society",
+    "doi": "10.7448/ias.19.6.21264",
+    "short_abstract": "Within the first weeks of human immunodeficiency virus (HIV) infection, virus replication reaches systemic circulation. Despite the critical, causal role of virus replication in determining transmissi",
+    "publication_date": "2016-07"
+  },
+  {
+    "title": "A Review Study of Intelligent Road Crack Detection: Algorithms and Systems",
+    "author_list": "Ezz El-Din Hemdan, M. E. Al-Atroush",
+    "journal_title": "International Journal of Pavement Research and Technology",
+    "source_title": "International Journal of Pavement Research and Technology",
+    "doi": "10.1007/s42947-025-00556-x",
+    "short_abstract": "Crack and defect detection in civil engineering structures, including pavements, buildings, bridges, and roads, is vital for ensuring structural integrity, public safety, and long-term asset sustainab",
+    "publication_date": "2025-05-07"
+  },
+  {
+    "title": "Improved Streamflow Simulations in Hydrologically Diverse Basins using Physically Informed Deep Learning Models",
+    "author_list": "Bhanu Magotra, Manabendra Saharia, C. T. Dhanya",
+    "journal_title": "EarthArXiv",
+    "source_title": "EarthArXiv",
+    "doi": "10.31223/x5r72d",
+    "short_abstract": "Physically informed deep learning models, especially Long Short-Term Memory (LSTM) networks, have shown promise in large-scale streamflow simulations. However, an in-depth understanding of the relativ",
+    "publication_date": "2024-12-24"
+  },
+  {
+    "title": "Pillars of Cloud‐Based Earth Observation Science Education",
+    "author_list": "Morgan A. Crowley, Michelle Stuhlmacher, Erin D. Trochim, Jamon Van Den Hoek, Valerie J. Pasquarella, Sabrina H. Szeto, Jeffrey T. Howarth, Rud Platt, Samapriya Roy, Beth Tellman, T. C. Chakraborty, Amber Ignatius, Emil Cherrington, Kel Markert, Qiusheng Wu, M. D. Madhusudan, Timothy Mayer, Jeffrey A. Cardille, Tyler Erickson, Rebecca Moore, Nicholas E. Clinton, David Saah",
+    "journal_title": "AGU Advances",
+    "source_title": "AGU Advances",
+    "doi": "10.1029/2023av000894",
+    "short_abstract": "Abstract Earth observation (EO) is undergoing a paradigm shift with the development of cloud‐based analytical platforms supporting EO data collection and access, parallel processing, easier communicat",
+    "publication_date": "2023-07-27"
+  },
+  {
+    "title": "Relationships among soil moisture at various depths under diverse climate, land cover and soil texture",
+    "author_list": "Nan Li, Todd H Skaggs, Peter Ellegaard, Andres Bernal, Elia Scudiero",
+    "journal_title": "The Science of The Total Environment",
+    "source_title": "The Science of The Total Environment",
+    "doi": "10.1016/j.scitotenv.2024.174583",
+    "short_abstract": "Soil moisture is an important component of the hydrological cycle and a key mediator between land surface and atmospheric interactions. Although substantial progress has been made in remote sensing of",
+    "publication_date": "2024-07-07"
+  },
+  {
+    "title": "The interplay of cloud cover and 3D urban structures reduces human access to sunlight",
+    "author_list": "Shengbiao Wu, Bin Chen, Jiafu An, Chen Lin, Peng Gong",
+    "journal_title": "Nature Cities",
+    "source_title": "Nature Cities",
+    "doi": "10.1038/s44284-024-00120-x",
+    "short_abstract": "Sunlight exposure in urban areas is essential for human health, yet its reduction due to cloud cover and complex 3D urban architecture is often overlooked. Here we introduce a framework that combines",
+    "publication_date": "2024-09-02"
+  },
+  {
+    "title": "Exacerbated heat stress induced by urban browning in the Global South",
+    "author_list": "Huilin Du, Wenfeng Zhan, Bingbing Zhou, Yang Ju, Zihan Liu, Ariane Middel, Kangning Huang, Lei Zhao, TC Chakraborty, Zhihua Wang, Shasha Wang, Jiufeng Li, Long Li, Fan Huang, Yingying Ji, Xuecao Li, Manchun Li",
+    "journal_title": "Nature Cities",
+    "source_title": "Nature Cities",
+    "doi": "10.1038/s44284-024-00184-9",
+    "short_abstract": "Cities in the Global South face dual pressures from intensifying heat stress and widespread urban browning. However, the specific trends in urban heat stress across these cities, alongside those induc",
+    "publication_date": "2025-01-06"
+  },
+  {
+    "title": "Ecosystem services to support sustainable development: The modifiable areal unit problem in the transition between evaluation and management units",
+    "author_list": "Wenjie Zhu, Xiaobin Jin, Xiaolin Zhang, Jingping Liu, Yinkang Zhou",
+    "journal_title": "Sustainable Development",
+    "source_title": "Sustainable Development",
+    "doi": "10.1002/sd.3030",
+    "short_abstract": "Abstract Understanding the role of ecosystem services (ES) and their interactions at different spatial scales in territorial space governance is crucial for sustainable development. However, a unified",
+    "publication_date": "2024-05-01"
+  },
+  {
+    "title": "Data-driven assessment of climate change and vegetative cover dynamics in traditional oases",
+    "author_list": "Elisa Baioni, Giulia Fiantanese, Giovanni Michele Porta",
+    "journal_title": "Journal of Hydrology Regional Studies",
+    "source_title": "Journal of Hydrology Regional Studies",
+    "doi": "10.1016/j.ejrh.2025.102266",
+    "short_abstract": "Study region: Abiod Valley, Aurès region, Algeria. Study focus: This work focuses on the relation between climatic forcing and vegetation cover dynamics in traditional oases. This study pursues two ma",
+    "publication_date": "2025-06"
+  },
+  {
+    "title": "Rainwater Harvesting Site Selection for Drought-Prone Areas in Somali and Borena Zones, Oromia Regional State, Ethiopia: A Geospatial and Multi-Criteria Decision Analysis",
+    "author_list": "Amanuel Kumsa Bojer, Desta Jula Bekalo, Taye Girma Debelee, Saralees Nadarajah, Ayad M. Fadhil Al-Quraishi",
+    "journal_title": "Water",
+    "source_title": "Water",
+    "doi": "10.3390/w16131789",
+    "short_abstract": "Rainwater collection systems play a crucial role in enhancing water availability in regions with low precipitation. This study focused on identifying potential rainwater harvesting (RWH) locations in",
+    "publication_date": "2024-06-25"
+  },
+  {
+    "title": "Influence of Forest Cover Loss on Land Surface Temperature Differs by Drivers in China",
+    "author_list": "Qiushuang Lv, Zhihua Liu, Kaili Li, Wenhua Guo, Siyu Zhou, Ruhong Guan, Wenjuan Wang",
+    "journal_title": "Journal of Geophysical Research Biogeosciences",
+    "source_title": "Journal of Geophysical Research Biogeosciences",
+    "doi": "10.1029/2024jg008103",
+    "short_abstract": "Abstract Elucidating the climate feedback due to forest cover loss is critical for a comprehensive understanding of the role of forests in mitigating climate change. Current research studies predomina",
+    "publication_date": "2024-11"
+  },
+  {
+    "title": "High‐Resolution National‐Scale Water Modeling Is Enhanced by Multiscale Differentiable Physics‐Informed Machine Learning",
+    "author_list": "Yalan Song, Tadd Bindas, Chaopeng Shen, Haoyu Ji, Wouter J. M. Knoben, Leo Lonzarich, Martyn P. Clark, Jiangtao Liu, Katie van Werkhoven, Sam Lamont, Matthew Denno, Ming Pan, Yuan Yang, Jeremy Rapp, Mukesh Kumar, Farshid Rahmani, Cyril Thébault, Richard Adkins, James Halgren, Trupesh Patel, Arpita Patel, Kamlesh Arun Sawadekar, Kathryn Lawson",
+    "journal_title": "Water Resources Research",
+    "source_title": "Water Resources Research",
+    "doi": "10.1029/2024wr038928",
+    "short_abstract": "Abstract  The National Water Model (NWM) is a key tool for flood forecasting, planning, and water management. Key challenges facing the NWM include calibration and parameter regionalization when confr",
+    "publication_date": "2025-04"
+  },
+  {
+    "title": "Utilize imagery and crowdsourced data on spatial employment modelling",
+    "author_list": "Novi Hidayat Pusponegoro, Ro'fah Nur Rachmawati, Maria A. Hasiholan Siallagan, Ditto Satrio Wicaksono",
+    "journal_title": "Al-Jabar Jurnal Pendidikan Matematika",
+    "source_title": "Al-Jabar Jurnal Pendidikan Matematika",
+    "doi": "10.24042/ajpm.v15i2.24518",
+    "short_abstract": "Background: Spatial employment modeling investigates employment distribution, patterns, influencing factors, neighboring area impact, and regional policy efficacy. Conventional studies often rely on t",
+    "publication_date": "2024-12-30"
+  },
+  {
+    "title": "Mapping the global distribution and conservation status of oases—ecosystems of pivotal biocultural relevance",
+    "author_list": "Juan Antonio Hernández-Agüero, Mechthilde Falkenhahn, Jessica Hetzer, Karsten Wesche, Christiane Zarfl, Klement Tockner",
+    "journal_title": "PeerJ",
+    "source_title": "PeerJ",
+    "doi": "10.7717/peerj.18884",
+    "short_abstract": "Background: Oases are azonal, highly productive, densely vegetated areas within drylands, often converted to agriculture, and characterized by significant biocultural diversity. Despite their importan",
+    "publication_date": "2025-02-28"
+  },
+  {
+    "title": "Explainable artificial intelligence (XAI) for interpreting the contributing factors feed into the wildfire susceptibility prediction model",
+    "author_list": "Arnick Abdollahi, Biswajeet Pradhan",
+    "journal_title": "The Science of The Total Environment",
+    "source_title": "The Science of The Total Environment",
+    "doi": "10.1016/j.scitotenv.2023.163004",
+    "short_abstract": "One of the worst environmental catastrophes that endanger the Australian community is wildfire. To lessen potential fire threats, it is helpful to recognize fire occurrence patterns and identify fire",
+    "publication_date": "2023-03-24"
+  },
+  {
+    "title": "Support Vector Machine Algorithm for Mapping Land Cover Dynamics in Senegal, West Africa, Using Earth Observation Data",
+    "author_list": "Polina Lemenkova",
+    "journal_title": "Earth",
+    "source_title": "Earth",
+    "doi": "10.3390/earth5030024",
+    "short_abstract": "This paper addresses the problem of mapping land cover types in Senegal and recognition of vegetation systems in the Saloum River Delta on the satellite images. Multi-seasonal landscape dynamics were",
+    "publication_date": "2024-09-06"
+  },
+  {
+    "title": "Monitoring rural-urban transformation in the coastal region of Rabat-Sale-Kenitra, Morocco",
+    "author_list": "Safia Loulad, Thanh Thi Nguyen, Mohamed Rabii Simou, Hassan Rhinane, Andreas Buerkert",
+    "journal_title": "PLOS ONE",
+    "source_title": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0290829",
+    "short_abstract": "Worldwide urbanization drives rural-urban transformation (RUT) which has major consequences in many countries of the Global South where there is an urgent need to better understand and manage the unde",
+    "publication_date": "2023-08-31"
+  },
+  {
+    "title": "Toward the Exploitation of HydroGNSS Coherent Channel: High Sampling Rate Products",
+    "author_list": "Jilun Peng, Estel Cardellach, Weiqiang Li, Serni Ribó, Antonio Rius",
+    "journal_title": "IEEE Transactions on Geoscience and Remote Sensing",
+    "source_title": "IEEE Transactions on Geoscience and Remote Sensing",
+    "doi": "10.1109/tgrs.2025.3554191",
+    "short_abstract": "HydroGNSS is a European Space Agency (ESA) 2-satellite mission scheduled for launch in the second half of 2025, equipped to continuously operate dual-frequency, dual-polarization GNSS reflectometry (G",
+    "publication_date": "2025-01-01"
+  },
+  {
+    "title": "Monitoring of Cropland Non-Agriculturalization Based on Google Earth Engine and Multi-Source Data",
+    "author_list": "Liuming Yang, Qian Sun, Rong Gui, Jun Hu",
+    "journal_title": "Applied Sciences",
+    "source_title": "Applied Sciences",
+    "doi": "10.3390/app15031474",
+    "short_abstract": "Cropland is fundamental to food security, and monitoring cropland non-agriculturalization through satellite enforcement can effectively manage and protect cropland. However, existing research primaril",
+    "publication_date": "2025-01-31"
+  },
+  {
+    "title": "Disease specific air quality health index (AQHI) for spatiotemporal health risk assessment of multi-air pollutants",
+    "author_list": "Xun Deng, Bin Zou, Shenxin Li, Jian Wu, Chenjiao Yao, Minxue Shen, Jun Chen, Sha Li",
+    "journal_title": "Environmental Research",
+    "source_title": "Environmental Research",
+    "doi": "10.1016/j.envres.2023.115943",
+    "short_abstract": "While significant reductions in certain air pollutant concentrations did not induce obvious mitigations of health risks, a shift from air quality management to health risk prevention and control might",
+    "publication_date": "2023-04-20"
+  },
+  {
+    "title": "Assessing salinity impacts on crop yield and economic returns in the Central Valley",
+    "author_list": "Floyid Nicolas, Tamir Kamai, Alon Ben Gal, Jose Ochoa-Brito, Andre Daccache, Felix Ogunmokun, Isaya Kisekka",
+    "journal_title": "Agricultural Water Management",
+    "source_title": "Agricultural Water Management",
+    "doi": "10.1016/j.agwat.2023.108463",
+    "short_abstract": "This study aimed to assess the impact of salinity in the root zone on crop yields and profitability in the Central Valley. A comprehensive biophysical model was developed by integrating soil variables",
+    "publication_date": "2023-09"
+  },
+  {
+    "title": "Simulating SAR constellations systems for rapid damage mapping in urban areas: Case study of the 2023 Turkey-Syria earthquake",
+    "author_list": "Riccardo Vitale, Pietro Milillo",
+    "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "source_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "doi": "10.1016/j.jag.2024.104226",
+    "short_abstract": "This study evaluates the feasibility of using Synthetic Aperture Radar (SAR) constellations for rapid damage mapping in the aftermath of the 2023 Turkey-Syria earthquake. We specifically address the d",
+    "publication_date": "2024-11"
+  },
+  {
+    "title": "Detecting Coseismic Landslides in GEE Using Machine Learning Algorithms on Combined Optical and Radar Imagery",
+    "author_list": "Stefan Peters, Jixue Liu, Gunnar Keppel, Anna Wendleder, Peiliang Xu",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs16101722",
+    "short_abstract": "Landslides, resulting from disturbances in slope equilibrium, pose a significant threat to landscapes, infrastructure, and human life. Triggered by factors such as intense precipitation, seismic activ",
+    "publication_date": "2024-05-13"
+  },
+  {
+    "title": "An Integrated Conceptual Framework for ICT-based Market Information Source Adoption among Smallholder Farmers",
+    "author_list": "Christopher Ugochukwu Nwafor",
+    "journal_title": "Preprints.org",
+    "source_title": "Preprints.org",
+    "doi": "10.20944/preprints202003.0163.v1",
+    "short_abstract": "The importance of ICTs for dissemination of information to farmers has been verified by extension practitioners, information and communication scholars, policy makers and development agencies. Informa",
+    "publication_date": "2020-03-10"
+  },
+  {
+    "title": "Machine Learning Based Parameter Estimation of Energy Models in Digital Production Environments",
+    "author_list": "Fabian Fichtl, Marco Ullrich, Frieder Heieck, Bernd Lüdemann-Ravit",
+    "journal_title": "Lecture Notes in Computer Science",
+    "source_title": "Lecture Notes in Computer Science",
+    "doi": "10.1007/978-3-031-82957-4_14",
+    "short_abstract": "The growing relevance of data science in engineering highlights the challenges of modelling complex systems using conventional methods, which are often time-consuming. This paper explores the applicat",
+    "publication_date": "2025"
+  },
+  {
+    "title": "Predicting Internet Connectivity in Schools: A Feasibility Study Leveraging Multi-modal Data and Location Encoders in Low-Resource Settings",
+    "author_list": "Kelsey Doerksen, Casper Fibaek, Rochelle Schneider, Do-Hyung Kim, Isabelle Tingzon",
+    "journal_title": "arXiv",
+    "source_title": "arXiv",
+    "doi": "10.48550/arxiv.2412.12188",
+    "short_abstract": "Internet connectivity in schools is critical to provide students with the digital literary skills necessary to compete in modern economies. In order for governments to effectively implement digital in",
+    "publication_date": "2024-12-13"
+  },
+  {
+    "title": "The Carbon Security Index: A Novel Approach to Assessing How Secure Carbon Is in Sagebrush Ecosystems Within the Great Basin",
+    "author_list": "Rory C. O'Connor, Chad S. Boyd, David E. Naugle, Joseph T. Smith",
+    "journal_title": "Rangeland Ecology & Management",
+    "source_title": "Rangeland Ecology & Management",
+    "doi": "10.1016/j.rama.2024.08.005",
+    "short_abstract": "Rangeland carbon is often conceptualized similarly to intensively managed agricultural lands, in that we need to sequester and store more carbon. Unlike intensively managed agricultural lands, rangela",
+    "publication_date": "2024-11"
+  },
+  {
+    "title": "Stage-wise ConvLSTM Sequential Transfer Learning for Hierarchical Crop Type Mapping in Senegal’s Smallholder Systems",
+    "author_list": "Kidia K. Gelaye, Mamadou Adama Sarr, Murali Krishna Gumma, Pierre C. Sibiry Traore, Cyrille B.E. Bassene, Fama Mbemgue, Janet M. Mutuku",
+    "journal_title": null,
+    "source_title": null,
+    "doi": "10.5194/egusphere-egu26-12575",
+    "short_abstract": "Earth Observation data (EO) can support food-security decision making in Sub-Saharan Africa, yet operational crop-type mapping in dryland smallholder systems remains challenging under rainfed-season c",
+    "publication_date": "2026-03-14"
+  },
+  {
+    "title": "Remote Sensing Insights into Urban–Rural Imbalance and Sustainable Development: A Case Study in Guangdong, China",
+    "author_list": "Fushan Zhang, Qingling Zhang, Minduan Xu",
+    "journal_title": "Sustainability",
+    "source_title": "Sustainability",
+    "doi": "10.3390/su17052247",
+    "short_abstract": "Urbanization challenges city sustainability by aggravating uneven population migration and land exploitation. Understanding the characteristics and dynamics of this imbalance is crucial for promoting",
+    "publication_date": "2025-03-05"
+  },
+  {
+    "title": "Monitoring the temporal-spatial changes of vegetation cover and drivers in Tian Shan ecoregions, China",
+    "author_list": "Seyed Omid Reza Shobairi, Sun Lingxiao, Zhang Haiyan, Li Chunlan, He Jing, Behnam Asghari Beirami",
+    "journal_title": "Folia Forestalia Polonica",
+    "source_title": "Folia Forestalia Polonica",
+    "doi": "10.2478/ffp-2024-0013",
+    "short_abstract": "This study analyzed satellite data from 2000 to 2022 in the Tian Shan ecoregions of northwestern China to investigate relationships between climate, environment, soil conditions, and human activities",
+    "publication_date": "2024-09-12"
+  },
+  {
+    "title": "Mapping sugarcane globally at 10 m resolution using Global Ecosystem Dynamics Investigation (GEDI) and Sentinel-2",
+    "author_list": "Stefania Di Tommaso, Sherrie Wang, Rob Strey, David B. Lobell",
+    "journal_title": "Earth System Science Data",
+    "source_title": "Earth System Science Data",
+    "doi": "10.5194/essd-16-4931-2024",
+    "short_abstract": "Abstract. Sugarcane is an important source of food, biofuel, and farmer income in many countries. At the same time, sugarcane is implicated in many social and environmental challenges, including water",
+    "publication_date": "2024-10-29"
+  },
+  {
+    "title": "The Value of Terrain Pattern, High‐Resolution Data and Ensemble Modeling for Landslide Susceptibility Prediction",
+    "author_list": "Jiangtao Liu, Chaopeng Shen, Te Pei, Daniel Kifer, Kathryn Lawson",
+    "journal_title": "Journal of Geophysical Research Machine Learning and Computation",
+    "source_title": "Journal of Geophysical Research Machine Learning and Computation",
+    "doi": "10.1029/2024jh000460",
+    "short_abstract": "Abstract Landslide risk is traditionally predicted by process‐based models with detailed assessments or point‐scale attribute‐based machine learning (ML) models with first‐ or second‐order features (e",
+    "publication_date": "2025-09"
+  },
+  {
+    "title": "Promoting sustainable development by mitigation of natural habitat quality decline through multifunctional urban land use: Insights from a multi-scenario simulation",
+    "author_list": "Houxing Gao, Xiaoqing Song, Huixiao Xu, Xiang Li, Juan Tang, Guosong Zhao",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2024.105563",
+    "short_abstract": "Urban expansion threatens natural habitat quality (NHQ) and hinders the achievement of Sustainable Development Goals. Whether and how multifunctional urban land use (MFULU) can mitigate NHQ decline un",
+    "publication_date": "2024-09"
+  },
+  {
+    "title": "Anthropogenic disturbance exacerbates resilience loss in the Amazon rainforests",
+    "author_list": "Huan Wang, Philippe Ciais, Stephen Sitch, Julia K. Green, Shengli Tao, Zheng Fu, Clément Albergel, Ana Bastos, Mengjia Wang, Dominic Fawcett, Frédéric Frappart, Xiaojun Li, Xiangzhuo Liu, Shuangcheng Li, Jean‐Pierre Wigneron",
+    "journal_title": "Global Change Biology",
+    "source_title": "Global Change Biology",
+    "doi": "10.1111/gcb.17006",
+    "short_abstract": "Uncovering the mechanisms that lead to Amazon forest resilience variations is crucial to predict the impact of future climatic and anthropogenic disturbances. Here, we apply a previously used empirica",
+    "publication_date": "2023-11"
+  },
+  {
+    "title": "Large disagreements in estimates of urban land across scales and their implications",
+    "author_list": "TC Chakraborty, Zander S. Venter, Matthias Demuzere, Wenfeng Zhan, Jing Gao, Lei Zhao, Yun Qian",
+    "journal_title": "Nature Communications",
+    "source_title": "Nature Communications",
+    "doi": "10.1038/s41467-024-52241-5",
+    "short_abstract": "Improvements in high-resolution satellite remote sensing and computational advancements have sped up the development of global datasets that delineate urban land, crucial for understanding climate ris",
+    "publication_date": "2024-10-24"
+  },
+  {
+    "title": "Zonasi Taman Wisata Alam Berbasis Sensivitas Ekologi: Studi Kasus Taman Wisata Alam Gunung Pancar",
+    "author_list": "M Irfani, Syartinilia Syartinilia, Rinekso Soekmadi",
+    "journal_title": "Jurnal Penelitian Hutan Tanaman",
+    "source_title": "Jurnal Penelitian Hutan Tanaman",
+    "doi": "10.59465/jpht.v21i1.340",
+    "short_abstract": "Abstract Gunung Pancar Natural Tourism Park (TWAGP) is one of the natural tourist destinations that needs to be managed sustainably. One form of management is through area arrangement by considering e",
+    "publication_date": "2024-06-30"
+  },
+  {
+    "title": "Risk mapping and socio-ecological drivers of soil-transmitted helminth infections in the Philippines: a spatial modelling study",
+    "author_list": "Tsheten Tsheten, Kefyalew Addis Alene, Angela Cadavid Restrepo, Matthew Kelly, Colleen Lau, Archie C.A. Clements, Darren J. Gray, Chona Daga, Vanessa Joy Mapalo, Fe Esperanza Espino, Kinley Wangdi",
+    "journal_title": "The Lancet Regional Health - Western Pacific",
+    "source_title": "The Lancet Regional Health - Western Pacific",
+    "doi": "10.1016/j.lanwpc.2023.100974",
+    "short_abstract": "Background: The Philippines reports a high prevalence of soil-transmitted helminth (STH) infections despite the implementation of nationwide mass drug administration since 2006. The spatial variation",
+    "publication_date": "2023-11-22"
+  },
+  {
+    "title": "Disentangling the Effects of Atmospheric and Soil Dryness on Autumn Phenology across the Northern Hemisphere",
+    "author_list": "Kangbo Dong, Xiaoyue Wang",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs16193552",
+    "short_abstract": "In recent decades, drought has intensified along with continuous global warming, significantly impacting terrestrial vegetation. High atmospheric water demand, indicated by vapor pressure deficit (VPD",
+    "publication_date": "2024-09-24"
+  },
+  {
+    "title": "An Independent Validation of SoilGrids Accuracy for Soil Texture Components in Croatia",
+    "author_list": "Dorijan Radočaj, Mladen Jurišić, Irena Rapčan, Fran Domazetović, Rina Milošević, Ivan Plaščak",
+    "journal_title": "Land",
+    "source_title": "Land",
+    "doi": "10.3390/land12051034",
+    "short_abstract": "While SoilGrids is an important source of soil property data for a wide range of environmental studies worldwide, there is currently an extreme lack of studies evaluating its accuracy against independ",
+    "publication_date": "2023-05-09"
+  },
+  {
+    "title": "Understanding Landslide Expression in SAR Backscatter Data: Global Study and Disaster Response Application",
+    "author_list": "Erin Lindsay, Alexandra Jarna Ganerød, Graziella Devoli, Johannes Reiche, Steinar Nordal, Regula Frauenfelder",
+    "journal_title": "Remote Sensing",
+    "source_title": "Remote Sensing",
+    "doi": "10.3390/rs17193313",
+    "short_abstract": "Cloud cover can delay landslide detection in optical satellite imagery for weeks, complicating disaster response. Synthetic Aperture Radar (SAR) backscatter imagery, which is widely used for monitorin",
+    "publication_date": "2025-09-27"
+  },
+  {
+    "title": "Current and Future Distribution of Shihuahuaco (Dipteryx spp.) under Climate Change Scenarios in the Central-Eastern Amazon of Peru",
+    "author_list": "Gloria P. Cárdenas, Nino Bravo, Elgar Barboza, Wilian Salazar, Jimmy Ocaña, Miguel Vázquez, Roiser Lobato, Pedro Injante, Carlos I. Arbizu",
+    "journal_title": "Sustainability",
+    "source_title": "Sustainability",
+    "doi": "10.3390/su15107789",
+    "short_abstract": "The consequences of climate change influence the distribution of species, which plays a key role in ecosystems. In this work, the modeling of the current and potential future distribution was carried",
+    "publication_date": "2023-05-10"
+  },
+  {
+    "title": "Analysis of the Dynamics of Vegetation Cover and Land Use in Forest Management Unit 00-004 and its Surroundings on the Coast of Cameroon",
+    "author_list": "Kenne Tene Lacatuce, Marie Caroline Momo Solefack, Delanot Armand Tanougong, Alex Bruno Dong Etchike, Serge Rodrigue Monthe, Arnaud Tchokomeni",
+    "journal_title": "Anuário do Instituto de Geociências",
+    "source_title": "Anuário do Instituto de Geociências",
+    "doi": "10.11137/1982-3908_2023_46_56870",
+    "short_abstract": "In Cameroon, the government gives serious attention to protect Forest Management Units (FMU). Unfortunately, vegetation cover of FMU 00-004 decreases in the area as years ago due to anthropogenic pres",
+    "publication_date": "2023-11-15"
+  },
+  {
+    "title": "Toward field-scale groundwater pumping and improved groundwater management using remote sensing and climate data",
+    "author_list": "Thomas J. Ott, Sayantan Majumdar, Justin L. Huntington, Christopher Pearson, Matt Bromley, Blake A. Minor, Peter ReVelle, Charles G. Morton, Sachiko Sueki, Jordan P. Beamer, Richard L. Jasoni",
+    "journal_title": "Agricultural Water Management",
+    "source_title": "Agricultural Water Management",
+    "doi": "10.1016/j.agwat.2024.109000",
+    "short_abstract": "Groundwater overdraft in the western United States has prompted water managers to develop groundwater management plans that include mandatory reporting of groundwater pumping (GP). However, most irrig",
+    "publication_date": "2024-09"
+  },
+  {
+    "title": "Urbanization-induced warming amplifies population exposure to compound heatwaves but narrows exposure inequality between global North and South cities",
+    "author_list": "Shengjun Gao, Yunhao Chen, Deliang Chen, Bin He, Adu Gong, Peng Hou, Kangning Li, Ying Cui",
+    "journal_title": "npj Climate and Atmospheric Science",
+    "source_title": "npj Climate and Atmospheric Science",
+    "doi": "10.1038/s41612-024-00708-z",
+    "short_abstract": "Urban populations face heightened extreme heat risks attributed to urban heat islands and high population densities. Although previous studies have examined global urban population exposure to heatwav",
+    "publication_date": "2024-07-01"
+  },
+  {
+    "title": "The biophysical effects of phenological shifts impact land surface temperature for corn expansion in Northeastern China",
+    "author_list": "Yuyang Ma, Jie Li, Jianxi Huang, Anne Gobin, Xuecao Li, Wenqi Liu, Haixiang Guan, Nadezhda N. Voropay, Chuli Hu",
+    "journal_title": "Agricultural and Forest Meteorology",
+    "source_title": "Agricultural and Forest Meteorology",
+    "doi": "10.1016/j.agrformet.2024.110373",
+    "short_abstract": "In the last two decades, rapid corn expansion has significantly impacted local and regional climates in Northeastern China. However, its climatic effects and underlying biophysical mechanisms have rar",
+    "publication_date": "2025-03"
+  },
+  {
+    "title": "Quantifying the average cooling effects of tree, artificial, and hybrid shade using city-wide IoT sensor measurements: A case study of Seoul",
+    "author_list": "Seon Hyuk Kim, Bona Ku, Chae Yeon Park, Ayano Aida, Haojie Cheng, Suryeon Kim, Chan Park",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2025.106855",
+    "short_abstract": "As urban heat stress continues to rise, strategies to mitigate heat for pedestrians through the provision of shade have become essential. While many studies have quantified the cooling benefits of sha",
+    "publication_date": "2025-10"
+  },
+  {
+    "title": "Unlocking the full potential of Sentinel-1 for flood detection in arid regions",
+    "author_list": "Shagun Garg, Antara Dasgupta,  Motagh, Sandro Martinis, Sivasakthy Selvakumaran",
+    "journal_title": "Remote Sensing of Environment",
+    "source_title": "Remote Sensing of Environment",
+    "doi": "10.1016/j.rse.2024.114417",
+    "short_abstract": "Climate change has intensified flooding in arid and semi-arid regions, presenting a major challenge for flood monitoring and mapping. While satellites, particularly Synthetic Aperture Radar (SAR), all",
+    "publication_date": "2024-12"
+  },
+  {
+    "title": "Empowering Research: A Guide to Useful Open‐Source Data",
+    "author_list": "Ayush K. Sharma, Ankita Datta, Ana Morales‐Ona, Deepak Ghimire",
+    "journal_title": "CSA News",
+    "source_title": "CSA News",
+    "doi": "10.1002/csan.21378",
+    "short_abstract": null,
+    "publication_date": "2024-08-27"
+  },
+  {
+    "title": "A combined Remote Sensing and GIS-based method for Local Climate Zone mapping using PRISMA and Sentinel-2 imagery",
+    "author_list": "Alberto Vavassori, Daniele Oxoli, Giovanna Venuti, Maria Antonia Brovelli, Mario Siciliani de Cumis, Patrizia Sacco, Deodato Tapete",
+    "journal_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "source_title": "International Journal of Applied Earth Observation and Geoinformation",
+    "doi": "10.1016/j.jag.2024.103944",
+    "short_abstract": "In the last decade, several methods have been developed for Local Climate Zone (LCZ) mapping, encompassing Remote Sensing and Geographic Information Systems (GIS) −based procedures. Combined approache",
+    "publication_date": "2024-07"
+  },
+  {
+    "title": "Natural Disaster Risk Assessment in Countries Along the Maritime Silk Road",
+    "author_list": "Chen Xu, Juanle Wang, Jingxuan Liu, Huairui Wang",
+    "journal_title": "Sustainability",
+    "source_title": "Sustainability",
+    "doi": "10.3390/su17073219",
+    "short_abstract": "The 21st‑century Maritime Silk Road initiative highlights the importance of oceans as hubs for resources, ecology, and trade, yet a comprehensive understanding of marine natural disaster risks within",
+    "publication_date": "2025-04-04"
+  },
+  {
+    "title": "Geomorphometric Analysis of the Kshetrapal Landslide in Chamoli, Uttarakhand, India Using the White Box Tool (WBT) and QGIS by Comparing various DEMs Obtained from UAV and TLS",
+    "author_list": "Ashok Anand",
+    "journal_title": "International Journal of Geosciences",
+    "source_title": "International Journal of Geosciences",
+    "doi": "10.4236/ijg.2025.161003",
+    "short_abstract": null,
+    "publication_date": "2025"
+  },
+  {
+    "title": "Global inequities in population exposure to urban greenspaces increased amidst tree and nontree vegetation cover expansion",
+    "author_list": "Song Leng, Ranhao Sun, Xiaojun Yang, Liding Chen",
+    "journal_title": "Communications Earth & Environment",
+    "source_title": "Communications Earth & Environment",
+    "doi": "10.1038/s43247-023-01141-5",
+    "short_abstract": "Cities worldwide are expanding greenspaces, including parks, urban forests, and grasslands. However, population exposure to tree and nontree vegetation is less well understood. Here, we use multiple s",
+    "publication_date": "2023-12-08"
+  },
+  {
+    "title": "M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and Multispectral Data",
+    "author_list": "Matthew J Allen, Francisco Dorr, Joseph Alejandro Gallego Mejia, Laura Martínez-Ferrer, Anna Jungbluth, Freddie Kalaitzis, Raúl Ramos-Pollán",
+    "journal_title": "arXiv",
+    "source_title": "arXiv",
+    "doi": "10.48550/arxiv.2406.04230",
+    "short_abstract": "Satellite-based remote sensing has revolutionised the way we address global challenges. Huge quantities of Earth Observation (EO) data are generated by satellite sensors daily, but processing these la",
+    "publication_date": "2024-10-31"
+  },
+  {
+    "title": "Multilevel ecological compensation policy design based on ecosystem service flow: A case study of carbon sequestration services in the Qinghai-Tibet Plateau",
+    "author_list": "Chunsheng Wu, Rongrong Lu, Peng Zhang, Erfu Dai",
+    "journal_title": "The Science of The Total Environment",
+    "source_title": "The Science of The Total Environment",
+    "doi": "10.1016/j.scitotenv.2024.171093",
+    "short_abstract": "Ecological compensation is an effective means to reconcile the imbalance of eco-social development between regions and promote enthusiasm for ecological environmental protection. There is some conform",
+    "publication_date": "2024-02-21"
   }
 ]
