@@ -36,15 +36,6 @@
     "publication_date": "2026-01"
   },
   {
-    "title": "Performance evaluation of sustainable development goals (SDGs) for Chinese major coastal cities: A spatially explicit evaluation considering evenness",
-    "author_list": "Chao Liu, Ping Li, Yuning Zhao, Zhiwei Zhang",
-    "journal_title": "Ocean & Coastal Management",
-    "source_title": "Ocean & Coastal Management",
-    "doi": "10.1016/j.ocecoaman.2025.107984",
-    "short_abstract": "Spatially explicit assessment of sustainable development of the economy-society-environment system can provide detailed insights into micro-level differences in resource distribution, environmental is",
-    "publication_date": "2026-01"
-  },
-  {
     "title": "Contribution of remote sensing and GIS and the analytical hierarchical process approach to identifying groundwater recharge in the Abacha watershed, Chad",
     "author_list": "Al-Djazouli Ouchar Mahamat",
     "journal_title": "GSC Advanced Research and Reviews",
@@ -88,6 +79,15 @@
     "doi": "10.1016/j.ecoinf.2026.103745",
     "short_abstract": "Species distribution models (SDMs) are widely used to understand species-environment relationships and inform conservation strategies. However, when based solely on broad-scale bioclimatic variables,",
     "publication_date": "2026-05"
+  },
+  {
+    "title": "The safety margin of small-scale tree cover loss in global fragmented forests",
+    "author_list": "Jingrui Wang, Chaoqun Zhang, Yixuan Pan, Yongxian Su, Philippe Ciais, Taylor Smith, Jiali Shang, Jane Liu, Jing M. Chen, Alessandro Cescatti, Yongguang Zhang, William F. Laurance, Cornelius Senf, Zhiyan Zuo, Jinbao Liao, Raffaele Lafortezza, Kai Yan, Peng Zhu, Xiaobin Guan, Xing Li, Meimei Xue, Wenping Yuan, Xiuzhi Chen, Weiqi Zhou",
+    "journal_title": "Nature Communications",
+    "source_title": "Nature Communications",
+    "doi": "10.1038/s41467-026-71480-2",
+    "short_abstract": "Climatic and anthropogenic disturbances have led to intense small-scale tree cover loss in global forests. However, it remains unclear when forest attributes at a large scale (e.g., 0.05° resolution)",
+    "publication_date": "2026-04-08"
   },
   {
     "title": "Individual mobility and heat exposure: Distinguishing residence-based and mobility-based assessments",
