@@ -1,7 +1,7 @@
 {
   "failed_search_metadata": {
-    "total_failed_searches": 11,
-    "export_timestamp": "2026-04-14T16:47:05.404399"
+    "total_failed_searches": 12,
+    "export_timestamp": "2026-04-15T16:43:53.414666"
   },
   "failed_searches": {
     "\"GEE Community Assets\"": {
@@ -83,6 +83,14 @@
       "retrieved": 0,
       "filtered": 0,
       "error": "Empty response from API"
+    },
+    "Urbanization-induced warming amplifies population exposure to compound heatwaves but narrows exposure inequality between global North and South cities": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "502 Server Error: Bad Gateway for url: https://app.dimensions.ai/discover/publication/results.json?search_mode=content&search_text=Urbanization-induced+warming+amplifies+population+exposure+to+compound+heatwaves+but+narrows+exposure+inequality+between+global+North+and+South+cities&search_type=kws&search_field=text_search&order=date"
     },
     "Calculating Indicators from Global Geospatia l Data Sets for Benchmarking and Tracking Change in the Urban Environment": {
       "description": "Scholar Diff Title",
