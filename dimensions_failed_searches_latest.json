@@ -1,12 +1,68 @@
 {
   "failed_search_metadata": {
-    "total_failed_searches": 12,
-    "export_timestamp": "2026-04-15T16:43:53.414666"
+    "total_failed_searches": 53,
+    "export_timestamp": "2026-04-16T16:54:39.004294"
   },
   "failed_searches": {
+    "\"GEE Community Datasets\"": {
+      "description": "Generic name for datasets",
+      "search_field": "full_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "\"Earth Engine Community Catalog\"": {
+      "description": "Earth Engine specific catalog reference",
+      "search_field": "full_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "\"Earth Engine Community Catalogue\"": {
+      "description": "Alternative spelling with Earth Engine",
+      "search_field": "full_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
     "\"GEE Community Assets\"": {
       "description": "Community assets reference",
       "search_field": "full_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "\"projects/sat-io\"": {
+      "description": "Satellite IO project path",
+      "search_field": "full_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Assessing multi-hazard risk in Gulmidarbar Rural Municipality, Gulmi, Nepal": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Threat of low-frequency high-intensity floods to global cropland and crop yields": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Genomic, phenotypic and environmental correlates of speciation in the midwife toads (Alytes)": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
       "count": 0,
       "retrieved": 0,
       "filtered": 0,
@@ -28,7 +84,247 @@
       "filtered": 0,
       "error": "Empty response from API"
     },
+    "Investigation of data for decision-support in forest-related natural resources management with a focus on spatial data on European and national level": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Global Wind Atlas version 3.0. 2021": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "A review study of intelligent road crack detection: Algorithms and systems": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Improved streamflow simulations in hydrologically diverse basins using physically informed deep learning models": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Pillars of Cloud Based Earth Observation Science Education": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Relationships among soil moisture at various depths under diverse climate, land cover and soil texture": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "The interplay of cloud cover and 3D urban structures reduces human access to sunlight": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Exacerbated heat stress induced by urban browning in the Global South": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Ecosystem services to support sustainable development: The modifiable areal unit problem in the transition between evaluation and management units": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Data-Driven assessment of climate change and vegetative cover dynamics in traditional oases": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Rainwater Harvesting Site Selection for Drought-Prone Areas in Somali and Borena Zones, Oromia Regional State, Ethiopia: A Geospatial and Multi-Criteria Decision Analysis": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
     "Predictive Drivers and Spatiotemporal Transferability of Machine Learning Based Crop Yield Prediction Under Drought Conditions": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Influence of forest cover loss on land surface temperature differs by drivers in China": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "High-resolution national-scale water modeling is enhanced by multiscale differentiable physics-informed machine learning": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Utilize imagery and crowdsourced data on spatial employment modelling": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Mapping the global distribution and conservation status of oases ecosystems of pivotal biocultural relevance": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Explainable artificial intelligence (XAI) for interpreting the contributing factors feed into the wildfire susceptibility prediction model": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Support vector machine algorithm for mapping land cover dynamics in Senegal, west africa, using earth observation data": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Monitoring rural-urban transformation in the coastal region of Rabat-Sale-Kenitra, Morocco": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Towards the exploitation of HydroGNSS coherent channel: High sampling rate products": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Monitoring of Cropland Non-Agriculturalization Based on Google Earth Engine and Multi-Source Data": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Disease specific air quality health index (AQHI) for spatiotemporal health risk assessment of multi-air pollutants": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Assessing salinity impacts on crop yield and economic returns in the Central Valley": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Simulating SAR constellations systems for rapid damage mapping in urban areas: Case study of the 2023 Turkey-Syria earthquake": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Detecting coseismic landslides in GEE using machine learning algorithms on combined optical and radar imagery": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Development of an Integrated Farming Information System for Smallholder Farmers in Developing": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Application and Challenges of Machine Learning Techniques in Mining Engineering and Material Science": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Predicting Internet Connectivity in Schools: A Feasibility Study Leveraging Multi-modal Data and Location Encoders in Low-Resource Settings": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "The Carbon Security Index: a novel approach to assessing how secure carbon is in sagebrush ecosystems within the great basin": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Improving Smallholder Representation in Crop Maps": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Remote Sensing Insights into Urban Rural Imbalance and Sustainable Development: A Case Study in Guangdong, China": {
       "description": "Scholar Diff Title",
       "search_field": "text_search",
       "count": 0,
@@ -84,15 +380,47 @@
       "filtered": 0,
       "error": "Empty response from API"
     },
-    "Urbanization-induced warming amplifies population exposure to compound heatwaves but narrows exposure inequality between global North and South cities": {
+    "Calculating Indicators from Global Geospatia l Data Sets for Benchmarking and Tracking Change in the Urban Environment": {
       "description": "Scholar Diff Title",
       "search_field": "text_search",
       "count": 0,
       "retrieved": 0,
       "filtered": 0,
-      "error": "502 Server Error: Bad Gateway for url: https://app.dimensions.ai/discover/publication/results.json?search_mode=content&search_text=Urbanization-induced+warming+amplifies+population+exposure+to+compound+heatwaves+but+narrows+exposure+inequality+between+global+North+and+South+cities&search_type=kws&search_field=text_search&order=date"
+      "error": "Empty response from API"
     },
-    "Calculating Indicators from Global Geospatia l Data Sets for Benchmarking and Tracking Change in the Urban Environment": {
+    "Geomorphometric Analysis of the Kshetrapal Landslide in Chamoli, Uttarakhand, India Using the White Box Tool (WBT) and QGIS by Comparing various DEMs Obtained from UAV and TLS": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Global inequities in population exposure to urban greenspaces increased amidst tree and nontree vegetation cover expansion": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "M3leo: A multi-modal, multi-label earth observation dataset integrating interferometric sar and multispectral data": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Multilevel ecological compensation policy design based on ecosystem service flow: A case study of carbon sequestration services in the Qinghai-Tibet Plateau": {
+      "description": "Scholar Diff Title",
+      "search_field": "text_search",
+      "count": 0,
+      "retrieved": 0,
+      "filtered": 0,
+      "error": "Empty response from API"
+    },
+    "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data": {
       "description": "Scholar Diff Title",
       "search_field": "text_search",
       "count": 0,
