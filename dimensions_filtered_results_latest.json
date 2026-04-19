@@ -198,15 +198,6 @@
     "publication_date": "2025-05-28"
   },
   {
-    "title": "Global extent and change in human modification of terrestrial ecosystems from 1990 to 2022",
-    "author_list": "David M. Theobald, James R. Oakleaf, Glenn Moncrieff, Maria Voigt, Joe Kiesecker, Christina M. Kennedy",
-    "journal_title": "Scientific Data",
-    "source_title": "Scientific Data",
-    "doi": "10.1038/s41597-025-04892-2",
-    "short_abstract": "Habitat loss and degradation associated with industrial development is the primary threat and dominant driver of biodiversity loss globally. Spatially-explicit datasets that estimate human pressures a",
-    "publication_date": "2025-04-10"
-  },
-  {
     "title": "A harmonized dataset of ground-mounted solar energy in the US with enhanced metadata",
     "author_list": "Jacob T. Stid, Anthony D. Kendall, Annick Anctil, Jeremy Rapp, James C. Bingaman, David W. Hyndman",
     "journal_title": "Scientific Data",
@@ -234,6 +225,15 @@
     "publication_date": "2025-12-02"
   },
   {
+    "title": "Potential Evaluation of Rural Homestay Industry Based on Rural Digital Information Platform",
+    "author_list": "Yufei Niu, Yupeng Wang",
+    "journal_title": "Sustainable Civil Infrastructures",
+    "source_title": "Sustainable Civil Infrastructures",
+    "doi": "10.1007/978-3-032-14648-9_49",
+    "short_abstract": "Under the background of urban–rural disparities and with the China’s Rural Revitalization Strategy implementing, integrating digital tools with rural tourism planning is an effective path to develop t",
+    "publication_date": "2026"
+  },
+  {
     "title": "Revealing land use dynamics in armed-conflict hotspots in North-East Nigeria using earth observation data",
     "author_list": "Lukumon Olaitan Lateef, Abdulwaheed Tella, John Rowen Miano, Yusuf A. Aina",
     "journal_title": "Land Use Policy",
@@ -250,15 +250,6 @@
     "doi": "10.1038/s43247-025-02573-x",
     "short_abstract": "North American beavers (Castor canadensis) build dams and ponds that alter streamflow, enhance floodplain water storage, and provide refugia during droughts and wildfires. However, drivers of pond are",
     "publication_date": "2025-08-11"
-  },
-  {
-    "title": "A Phenology-Based Evaluation of the Optimal Proxy for Cropland Suitability Based on Crop Yield Correlations from Sentinel-2 Image Time-Series",
-    "author_list": "Dorijan Radočaj, Mladen Jurišić",
-    "journal_title": "Agriculture",
-    "source_title": "Agriculture",
-    "doi": "10.3390/agriculture15080859",
-    "short_abstract": "Cropland suitability calculations quantify natural suitability according to abiotic conditions, thus making them crucial for sustainable land management. However, since ground-truth yield data are ext",
-    "publication_date": "2025-04-15"
   },
   {
     "title": "Winter wheat yield prediction based on a multi-year phenological modeling from Sentinel-1 radar vegetation indices and machine learning",
@@ -333,6 +324,15 @@
     "publication_date": "2025-12-11"
   },
   {
+    "title": "Innovation in Green Building and Infrastructure, Proceedings of 2025 3rd International Conference on Green Building",
+    "author_list": "Paulo Mendonça, Yupeng Wang",
+    "journal_title": "Sustainable Civil Infrastructures",
+    "source_title": "Sustainable Civil Infrastructures",
+    "doi": "10.1007/978-3-032-14648-9",
+    "short_abstract": "This book presents the latest advancements and emerging tendencies in Green Building and Sustainable Infrastructure, covering a range of topics from renewable energy research to sustainable building m",
+    "publication_date": "2026"
+  },
+  {
     "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
     "author_list": "Luwen Wan, Anthony D Kendall, Jeremy Rapp, David W Hyndman",
     "journal_title": "The Science of The Total Environment",
@@ -340,15 +340,6 @@
     "doi": "10.1016/j.scitotenv.2024.175283",
     "short_abstract": "There has been an increase in tile drained area across the US Midwest and other regions worldwide due to agricultural expansion, intensification, and climate variability. Despite this growth, spatiall",
     "publication_date": "2024-08-05"
-  },
-  {
-    "title": "Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction",
-    "author_list": "Geethen Singh, Glenn Moncrieff, Zander Venter, Kerry Cawse-Nicholson, Jasper Slingsby, Tamara B. Robinson",
-    "journal_title": "Scientific Reports",
-    "source_title": "Scientific Reports",
-    "doi": "10.1038/s41598-024-65954-w",
-    "short_abstract": "Machine learning is increasingly applied to Earth Observation (EO) data to obtain datasets that contribute towards international accords. However, these datasets contain inherent uncertainty that need",
-    "publication_date": "2024-07-13"
   },
   {
     "title": "DARTS: Multi-year database of AI-detected retrogressive thaw slumps in the circum-arctic permafrost region",
@@ -477,6 +468,24 @@
     "publication_date": "2026-02"
   },
   {
+    "title": "O Levee, Where Art Thou? Measuring the Abundance of Natural River Levees Across the Contiguous USA",
+    "author_list": "E. A. Barefoot, J. H. Gearon, D. A. Edmonds",
+    "journal_title": "Journal of Geophysical Research Earth Surface",
+    "source_title": "Journal of Geophysical Research Earth Surface",
+    "doi": "10.1029/2025jf008642",
+    "short_abstract": "Most—if not all—alluvial rivers experience overbank floods. On some rivers, these floods form natural levees, whereas on others they do not. Existing theories for how levees form on riverbanks rely on",
+    "publication_date": "2026-04"
+  },
+  {
+    "title": "Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction",
+    "author_list": "Geethen Singh, Glenn Moncrieff, Zander Venter, Kerry Cawse-Nicholson, Jasper Slingsby, Tamara B. Robinson",
+    "journal_title": "Scientific Reports",
+    "source_title": "Scientific Reports",
+    "doi": "10.1038/s41598-024-65954-w",
+    "short_abstract": "Machine learning is increasingly applied to Earth Observation (EO) data to obtain datasets that contribute towards international accords. However, these datasets contain inherent uncertainty that need",
+    "publication_date": "2024-07-13"
+  },
+  {
     "title": "Granular satellite data to assess the potential for nature based solutions at a national scale: a proof of concept with data from Rwanda and Lesotho",
     "author_list": "Bas Heerma van Voss, William Ouellette",
     "journal_title": "Climate Policy",
@@ -484,15 +493,6 @@
     "doi": "10.1080/14693062.2024.2330373",
     "short_abstract": "Nature-based Solutions (NbS) form a substantial part of cost-efficient climate change mitigation options. However, public financial flows towards NbS have been limited. Among the factors impeding inve",
     "publication_date": "2024-05-19"
-  },
-  {
-    "title": "Mapping sugarcane globally at 10 m resolution using GEDI and Sentinel-2",
-    "author_list": "Stefania Di Tommaso, Sherrie Wang, Rob Strey, David B. Lobell",
-    "journal_title": "EGUsphere",
-    "source_title": "EGUsphere",
-    "doi": "10.5194/essd-2024-121",
-    "short_abstract": "Sugarcane is an important source of food, biofuel, and farmer income in many countries. At the same time, sugarcane is implicated in many social and environmental challenges, including water scarcity",
-    "publication_date": "2024-04-15"
   },
   {
     "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
