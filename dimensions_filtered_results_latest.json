@@ -36,6 +36,15 @@
     "publication_date": "2026-03-27"
   },
   {
+    "title": "A Multi-Modal Benchmark Dataset for UAV Wireless Communication Research",
+    "author_list": "Najmeh Alibabaie, Antonello Calabrò, Eda Marchetti",
+    "journal_title": "Drones",
+    "source_title": "Drones",
+    "doi": "10.3390/drones10040244",
+    "short_abstract": "Data-centric approaches are increasingly shaping wireless communication research, where the availability and quality of datasets directly influence the reliability of learning-based and model-driven m",
+    "publication_date": "2026-03-27"
+  },
+  {
     "title": "Contribution of remote sensing and GIS and the analytical hierarchical process approach to identifying groundwater recharge in the Abacha watershed, Chad",
     "author_list": "Al-Djazouli Ouchar Mahamat",
     "journal_title": "GSC Advanced Research and Reviews",
@@ -72,7 +81,7 @@
     "publication_date": "2026-02-18"
   },
   {
-    "title": "Developing A Customized, Enumeration Area-Based Sampling Frame Tailored to a Specific Population Subgroup Using Geospatial Methods",
+    "title": "Developing a Customized, Enumeration Area-Based Sampling Frame Tailored to a Specific Population Subgroup Using Geospatial Methods",
     "author_list": "Sarchil Qader, Edith Darin, Ahmadou Hamady Dicko, Hisham Galal, Hyunju Park, Rebeca Moreno Jimenez, Andrew Harfoot, Andrew J Tatem",
     "journal_title": "Journal of Survey Statistics and Methodology",
     "source_title": "Journal of Survey Statistics and Methodology",
@@ -133,15 +142,6 @@
     "doi": "10.1016/j.eiar.2025.108320",
     "short_abstract": "Green innovation serves as a vital component for achieving Coordinated Urban-Rural Development (CUD) and the Sustainable Development Goals. This study constructs a multidimensional theoretical framewo",
     "publication_date": "2026-04"
-  },
-  {
-    "title": "Refining estimates of U.S. reforestation opportunities for climate mitigation: updated algorithms and analyses",
-    "author_list": "Jeffrey A. Hicke",
-    "journal_title": "Canadian Journal of Forest Research",
-    "source_title": "Canadian Journal of Forest Research",
-    "doi": "10.1139/cjfr-2025-0136",
-    "short_abstract": "Reforestation has substantial potential for carbon sequestration in the conterminous United States. My inspection of the results of a recent novel study of potential reforestation in the US revealed p",
-    "publication_date": "2026-01-01"
   },
   {
     "title": "How does missing-modality affect cross-domain remote sensing image classification: A synergistic inter-modal proxy fine-tuning solution",
@@ -333,15 +333,6 @@
     "publication_date": "2026"
   },
   {
-    "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
-    "author_list": "Luwen Wan, Anthony D Kendall, Jeremy Rapp, David W Hyndman",
-    "journal_title": "The Science of The Total Environment",
-    "source_title": "The Science of The Total Environment",
-    "doi": "10.1016/j.scitotenv.2024.175283",
-    "short_abstract": "There has been an increase in tile drained area across the US Midwest and other regions worldwide due to agricultural expansion, intensification, and climate variability. Despite this growth, spatiall",
-    "publication_date": "2024-08-05"
-  },
-  {
     "title": "DARTS: Multi-year database of AI-detected retrogressive thaw slumps in the circum-arctic permafrost region",
     "author_list": "Ingmar Nitze, Konrad Heidler, Nina Nesterova, Jonas Küpper, Emma Schütt, Tobias Hölzer, Sophia Barth, Mark J. Lara, Anna K. Liljedahl, Guido Grosse",
     "journal_title": "Scientific Data",
@@ -477,6 +468,15 @@
     "publication_date": "2026-04"
   },
   {
+    "title": "Mapping agricultural tile drainage in the US Midwest using explainable random forest machine learning and satellite imagery",
+    "author_list": "Luwen Wan, Anthony D Kendall, Jeremy Rapp, David W Hyndman",
+    "journal_title": "The Science of The Total Environment",
+    "source_title": "The Science of The Total Environment",
+    "doi": "10.1016/j.scitotenv.2024.175283",
+    "short_abstract": "There has been an increase in tile drained area across the US Midwest and other regions worldwide due to agricultural expansion, intensification, and climate variability. Despite this growth, spatiall",
+    "publication_date": "2024-08-05"
+  },
+  {
     "title": "Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction",
     "author_list": "Geethen Singh, Glenn Moncrieff, Zander Venter, Kerry Cawse-Nicholson, Jasper Slingsby, Tamara B. Robinson",
     "journal_title": "Scientific Reports",
@@ -484,15 +484,6 @@
     "doi": "10.1038/s41598-024-65954-w",
     "short_abstract": "Machine learning is increasingly applied to Earth Observation (EO) data to obtain datasets that contribute towards international accords. However, these datasets contain inherent uncertainty that need",
     "publication_date": "2024-07-13"
-  },
-  {
-    "title": "Granular satellite data to assess the potential for nature based solutions at a national scale: a proof of concept with data from Rwanda and Lesotho",
-    "author_list": "Bas Heerma van Voss, William Ouellette",
-    "journal_title": "Climate Policy",
-    "source_title": "Climate Policy",
-    "doi": "10.1080/14693062.2024.2330373",
-    "short_abstract": "Nature-based Solutions (NbS) form a substantial part of cost-efficient climate change mitigation options. However, public financial flows towards NbS have been limited. Among the factors impeding inve",
-    "publication_date": "2024-05-19"
   },
   {
     "title": "Framework to Create Inventory Dataset for Disaster Behavior Analysis Using Google Earth Engine: A Case Study in Peninsular Malaysia for Historical Forest Fire Behavior Analysis",
