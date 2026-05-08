@@ -63,6 +63,15 @@
     "publication_date": "2026-02-11"
   },
   {
+    "title": "Satellite-Based Processing Pipeline for Assessing Water Turbidity in Rivers",
+    "author_list": "G. Triboli, M. Picone, M. Bertogna",
+    "journal_title": "IEEE Access",
+    "source_title": "IEEE Access",
+    "doi": "10.1109/access.2026.3689679",
+    "short_abstract": "Modern agro-industrial and livestock practices based on intensive production models cause uncontrolled downstream diffusion of substances through water systems—compounds that are often overused to enh",
+    "publication_date": "2026-05-01"
+  },
+  {
     "title": "High-resolution maize yield mapping across Africa using earth observation and machine learning, deep learning, and foundation model",
     "author_list": "Krishnagopal Halder, Frank Ewert, Anitabha Ghosh, Kaushik Muduchuru, Lily-belle Sweet, Radwa Elshawi, Jan Timko, Wenhi Zheng, Karam Alsafadi, Gang Zhao, Michael Maerker, Manmeet Singh, Lei Guoging, Thomas Gaiser, Dominik Behrend, Yue Shi, Liangxiu Han, Masahiro Ryo, Amit Kumar Srivastava",
     "journal_title": "Science of Remote Sensing",
@@ -169,15 +178,6 @@
     "doi": "10.5194/egusphere-2026-1085",
     "short_abstract": "Although the global burned area has declined in recent decades, fire activity worldwide is projected to become more frequent and intense due to both climate change and human activities, including fire",
     "publication_date": "2026-03-17"
-  },
-  {
-    "title": "Enhancing land cover classification in the heterogeneous landscape by integrating auxiliary data with Sentinel-2 imagery using the random forest algorithm",
-    "author_list": "Irvin D. Shandu, Sifiso Xulu, Michael Gebreslasie",
-    "journal_title": "Frontiers in Remote Sensing",
-    "source_title": "Frontiers in Remote Sensing",
-    "doi": "10.3389/frsen.2025.1697897",
-    "short_abstract": "Effective and accurate land use and land cover classification (LULC-C) is an indispensable exercise for various environmental management objectives, including past and future land-use dynamics, flood",
-    "publication_date": "2026-01-09"
   },
   {
     "title": "Multidecadal satellite imagery reveals significant impacts of anthropogenic threats on Ramsar sites of India",
@@ -594,15 +594,6 @@
     "publication_date": "2026-04-09"
   },
   {
-    "title": "Spatiotemporal dynamics of coastal dead zones in the Gulf of Mexico over 20 years using remote sensing",
-    "author_list": "Yingjie Li, Zilong Xia, Lan Nguyen, Ho Yi Wan, Luwen Wan, Mengqiu Wang, Nan Jia, Venkata Rohith Reddy Matli, Yi Li, Megan Seeley, Emilio F Moran, Jianguo Liu",
-    "journal_title": "The Science of The Total Environment",
-    "source_title": "The Science of The Total Environment",
-    "doi": "10.1016/j.scitotenv.2025.179461",
-    "short_abstract": "Spreading marine dead zones (or hypoxia) are threatening coastal ecosystems and affecting billions of people's livelihoods globally. However, the lack of field observations makes it challenging to est",
-    "publication_date": "2025-04-24"
-  },
-  {
     "title": "A study on harvesting rainwater by applying green roof",
     "author_list": "Aysha Akter, Ramisa Tanjum Rain",
     "journal_title": "Cleaner Water",
@@ -709,6 +700,15 @@
     "doi": "10.1016/j.indic.2026.101220",
     "short_abstract": "The impact of land use changes on watershed morphometry has shifted the delivery of ecosystem services from river-centric to aquifer-centric in the Ganga River Basin. We assessed the hydrosociology of",
     "publication_date": "2026-06"
+  },
+  {
+    "title": "Dense canopies reverse the cooling effect of urban greening in humid cities",
+    "author_list": "Angana Borah, Adrija Datta, Ashish S. Kumar, Raviraj Dave, Udit Bhatia",
+    "journal_title": "Nature Communications",
+    "source_title": "Nature Communications",
+    "doi": "10.1038/s41467-026-72636-w",
+    "short_abstract": "Urban greening is widely promoted as an adaptation strategy to cope with rising heat stress; however, its effectiveness remains uneven, especially across rapidly warming cities of the Global South. Ve",
+    "publication_date": "2026-05-04"
   },
   {
     "title": "Ensemble deep learning towards high-resolution soil-moisture mapping for enhanced water management in California&#x27;s Central Valley",
