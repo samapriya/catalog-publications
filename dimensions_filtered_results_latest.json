@@ -9,15 +9,6 @@
     "publication_date": "2026-02-13"
   },
   {
-    "title": "Ecological Integrity Index, timely annual tracking of biodiversity change",
-    "author_list": "Taochun Sun, Alice C. Hughes, Kehan He, Le Yu",
-    "journal_title": "Scientific Data",
-    "source_title": "Scientific Data",
-    "doi": "10.1038/s41597-025-06485-5",
-    "short_abstract": "Despite numerous global initiatives and policy framework to mitigate ongoing biodiversity decline, progress remains limited due to lack of biodiversity indicators that are timely, scientifically rigor",
-    "publication_date": "2026-01-15"
-  },
-  {
     "title": "The safety margin of small-scale tree cover loss in global fragmented forests",
     "author_list": "Jingrui Wang, Chaoqun Zhang, Yixuan Pan, Yongxian Su, Philippe Ciais, Taylor Smith, Jiali Shang, Jane Liu, Jing M. Chen, Alessandro Cescatti, Yongguang Zhang, William F. Laurance, Cornelius Senf, Zhiyan Zuo, Jinbao Liao, Raffaele Lafortezza, Kai Yan, Peng Zhu, Xiaobin Guan, Xing Li, Meimei Xue, Wenping Yuan, Xiuzhi Chen, Weiqi Zhou",
     "journal_title": "Nature Communications",
@@ -169,6 +160,15 @@
     "doi": "10.1016/j.isprsjprs.2026.02.040",
     "short_abstract": "In the context of advancing new urbanization and ecological civilization construction, cross-domain remote sensing (RS) image classification with multimodal data provides essential technical support f",
     "publication_date": "2026-05"
+  },
+  {
+    "title": "Beyond Land Surface Temperature: Explainable Spatial Machine Learning Reveals Urban Morphology Effects on Human-Centric Heat Stress",
+    "author_list": "Yuan Wang, Shengao Yi, Xiaojiang Li, Pengyuan Liu, Zhiwei Yang, Ronita Bardhan, Rudi Stouffs",
+    "journal_title": "arXiv",
+    "source_title": "arXiv",
+    "doi": "10.48550/arxiv.2604.22433",
+    "short_abstract": "Heat exposure connects the built environment and public health, directly shaping the livability and sustainability of urban areas. Understanding the spatial heterogeneity of heat exposure and its driv",
+    "publication_date": "2026-04-24"
   },
   {
     "title": "Fire across frontiers: Satellite-based investigation of climate-fire interactions in the Middle East (West Asia)",
@@ -594,6 +594,15 @@
     "publication_date": "2026-04-09"
   },
   {
+    "title": "Dense canopies reverse the cooling effect of urban greening in humid cities",
+    "author_list": "Angana Borah, Adrija Datta, Ashish S. Kumar, Raviraj Dave, Udit Bhatia",
+    "journal_title": "Nature Communications",
+    "source_title": "Nature Communications",
+    "doi": "10.1038/s41467-026-72636-w",
+    "short_abstract": "Urban greening is widely promoted as an adaptation strategy to cope with rising heat stress; however, its effectiveness remains uneven, especially across rapidly warming cities of the Global South. Ve",
+    "publication_date": "2026-05-04"
+  },
+  {
     "title": "A study on harvesting rainwater by applying green roof",
     "author_list": "Aysha Akter, Ramisa Tanjum Rain",
     "journal_title": "Cleaner Water",
@@ -700,15 +709,6 @@
     "doi": "10.1016/j.indic.2026.101220",
     "short_abstract": "The impact of land use changes on watershed morphometry has shifted the delivery of ecosystem services from river-centric to aquifer-centric in the Ganga River Basin. We assessed the hydrosociology of",
     "publication_date": "2026-06"
-  },
-  {
-    "title": "Dense canopies reverse the cooling effect of urban greening in humid cities",
-    "author_list": "Angana Borah, Adrija Datta, Ashish S. Kumar, Raviraj Dave, Udit Bhatia",
-    "journal_title": "Nature Communications",
-    "source_title": "Nature Communications",
-    "doi": "10.1038/s41467-026-72636-w",
-    "short_abstract": "Urban greening is widely promoted as an adaptation strategy to cope with rising heat stress; however, its effectiveness remains uneven, especially across rapidly warming cities of the Global South. Ve",
-    "publication_date": "2026-05-04"
   },
   {
     "title": "Ensemble deep learning towards high-resolution soil-moisture mapping for enhanced water management in California&#x27;s Central Valley",
