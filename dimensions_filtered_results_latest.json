@@ -135,15 +135,6 @@
     "publication_date": "2026-02"
   },
   {
-    "title": "Locally Relevant Streamflow by Integrating a Land Surface Model Ensemble With a Two‐Stage LSTM Post‐Processor",
-    "author_list": "Bhanu Magotra, Manabendra Saharia",
-    "journal_title": "Water Resources Research",
-    "source_title": "Water Resources Research",
-    "doi": "10.1029/2024wr039792",
-    "short_abstract": "Abstract Process‐based land surface models (LSMs) are widely used for global water cycle and runoff assessments, but when integrated with hydrodynamic models, the streamflow simulations exhibit signif",
-    "publication_date": "2026-01"
-  },
-  {
     "title": "Explainable machine learning reveals the nonlinear relationships between green innovation and coordinated urban-rural development: Evidence from the Yangtze River Delta urban agglomeration, China",
     "author_list": "Zhonghu Zhang, Rui Wang, Siqi Zhang, Wenqin Meng",
     "journal_title": "Environmental Impact Assessment Review",
@@ -160,6 +151,15 @@
     "doi": "10.1016/j.isprsjprs.2026.02.040",
     "short_abstract": "In the context of advancing new urbanization and ecological civilization construction, cross-domain remote sensing (RS) image classification with multimodal data provides essential technical support f",
     "publication_date": "2026-05"
+  },
+  {
+    "title": "Parent material modulates land use effects on soil organic carbon fractions but not inorganic carbon in subtropical red soils",
+    "author_list": "Rui Jiang, Shuai Liu, Yu Zhang, Enze Xie, Beibei Fan, Fahui Jiang, Samuel Adingo, Lei Gao, Xinhua Peng",
+    "journal_title": "Soil and Tillage Research",
+    "source_title": "Soil and Tillage Research",
+    "doi": "10.1016/j.still.2026.107249",
+    "short_abstract": "Soil carbon pools, including soil inorganic (SIC) and organic carbon (SOC) along with its particulate (POC) and mineral-associated (MAOC) fractions, their spatial patterns and effect factors, particul",
+    "publication_date": "2026-11"
   },
   {
     "title": "Beyond Land Surface Temperature: Explainable Spatial Machine Learning Reveals Urban Morphology Effects on Human-Centric Heat Stress",
@@ -621,15 +621,6 @@
     "publication_date": "2025-10-20"
   },
   {
-    "title": "Generation of Monthly Flows in the Ica River Basin up to the La Achirana Hydrometric Station Using the GR2M Precipitation-Runoff Model",
-    "author_list": "Angel Gabriel Ochante Sanchez, Diego Fermin Jonislla Rojas, Abel Carmona Arteaga",
-    "journal_title": "Environmental Science and Engineering",
-    "source_title": "Environmental Science and Engineering",
-    "doi": "10.1007/978-3-031-88683-6_5",
-    "short_abstract": "Due to historical problems, such as river overflows in the Pacific slope basins, this study focuses on the Ica basin, which has recently experienced climatological disasters. The main objective is to",
-    "publication_date": "2025"
-  },
-  {
     "title": "Development of Agriculture in Mountain Areas in Europe. Organisational and Economic Versus Environmental Aspects",
     "author_list": "Marek Zieliński, Artur Łopatka, Piotr Koza, Jolanta Sobierajewska, Sławomir Juszczyk, Wojciech Józwiak",
     "journal_title": "Preprints.org",
@@ -664,6 +655,15 @@
     "doi": "10.1038/s43247-025-02990-y",
     "short_abstract": "Global land cover mapping is essential for environmental monitoring and earth system modeling, but the high production costs lead to considerable carbon dioxide emissions that are rarely considered. W",
     "publication_date": "2025-12-18"
+  },
+  {
+    "title": "Distilling 10-m Land Cover Maps from Multi-Source Consensus via AlphaEarth Embeddings and Noise-Aware Weak Supervision",
+    "author_list": "Fan Xiao, Tang Liu, Yong Chen, Ling Yao, Chenghu Zhou",
+    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2026.3689588",
+    "short_abstract": "Accurate 10-m land use and land cover (LULC) maps are essential for environmental monitoring, yet their scalable generation is often constrained by the high cost of manual annotation and the systemati",
+    "publication_date": "2026-05-05"
   },
   {
     "title": "Mapping Three Decades of Urban Growth in China: A 30 m Annual Building Height Dataset (1990–2019)",
