@@ -126,15 +126,6 @@
     "publication_date": "2026-04"
   },
   {
-    "title": "Detecting and modeling topography‐induced differences in plant productivity across a grassland ecosystem gradient",
-    "author_list": "Johny Arteaga, Melannie D. Hartman, William J. Parton, Yushu Xia, Jiaming Duan, Mitchell B. Stephenson, Jerry Volesky, Maosi Chen, Darrin Sharp, Jonathan Straube, Wei Gao",
-    "journal_title": "Ecosphere",
-    "source_title": "Ecosphere",
-    "doi": "10.1002/ecs2.70537",
-    "short_abstract": "Abstract Understanding spatial variation in grassland productivity is critical for ecological modeling and management. The Great Plains of North America, a vast grassland region east of the Rocky Moun",
-    "publication_date": "2026-02"
-  },
-  {
     "title": "Explainable machine learning reveals the nonlinear relationships between green innovation and coordinated urban-rural development: Evidence from the Yangtze River Delta urban agglomeration, China",
     "author_list": "Zhonghu Zhang, Rui Wang, Siqi Zhang, Wenqin Meng",
     "journal_title": "Environmental Impact Assessment Review",
@@ -142,6 +133,15 @@
     "doi": "10.1016/j.eiar.2025.108320",
     "short_abstract": "Green innovation serves as a vital component for achieving Coordinated Urban-Rural Development (CUD) and the Sustainable Development Goals. This study constructs a multidimensional theoretical framewo",
     "publication_date": "2026-04"
+  },
+  {
+    "title": "Quantifying interactive effects of people and built-environment on urban park cooling benefits, a case study of Shanghai",
+    "author_list": "Bohua Jin, Wangchongyu Peng, Fei Chen, Wei Zhuang, Xinyu Zhang, Haolun Tian, Hongwei Shi, Yuhao Wu",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2026.107453",
+    "short_abstract": "Against the backdrop of intensifying urban heat island effects, parks have garnered significant attention as vital cooling infrastructure. However, existing research often overlooks the dynamics of pe",
+    "publication_date": "2026-08"
   },
   {
     "title": "How does missing-modality affect cross-domain remote sensing image classification: A synergistic inter-modal proxy fine-tuning solution",
