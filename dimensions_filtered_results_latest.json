@@ -45,15 +45,6 @@
     "publication_date": "2026-03-31"
   },
   {
-    "title": "A Hierarchical Robust Combined Index for Agricultural Drought Detection and Monitoring Using Earth Observation Big Data and Google Earth Engine: Application to a Case Study in Southern Italy",
-    "author_list": "Filippo Bocchino, Giulia Graldi, Camillo Zaccarini, Deodato Tapete, Alessandro Ursi, Maria Virelli, Patrizia Sacco, Valeria Belloni, Roberta Ravanelli, Mattia Crespi",
-    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
-    "doi": "10.1109/jstars.2026.3663697",
-    "short_abstract": "Agricultural drought poses a significant threat to crop productivity and food security. This study provides a detailed review of the approaches used to construct Combined Drought Indices (CDIs) in the",
-    "publication_date": "2026-02-11"
-  },
-  {
     "title": "Satellite-Based Processing Pipeline for Assessing Water Turbidity in Rivers",
     "author_list": "G. Triboli, M. Picone, M. Bertogna",
     "journal_title": "IEEE Access",
@@ -81,6 +72,24 @@
     "publication_date": "2026-02-18"
   },
   {
+    "title": "Global patterns of urban heat shaped by climate and morphology",
+    "author_list": "Siwoo Lee, Cheolhee Yoo, Bokyung Son, Dongjin Cho, Jungho Im, T. C. Chakraborty",
+    "journal_title": "Nature Communications",
+    "source_title": "Nature Communications",
+    "doi": "10.1038/s41467-026-73062-8",
+    "short_abstract": "Urban morphology and background climate are evolving drivers of the urban heat island (UHI) effect, yet the thermal influence of surrounding urban structure and its coupling with climate remain elusiv",
+    "publication_date": "2026-05-11"
+  },
+  {
+    "title": "Urban environment intensifies energy consumption sensitivity through the urban heat island effect",
+    "author_list": "Xiaoqin Yan, Zhou Huang, Shuliang Ren, Ganmin Yin, Junnan Qi, Jiangpeng Zheng, Yi Bao",
+    "journal_title": "Sustainable Cities and Society",
+    "source_title": "Sustainable Cities and Society",
+    "doi": "10.1016/j.scs.2026.107466",
+    "short_abstract": "Urban environmental indicators (UEI), such as building morphology, influence residential electricity consumption (REC) by directly reflecting baseline energy demand and indirectly modulating demand th",
+    "publication_date": "2026-08"
+  },
+  {
     "title": "Groundwater recharge hotspot mapping in the semi-arid Modder River Catchment using self-supervised spatio-temporal embeddings and density-based clustering",
     "author_list": "Tlotlo Nkwe, Colbert M. Jackson, Olufemi S. Durowoju, Samuel A. Adelabu",
     "journal_title": "Arid Land Research and Management",
@@ -96,15 +105,6 @@
     "source_title": "Ecological Informatics",
     "doi": "10.1016/j.ecoinf.2026.103745",
     "short_abstract": "Species distribution models (SDMs) are widely used to understand species-environment relationships and inform conservation strategies. However, when based solely on broad-scale bioclimatic variables,",
-    "publication_date": "2026-05"
-  },
-  {
-    "title": "Urban environment intensifies energy consumption sensitivity through the urban heat island effect",
-    "author_list": "Xiaoqin Yan, Zhou Huang, Shuliang Ren, Ganmin Yin, Junnan Qi, Jiangpeng Zheng, Yi Bao",
-    "journal_title": "Sustainable Cities and Society",
-    "source_title": "Sustainable Cities and Society",
-    "doi": "10.1016/j.scs.2026.107466",
-    "short_abstract": "Urban environmental indicators (UEI), such as building morphology, influence residential electricity consumption (REC) by directly reflecting baseline energy demand and indirectly modulating demand th",
     "publication_date": "2026-05"
   },
   {
@@ -304,6 +304,15 @@
     "doi": "10.1016/j.jhydrol.2025.133062",
     "short_abstract": "Accurate estimation of actual evapotranspiration (ETa) through remote sensing (RS) is essential for effective large-scale water management. We developed an EvapoTranspiration Mapper in the Google Eart",
     "publication_date": "2025-08"
+  },
+  {
+    "title": "A Hierarchical Robust Combined Index for Agricultural Drought Detection and Monitoring Using Earth Observation Big Data and Google Earth Engine: Application to a Case Study in Southern Italy",
+    "author_list": "Filippo Bocchino, Giulia Graldi, Camillo Zaccarini, Deodato Tapete, Alessandro Ursi, Maria Virelli, Patrizia Sacco, Valeria Belloni, Roberta Ravanelli, Mattia Crespi",
+    "journal_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "source_title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "doi": "10.1109/jstars.2026.3663697",
+    "short_abstract": "Agricultural drought poses a significant threat to crop productivity and food security. This study provides a detailed review of the approaches used to construct Combined Drought Indices (CDIs) in the",
+    "publication_date": "2026-02-11"
   },
   {
     "title": "Transient snow line altitudes of glaciers in the European Alps from multi-mission remote sensing data (2000–2025)",
