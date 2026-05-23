@@ -4,22 +4,20 @@ on:
     inputs:
       aws_waf_token:
         description: 'aws-waf-token cookie (from browser DevTools or local script)'
-        required: false
+        required: true
         type: string
       session_cookie:
-        description: 'session cookie (from local script output)'
+        description: 'session cookie (from local script output - optional, will login if blank)'
         required: false
         type: string
       auth_ticket:
-        description: 'uber_auth_tkt cookie (from local script output)'
+        description: 'uber_auth_tkt cookie (from local script output - optional, will login if blank)'
         required: false
         type: string
       csrf_token:
-        description: 'x-csrf-token (from local script output)'
+        description: 'x-csrf-token (from local script output - optional, will login if blank)'
         required: false
         type: string
-  # schedule:
-  #   - cron: '15 16 * * *'
 
 jobs:
   search_dimensions:
@@ -44,10 +42,6 @@ jobs:
         env:
           DIMENSIONS_EMAIL: ${{ secrets.DIMENSIONS_EMAIL }}
           DIMENSIONS_PASSWORD: ${{ secrets.DIMENSIONS_PASSWORD }}
-          DIMENSIONS_AWS_WAF_TOKEN: ${{ secrets.DIMENSIONS_AWS_WAF_TOKEN }}
-          DIMENSIONS_SESSION: ${{ secrets.DIMENSIONS_SESSION }}
-          DIMENSIONS_AUTH_TICKET: ${{ secrets.DIMENSIONS_AUTH_TICKET }}
-          DIMENSIONS_CSRF_TOKEN: ${{ secrets.DIMENSIONS_CSRF_TOKEN }}
           INPUT_AWS_WAF_TOKEN: ${{ inputs.aws_waf_token }}
           INPUT_SESSION: ${{ inputs.session_cookie }}
           INPUT_AUTH_TICKET: ${{ inputs.auth_ticket }}
@@ -102,29 +96,33 @@ jobs:
                 input_ticket = os.getenv('INPUT_AUTH_TICKET', '').strip()
                 input_csrf = os.getenv('INPUT_CSRF_TOKEN', '').strip()
 
+                # Path 1: all 4 tokens provided manually - use them directly, no login needed
                 if input_waf and input_session and input_ticket and input_csrf:
-                    logger.info("Using manually provided tokens from workflow_dispatch inputs")
+                    logger.info("All 4 tokens provided manually, skipping login")
                     return {
                         "aws-waf-token": input_waf,
                         "session": input_session,
                         "uber_auth_tkt": input_ticket,
                     }, input_csrf
 
-                logger.info("No complete manual inputs provided, attempting login flow...")
+                # Path 2: WAF token provided but no session - do login flow
+                if input_waf:
+                    logger.info("WAF token provided, attempting login flow...")
+                    email = os.getenv('DIMENSIONS_EMAIL', '').strip()
+                    password = os.getenv('DIMENSIONS_PASSWORD', '').strip()
+                    if not email or not password:
+                        raise RuntimeError("DIMENSIONS_EMAIL and DIMENSIONS_PASSWORD secrets are required when not providing all 4 tokens manually")
+                    return login_to_dimensions(email, password, input_waf)
 
-                aws_waf_token = input_waf or os.getenv('DIMENSIONS_AWS_WAF_TOKEN', '').strip()
-                email = os.getenv('DIMENSIONS_EMAIL', '').strip()
-                password = os.getenv('DIMENSIONS_PASSWORD', '').strip()
-
-                if not aws_waf_token:
-                    raise RuntimeError("No aws-waf-token available (neither manual input nor secret)")
-                if not email or not password:
-                    raise RuntimeError("DIMENSIONS_EMAIL and DIMENSIONS_PASSWORD secrets required for login flow")
-
-                return login_to_dimensions(email, password, aws_waf_token)
+                raise RuntimeError("aws_waf_token input is required - please provide it when triggering the workflow")
 
 
             def login_to_dimensions(email: str, password: str, aws_waf_token: str) -> Tuple[Dict, str]:
+                """
+                Login directly - skip the landing page GET which returns 405.
+                We get the initial session cookie by hitting the login page HTML,
+                extract CSRF from it, then POST credentials.
+                """
                 session = requests.Session()
 
                 base_headers = {
@@ -139,33 +137,51 @@ jobs:
 
                 session.cookies.set("aws-waf-token", aws_waf_token, domain="app.dimensions.ai")
 
-                logger.info("Step 1: Getting landing page...")
-                landing = session.get(
-                    "https://app.dimensions.ai/auth/base/landing?redirect=%2Fdiscover",
+                # Step 1: GET the login page (not the landing redirect) to get initial session + CSRF
+                logger.info("Step 1: Getting login page for initial session...")
+                login_page = session.get(
+                    "https://app.dimensions.ai/login",
                     headers={
                         **base_headers,
-                        "accept": "text/html,application/xhtml+xml,*/*;q=0.8",
+                        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                         "sec-fetch-dest": "document",
                         "sec-fetch-mode": "navigate",
                         "sec-fetch-site": "none",
                         "upgrade-insecure-requests": "1",
                     },
-                    timeout=30
+                    timeout=30,
+                    allow_redirects=True
                 )
-                landing.raise_for_status()
-                logger.info(f"Landing page status: {landing.status_code}")
+                logger.info(f"Login page status: {login_page.status_code}, final URL: {login_page.url}")
 
+                # Step 2: Extract CSRF from session cookie
                 initial_session = session.cookies.get("session")
-                if not initial_session:
-                    raise RuntimeError("No session cookie from landing page - WAF token may be expired")
+                csrf_token = None
 
-                logger.info("Step 2: Extracting CSRF token...")
-                csrf_token = extract_csrf_from_session(initial_session)
+                if initial_session:
+                    logger.info("Step 2: Extracting CSRF from session cookie...")
+                    csrf_token = extract_csrf_from_session(initial_session)
+
+                # Fallback: look for CSRF in the page HTML
                 if not csrf_token:
-                    raise RuntimeError("Could not extract CSRF token from session cookie")
-                logger.info(f"CSRF token extracted: {csrf_token[:8]}...")
+                    logger.info("Step 2b: Looking for CSRF in page HTML...")
+                    csrf_match = re.search(r'"_csrft_":\s*"([a-f0-9]+)"', login_page.text)
+                    if not csrf_match:
+                        csrf_match = re.search(r'csrf[_-]token["\s:]+([a-f0-9]{40})', login_page.text, re.IGNORECASE)
+                    if csrf_match:
+                        csrf_token = csrf_match.group(1)
+                        logger.info(f"CSRF found in HTML: {csrf_token[:8]}...")
 
-                logger.info("Step 3: Logging in...")
+                if not csrf_token:
+                    raise RuntimeError(
+                        f"Could not get CSRF token. Login page returned {login_page.status_code}. "
+                        f"WAF token may be expired or blocked. Please provide all 4 tokens manually."
+                    )
+
+                logger.info(f"CSRF token: {csrf_token[:8]}...")
+
+                # Step 3: POST login
+                logger.info("Step 3: Posting credentials...")
                 login_resp = session.post(
                     "https://app.dimensions.ai/auth/dimensions/login/auth.json?redirect=%2Fdiscover",
                     headers={
@@ -177,7 +193,7 @@ jobs:
                         "origin": "https://app.dimensions.ai",
                         "pragma": "no-cache",
                         "priority": "u=1, i",
-                        "referer": "https://app.dimensions.ai/auth/base/landing?redirect=%2Fdiscover",
+                        "referer": "https://app.dimensions.ai/login",
                         "sec-fetch-dest": "empty",
                         "sec-fetch-mode": "cors",
                         "sec-fetch-site": "same-origin",
@@ -189,6 +205,7 @@ jobs:
                 )
 
                 logger.info(f"Login response status: {login_resp.status_code}")
+                logger.info(f"Login response: {login_resp.text[:200]}")
 
                 if login_resp.status_code != 200:
                     raise RuntimeError(f"Login failed ({login_resp.status_code}): {login_resp.text[:200]}")
@@ -197,10 +214,14 @@ jobs:
                 auth_ticket = session.cookies.get("uber_auth_tkt")
 
                 if not auth_ticket:
-                    raise RuntimeError(f"No uber_auth_tkt after login - check credentials or WAF token. Response: {login_resp.text[:200]}")
+                    raise RuntimeError(
+                        f"Login POST succeeded but no uber_auth_tkt cookie returned. "
+                        f"Response was: {login_resp.text[:300]}. "
+                        f"Please provide all 4 tokens manually using the local helper script."
+                    )
 
                 fresh_csrf = extract_csrf_from_session(auth_session) if auth_session else csrf_token
-                logger.info(f"Login successful. Fresh CSRF: {fresh_csrf[:8] if fresh_csrf else 'None'}...")
+                logger.info(f"Login successful! Fresh CSRF: {fresh_csrf[:8] if fresh_csrf else 'None'}...")
 
                 return {
                     "aws-waf-token": aws_waf_token,
@@ -560,10 +581,6 @@ jobs:
                         f"- Total searches performed: {total_searches}\n"
                         f"- Successful searches: {successful_searches}\n"
                         f"- Failed searches: {failed_count}\n\n"
-                        f"Files generated:\n"
-                        f"- Filtered results: {filtered_file}\n"
-                        f"- Detailed results: {detailed_file}\n"
-                        f"- Failed searches: {failed_file if failed_file else 'None'}\n\n"
                         f"Completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC"
                     )
 
@@ -620,17 +637,10 @@ jobs:
                 try:
                     if os.getenv('GITHUB_ACTIONS') == 'true':
                         logger.info("Running in GitHub Actions environment")
-                        required_vars = ['DIMENSIONS_EMAIL', 'DIMENSIONS_PASSWORD']
-                        missing_vars = [var for var in required_vars if not os.getenv(var)]
-                        if missing_vars:
-                            logger.warning(f"Missing environment variables: {missing_vars}")
 
                     filtered_file, detailed_file, failed_file = main()
                     print(f"\nDone! Results: {filtered_file}")
-                    if failed_file:
-                        print(f"Failed searches: {failed_file}")
-                    else:
-                        print("No failed searches!")
+                    print(f"Failed searches: {failed_file or 'None'}")
 
                 except Exception as e:
                     logger.error(f"Script failed: {e}")
